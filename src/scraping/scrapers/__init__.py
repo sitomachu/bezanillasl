@@ -1,16 +1,14 @@
+# src/scraping/scrapers/__init__.py
 """
-Módulo de scrapers
-Contiene scrapers específicos para cada portal inmobiliario
+Módulo de scrapers (opción B)
 """
 
-from .base_scraper import AntiDetectionScraper
 from .idealista import IdealistaScraper
 from .fotocasa import FotocasaScraper
 from .airbnb import AirbnbScraper
 
 __all__ = [
-    'AntiDetectionScraper',
-    'IdealistaScraper',
-    'FotocasaScraper',
-    'AirbnbScraper',
+    "IdealistaScraper",
+    "FotocasaScraper",
+    "AirbnbScraper",
 ]
