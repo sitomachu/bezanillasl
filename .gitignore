@@ -17,3 +17,80 @@ Desktop.ini
 !.vscode/extensions.json
 .history/
 *.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Data files (no subir datos scrapeados a Git)
+data/scraped/raw/*.csv
+data/scraped/raw/*.xlsx
+data/scraped/raw/*.json
+data/scraped/processed/*.csv
+data/scraped/processed/*.xlsx
+data/scraped/processed/*.json
+
+# Playwright
+.playwright/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Configuración local
+config/local_settings.py
+.env
+.env.local
+
+# Coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
