@@ -1,8 +1,6 @@
-# --- Web Scraping & Automatización ---
-playwright==1.41.0          
-playwright-stealth==1.0.6   
-beautifulsoup4==4.12.3      
-lxml==5.1.0                 
+# Procesamiento de datos
+pandas>=2.1.0
+numpy>=1.24.0      
 
 # --- Gestión de Red y Proxies ---
 requests==2.31.0            

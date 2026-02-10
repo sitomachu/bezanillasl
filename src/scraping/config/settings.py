@@ -32,9 +32,21 @@ LOCATIONS = {
     'laredo': 'Laredo',
     'camargo': 'Camargo',
     'pielagos': 'Piélagos',
+    'bezana': 'Santa Cruz de Bezana',
+    'astillero': 'El Astillero',
+    'villaescusa': 'Villaescusa',
+    'miengo': 'Miengo',
+    'polanco': 'Polanco',
+    'suances': 'Suances',
+    'santillana': 'Santillana del Mar',
+    'reocin': 'Reocín',
+    'entrambasaguas': 'Entrambasaguas',
+    'marina_cudeyo': 'Marina de Cudeyo',
+    'medio_cudeyo': 'Medio Cudeyo',
+    'ribamontan_mar': 'Ribamontán al Mar'
 }
 
-# Coordenadas de Cantabria (para geolocalización)
+# Coordenadas de Cantabria
 CANTABRIA_COORDS = {
     'latitude': 43.1828,
     'longitude': -3.9878
@@ -49,7 +61,7 @@ HEADLESS_MODE = False  # True para producción, False para debugging
 # CONFIGURACIÓN DE DELAYS (milisegundos)
 # ============================================================================
 DELAYS = {
-    'page_load': (2000, 4000),      # Entre carga de páginas
+    'page_load': (2000, 4000),       # Entre carga de páginas
     'between_pages': (3000, 6000),   # Entre páginas del mismo portal
     'scroll': (1000, 2000),          # Durante scroll
     'mouse_move': (100, 300),        # Entre movimientos de mouse
