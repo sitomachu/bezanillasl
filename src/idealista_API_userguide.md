@@ -52,3 +52,109 @@ Windows
 ```powershell
 python -m src.ingestion.test_one_request
 ```
+
+## 6. Descarga Automática 100 Requests (Alquiler)
+
+Script:
+```bash
+src/ingestion/run_rent_100.py
+```
+
+Este script:
+- Ejecuta hasta --max-requests
+- Prioriza zonas tipo Santa Cruz de Bezana
+- Guarda JSON en data/raw/idealista/...
+- Llama automáticamente a clean_idealista.py
+- Genera CSV final en data/processed/idealista/...
+
+Ejecutar 100 requests (Alquiler)
+
+macOS / Linux:
+```bash
+python -m src.ingestion.run_rent_100 --max-requests 100
+```
+
+Windows:
+```powershell
+python -m src.ingestion.run_rent_100 --max-requests 100
+```
+
+Estructura de salida
+JSON crudos:
+```
+data/raw/idealista/rent_homes_run_YYYYMMDD_HHMMSS/
+```
+
+CSV procesado automáticamente:
+```
+data/processed/idealista/rent_homes_run_YYYYMMDD_HHMMSS/rent_homes_cantabria_bezana_like_raw.csv
+```
+
+summary.json con métricas:
+```
+data/processed/idealista/rent_homes_run_YYYYMMDD_HHMMSS/summary.json
+```
+
+## 7. Descarga Automática 100 Requests (Venta)
+
+Script:
+```bash
+src/ingestion/run_sale_100.py
+```
+
+Este script:
+- Ejecuta hasta --max-requests
+- Prioriza zonas tipo Santa Cruz de Bezana
+- Guarda JSON en data/raw/idealista/...
+- Llama automáticamente a clean_idealista.py
+- Genera CSV final en data/processed/idealista/...
+
+Ejecutar 100 requests (Venta)
+
+macOS / Linux:
+```bash
+python -m src.ingestion.run_sale_100 --max-requests 100
+```
+
+Windows:
+```powershell
+python -m src.ingestion.run_sale_100 --max-requests 100
+```
+
+Estructura de salida
+JSON crudos:
+```
+data/raw/idealista/sale_homes_run_YYYYMMDD_HHMMSS/
+```
+
+CSV procesado automáticamente:
+```
+data/processed/idealista/sale_homes_run_YYYYMMDD_HHMMSS/sale_homes_cantabria_bezana_like_raw.csv
+```
+
+summary.json con métricas:
+```
+data/processed/idealista/sale_homes_run_YYYYMMDD_HHMMSS/summary.json
+```
+
+## 8. Qué Hace Internamente run_*_100
+- Recorre círculos geográficos (priorizando Bezana-like)
+- Descarga hasta 50 anuncios por request
+- Controla páginas adaptativamente
+- Guarda cada respuesta en JSON
+- Llama a:
+```
+clean_json_run(...)
+```
+- Genera CSV final
+
+## 9. Arquitectura Final
+
+**run_rent_100.py**  
+**run_sale_100.py**  
+&nbsp;&nbsp;&nbsp;&nbsp;↓  
+**JSON** en `data/raw/`  
+&nbsp;&nbsp;&nbsp;&nbsp;↓  
+**clean_idealista.py**  
+&nbsp;&nbsp;&nbsp;&nbsp;↓  
+**CSV** en `data/processed/`

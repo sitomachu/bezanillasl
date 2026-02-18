@@ -1,0 +1,2743 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110610940",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/05/a1/26/1410114184.webp",
+      "externalReference": "56727",
+      "numPhotos": 23,
+      "price": 350000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 350000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 324.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Polanco",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3775759,
+      "longitude": -4.0366237,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110610940/",
+      "distance": "8499",
+      "description": "Te presentamos esta excepcional casa individual semireformada, ideal para personalizar a tu gusto. Ubicada en la exclusiva zona de Rinconeda, Polanco, cuenta con un amplio terreno de 1651 metros cuadrados que ofrece múltiples posibilidades.  La propiedad dispone de cuatro dormitorios dobles, salón comedor muy acogedor gracias a su diseño exterior; además incluye una cocina tipo office perfecta para disfrutar momentos familiares. También encontrarás un baño completo y un aseo adicional.  Cuenta también con una buhardilla diáfana que potencia el espacio disponible. Para mayor comodidad, la vivienda se completa con dos garajes donde podrás ampliar las instalaciones existentes o crear ese magnífico 'choco' del cual siempre has soñado.  No pierdas esta oportunidad ¡ven a visitarla!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1080.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110610602",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d5/27/d3/1410105627.webp",
+      "externalReference": "ABI57",
+      "numPhotos": 11,
+      "price": 49000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 49000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "sale",
+      "size": 50.0,
+      "rooms": 0,
+      "bathrooms": 0,
+      "address": "calle Concesa Josué",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Inmobiliaria - Barreda",
+      "country": "es",
+      "latitude": 43.3680287,
+      "longitude": -4.0338247,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110610602/",
+      "distance": "9003",
+      "description": "ABITAREA VENDE CASA CON PARCELA PARA REFORMAR.   En la localidad de Barreda (Ayuntamiento de Torrelavega), en una perfecta ubicación que combina su cercanía a autovía (a escasos minutos) con la proximidad a las playas y en medio de un auténtico paraíso natural. Situada en un entorno tranquilo, Abitarea vende esta pequeña parcela de 115 m2 con una casita semiderruida. El inmueble necesita una reforma integral. La vivienda resultante sería de una sola planta y unos 50 m2 cuadrados superficie total. Posee un gran potencial para que el resultado tras la reforma convierta esta propiedad en un hogar para vacaciones o negocio vacacional, con un entorno ideal para disfrutar de las fantásticas vistas y desconectar del ajetreo diario. Si estás soñando con tener tu casita para vivir de forma permanente o bien cómo segunda residencia, con todos los servicios al alcance de la mano y en un ambiente confortable y acogedor, no dudes en visitar esta propiedad, es una excelente OPORTUNIDAD de conseguir lo que estas buscando. CONSULTA CON ABITAREA GESTIÓN INMOBILIARIA y te atenderemos. **las fotografías publicadas combinan estado actual del inmueble cómo una propuesta de acabado tras la reforma**.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 980.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casale"
+      },
+      "suggestedTexts": {
+        "subtitle": "Inmobiliaria - Barreda, Torrelavega",
+        "title": "Casa rural en calle Concesa Josué"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110610456",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8e/f6/86/1410099348.webp",
+      "externalReference": "62181931",
+      "numPhotos": 16,
+      "floor": "1",
+      "price": 243000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 243000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 87.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Hermanos Calderón, 26",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4412358,
+      "longitude": -3.8520146,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110610456/",
+      "distance": "8324",
+      "description": "Se vende piso orientado al sur, luminoso, soleado,   para entrar a vivir en Peñacastillo. Este piso está distribuido en 3 habitaciones, amplio salón, cocina independiente amueblada y 2 baños completos, uno de ellos en suite. Plaza de garaje y trastero incluido en el precio. El edificio consta de 2 ascensores.  El edificio se encuentra la zona nueva de Peñacastillo, en un entorno tranquilo, bien comunicada con el centro de la ciudad y con todos los servicios a su alcance: Centro de salud, Supermercados, Farmacia, Colegios e Institutos de Secundaria, Gimnasio GO FIT,...",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2793.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en calle Hermanos Calderón, 26"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110606976",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d1/39/5a/1410016075.webp",
+      "externalReference": "1977",
+      "numPhotos": 11,
+      "price": 260000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 260000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 100.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Suances",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4091127,
+      "longitude": -4.0777707,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110606976/",
+      "distance": "10274",
+      "description": "¡Oportunidad única! Entrega inmediata Situado en la Cortiguera y a solo 2 km de Suances y a pocos minutos de la emblemática Playa de los Locos. Este espectacular chalet pareado, de primeras calidades, te ofrece todo lo que necesitas para vivir con lujo y confort en un entorno natural incomparable. Distribución: 2 amplias habitaciones, perfectas para toda la familia. 2 cuartos de baño. Gran terraza privada para disfrutar de las vistas y el aire libre. Relájate en la piscina rodeado de tranquilidad y naturaleza. Espacios amplios, luminosos y con acabados de calidad superior. Disfruta del equilibrio perfecto entre el encanto de la costa y la comodidad de una vivienda moderna. Un lugar ideal para vivir o vacacionar.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2600.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Casa independiente"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110609637",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/83/3b/c5/1410072918.webp",
+      "numPhotos": 27,
+      "price": 114000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 114000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 98.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio Dualez",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Cerezo - Aspla - Torres",
+      "country": "es",
+      "latitude": 43.3626759,
+      "longitude": -4.0598022,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110609637/",
+      "distance": "10993",
+      "description": "Se trata de una casa pareada situada en Dualez, una zona muy tranquila a un paso de Torrelavega y con parada de autobús prácticamente en la puerta. La vivienda cuenta con unos 100 m² distribuidos en dos plantas. En la planta baja dispone de cocina, sala de estar, baño y trastero; en la primera planta encontramos tres habitaciones y una balconada típica que aporta mucho encanto. La casa necesita reforma interior, pero tiene ya el tejado completamente nuevo, lo que supone una ventaja importante. Delante de la vivienda hay un terreno de unos 139 m², ideal para huerto o terraza. Es una propiedad con mucho potencial en una ubicación cómoda, bien comunicada y con servicios cerca.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 1163.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cerezo - Aspla - Torres, Torrelavega",
+        "title": "Chalet pareado en Barrio Dualez"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110592931",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a6/19/37/1409599426.webp",
+      "numPhotos": 23,
+      "floor": "3",
+      "price": 265000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 265000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 88.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle San Martín del Pino",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.443439,
+      "longitude": -3.8518134,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110592931/",
+      "distance": "8402",
+      "description": "Peñacastillo. Urbanización Residencial Los Robles 1º Fase Urbanización cerrada con zonas ajardinadas y conserje 3º planta con ascensor, sin barreras arquitectónicas piso de 3 habitaciones, salón con terraza, cocina montada independiente con tendedero y 2 baños completos, uno con bañera y otro con ducha con calefacción individual de gas natural, ventanas de pvc, suelo parquet Dispone de plaza de garaje dentro del edificio y aparcamiento exterior, además de un trastero junto al garaje muy cómodo entrar a vivir Junto a Cines, centros comerciales y parada de bus urbano excelente inversión.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3011.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en calle San Martín del Pino"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110599270",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/eb/5f/93/1410022879.webp",
+      "externalReference": "TVGA.COTERO",
+      "numPhotos": 14,
+      "floor": "1",
+      "price": 225000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 225000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 112.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Cotero",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Covadonga - Campuzano - Ciudad Vergel",
+      "country": "es",
+      "latitude": 43.3365472,
+      "longitude": -4.0576509,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110599270/",
+      "distance": "12857",
+      "description": "Tranquilidad y amplitud a un paso de todo. Descubre este magnífico ático - dúplex en Torrelavega. Campuzano- Esta luminosa vivienda está distribuida en dos plantas. En planta baja encontramos el salón comedor, cocina, una habitación muy funcional y un baño adaptado. En la planta superior, dos habitaciones y un baño independiente que garantizan la serenidad y la intimidad para tu descanso. Las habitaciones son amplias y bien iluminadas. Destaca su buena orientación que aporta no sólo las mayores horas de sol, si no también una temperatura agradable en toda la vivienda. Y no sólo eso, además de esta maravilla de vivienda de 112 m2 en perfecto estado para entrar a vivir, incluido en el precio garaje cerrado y trastero. No es fácil encontrar tantas prestaciones por este precio. La vivienda se encuentra en perfecto estado para entrar a vivir. Que no se te adelanten, llámanos y estaremos encantados de atenderte. Tecniobras Vintage, bienvenido al nuevo escenario de tu vida.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2009.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Covadonga - Campuzano - Ciudad Vergel, Torrelavega",
+        "title": "Dúplex en calle Cotero"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110605342",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/dc/7e/0a/1409967610.webp",
+      "externalReference": "PI 858",
+      "numPhotos": 19,
+      "floor": "1",
+      "price": 225000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 225000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 63.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Leonor De la Vega",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Castilla - Hermida",
+      "country": "es",
+      "latitude": 43.4526433,
+      "longitude": -3.8208039,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110605342/",
+      "distance": "11093",
+      "description": "Piso en Calle Leonor de la Vega (antigua Zancajo Osorio), ubicado en una primera planta con ascensor, dentro de un edificio con portal automático recientemente reformado, moderno y accesible.    La vivienda ha sido completamente reformada y cuenta con una superficie de 56 m², con una distribución bien aprovechada. Dispone de dos habitaciones y dos baños completos, una característica poco habitual en viviendas de este tamaño que aporta un extra de comodidad.    El piso se entrega totalmente a estrenar, con instalaciones nuevas y acabados actuales, listo para entrar a vivir sin necesidad de reformas.    Como valor añadido, se encuentra en una zona llana, muy cómoda para el día a día, con Mercadona a solo 2 minutos andando, además de todos los servicios necesarios a pocos pasos. Ideal tanto como residencia habitual como para inversión, por su ubicación y estado impecable.      * El precio no incluye impuestos ni gastos de notaria ni registro.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3571.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castilla - Hermida, Santander",
+        "title": "Piso en calle Leonor De la Vega"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110548668",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fc/22/0c/1409963648.webp",
+      "externalReference": "ACR-01948",
+      "numPhotos": 17,
+      "floor": "3",
+      "price": 215000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 215000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 86.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Juan XXIII",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.4637386,
+      "longitude": -3.8110879,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110548668/",
+      "distance": "12244",
+      "description": "Este amplio piso de tres habitaciones en la Calle Juan XXIII es una oportunidad única para aquellos que buscan un proyecto de reforma a su medida.  Con 86 m² construidos y 75 m² útiles, este espacio ofrece un sinfín de posibilidades para crear el hogar de tus sueños.  Ubicado en una zona céntrica, a pocos pasos del Ayuntamiento, disfrutarás de la comodidad de tener todos los servicios a tu alcance.  La propiedad, totalmente exterior, cuenta con una excelente orientación al sur que inunda de luz natural el salón y una de las habitaciones, mientras que las otras dos habitaciones y la cocina se orientan al norte.  Aunque el piso está para reformar, su luminosidad y distribución son ideales para aprovechar al máximo cada rincón. Además, la instalación del ascensor está en curso, con la derrama ya pagada, lo que añade un valor extra a esta propiedad. No dejes pasar la oportunidad de transformar este espacio en un hogar acogedor y funcional.  No dude en pedir mas información, o concertar una visita, respondiendo a éste anuncio, llamándonos, o acercándose a cualquiera de nuestras Oficinas. -Santander, Calle Juan de Herrera 8. -Soto de la Marina, en Avenida Marques de Valdecilla 97. EL PRECIO NO INCLUYE GASTOS E IMPUESTOS. NO HAY HONORARIOS DE INTERMEDIACIÓN INMOBILIARIA PARA EL COMPRADOR. (A título orientativo, el impuesto aplicable para segundas transmisiones en Cantabria (ITP) es del 9 %, pudiendo ser menor, en función de las circunstancias personales del comprador u otras circunstancias previstas legalmente).",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2500.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Piso en calle Juan XXIII"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110605170",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e0/91/0b/1409962634.webp",
+      "externalReference": "BJ C-BQ-2",
+      "numPhotos": 7,
+      "floor": "bj",
+      "price": 345000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 345000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 95.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida José María de pereda, 6",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Sancibrián",
+      "country": "es",
+      "latitude": 43.4640107,
+      "longitude": -3.8759505,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110605170/",
+      "distance": "7647",
+      "description": "PROMOCIÓN DE PISOS EN SANCIBRIÁN (SANTA CRUZ DE BEZANA)- RESIDENCIAL ÁVALON Residencial Ávalon, Promoción de Obra Nueva de 3 Bloques de viviendas de cuatro alturas cada uno repartidos entre bajos con jardín, primeras y segundas plantas y áticos con terraza, ubicados en Sancibrián (Santa Cruz de Bezana) Cada vivienda cuenta con plaza de garaje y trastero. Se encuentran en Sancibrián, lugar privilegiado por su cercanía a Santander y a multitud de playas, con todos los servicios que puedas necesitar en los alrededores como colegios, restaurantes, supermercados, centros de salud, autobús. Precios desde 250.000€ (impuestos no incluidos). Para obtener más información, no dudes en ponerte en contacto con nosotros. Estaremos encantados de atenderte, ya sea por teléfono o personalmente. ¡Descubre tu nuevo hogar en Residencial Ávalon!",
+      "hasVideo": false,
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3632.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Sancibrián, Santa Cruz de Bezana",
+        "title": "Piso en avenida José María de pereda, 6"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109537016",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/50/0e/1e/1377707255.webp",
+      "externalReference": "5342",
+      "numPhotos": 31,
+      "floor": "1",
+      "price": 290000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 290000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 77.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle las Mazas, 13",
+      "province": "Cantabria",
+      "municipality": "Cudon",
+      "country": "es",
+      "latitude": 43.4157856,
+      "longitude": -4.0117209,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109537016/",
+      "distance": "4889",
+      "description": "En el núcleo tranquilo de Cudón (Miengo), este ático propone una forma de vivir la costa cántabra con calma, naturaleza y conexiones ágiles con Santander y Torrelavega. Un espacio concebido para descansar, teletrabajar o recibir, sin renunciar a la comodidad diaria. El interior combina diseño contemporáneo y funcionalidad: salón de concepto abierto con cocina integrada, muy luminoso, y salida directa a la terraza. La zona de noche ofrece dos dormitorios; el principal en suite con baño integrado, más un segundo baño completo que da servicio a la vivienda. El verdadero diferencial está en sus exteriores. Una terraza principal de 117 m² orientada al paisaje amplía la vivienda para comidas al aire libre y zonas de estar. En la planta superior, una segunda terraza con vistas abiertas convierte cada momento en un mirador privado. CasaSantander le facilitará los detalles completos y coordinará una visita con cita previa.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3766.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cudon",
+        "title": "Ático en calle las Mazas, 13"
+      },
+      "hasPlan": false,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110604340",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fb/96/be/1409933331.webp",
+      "externalReference": "110604340-AT",
+      "numPhotos": 16,
+      "floor": "1",
+      "price": 84000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 84000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 74.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "CL FRANCISCO ITURRINO",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4583425,
+      "longitude": -3.8383045,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110604340/",
+      "distance": "9984",
+      "description": "GRAN OPORTUNIDAD INVERSOR – ADQUICISIÓN DE INMUEBLE CON ALTO POTENCIAL DE RENTABILIDAD Se ofrece inmueble con alto potencial de rentabilidad, una excelente oportunidad de inversión La adquisición se realizará exclusivamente por un proceso judicial, por lo que: -NO SE CONTARÁ CON LA POSESIÓN DEL INMUEBLE en el momento de la adquisición. -NO SE PUEDE VISITAR. -NO DISPONE DE FINANCIACIÓN — compra únicamente al contado -El precio publicado es orientativo, correspondiente al posible importe de adjudicación en subasta -Operación dirigida a inversores con experiencia en este tipo de activos -Este tipo de venta/compra permite acceder a inmuebles por debajo de su valor de mercado, ideal para reventa, alquiler o recuperación patrimonial tras la toma de posesión. -Oportunidad perfecta para inversores que buscan maximizar rentabilidad mediante procesos judiciales. ⚠️ Importante: -El comprador asume y debe terminar con los trámites legales necesarios para la obtención de la posesión del inmueble. Se recomienda asesoramiento. -Los datos sobre la cantidad de habitaciones, metros cuadrados y demás características del inmueble son de carácter orientativo. Las especificaciones pueden variar respecto a las características reales de la vivienda. ¡Contamos con una amplia cartera de oportunidades para inversores en toda España! Disponemos de inmuebles sin posesión, inmuebles alquiladas con rentabilidad, cesiones de remate, obras paradas y activos con deuda. Rentabilidad real, diversificación y alto potencial de revalorización. Para más información detallada sobre el procedimiento y condiciones de compra, no dudes en contactar.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1135.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en CL Francisco Iturrino"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110603332",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/74/ae/b2/1409899074.webp",
+      "externalReference": "19821",
+      "numPhotos": 24,
+      "price": 350000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 350000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 94.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Florida",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.4622092,
+      "longitude": -3.8129062,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110603332/",
+      "distance": "12045",
+      "description": "LO TIENE TODO: CÉNTRICO, REFORMADO, LUMINOSO Y CON OPCIÓN A GARAJE Hay pisos que simplemente se sienten bien, y éste, ubicado en la calle Florida, en pleno centro de Santander, es uno de ellos. Desde el primer momento transmite esa sensación de hogar cómodo, luminoso y bien cuidado, algo que no siempre es fácil de encontrar en esta zona de la ciudad. La vivienda se distribuye en tres habitaciones, un salón amplio y acogedor, cocina independiente y baño completo. Una de las habitaciones cuenta además con salida a un coqueto balcón, ideal para disfrutar de aire fresco y luz natural. Es un piso completamente exterior, con ventanas en todas las estancias, incluso en el baño, un detalle muy valorado que aporta luz natural, ventilación constante y una mayor sensación de amplitud en cada rincón de la casa. Situado en una quinta planta, la luz es una de sus grandes protagonistas. Gracias a su altura y a su orientación norte, sur y este, el piso recibe luz a lo largo de todo el día, creando un ambiente cálido, alegre y muy agradable en cualquier época del año. Las ventanas de PVC contribuyen además a un buen aislamiento térmico y acústico, garantizando confort y tranquilidad en el día a día. La vivienda está reformada y en perfecto estado, lista para entrar a vivir. Un piso cuidado, práctico y funcional, pensado para quienes buscan una casa en la que instalarse desde el primer día con total comodidad. Otro de los grandes atractivos de este piso es su ubicación céntrica, que permite tener todos los servicios a mano: comercios, transporte, colegios, zonas de ocio y restauración. Además, cuenta con un cómodo acceso mediante rampas mecánicas, un valor añadido que facilita enormemente el día a día y mejora la accesibilidad, algo especialmente apreciado en esta zona de la ciudad. Para quienes lo necesiten, existe además la opción de adquirir una plaza de garaje a tan solo 2 minutos caminando, en la calle Magallanes, por 48.000 € adicionales. Una alternativa muy interesante para disfrutar de la comodidad de tener aparcamiento cerca de casa en una zona tan céntrica. Este piso es mucho más que sus paredes y ventanas: es un espacio donde la luz y la comodidad se sienten en cada estancia, donde las mañanas empiezan con energía y las tardes se viven con tranquilidad. Es un lugar que invita a recibir a amigos y familia, crear momentos únicos y disfrutar de la ciudad sin renunciar a la paz de tu hogar. Aquí no solo vivirás, sino que sentirás que cada día tiene algo especial, que cada rincón refleja cuidado y buen gusto, y que tu casa es realmente un refugio luminoso y alegre en el corazón de Santander.  Una oportunidad para quienes buscan un hogar donde la vida se sienta más ligera, más cómoda y más feliz.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 48000.0
+      },
+      "priceByArea": 3723.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Piso en calle Florida"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110270040",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b6/1f/e1/1406566567.webp",
+      "externalReference": "G02225",
+      "numPhotos": 26,
+      "floor": "3",
+      "price": 169000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 169000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 76.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Cuatro Caminos",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4562878,
+      "longitude": -3.8216071,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110270040/",
+      "distance": "11158",
+      "description": "Descubre esta excepcional propiedad ubicada a escasos metros del centro de Santander. Con una estratégica posición que te sitúa a solo 600 metros del Hospital Universitario Marqués de Valdecilla y con supermercados y gasolineras a menos de 600 metros, disfrutarás de comodidad absoluta. La Universidad de Cantabria se encuentra a tan solo 2.5 km (11 min en coche), convirtiendo este inmueble ideal tanto para estudiantes como para jóvenes profesionales ����. Con una superficie construida funcionalmente distribuida en sus 76 m2, este hogar ha sido recientemente renovado: cuenta con suelo nuevo y paredes recién pintadas �, listo para entrar a vivir o adaptarlo según tus preferencias personales. Disfruta también la proximidad al mar; las playas más cercanas están apenas a unos minutos �♂️�♀️. Este espacio incluye tres habitaciones confortables y un baño completo �, un salón amplio diáfano y una cocina espaciosa con todo lo necesario: horno, microondas, ¡además de lavadora y secadora! Perfecto ya sea como residencia familiar o inversión rentable dado su gran potencial comercial por ubicación clave �.  Si valoras la accesibilidad rápida hacia servicios esenciales sin renunciar al estilo urbano santanderino ¡no dudes más! Agenda tu visita hoy mismo � e invierte en calidad vida. TRANSPARENCIA GESTIÓN INMOBILIARIA: - Sujeto a decisión última del cliente propietario.  - Al precio se añadirán Impuestos, gastos de Notaría, registro y honorarios.  - Consultar resto de condiciones.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2224.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110602526",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/71/a2/3e/1409877522.webp",
+      "numPhotos": 15,
+      "floor": "bj",
+      "price": 220000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 220000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Los Castros",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Los Castros",
+      "country": "es",
+      "latitude": 43.4717584,
+      "longitude": -3.79231,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110602526/",
+      "distance": "13984",
+      "description": "¡Descubre tu nuevo hogar en Santander! Este encantador piso de 65 metros cuadrados es perfecto para quienes buscan comodidad y tranquilidad. Con tres habitaciones, este espacio se adapta a tus necesidades, ya sea para una familia o para compartir con amigos. La cocina y el salón son luminosos y acogedores, ideales para disfrutar de momentos inolvidables. Ubicado en una zona tranquila, tendrás la ventaja de estar cerca de todos los servicios esenciales, así como de una variada oferta de bares y restaurantes donde podrás disfrutar de la gastronomía local. Su luminosidad y buen estado te harán sentir como en casa desde el primer momento.  No dejes pasar la oportunidad de vivir en un lugar que combina confort y accesibilidad. ¡Ven a visitarlo y enamórate de tu nuevo hogar!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3385.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Castros, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110600523",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/17/12/36/1409819985.webp",
+      "numPhotos": 21,
+      "floor": "4",
+      "price": 830000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 830000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 171.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Hernán Cortés",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4644367,
+      "longitude": -3.7985285,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110600523/",
+      "distance": "13218",
+      "description": "En una de las calles más distinguidas de Puertochico presentamos esta vivienda de 171 m² con reforma a la carta, concebida como un refugio urbano donde arquitectura, luz y bienestar se integran en perfecta armonía. Situada en una tercera planta con altura de cuarto y orientación norte, la vivienda se abre al exterior mediante amplios ventanales que inundan los espacios con una luz suave, constante y equilibrada. Una orientación ideal para quienes buscan ambientes serenos, frescos en verano y con una iluminación que potencia la calma y el confort visual durante todo el día. Los techos de 3,4 m realzan la sensación de amplitud en esta vivienda de diseño, proyectada al detalle por el estudio de arquitectura DAS, donde cada línea y cada material contribuyen a crear un hogar sofisticado y funcional. El espacio de día se organiza en torno a un salón amplio y equilibrado, con zona de comedor y cocina abierta con gran isla central, concebidos para disfrutar y compartir en un ambiente acogedor. La zona de descanso ofrece tres dormitorios diseñados para garantizar confort y bienestar. El dormitorio principal destaca por su baño en suite y un amplio vestidor que aporta orden y elegancia. Las otras dos habitaciones comparten un baño completo, y la vivienda incorpora además una zona de lavandería independiente y un aseo de cortesía. La vivienda se ubica en un edificio señorial y representativo, perfectamente conservado, con ascensor a cota cero desde el portal y paradas en entreplantas, garantizando comodidad desde el primer momento. Se entrega con reforma integral, incluyendo cocina equipada y baños completos, con posibilidad de personalizar acabados y distribución para adaptar cada detalle al estilo de vida del futuro propietario. *Memoria de calidades disponible. **Existe además la posibilidad de plaza de garaje en las inmediaciones. Para más información no dude en llamarnos. Hacemos sus sueños realidad.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 4854.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Piso en calle Hernán Cortés"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110600156",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3f/f1/c4/1409811773.webp",
+      "externalReference": "ALEX - 635 971 790",
+      "numPhotos": 37,
+      "floor": "1",
+      "price": 244900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 244900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 147.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio San Martín del Pino, 23",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4462846,
+      "longitude": -3.8474259,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110600156/",
+      "distance": "8831",
+      "description": "Inmobiliaria TECNOCASA Rualasal presenta en exclusiva: ¿Quieres vivir a 15 minutos en coche del centro de Santander? ¡Esta es tu vivienda! ¡Descubre tu nuevo hogar en el corazón de Peñacastillo! Este espectacular piso reformado, ubicado en la calle San Martin Del Pino, te ofrece la combinación perfecta de amplitud y estilo. A tan solo 10 minutos andando del centro comercial de Peñacastillo disfrutarás de una ubicación inmejorable, rodeado de todos los servicios y la vibrante vida en esta urbanización que cuenta con piscina, zonas verdes y ajardinadas, parque infantil y pista de futbol y baloncesto. Con 147 m² construidos, esta vivienda, completamente reformada, cuenta con garaje y trastero, ademas cuenta también con 3 amplias habitaciones que se adaptan a tus necesidades, una de ellas con baño en suite. El salón es un espacio amplio y acogedor mientras que la cocina independiente te permitirá preparar tus platos favoritos con total comodidad y confort. Además, dispone de un segundo baño completo con plato de ducha. La calidez de la vivienda se debe a su excelente iluminación, que garantiza luz natural durante todo el día. Este piso está en perfecto estado y listo para entrar a vivir, con calefacción a gas natural. Actualmente la comunidad cuenta con un lavadero de coches privado para los vecinos de la urbanización ubicado en los aparcamientos cubiertos del edificio.  Si estás pensando en encontrar tu nueva vivienda, este inmueble cuenta con todos los requisitos para convertirse en una opción atractiva para entrar a vivir o generar ingresos. No pierdas la oportunidad de vivir en un lugar con encanto y todas las comodidades que necesitas. ¡FINANCIAMOS HASTA EL 100%, contáctanos para más información y ven a visitarlo!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1666.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en Barrio San Martín del Pino, 23"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109002826",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/14/74/4a/1409799776.webp",
+      "numPhotos": 22,
+      "floor": "1",
+      "price": 298000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 298000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 89.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "via Cornelia",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4672628,
+      "longitude": -3.8122299,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109002826/",
+      "distance": "12309",
+      "description": "“Piso Acogedor en el Corazón de Santander” Descubre este encantador piso ubicado en el centro de Santander, ideal para quienes buscan confort y comodidad en una de las zonas más demandadas de la ciudad. Con una distribución perfecta, esta vivienda cuenta con hall de entrada que da paso a un luminoso salón y tres amplios dormitorios, todos exteriores, lo que garantiza una excelente entrada de luz natural, cocina, cuarto de baño, además tiene un trastero almacenaje en la vivienda. Ventanas de climalit, suelo de madera, calefacción y agua caliente individual de gas y puerta de acceso blindada. Se encuentra en una finca con ASCENSOR y con la rehabilitación de cubierta y fachada, con instalación de sistema de fachada ventilada con el objetivo de conseguir una economía más limpia y sostenible. Zona con todos los servicios, comercios, restauración, farmacias y centro educativos. EXCELENTE ubicación al lado del Mercado de la Esperanza y el Ayuntamiento, cerca de la Bahía de Santander, reconocida internacionalmente como una de las más bellas del mundo. Destaca por su entorno paisajístico, playas como El Puntal, el Palacio de la Magdalena y su inusual orientación al sur.  Esta vivienda es ideal para personas que buscan un lugar acogedor en Santander, como vivienda habitual o segunda residencia.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3348.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Piso en via Cornelia"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110599649",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/00/63/74/1410417832.webp",
+      "externalReference": "19823",
+      "numPhotos": 24,
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 116.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "General Dávila",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4621503,
+      "longitude": -3.8187488,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110599649/",
+      "distance": "11604",
+      "description": "VIVE EL CENTRO CON CALMA Y ELEGANCIA Ubicado en la calle Antonio Mendoza, una calle con encanto y personalidad propias, este piso es una oportunidad única para quienes buscan una vivienda con carácter, amplitud y una ubicación privilegiada en Santander, sin renunciar a la tranquilidad de una zona residencial. Además, cuenta con fácil acceso a través de las rampas mecánicas de Numancia, lo que hace especialmente cómoda la conexión con el centro y las zonas comerciales, evitando cuestas y facilitando el día a día. La vivienda es de las de antes, de las que ya no se hacen: techos altos que aportan sensación de espacio y elegancia, estancias amplias y una distribución muy versátil. Cuenta con cuatro habitaciones, un salón acogedor, cocina independiente, un baño y un práctico trastero dentro de la propia vivienda, un detalle cada vez más difícil de encontrar y muy cómodo para el día a día. Uno de sus grandes atractivos son sus espacios exteriores: una bonita galería que invita a disfrutar de la luz natural y dos balcones que aportan encanto y desahogo visual, ideales para quienes valoran ese plus de conexión con el exterior sin salir de casa. La orientación norte-sur garantiza una luz equilibrada a lo largo de todo el día. El edificio es, sencillamente, precioso. Elegante, cuidado y con una presencia que invita a presumir de hogar. Además, dispone de zonas ajardinadas, un auténtico lujo en una ubicación tan céntrica, que aportan tranquilidad y un entorno agradable desde el primer momento en que se accede al portal. La ubicación es otro de sus puntos fuertes: muy céntrica, con todos los servicios a mano —comercios, transporte, colegios, zonas de ocio— y al mismo tiempo tranquila y residencial, perfecta para quienes quieren vivir el centro de Santander sin el bullicio constante. Una vivienda con muchísimo potencial, ideal tanto para quienes buscan un hogar amplio para adaptar a su gusto como para quienes saben reconocer el valor de los pisos con alma, en edificios con historia y en ubicaciones estratégicas. Un piso para imaginar, proyectar y convertir en un hogar realmente especial.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2155.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110599417",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d6/99/f0/1409787801.webp",
+      "externalReference": "acr-01951",
+      "numPhotos": 30,
+      "price": 470000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 470000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 263.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "pozo barrio el",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.4338358,
+      "longitude": -3.9432367,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110599417/",
+      "distance": "1397",
+      "description": "Chalet individual en Boo de Piélagos, en un entorno privilegiado entre pinos, a 5 min en coche de las maravillosas playas de Liencres, estupenda comunicación con Santander y Torrelavega por la autovía y a un paso de la estación de tren. La vivienda distribuida en planta baja, salón con salida a estupenda terraza, cocina y amplia habitación con baño. 70 metros de terraza. En la primera planta, 3 habitaciones, y 2 baños. La principal con baño en suite y vestidor. Sótano, zona de garaje, y lavadero. Puede informarse y concertar visita respondiendo a éste anuncio, llamándonos, o acercándose a cualquiera de nuestras Oficinas, en: - SANTANDER, Calle Juan de Herrera 8 - SOTO DE LA MARINA, Av Marques de Valdecilla 97. (Impuestos y gastos de escrituración no incluídos en el precio. Sin comisión de agencia para el comprador).",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1787.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Casa independiente en pozo barrio el"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110598419",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/82/b0/13/1409768925.webp",
+      "numPhotos": 19,
+      "floor": "3",
+      "price": 750000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 124.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 3,
+      "address": "calle Hernán Cortés, 45",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4631283,
+      "longitude": -3.7991254,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110598419/",
+      "distance": "13123",
+      "description": "En una de las calles más distinguidas de Puertochico presentamos esta vivienda con reforma a la carta de 120 m², concebida como un refugio urbano donde arquitectura, luz y bienestar se unen en perfecta armonía. Situada en una tercera planta con altura de cuarto y orientación sur, la casa se abre al exterior mediante grandes ventanales de suelo a techo, que permiten que la luz natural acompañe cada instante del día y envuelva los espacios en una sensación constante de calma. Los techos de 3,40 metros, potencian la sensación de amplitud de esta vivenda de diseño, pensada al detalle por el estudio de arquitectura DAS. El espacio de día se organiza en torno a un salón, fluido y equilibrado, diseñado para disfrutar y compartir en un ambiente sereno, con zona de comedor y cocina abierta. La gran isla central actúa como punto de encuentro, mientras que la galería exterior acristalada prolonga el interior hacia el exterior, creando un espacio versátil y luminoso. Un aseo de cortesía completa la distribución con discreción y funcionalidad. La zona de descanso cuenta con dos dormitorios en suite, llenos de confort. El principal cuenta, además, con un amplio vestidor a continuación del baño. Un balcón corrido une ambas habitaciones desde el exterior, aportando luz, ventilación y conexión con el entorno. La vivienda se encuentra en un edificio señorial y representativo, perfectamente conservado, con ascensor a cota cero desde el portal y paradas en entreplantas, garantizando comodidad desde el primer momento. Se entrega con reforma integral, incluyendo cocina equipada y baños completos, con posibilidad de personalizar acabados y distribución, adaptando cada detalle al estilo de vida del futuro propietario. *Memoria de calidades disponible. Además, existe posibilidad de plaza de garaje en las inmediaciones. Un hogar pensado para quienes valoran el lujo y buscan vivir una alta calidad de vida en uno de los enclaves más codiciados de la ciudad. Para más información no dude en llamarnos. Hacemos sus sueños realidad.",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 6048.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Piso en calle Hernán Cortés, 45"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110595557",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/76/2e/e6/1409679393.webp",
+      "externalReference": "12498",
+      "numPhotos": 44,
+      "floor": "bj",
+      "price": 180000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 180000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 49.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Barrio Rodil",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.4447777,
+      "longitude": -3.9239825,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110595557/",
+      "distance": "3313",
+      "description": "En Mortera, una de las zonas más tranquilas y demandadas del entorno de Santander, se encuentra este apartamento bajo tipo estudio, una opción ideal tanto como primera vivienda como, especialmente, como inversión gracias a su gran versatilidad. La propiedad destaca por contar con entrada independiente, un valor añadido que aporta privacidad y comodidad, además de facilitar su explotación tanto en alquiler tradicional como en alquiler vacacional o de temporada. Su distribución tipo estudio permite aprovechar al máximo el espacio, ofreciendo un ambiente funcional y acogedor, perfecto para quienes buscan una vivienda práctica y fácil de mantener. Mortera es una ubicación estratégica, muy valorada por su calidad de vida y su excelente conexión con Santander y el resto de la región. Su entorno natural privilegiado es uno de sus mayores atractivos, encontrándose a pocos minutos de enclaves tan reconocidos como la espectacular Costa Quebrada, un espacio de enorme interés turístico y paisajístico, reconocido como Geoparque Mundial de la UNESCO, así como del Parque Natural de las Dunas de Liencres, uno de los lugares más emblemáticos de Cantabria. Además, la zona cuenta con cercanía a todo tipo de servicios esenciales, como supermercados, centros de salud y hospitales, así como buenas comunicaciones mediante tren, acceso rápido a la autovía y excelentes conexiones con las principales vías, lo que garantiza comodidad tanto para residentes como para visitantes. Una oportunidad perfecta para quienes buscan un inmueble con independencia, ubicación estratégica y múltiples posibilidades de explotación, en una zona con alta demanda y gran proyección. Mikeli Luxury Real Estate. Más inmuebles en la zona. Contacte con su asesor.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3673.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Piso en Barrio Rodil"
+      },
+      "hasPlan": false,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110595443",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/69/89/a8/1409692146.webp",
+      "externalReference": "EXP12962",
+      "numPhotos": 50,
+      "price": 320000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 320000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 196.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "Penagos",
+      "province": "Cantabria",
+      "municipality": "Penagos",
+      "country": "es",
+      "latitude": 43.3439736,
+      "longitude": -3.8392438,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110595443/",
+      "distance": "12658",
+      "description": "Espacio, luz, comodidad, independencia y vida familiar. Si buscas una casa donde tu familia pueda vivir con calidad de vida, esta vivienda en Sobarzo merece tu visita. Se trata de una casa totalmente independiente, en muy buen estado, con mejoras realizadas, y lista para entrar a vivir.  Ubicada en una zona residencial, cercana a todas las playas de la costa y a Santander. Con 196 m2 construidos, la vivienda ofrece una distribución pensada para que todo resulte cómodo desde el primer día, tanto si buscas primera residencia como segunda vivienda. Una casa pensada para la vida real distribuida en 3 plantas: Planta baja — la vida diaria Salón con salida al jardín, amplia cocina equipada, un dormitorio y un baño. Una planta muy práctica para familias con niños, visitas o para quienes valoran poder hacer vida en una sola planta cuando lo necesitan. Planta primera — descanso y privacidad Zona con 3 habitaciones y 2 baños. La habitación principal, con baño en suite y vestidor, ofrece un espacio privado y práctico para los adultos. Planta semisótano — espacio extra que marca la diferencia Un gran valor añadido: una zona de almacenaje, más un baño y garaje privado, además de una amplia bodega! Este es un espacio versátil, perfecto para reuniones familiares, zona de juegos o celebraciones. Un espacio especialmente acogedor con chimenea. Todo ello sobre una parcela independiente, que aporta privacidad con un espacio vallado exterior con jardín, seguro, íntimo y para disfrutar del aire libre en tu propio hogar. Es una casa cuidada, funcional y equilibrada, donde resulta fácil imaginar el día a día: mañanas tranquilas, tardes en casa y fines de semana para disfrutar. Una vivienda que te hace sentir a gusto desde el primer momento, lo cual podrás comprobar en persona.  Llámanos por teléfono para concertar visita personalizada.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1633.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Penagos",
+        "title": "Casa independiente"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110594625",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/05/51/15/1409655785.webp",
+      "externalReference": "2026-Z0S3EK",
+      "numPhotos": 20,
+      "floor": "1",
+      "price": 660000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 660000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 130.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "paseo Menéndez Pelayo",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4681208,
+      "longitude": -3.7946617,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110594625/",
+      "distance": "13656",
+      "description": "Exclusivo piso en palacete frente a la Bahía de Santander – Paseo Menéndez Pelayo Descubra una vivienda única en una de las calles más señoriales de Santander, en pleno Paseo Menéndez Pelayo, a pocos minutos de Puerto Chico y con vistas privilegiadas a la bahía. Ubicado en un edificio tipo palacete, este piso totalmente nuevo y amueblado destaca por su orientación sur, su luminosidad y su cuidada reforma de alta calidad. La vivienda cuenta con: • Dos habitaciones amplias • Dos baños completos • Salón, comedor y cocina integrados en un elegante espacio abierto • Terraza cubierta con vistas a la Bahía de Santander Dispone además de: • Ascensor • Accesibilidad para personas con movilidad reducida • Posibilidad de plaza de garaje • Sistema de aerotermia, que proporciona calefacción y refrigeración de forma eficiente durante todo el año Una propiedad exclusiva, lista para entrar a vivir, ideal para quienes buscan confort, ubicación privilegiada y carácter histórico con todas las comodidades modernas. Llámenos para concertar una visita. Estaremos encantados de enseñarle esta magnífica vivienda y agendar su cita. Gracias.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 5077.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Piso en paseo Menéndez Pelayo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110593312",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/98/af/05/1409610573.webp",
+      "externalReference": "M-2568",
+      "numPhotos": 23,
+      "floor": "bj",
+      "price": 239000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 239000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 66.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle las Cacharras",
+      "province": "Cantabria",
+      "municipality": "El Astillero",
+      "country": "es",
+      "latitude": 43.3996513,
+      "longitude": -3.8216594,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110593312/",
+      "distance": "10843",
+      "description": "PLANTA BAJA DE 2 DORMITORIOS CON JARDÍN Distribuida en recibidor, salón – comedor con salida al jardín, cocina amueblada y equipada con tendedero, 2 dormitorios y baño. Calefacción de gas natural. Ascensor. Jardín de 21 m². Plaza de garaje y trastero. Antigüedad del año 2019. Buen estado de conservación. Orientación este. Urbanización privada con piscina y zonas verdes. Excelente ubicación.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3621.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Astillero",
+        "title": "Piso en calle las Cacharras"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110561189",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5c/87/d6/1408849892.webp",
+      "externalReference": "40857",
+      "numPhotos": 10,
+      "floor": "2",
+      "price": 98000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 98000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 70.0,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Conde Torreanaz",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3508034,
+      "longitude": -4.0459699,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110561189/",
+      "distance": "11049",
+      "description": "Vivienda de 70 metros, distribuida en hall, salón-comedor, cocina con muebles, 2 dormitorios, baño, sin ascensor. BUENA ZONA-NECESITA REFORMA.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1400.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Conde Torreanaz"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110592005",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/68/81/56/1409570778.webp",
+      "numPhotos": 19,
+      "floor": "2",
+      "price": 210000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 210000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 56.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Fernández de Isla",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Numancia - San Fernando",
+      "country": "es",
+      "latitude": 43.4610426,
+      "longitude": -3.8163314,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110592005/",
+      "distance": "11741",
+      "description": "Centro a 4 minutos del Ayuntamiento Paralela a Calle Burgos edificio de hormigón con ascensor La vivienda consta de 2 habitaciones, una con empotrado, salón, cocina montada independiente y baño. Las ventanas están cambiadas de pvc, el suelo es parqué en buen estado. Tiene calefacción individual de gas natural. El piso está para Entrar a vivir, susceptible de acondicionarlo a gusto de cada uno.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3750.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Numancia - San Fernando, Santander",
+        "title": "Piso en calle Fernández de Isla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110592015",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/aa/83/bd/1409569028.webp",
+      "externalReference": "BI00010",
+      "numPhotos": 5,
+      "price": 545000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 545000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 180.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Suances",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.3993234,
+      "longitude": -4.0500413,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110592015/",
+      "distance": "8345",
+      "description": "Vivir con espacio, luz y tranquilidad es posible en esta vivienda unifamiliar de diseño contemporáneo, situada en una zona residencial muy tranquila de Hinojedo, rodeada de entorno natural y con vistas abiertas. La vivienda dispone de 152 m2 construidos, distribuidos en dos plantas, y destaca por sus generosos espacios exteriores, con varias terrazas y una azotea privada que amplía las posibilidades de disfrute durante todo el año: zona de descanso, solárium o espacio para reuniones al aire libre. En la planta baja cuenta además con un porche techado de gran tamaño, pensado inicialmente para aparcamiento, pero con múltiples usos posibles según las necesidades de cada familia. El proyecto apuesta por una arquitectura actual, funcional y luminosa, con una distribución cómoda y equilibrada, ideal para una vida familiar. La vivienda se entrega con materiales de calidad y soluciones eficientes, pensadas para el confort y el ahorro energético. Características destacadas: - Sistema de aerotermia para calefacción y agua caliente sanitaria - Suelo radiante - Sistema de ventilación con recuperador de calor - Carpintería exterior de alta gama con vidrios de control solar - Iluminación exterior según proyecto - Parcela nivelada y ajardinada (en siembra) - Cerramientos perimetrales incluidos Una vivienda con carácter, diseñada para quienes buscan algo más que una casa: calidad de vida, exterior y tranquilidad, sin renunciar a un diseño moderno.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3028.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110591578",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/22/ac/f3/1409553833.webp",
+      "numPhotos": 7,
+      "floor": "1",
+      "price": 199000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 199000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Av de Camilo Alonso Vega",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4570468,
+      "longitude": -3.8266803,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110591578/",
+      "distance": "10802",
+      "description": "Valdecilla Zona Rotonda de Cuatro Caminos piso en edificio de hormigón con ascensor y sin barreras arquitectónicas, con videoportero y con la ITE en regla. consta de 3 habitaciones, salón a la calle, cocina independiente y baño necesita reforma A un paso del paseo de la Alameda y con todos los servicios alrededor interesante.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2653.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso en Av de Camilo Alonso Vega"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110591242",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e7/2c/bc/1409543408.webp",
+      "numPhotos": 12,
+      "floor": "1",
+      "price": 198000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 198000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 69.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Antonio Mendoza",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4625304,
+      "longitude": -3.8163575,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110591242/",
+      "distance": "11799",
+      "description": "Numancia-Centro A 5 minutos del ayuntamiento edificio de Hormigón con ascensor nuevo y sin barreras arquitectónicas, con fachada y tejado reformados ninguna derrama pendiente el piso tiene 2 habitaciones, salón a la calle, cocina con office y baño ventanas de pvc Necesita actualizar. Interesante inversión si busca un piso céntrico, con ascensor y quiere redistribuir a su gusto Imprescindible visitar.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2870.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Piso en calle Antonio Mendoza"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110588829",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/94/ec/3d/1409470283.webp",
+      "externalReference": "Álvaro - 695424426",
+      "numPhotos": 17,
+      "floor": "bj",
+      "price": 215000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 215000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 57.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Santa Teresa de Jesús",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4672197,
+      "longitude": -3.7990952,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110588829/",
+      "distance": "13286",
+      "description": "\"Inmobiliaria TECNOCASA VENDE en la calle Santa Teresa de Jesús una VIVIENDA completamente reformada. Estupenda vivienda que consta de dos habitaciones, salón, cocina y baño. Recientemente reformada que cuenta con ventanas de PVC y la instalación de calefacción individual de gas natural, lo que aporta confort y eficiencia durante todo el año. Se encuentra a tan solo 10 minutos andando del ayuntamiento de Santander y a 5 minutos del Paseo Pereda, una ubicación muy cómoda que destaca por su fácil acceso al centro y a las principales zonas de la ciudad, la cual está muy bien comunicada y con todo tipo de servicios cercanos, como farmacias, colegios e institutos, centros de salud y supermercados, facilitando el día a día sin necesidad prácticamente de desplazamientos. ¡Una vivienda lista para entrar a vivir, que está esperando a su nuevo propietario o inquilino para ser disfrutada! FINANCIAMOS HASTA EL 100 %. LLÁMENOS Y VENGA A VISITARLO.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3772.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Piso en calle Santa Teresa de Jesús"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110588331",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f1/fc/20/1409457989.webp",
+      "externalReference": "PAN0019",
+      "numPhotos": 14,
+      "floor": "1",
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 105.0,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Julián Ceballos",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3479326,
+      "longitude": -4.0511626,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110588331/",
+      "distance": "11570",
+      "description": "Desde Puerta al Norte Gestión Inmobiliaria te presentamos este céntrico piso en Torrelavega, situado en la calle Julián Ceballos, una de las vías más consolidadas y con más servicios de la ciudad. Se trata de una vivienda de 105 m² para reformar, con proyecto de reforma integral aprobado por el Ayuntamiento, que plantea una distribución muy cómoda con tres habitaciones, dos baños, salón-comedor y cocina, además de garaje y trastero en el mismo edificio, un valor añadido poco habitual en esta zona del centro. Su ubicación es uno de sus grandes atractivos: en pleno corazón de Torrelavega, con comercios, supermercados, farmacias, hostelería y transporte público a pocos metros. Una excelente oportunidad para quienes buscan estrenar vivienda en el centro, partiendo de una reforma ya diseñada y aprobada. Contacta con Puerta al Norte Gestión Inmobiliaria y agenda tu visita.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2381.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Julián Ceballos"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110586413",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ec/ff/2b/1410466462.webp",
+      "externalReference": "MIES663",
+      "numPhotos": 19,
+      "floor": "1",
+      "price": 129900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 129900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 89.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle del Monte",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4629706,
+      "longitude": -3.8132852,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110586413/",
+      "distance": "12048",
+      "description": "IMPORTANTE: Inmueble fuera de ordenación urbanística y por tanto no hipotecable. Mies de Rial presenta en exclusiva este piso en la calle del Monte, muy cerca de la Gota de Leche, una vivienda amplia y cómoda, bien distribuida en 3 habitaciones, salón, cocina y baño. Es muy luminoso y exterior, con orientación Norte y Sur donde tiene unas amplias vistas despejadas.  Muy cómodo ya que se trata de un primero de altura y con un coqueto balcón. Zona céntrica junto a la Biblioteca central y a un paseo del Ayuntamiento, con todos los servicios de vivir en el corazón de la ciudad. Ideal inversionistas, alta rentabilidad en alquiler.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1460.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Piso en calle del Monte"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110586461",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cf/32/87/1409404831.webp",
+      "externalReference": "2086",
+      "numPhotos": 17,
+      "floor": "1",
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Julián Ceballos",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3495638,
+      "longitude": -4.0537089,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110586461/",
+      "distance": "11585",
+      "description": "**Piso luminoso y acogedor en una ubicación inmejorable** Descubre este espectacular piso de 80 m² útiles, ideal para quienes buscan un hogar cómodo y bien ubicado. Con una distribución diáfana, este espacio se siente amplio y luminoso gracias a su orientación este, que permite disfrutar de la luz natural por las mañanas. La cocina independiente ofrece la privacidad necesaria para cocinar y compartir momentos en familia. El inmueble cuenta con tres dormitorios, perfectos para adaptarse a tus necesidades, ya sea como habitaciones, oficinas o espacios de almacenamiento. Además, la calefacción a gas natural garantiza un ambiente cálido durante los meses más fríos. Situado en la primera planta de un edificio con ascensor, el acceso es fácil y cómodo. No te preocupes por el almacenamiento, ya que incluye un trastero adicional. Y si tienes coche, la plaza de garaje está incluida en el precio, lo que añade un gran valor a esta propiedad. La ubicación es inmejorable, cerca de parques públicos, gimnasios, restaurantes, colegios y bancos. ¡No dejes pasar esta oportunidad de vivir en un lugar que lo tiene todo!",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2778.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Julián Ceballos"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110584903",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/66/60/b8/1409360002.webp",
+      "externalReference": "1434",
+      "numPhotos": 36,
+      "floor": "2",
+      "price": 133000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 133000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 83.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Julián Ceballos, 44",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3478606,
+      "longitude": -4.0461027,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110584903/",
+      "distance": "11297",
+      "description": "Piso de tres dormitorios con ascensor, en el centro de Torrelavega. ¿Buscas una inversión segura o crear el hogar de tus sueños en el corazón de Torrelavega? Presentamos este piso en la emblemática calle Julián Ceballos, recientemente remodelada y transformada en una moderna zona semipeatonal. Ubicación Privilegiada Situado en pleno centro, disfrutarás de la comodidad de tenerlo todo a un paso: colegios, comercios, servicios y la facilidad de un aparcamiento público justo al lado. Una zona con alta demanda de alquiler y revalorización garantizada. Características Principales •Segunda planta con ascensor (portal recién reformado a cota cero). •Edificio actualizado: Tejado reacondicionado y comunidad tranquila con pocos vecinos. •Distribución inteligente: Sus estancias ofrecen múltiples posibilidades para una reforma integral moderna y funcional. •Luminosidad: Orientación que garantiza luz natural, destacando sus dos terrazas cerradas con vistas a la nueva zona semipeatonal. •Configuración actual: 3 amplios dormitorios. Listo para empezar Olvídate de trámites farragosos: la vivienda ya cuenta con los suministros de agua y electricidad dados de alta. Es el momento perfecto para entrar con tu equipo de reforma y empezar a transformar este espacio. Ideal Inversores: Su ubicación estratégica y tipología lo convierten en una pieza clave para el mercado de alquiler, con una rentabilidad muy atractiva tras su rehabilitación. ¿Quieres venir a verlo? No dejes escapar la oportunidad de invertir en la calle de moda de Torrelavega. Contacta ahora para concertar una visita.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1602.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Julián Ceballos, 44"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110586192",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b2/12/fa/1409397028.webp",
+      "externalReference": "2925",
+      "numPhotos": 56,
+      "floor": "4",
+      "price": 255000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 255000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 104.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Raimundo Cicero Arteche",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "El Parque - Zapatón",
+      "country": "es",
+      "latitude": 43.3476129,
+      "longitude": -4.0513749,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110586192/",
+      "distance": "11608",
+      "description": "Exclusivo Duplex en el centro- Zona del Parque. Edificio del año 2007. Descubra este magnifico duplex ubicado en una de las mejores zonas del centro, junto al parque, ideal para quienes buscan comodidad, estilo y una ubicación privilegiada. La vivienda cuenta con ascensor y se distribuye en un amplio y luminoso salón-comedor, cocina equipada, dos dormitorios, vestidor y dos baños completos (ducha y bañera) Grandes ventanales. Magnificas vistas. Ademas incluye una plaza de garaje.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2452.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Parque - Zapatón, Torrelavega",
+        "title": "Dúplex en calle Raimundo Cicero Arteche"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110585946",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/80/07/21/1409388868.webp",
+      "externalReference": "010218",
+      "numPhotos": 34,
+      "floor": "6",
+      "price": 292000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 292000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 71.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Francisco Tomás y Valiente",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4400467,
+      "longitude": -3.8433131,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110585946/",
+      "distance": "8978",
+      "description": "En la calle Tomás y Valiente, junto al Corte Ingles en Santander, mostramos una preciosa vivienda seminueva en una urbanización privada con zonas verdes, parque infantil y piscina. La vivienda dispone de dos amplios dormitorios, el principal en suite, otro segundo baño con plato de ducha, cocina nueva, recibidor y un precioso y luminoso salón. Soleado y confortable, dispone además de garaje y trastero con acceso directo en ascensor. La urbanización y la vivienda es totalmente accesible. La zona dispone de transporte público, colegio, centro de salud, centros comerciales y deportivos, además de rápido acceso a la autovía. Un hogar cómodo, bonito y confortable.     Solicita tu cita en Inmobiliaria PAS Nuevopiso por teléfono o whatsapp en el número o si lo prefieres, pásate por nuestras oficinas en c/Jesús de monasterio nº 1, frente al Ayuntamiento de Santander.    El precio de venta no incluye impuestos, gastos de notaria y registro, ni el 2% más IVA de honorarios de la agencia.    Visita nuestra web pinchando en el logo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4113.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en calle Francisco Tomás y Valiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110584803",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/28/97/1e/1409354965.webp",
+      "externalReference": "009479",
+      "numPhotos": 20,
+      "price": 287000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 287000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 114.0,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "calle Herminio Fernández Caballero",
+      "province": "Cantabria",
+      "municipality": "El Astillero",
+      "country": "es",
+      "latitude": 43.4030909,
+      "longitude": -3.8386242,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110584803/",
+      "distance": "9421",
+      "description": "Se vende esta encantadora casa unifamiliar en Guarnizo, con una superficie de 114 m² y un amplio solar de 830 m². La vivienda cuenta con 4 habitaciones individuales más una habitación pequeñita la cual se puede destinar como despacho, vestidor, despensa. o incluso como ampliación de la habitación colindante, 1 baño, (la casa tiene posibilidad de hacer un segundo baño), calefacción de gas natural, carpintería exterior de pvc, cocina. La casa tiene sótano para darle uso como trastero. Se encuentra en buen estado de conservación, en una planta, con orientación ideal y mucha luminosidad. Además, dispone de puerta blindada. ¡No pierdas la oportunidad de adquirir esta acogedora casa en El Astillero!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2518.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Astillero",
+        "title": "Chalet en calle Herminio Fernández Caballero"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110581203",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4b/17/73/1409256303.webp",
+      "externalReference": "107",
+      "numPhotos": 36,
+      "floor": "bj",
+      "price": 280000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 280000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 73.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Playa de Usil",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4379877,
+      "longitude": -3.9697761,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110581203/",
+      "distance": "2199",
+      "description": "Desde Inmobiliaria Las Dunas les presentamos en exclusiva este bajo con terraza en Mogro. La vivienda se ubica en una urbanización con amplias zonas verdes. La vivienda consta de 73 m² const aprox, según el catastro, que se distribuyen en: Hall de entrada. Acogedor salón con acceso a la terraza - jardín. Cocina independiente con pequeño tendedero al Sur. 3 dormitorios. Baño con plato de ducha y ventana para una buena ventilación. La vivienda dispone de sistema de calefacción de gas natural, así como de una plaza de garaje y un amplio trastero para comodidad del día a día. Todo ello situado en un entorno natural junto a la desembocadura del río Pas y parque de las Dunas de Liencres. Cercano al campo de golf Abra del Pas. Excelente comunicación con la autovía Santander - Torrelavega. Oportunidad como vivienda habitual, segunda residencia o inversión.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3836.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Piso en calle Playa de Usil"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110584447",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/13/63/cf/1409343330.webp",
+      "externalReference": "PV/IP2553_V",
+      "numPhotos": 45,
+      "floor": "2",
+      "price": 319000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 319000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 83.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Camilo Alonso vega, 36",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4597047,
+      "longitude": -3.8267278,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110584447/",
+      "distance": "10905",
+      "description": "  Piso en venta en Floranes Valdecilla, Santander | 3 habitaciones, garaje y trasteroDesde Inmoprime21, tu inmobiliaria de confianza en Santander, presentamos este fantástico piso en venta en la zona de Floranes Valdecilla, una de las áreas más demandadas por su excelente ubicación y comunicaciones. La vivienda se sitúa en una segunda planta con ascensor, dentro de un edificio moderno, y cuenta con 84 m² construidos y 79 m² útiles, con una distribución cómoda y funcional. Se compone de: Salón-comedor luminoso 3 habitaciones amplias Cocina funcional Baño completo Balcón Incluye además plaza de garaje y trastero, dos extras muy valorados en la zona que aportan comodidad y espacio de almacenaje. La vivienda es ideal tanto para familias como para parejas que busquen espacio, confort y una ubicación estratégica. Dispone de excelentes comunicaciones, con estación de tren y paradas de autobús cercanas, además de todos los servicios a pie: supermercados, comercios, centros educativos, zonas sanitarias y ocio. Una oportunidad perfecta para adquirir una vivienda bien situada, con buena distribución y todos los elementos necesarios para una vida cómoda en Santander.  Contacta con Inmoprime21 para más información o para concertar una visita.      .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3843.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso en calle Camilo Alonso vega, 36"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110581973",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/03/97/f9/1409280362.webp",
+      "externalReference": "AP2851",
+      "numPhotos": 36,
+      "floor": "1",
+      "price": 415000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 415000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 130.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle de las Islas Canarias",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4612105,
+      "longitude": -3.8280046,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110581973/",
+      "distance": "10874",
+      "description": "En un edificio rodeado de Zonas Verdes, con todos los servicios alrededor, supermercados, comercios de todo tipo, colegios, instituto, a cinco minutos de Valdecilla y de los Juzgados, a 15 min andando del ayuntamiento ponemos a la venta este piso completamente exterior, con balcón al sur y terraza al norte.    Sus 130 m2 se reparten de la siguiente manera:    -Generoso recibidor    -Salón de 24 m con ventanal sur y dos puertas de salida al balcón    -Amplia Cocina totalmente equipada, con salida a terraza norte y acceso a hueco también ventilado que hoy día alberga la lavadora, la caldera, artículos de limpieza y también se le da uso como despensa    -4 habitaciones. 2 de ellas con salida al balcón sur     -2 baños completos. Uno con ducha y otro con bañera    No esperes más. SI estás buscando en Santander un piso amplio, luminoso, con todos los huecos exteriores junto a la calle principal José Hierro, pero separado de esta por unos jardines que le aislan del ruido, pide más información o visita a nuestra comercial Ana en el o visita nuestras oficinas situadas en la calle Navas de Tolosa 3 frente a la estación de autobuses.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3192.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso en calle de las Islas Canarias"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110580321",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/02/de/bd/1409226155.webp",
+      "externalReference": "0632",
+      "numPhotos": 21,
+      "floor": "2",
+      "price": 150000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 150000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 73.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Convento",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4653257,
+      "longitude": -3.8078513,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110580321/",
+      "distance": "12552",
+      "description": "Vivienda a reformar en Calle Convento – Ubicación privilegiada junto al Ayuntamiento Oportunidad única para crear la vivienda que siempre has imaginado en pleno corazón de la ciudad. Piso de 73 m² construidos, situado en segunda planta sin ascensor de un edificio tradicional de estructura de madera, con un gran potencial tras reforma. La vivienda se distribuye en salón, dos dormitorios, una alcoba, cocina independiente y baño. El salón y una de las habitaciones disfrutan de orientación sur, aportando luminosidad durante gran parte del día, desde el salón salimos a un balcón orientado al sur, mientras que el dormitorio principal y la cocina se orientan al norte, ofreciendo una distribución equilibrada y funcional. Ubicado en el mismo desembarco de la rampa mecánica que conecta directamente con el Ayuntamiento, lo que garantiza una accesibilidad excepcional y una localización estratégica, ideal tanto como residencia habitual como inversión. Además, el edificio tiene prevista la reforma de la cubierta, con la derrama ya pagada, un valor añadido que aporta tranquilidad y revaloriza el inmueble. Una vivienda con carácter, ubicación inmejorable y enormes posibilidades de personalización. Ideal para quienes buscan invertir o vivir en una zona céntrica con encanto histórico.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2055.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Piso en calle Convento"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110579903",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8d/69/0c/1409213736.webp",
+      "externalReference": "2089137",
+      "numPhotos": 18,
+      "floor": "3",
+      "price": 120000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 120000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 99.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Ceferino Calderón, 8 A",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Inmobiliaria - Barreda",
+      "country": "es",
+      "latitude": 43.3540181,
+      "longitude": -4.0468063,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110579903/",
+      "distance": "10840",
+      "description": "Inmobiliaria Blanco vende en el corazon de Torrelavega, este espacioso inmueble de 99 m2. ¡Ideal para inversores o familias que buscan crear su hogar a medida!   A pie de calle con todos los servicios (supermercados, colegios, transporte público, etc... ), lo que es perfecto para no depender del coche para la vida diaria. El inmueble se encuentra en una tercera planta (sin ascensor), lo que le otorga una gran entrada de luz natural y un ahorro significativo en los gastos fijos de comunidad. Distribución de la vivienda: - 3 Dormitorios: Amplios y con buena ventilación. - Salón-Comedor: Un espacio acogedor para disfrutar en familia, con salida al balcón. - Cocina Independiente: Funcional y con gran potencial para modernizar. - Baño y Aseo No dejes pasar esta ocasión de adquirir un inmueble con muchísimas posibilidades a un precio competitivo en una de las zonas más dinámicas de la ciudad. ¡Contacta ahora para concertar una visita!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1212.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Inmobiliaria - Barreda, Torrelavega",
+        "title": "Piso en calle Ceferino Calderón, 8 a"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110579139",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/61/9d/ca/1409184551.webp",
+      "externalReference": "Judith 618 625 842",
+      "numPhotos": 25,
+      "price": 355000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 355000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 186.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Bonio",
+      "province": "Cantabria",
+      "municipality": "Cudon",
+      "country": "es",
+      "latitude": 43.4095484,
+      "longitude": -4.0138281,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110579139/",
+      "distance": "5212",
+      "description": "¡TECNOCASA VENDE EN EXCLUSIVA!  Chalet Esquinero en Miengo (Cudón): Confort, Playa y Conectividad Acogedor chalet adosado en el municipio de Miengo, concretamente en la tranquila localidad de Cudón, situado a pocos minutos de las maravillosas playas de Cuchía, Usgo y Robayera. Esta propiedad es perfecta para disfrutar de la costa durante todo el año, encontrándose estratégicamente comunicada con la autovía para acceder a Torrelavega en solo 10 minutos o a Santander en 15 minutos. La vivienda, al ser esquinera y estar adosada únicamente por un lateral, destaca por su gran independencia, privacidad y luminosidad. Se distribuye en una planta principal de 63 metros cuadrados y una planta superior de 61 metros cuadrados, dentro de una urbanización muy tranquila con vistas despejadas. El interior fue reformado íntegramente hace ocho años con materiales de alta calidad, incluyendo una cocina moderna con electrodomésticos de primeras marcas, calefacción individual y ventanas climalit oscilobatientes con mosquiteras en todas las estancias para un aislamiento total. Dispone de tres dormitorios (dos de ellos conectados por una terraza corrida) y dos baños, de los cuales el de la planta baja ha sido totalmente actualizado y el de la planta superior cuenta con mampara nueva. La funcionalidad es máxima gracias a su garaje de 35 metros cuadrados con acceso directo a la vivienda y puerta automática con tres mandos originales. En el exterior, la propiedad ofrece dos patios de hormigón impreso de fácil mantenimiento. El patio trasero está equipado con un gran toldo eléctrico y una piscina desmontable que se entrega con su instalación completa, incluyendo depuradora de arena y cuadro eléctrico con diferencial específico. Una oportunidad única para entrar a vivir en un entorno privilegiado donde solo queda negociar qué enseres se mantienen en la vivienda.  ¡FINANCIAMOS HASTA EL 100%, CONSULTENOS!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1909.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cudon",
+        "title": "Chalet adosado en calle Bonio"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109173646",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/11/cb/8d/1366440946.webp",
+      "externalReference": "0616",
+      "numPhotos": 27,
+      "price": 400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 400000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 502.0,
+      "rooms": 8,
+      "bathrooms": 5,
+      "address": "Barrio Villabáñez-Carmen",
+      "province": "Cantabria",
+      "municipality": "Castañeda",
+      "country": "es",
+      "latitude": 43.3098326,
+      "longitude": -3.950079,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109173646/",
+      "distance": "12583",
+      "description": "Exclusiva casona señorial rehabilitada con jardín de más de 2.000 m² y anexos Ponemos a la venta una propiedad única, una casona de más de 500 m² construidos, distribuida en dos amplias plantas principales —cada una de más de 200 m²— y un bajo cubierta de más de 100 m² que da acceso a una espectacular terraza. La vivienda ha sido objeto de una rehabilitación integral llevada a cabo con las mejores calidades y bajo la dirección de un prestigioso arquitecto, que ha sabido conservar la esencia de la edificación original y al mismo tiempo dotarla de un diseño contemporáneo, elegante y funcional. Actualmente, la distribución interior se ha dejado totalmente diáfana, ofreciendo al futuro propietario la libertad de configurar los espacios a su medida y gusto. Uno de los elementos protagonistas de la reforma es la luz natural, que inunda cada rincón de la casona gracias a los amplios ventanales y a la cuidada orientación de la vivienda. Los volúmenes generosos, los techos altos y los espacios abiertos potencian esta luminosidad, creando un ambiente cálido, acogedor y lleno de posibilidades. La finca se completa con un maravilloso jardín privado de más de 2.000 m², un entorno verde y apacible que otorga intimidad y bienestar. Además, cuenta con dos edificaciones anexas, ideales para destinarlas a casa de invitados, zona de trabajo, garaje o espacios auxiliares según las necesidades. Se trata de una oportunidad excepcional para quienes buscan una propiedad singular, de carácter y con infinitas posibilidades de personalización, en un enclave privilegiado y con todo el potencial para convertirse en una residencia única.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 797.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castañeda",
+        "title": "Chalet pareado en Barrio Villabáñez-Carmen"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110578793",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d6/c0/b0/1409397509.webp",
+      "externalReference": "6229",
+      "numPhotos": 15,
+      "floor": "3",
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 78.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Leopoldo Pardo",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Castilla - Hermida",
+      "country": "es",
+      "latitude": 43.4564558,
+      "longitude": -3.8109263,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110578793/",
+      "distance": "11981",
+      "description": "Distrito Inmobiliario te ofrece esta gran oportunidad de tener tú vivienda a un paso del paseo de Pereda y del Centro Botín. En sus 78 m² encontramos 2 habitaciones, salón, cocina y un baño. La vivienda está para reformar. Dispone de calefacción individual de gas y 2 amplias terrazas. El edificio tiene ascensor a cota cero y portero físico.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3205.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castilla - Hermida, Santander",
+        "title": "Piso en calle Leopoldo Pardo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110578289",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/61/81/21/1409160917.webp",
+      "externalReference": "2707",
+      "numPhotos": 20,
+      "floor": "3",
+      "price": 290000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 290000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 101.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "CL SAN LUIS",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Numancia - San Fernando",
+      "country": "es",
+      "latitude": 43.4609208,
+      "longitude": -3.8181252,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110578289/",
+      "distance": "11601",
+      "description": "¡Descubre tu nuevo hogar en pleno centro de Santander! . Este piso reformado de 101 m² construidos y 88 m² útiles te ofrece la combinación perfecta de comodidad y estilo. Ubicado a pocos pasos de la emblemática plaza del Ayuntamiento, disfrutarás de una zona llana rodeada de servicios y áreas de ocio, ideal para vivir la vibrante vida urbana. El inmueble cuenta con tres dormitorios, perfectos para descansar y recargar energías. Además, el cuarto de baño está equipado con un moderno plato de ducha que añade un toque contemporáneo. La cocina, completamente equipada. El salón comedor, luminoso y acogedor, se abre a un balcón orientado al sur. Las ventanas de PVC y las puertas lacadas en blanco aportan un toque elegante y moderno, maximizando la luminosidad en todas las estancias.  Además, el piso incluye un práctico cuarto trastero dentro de la vivienda, facilitando el almacenaje y manteniendo todo en orden.  Este piso es una oportunidad única en el mercado inmobiliario. No dejes pasar la ocasión de vivir en un lugar que combina la historia, la modernidad y la comodidad. ¡Contáctanos para más información y ven a visitarlo! . Si quieres más información ponte en contacto con A3b Gestión Inmobiliaria, te guiaremos y asesoraremos en todo el proceso de compra.  Siéguenos en Instagram y Facebook!.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2871.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Numancia - San Fernando, Santander",
+        "title": "Piso en CL San Luis"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110578383",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d9/34/15/1409160670.webp",
+      "externalReference": "M-2566",
+      "numPhotos": 18,
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 54.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio la Esprilla",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.433411,
+      "longitude": -3.8920698,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110578383/",
+      "distance": "4975",
+      "description": "CASA INDEPENDIENTE CON TERRAZA DE 25 M² Distribuida en salón – comedor con chimenea de pellets, cocina amueblada y equipada, 2 dormitorios y baño. Bomba de calor - frío. Placas solares. Buen estado de conservación. Todas las orientaciones. Excelente ubicación. Situada en Igollo de Camargo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 4630.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente en Barrio la Esprilla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110570295",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f2/55/3c/1409088631.webp",
+      "numPhotos": 22,
+      "floor": "bj",
+      "price": 485000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 485000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 105.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Esteban de la Foz",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4703254,
+      "longitude": -3.8263768,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110570295/",
+      "distance": "11424",
+      "description": "**Piso en Venta en Monte, Santander - ¡Tu refugio ideal! ** Descubre este exclusivo piso en planta baja situado en la codiciada zona de Monte, Santander. Este hogar, construido en 2022, destaca por su excelente estado y acabados de alta calidad. Este luminoso inmueble, ofrece un amplio salón comedor luminoso con un generoso ventanal que inunda de luz natural cada rincón. La moderna cocina se complementa con tres cómodos dormitorios y dos baños completos, uno de ellos en suite, asegurando comodidad y privacidad para toda la familia. El verdadero lujo de esta propiedad se encuentra en su espectacular terraza y jardín privado. Imagina disfrutar de barbacoas y comidas al aire libre en un espacio diseñado para el relax y la convivencia. Además, la urbanización cuenta con una piscina y amplias zonas verdes, perfectas para disfrutar del entorno natural de la costa cántabra.  Incluye un amplio garaje y trastero.  Esta vivienda esta diseñadas con un fuerte compromiso hacia la sostenibilidad y el ahorro energético, gracias a su sistema de calefacción a través de aerotermia. Este es el estilo de vida privilegiado que mereces en un enclave único donde el lujo y el confort se fusionan. ¡No dejes pasar la oportunidad de vivir en este maravilloso hogar!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4619.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en Esteban de la Foz"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110577383",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6f/d2/a1/1409134066.webp",
+      "externalReference": "2697",
+      "numPhotos": 27,
+      "floor": "5",
+      "price": 340000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 340000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Juan de la Cosa",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4649022,
+      "longitude": -3.7915989,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110577383/",
+      "distance": "13761",
+      "description": "Descubre este encantador apartamento totalmente reformado, situado en una de las zonas más demandadas de la ciudad. Con una superficie de 50 m², este piso ofrece un ambiente moderno y acogedor, ideal para disfrutar de la vida urbana. A pocos pasos de Puerto Chico y la zona marítima, podrás disfrutar de paseos junto al mar y de la cercanía al nuevo museo MUPAC, un atractivo cultural que no te querrás perder. El apartamento cuenta con una habitación luminosa equipada con armario empotrado, perfecto para maximizar el espacio. El cuarto de baño, con plato de ducha y ventana, proporciona comodidad y funcionalidad. La cocina independiente está totalmente equipada. El salón comedor es el lugar ideal para relajarte o recibir a tus amigos.  Antes de la reforma la vivienda contaba con dos habitaciones y existe la posibilidad de volver a hacer dos dormitorios si se hace el salón con cocina abierta y en el huevo d ela cocina se pone la segunda habitación. Con ventanas de PVC que garantizan un excelente aislamiento y puertas lacadas en blanco que aportan un toque elegante, este piso combina estilo y confort.  Situado en una zona llana y cercana al mar, también disfrutarás de fácil acceso a todo tipo de servicios y zonas de ocio. Además, cuenta con calefacción y se encuentra en la quinta planta con ascensor.  ¡No dejes pasar esta oportunidad única de vivir en un lugar excepcional! . Si quieres más información ponte en contacto con A3b Gestión Inmobiliaria, te guiaremos y asesoraremos en todo el proceso de compra.  Siéguenos en Instagram y Facebook!.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 6800.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Piso en calle Juan de la Cosa"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 1756,
+  "totalPages": 36,
+  "actualPage": 3,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar casas y pisos en Boo, Piélagos",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 150,
+  "lowerRangePosition": 100,
+  "paginable": true
+}
