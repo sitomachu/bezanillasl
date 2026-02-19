@@ -6,7 +6,7 @@ import time
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
-from typing import Any, Dict, List, Set, Tuple
+from typing import Any, Dict, List, Optional, Set, Tuple
 
 from src.ingestion.clean_idealista import clean_json_run
 from src.ingestion.client import IdealistaClient
@@ -19,12 +19,10 @@ RAW_BASE = Path("data/raw/idealista")
 PROCESSED_BASE = Path("data/processed/idealista")
 
 DEFAULT_DISTANCE_M = 18000
-MAX_ITEMS = 50  # Idealista search: max 50
-SLEEP_S = 0.2   # pequeño delay por cortesía
+MAX_ITEMS = 50
+SLEEP_S = 0.2
 
-# Prioridad "Bezana-like" (repetidos) + Santander volumen + costa complementaria.
 DEFAULT_CIRCLES: List[Tuple[str, str, int]] = [
-    # --- PRIORIDAD BEZANA-LIKE (repetidos) ---
     ("SantaCruzDeBezana", "43.4435,-3.9036", 12000),
     ("SantaCruzDeBezana", "43.4435,-3.9036", 12000),
     ("SantaCruzDeBezana", "43.4435,-3.9036", 12000),
@@ -41,15 +39,12 @@ DEFAULT_CIRCLES: List[Tuple[str, str, int]] = [
     ("Camargo_Muriedas", "43.4150,-3.8540", 14000),
     ("Camargo_Muriedas", "43.4150,-3.8540", 14000),
 
-    # --- VOLUMEN (Santander) ---
     ("Santander", "43.4623,-3.8099", 18000),
     ("Santander", "43.4623,-3.8099", 18000),
 
-    # --- COSTA CERCANA COMPLEMENTARIA ---
     ("Somo", "43.4470,-3.7450", 14000),
     ("Suances", "43.4260,-4.0430", 14000),
 
-    # --- COSTA LEJANA (baja prioridad, 1 vez) ---
     ("Laredo", "43.4090,-3.4160", 16000),
     ("CastroUrdiales", "43.3830,-3.2140", 16000),
 ]
@@ -60,6 +55,14 @@ class Circle:
     name: str
     center: str  # "lat,lon"
     distance_m: int
+
+
+@dataclass
+class CircleState:
+    circle: Circle
+    next_page: int = 1
+    exhausted: bool = False
+    bad_streak: int = 0  # consecutive “bad yield” pages
 
 
 def _ensure_dir(p: Path) -> None:
@@ -75,13 +78,6 @@ def _write_json(path: Path, payload: Dict[str, Any]) -> None:
 
 
 def _load_circles_from_file(path: Path, default_distance: int) -> List[Circle]:
-    """
-    Formato esperado:
-    [
-      {"name": "Santander", "center": "43.4623,-3.8099", "distance_m": 18000},
-      ...
-    ]
-    """
     data = json.loads(path.read_text(encoding="utf-8"))
     circles: List[Circle] = []
     for it in data:
@@ -96,10 +92,6 @@ def _load_circles_from_file(path: Path, default_distance: int) -> List[Circle]:
 
 
 def _default_circles(default_distance: int) -> List[Circle]:
-    """
-    Si en algún momento quieres hacer distance dinámico, puedes poner distance_m=None
-    en DEFAULT_CIRCLES y heredará default_distance.
-    """
     circles: List[Circle] = []
     for (n, c, d) in DEFAULT_CIRCLES:
         dist = d if d is not None else default_distance
@@ -107,9 +99,48 @@ def _default_circles(default_distance: int) -> List[Circle]:
     return circles
 
 
+def _dedupe_circles_keep_first(circles: List[Circle]) -> List[Circle]:
+    """
+    Remove exact duplicates by (center, distance_m). Keeps the first occurrence (priority).
+    """
+    seen: Set[Tuple[str, int]] = set()
+    out: List[Circle] = []
+    for c in circles:
+        key = (c.center.strip(), int(c.distance_m))
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(c)
+    return out
+
+
 def _is_full_page(resp: Dict[str, Any], max_items: int) -> bool:
     el = resp.get("elementList") or []
     return isinstance(el, list) and len(el) >= max_items
+
+
+def _safe_property_key(it: Dict[str, Any]) -> Optional[str]:
+    """
+    Primary dedupe key: propertyCode.
+    Fallback: deterministic hash of a few stable-ish fields when propertyCode is missing.
+    """
+    code = str((it or {}).get("propertyCode", "")).strip()
+    if code:
+        return f"pc:{code}"
+
+    price = (it or {}).get("price")
+    size = (it or {}).get("size")
+    lat = (it or {}).get("latitude")
+    lon = (it or {}).get("longitude")
+    addr = (it or {}).get("address") or (it or {}).get("streetName") or ""
+    if price is None and size is None and (lat is None or lon is None) and not addr:
+        return None
+
+    s = f"{price}|{size}|{lat}|{lon}|{str(addr).strip().lower()}"
+    h = 0
+    for ch in s:
+        h = (h * 131 + ord(ch)) % 2_147_483_647
+    return f"fb:{h}"
 
 
 def _search_one(
@@ -122,16 +153,13 @@ def _search_one(
 ) -> Dict[str, Any]:
     resp = client.search(
         country="es",
-        operation="rent",          # alquiler
-        property_type="homes",     # viviendas
+        operation="rent",
+        property_type="homes",
         num_page=page,
         max_items=MAX_ITEMS,
         center=circle.center,
         distance=circle.distance_m,
-        extra_params={
-            "order": "publicationDate",
-            "sort": "desc",
-        },
+        extra_params={"order": "publicationDate", "sort": "desc"},
     )
     _write_json(raw_dir / f"{tag}__{circle.name}__p{page:03d}.json", resp)
     time.sleep(SLEEP_S)
@@ -145,16 +173,17 @@ def run(
     max_pages_per_circle: int,
     adaptive_pages: bool,
     output_csv_name: str,
+    # duplicate control knobs
+    min_new_items_to_continue: int = 5,
+    stop_if_dup_ratio_ge: float = 0.85,
+    stop_after_consecutive_bad_pages: int = 2,
 ) -> Path:
     """
-    Ejecuta llamadas hasta agotar presupuesto de requests.
-    Este script SOLO descarga JSON y delega JSON->CSV a clean_idealista.py.
-
-    Estrategia:
-      - Recorre círculos (sesgo Bezana-like/costa).
-      - Pide página 1 siempre.
-      - Si adaptive_pages: solo pide páginas 2..N si la página anterior vino llena (50 items).
-      - Dedup global por propertyCode durante el run (para no inflar memoria / repetidos).
+    Duplicate-minimizing strategy:
+      - Deduplicate circles by (center, distance_m)
+      - Keep per-circle next_page state (never restart at page 1 for same circle)
+      - Stop a circle early when it mostly returns duplicates / too few new items
+      - Still uses publicationDate desc to preserve “quality” (recentness)
     """
     client = IdealistaClient()
 
@@ -164,6 +193,9 @@ def run(
     _ensure_dir(raw_dir)
     _ensure_dir(out_dir)
 
+    circles = _dedupe_circles_keep_first(circles)
+    states: List[CircleState] = [CircleState(circle=c) for c in circles]
+
     manifest = {
         "run_id": rid,
         "operation": "rent",
@@ -171,76 +203,94 @@ def run(
         "max_requests": max_requests,
         "max_pages_per_circle": max_pages_per_circle,
         "adaptive_pages": adaptive_pages,
-        "circles": [circle.__dict__ for circle in circles],
+        "circles_effective": [s.circle.__dict__ for s in states],
         "output_csv_name": output_csv_name,
+        "anti_duplicates": {
+            "min_new_items_to_continue": min_new_items_to_continue,
+            "stop_if_dup_ratio_ge": stop_if_dup_ratio_ge,
+            "stop_after_consecutive_bad_pages": stop_after_consecutive_bad_pages,
+            "dedupe_circles_by": "(center, distance_m)",
+            "pagination_state": "per-circle next_page",
+        },
     }
     _write_json(raw_dir / "manifest.json", manifest)
 
     used = 0
-    seen: Set[str] = set()
+    seen_keys: Set[str] = set()
 
-    circle_idx = 0
-    while used < max_requests:
-        circle = circles[circle_idx % len(circles)]
-        circle_idx += 1
+    idx = 0
+    active_left = sum(1 for s in states if not s.exhausted)
 
-        # -------- Página 1 --------
-        if used >= max_requests:
-            break
+    while used < max_requests and active_left > 0:
+        st = states[idx % len(states)]
+        idx += 1
+
+        if st.exhausted:
+            continue
+
+        if st.next_page > max_pages_per_circle:
+            st.exhausted = True
+            active_left = sum(1 for s in states if not s.exhausted)
+            continue
+
+        tag = f"req{used+1:03d}"
+        page = st.next_page
+
         try:
-            resp1 = _search_one(client, circle=circle, page=1, raw_dir=raw_dir, tag=f"req{used+1:03d}")
+            resp = _search_one(client, circle=st.circle, page=page, raw_dir=raw_dir, tag=tag)
         except Exception as e:
             _write_json(
-                raw_dir / f"req{used+1:03d}__ERROR.json",
-                {"error": str(e), "circle": circle.__dict__, "page": 1},
+                raw_dir / f"{tag}__ERROR.json",
+                {"error": str(e), "circle": st.circle.__dict__, "page": page},
             )
             used += 1
             continue
 
         used += 1
 
-        el1 = resp1.get("elementList") or []
-        if isinstance(el1, list):
-            for it in el1:
-                code = str((it or {}).get("propertyCode", ""))
-                if code:
-                    seen.add(code)
+        el = resp.get("elementList") or []
+        if not isinstance(el, list) or not el:
+            st.exhausted = True
+            active_left = sum(1 for s in states if not s.exhausted)
+            continue
 
-        # -------- Páginas extra (2..N) --------
-        resp_prev = resp1
-        for page in range(2, max_pages_per_circle + 1):
-            if used >= max_requests:
-                break
+        # Count new vs duplicates for this page
+        new_items = 0
+        dup_items = 0
+        total_considered = 0
 
-            if adaptive_pages and not _is_full_page(resp_prev, MAX_ITEMS):
-                break
+        for it in el:
+            key = _safe_property_key(it)
+            if not key:
+                # Can't dedupe reliably; keep data but don't count as "new"
+                continue
+            total_considered += 1
+            if key in seen_keys:
+                dup_items += 1
+                continue
+            seen_keys.add(key)
+            new_items += 1
 
-            try:
-                resp_prev = _search_one(
-                    client,
-                    circle=circle,
-                    page=page,  # <-- FIX CRÍTICO: aquí era page=1 en tu versión
-                    raw_dir=raw_dir,
-                    tag=f"req{used+1:03d}",
-                )
-            except Exception as e:
-                _write_json(
-                    raw_dir / f"req{used+1:03d}__ERROR.json",
-                    {"error": str(e), "circle": circle.__dict__, "page": page},
-                )
-                used += 1
-                break
+        dup_ratio = (dup_items / total_considered) if total_considered > 0 else 1.0
 
-            used += 1
+        # Adaptive stop: if API says it's not a full page, inventory likely exhausted for that query
+        if adaptive_pages and not _is_full_page(resp, MAX_ITEMS):
+            st.exhausted = True
+            active_left = sum(1 for s in states if not s.exhausted)
+            continue
 
-            el = resp_prev.get("elementList") or []
-            if isinstance(el, list):
-                for it in el:
-                    code = str((it or {}).get("propertyCode", ""))
-                    if code:
-                        seen.add(code)
-            else:
-                break
+        # Duplicate-aware stop
+        is_bad = (new_items < min_new_items_to_continue) or (dup_ratio >= stop_if_dup_ratio_ge)
+        st.bad_streak = (st.bad_streak + 1) if is_bad else 0
+
+        if st.bad_streak >= stop_after_consecutive_bad_pages:
+            st.exhausted = True
+            active_left = sum(1 for s in states if not s.exhausted)
+            continue
+
+        # If still active, advance page for this circle
+        st.next_page += 1
+        active_left = sum(1 for s in states if not s.exhausted)
 
     # --------------------------
     # Postprocesado: JSON -> CSV
@@ -256,10 +306,21 @@ def run(
 
     summary = {
         "used_requests": used,
-        "unique_property_codes_seen": len(seen),
+        "unique_keys_seen": len(seen_keys),
         "raw_dir": str(raw_dir),
         "processed_dir": str(out_dir),
         "csv_path": str(csv_path),
+        "circle_states": [
+            {
+                "name": s.circle.name,
+                "center": s.circle.center,
+                "distance_m": s.circle.distance_m,
+                "next_page_final": s.next_page,
+                "exhausted": s.exhausted,
+                "bad_streak": s.bad_streak,
+            }
+            for s in states
+        ],
     }
     _write_json(out_dir / "summary.json", summary)
 
@@ -268,19 +329,24 @@ def run(
 
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
-        description="Idealista: requests automáticos para ALQUILER (homes) priorizando zona Bezana-like en Cantabria"
+        description="Idealista: duplicate-minimizing requests for RENT (homes) in Cantabria"
     )
-    p.add_argument("--max-requests", type=int, default=100, help="Presupuesto de requests (por defecto 100)")
-    p.add_argument("--max-pages-per-circle", type=int, default=3, help="Máx páginas por círculo (1-3 recomendado)")
-    p.add_argument("--no-adaptive-pages", action="store_true", help="Si se activa, siempre intentará páginas 1..N")
-    p.add_argument("--distance", type=int, default=DEFAULT_DISTANCE_M, help="Radio por defecto (m)")
-    p.add_argument("--circles-file", type=str, default=None, help="JSON con círculos (name/center/distance_m)")
+    p.add_argument("--max-requests", type=int, default=100)
+    p.add_argument("--max-pages-per-circle", type=int, default=5, help="More pages -> more uniques until exhausted")
+    p.add_argument("--no-adaptive-pages", action="store_true")
+    p.add_argument("--distance", type=int, default=DEFAULT_DISTANCE_M)
+    p.add_argument("--circles-file", type=str, default=None)
     p.add_argument(
         "--output-csv",
         type=str,
         default="rent_homes_cantabria_bezana_like_raw.csv",
-        help="Nombre del CSV en data/processed/idealista/<run>/",
     )
+
+    # knobs
+    p.add_argument("--min-new-items", type=int, default=5)
+    p.add_argument("--stop-if-dup-ratio-ge", type=float, default=0.85)
+    p.add_argument("--stop-after-bad-pages", type=int, default=2)
+
     return p
 
 
@@ -298,9 +364,12 @@ def main() -> int:
         max_pages_per_circle=max(1, int(args.max_pages_per_circle)),
         adaptive_pages=(not args.no_adaptive_pages),
         output_csv_name=str(args.output_csv),
+        min_new_items_to_continue=max(0, int(args.min_new_items)),
+        stop_if_dup_ratio_ge=float(args.stop_if_dup_ratio_ge),
+        stop_after_consecutive_bad_pages=max(1, int(args.stop_after_bad_pages)),
     )
 
-    print(f"OK. Resultados en: {out_dir.resolve()}")
+    print(f"OK. Results in: {out_dir.resolve()}")
     return 0
 
 
