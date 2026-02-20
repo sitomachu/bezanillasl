@@ -1,15 +1,23 @@
 # Idealista API User Guide
 
-Guia operativa para ejecutar los runners de Idealista en este repositorio.
+Guia operativa del modulo `src/idealistaAPI` con la estructura actual.
 
 ## 1. Requisitos
 
 - Python 3.10+
-- Credenciales de API Idealista:
+- Credenciales de Idealista:
   - `IDEALISTA_CLIENT_ID`
   - `IDEALISTA_CLIENT_SECRET`
 
-## 2. Variables de entorno
+## 2. Instalacion de dependencias
+
+Desde la raiz del repo:
+
+```bash
+pip install -r src/idealistaAPI/requirements.txt
+```
+
+## 3. Variables de entorno
 
 ### Windows (PowerShell)
 
@@ -19,7 +27,7 @@ $env:IDEALISTA_CLIENT_SECRET="TU_CLIENT_SECRET"
 $env:PYTHONPATH="."
 ```
 
-### macOS / Linux
+### macOS / Linux (bash/zsh)
 
 ```bash
 export IDEALISTA_CLIENT_ID="TU_CLIENT_ID"
@@ -27,79 +35,94 @@ export IDEALISTA_CLIENT_SECRET="TU_CLIENT_SECRET"
 export PYTHONPATH="."
 ```
 
-## 3. Test de conectividad
+### Verificar variables de entorno
+
+Windows (PowerShell):
 
 ```powershell
-python -m src.ingestion.test_one_request
+echo $env:IDEALISTA_CLIENT_ID
+echo $env:IDEALISTA_CLIENT_SECRET
+echo $env:PYTHONPATH
 ```
 
-Si falla auth, revisa credenciales. Si falla import de `src`, revisa `PYTHONPATH`.
+macOS / Linux:
 
-## 4. Ejecucion de runners
-
-### Venta (run nuevo)
-
-```powershell
-python src/ingestion/run_sale_requests.py --max-requests 100
+```bash
+echo $IDEALISTA_CLIENT_ID
+echo $IDEALISTA_CLIENT_SECRET
+echo $PYTHONPATH
 ```
 
-### Alquiler (run nuevo)
+## 4. Test de conectividad
 
-```powershell
-python src/ingestion/run_rent_requests.py --max-requests 100
+```bash
+python -m src.idealistaAPI.ingestion.test_one_request
 ```
 
-### Resume alquiler (ultimo run)
+## 5. Runners principales
 
-```powershell
-python src/ingestion/resume_rent_requests.py --max-requests 100
+### Run nuevo de venta
+
+```bash
+python src/idealistaAPI/ingestion/run_sale_requests.py --max-requests 100
 ```
 
-## 5. Parametros comunes
+### Run nuevo de alquiler
 
-- `--max-requests`: tope total de requests en el run.
+```bash
+python src/idealistaAPI/ingestion/run_rent_requests.py --max-requests 100
+```
+
+### Resume del ultimo run de alquiler
+
+```bash
+python src/idealistaAPI/ingestion/resume_rent_requests.py --max-requests 100
+```
+
+## 6. Parametros comunes
+
+- `--max-requests`: limite total de requests del run.
 - `--max-pages-per-circle`: paginas maximas por circulo.
-- `--output-csv`: nombre del CSV final.
+- `--output-csv`: nombre del CSV de salida.
 - `--no-adaptive-pages`: no cortar por pagina parcial.
 
 Ejemplo:
 
-```powershell
-python src/ingestion/run_rent_requests.py --max-requests 100 --max-pages-per-circle 25 --output-csv rent_custom.csv
+```bash
+python src/idealistaAPI/ingestion/run_rent_requests.py --max-requests 100 --max-pages-per-circle 25 --output-csv rent_custom.csv
 ```
 
-## 6. Estructura de salida
+## 7. Estructura de salida
 
-Para cada run:
+Por cada run:
 
 - `data/raw/idealista/<operation>_homes_run_<timestamp>/manifest.json`
 - `data/raw/idealista/<operation>_homes_run_<timestamp>/reqXXX__<circle>__pYYY.json`
 - `data/processed/idealista/<operation>_homes_run_<timestamp>/<output_csv>.csv`
 - `data/processed/idealista/<operation>_homes_run_<timestamp>/summary.json`
 
-## 7. Regla de parada por cupo
+## 8. Regla de parada por cupo
 
-Cuando la API devuelve error de cupo/rate limit:
+Si la API devuelve cupo agotado/rate limit:
 
-1. Se detiene el runner.
+1. El runner se detiene.
 2. Se guarda `reqXXX__STOP_QUOTA.json` en `raw`.
-3. Se vuelca estado final en `summary.json`.
+3. Se escribe el estado final en `summary.json`.
 
-Esto evita gastar reintentos inutiles cuando no hay cuota disponible.
+## 9. Estructura actual del modulo
 
-## 8. Arquitectura actual de ingestion
-
-- `src/idealistaAPI/config/idealista.py`: defaults centralizados.
+- `src/idealistaAPI/config/idealista.py`: configuracion central.
 - `src/idealistaAPI/ingestion/api_types.py`: tipos de respuesta.
 - `src/idealistaAPI/ingestion/client.py`: OAuth + `search`.
-- `src/idealistaAPI/ingestion/services/request_service.py`: logica de run y resume.
+- `src/idealistaAPI/ingestion/services/request_service.py`: logica de run/resume.
 - `src/idealistaAPI/ingestion/run_*_requests.py`: CLIs.
+- `src/idealistaAPI/processing/clean_idealista.py`: JSON -> CSV.
 
-## 9. Troubleshooting rapido
+## 10. Troubleshooting
 
-- `ModuleNotFoundError: No module named 'src'`
-  - Define `PYTHONPATH=.`
-- `Auth fallida (401/403)`
-  - Credenciales invalidas o expiradas.
-- Stop temprano sin llegar a max requests
-  - Puede ser agotamiento real de paginas o cupo API (ver `summary.json`).
+- `ModuleNotFoundError: No module named 'src'`:
+  - Define `PYTHONPATH=.`.
+- `Auth fallida (401/403)`:
+  - Revisa `IDEALISTA_CLIENT_ID` y `IDEALISTA_CLIENT_SECRET`.
+- El run para antes de `max-requests`:
+  - Revisar `summary.json` para distinguir agotamiento de paginas vs cupo API.
