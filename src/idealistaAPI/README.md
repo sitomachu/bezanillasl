@@ -1,6 +1,6 @@
-# BezanillaSL --> Idealista API Ingestion
+# BezanillaSL --> Módulo de conexión con API Idealista
 
-Módulo para ingesta y analisis de datos inmobiliarios (Idealista + fuentes publicas) orientado a casos de negocio en Cantabria.
+Módulo para ingesta de datos inmobiliarios de Idealista orientado a casos de negocio en Cantabria.
 
 ## Setup rapido
 
@@ -22,22 +22,32 @@ $env:PYTHONPATH="."
 ## Estructura relevante
 
 ```text
-src/
-  config/
-    idealista.py                # Config central (paths, max_items, circulos)
-  ingestion/
-    client.py                   # Cliente OAuth + search API
-    api_types.py                # TypedDicts de respuestas API
-    services/
-      request_service.py        # Logica de ejecucion y resume
-    run_sale_requests.py        # CLI venta
-    run_rent_requests.py        # CLI alquiler
-    resume_rent_requests.py     # CLI resume ultimo alquiler
-  processing/
-    clean_idealista.py          # JSON -> CSV
-data/
-  raw/idealista/...             # JSON crudos por run
-  processed/idealista/...       # CSV + summary.json por run
+├── data/
+│   ├── raw/
+│   │   └── idealista/                      # JSON crudos versionados por ejecución.
+│   │
+│   └── processed/
+│       └── idealista/                      # CSV consolidados + summary.json por run.
+│
+├── src/
+│   └── idealistaAPI/                       # Módulo completo de integración con API Idealista.
+│       │
+│       ├── config/                         # Configuración central del módulo.
+│       │   └── idealista.py                # Paths, max_items, definición de círculos geográficos.
+│       │
+│       ├── ingestion/                      # Capa de ingesta (descarga desde API).
+│       │   ├── client.py                   # Cliente OAuth2 + conexión con Search API.
+│       │   ├── api_types.py                # TypedDicts de respuestas API.
+│       │   │
+│       │   ├── services/
+│       │   │   └── request_service.py      # Lógica de ejecución, paginación y resume.
+│       │   │
+│       │   ├── run_sale_requests.py        # CLI para descarga mercado de venta.
+│       │   ├── run_rent_requests.py        # CLI para descarga mercado de alquiler.
+│       │   └── resume_rent_requests.py     # CLI para reanudar última ejecución alquiler.
+│       │
+│       └── processing/                     # Capa de transformación.
+│           └── clean_idealista.py          # Conversión JSON raw → CSV estructurado.
 ```
 
 ## Flujos principales
