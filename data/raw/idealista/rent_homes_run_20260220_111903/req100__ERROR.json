@@ -1,0 +1,9 @@
+{
+  "error": "Fallo tras reintentos llamando https://api.idealista.com/3.5/es/search: None",
+  "circle": {
+    "name": "Suances",
+    "center": "43.4260,-4.0430",
+    "distance_m": 14000
+  },
+  "page": 10
+}

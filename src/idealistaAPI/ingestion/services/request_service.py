@@ -120,6 +120,16 @@ def _active_states(states: List[CircleState], max_pages_per_circle: int) -> List
     return out
 
 
+def _active_states_force(
+    states: List[CircleState],
+    max_pages_per_circle: int,
+    force_max_requests: bool,
+) -> List[CircleState]:
+    if force_max_requests:
+        return [st for st in states if not st.exhausted]
+    return _active_states(states, max_pages_per_circle)
+
+
 def _pick_state(states: List[CircleState]) -> CircleState:
     return min(states, key=lambda s: (s.requests, s.next_page, s.circle.name))
 
@@ -183,6 +193,7 @@ def run_new(
     max_pages_per_circle: int,
     output_csv_name: str,
     no_adaptive_pages: bool = False,
+    force_max_requests: bool = False,
 ) -> Path:
     client = IdealistaClient()
     run_id = _run_id()
@@ -211,7 +222,7 @@ def run_new(
     quota_error: Optional[str] = None
 
     while used < max_requests:
-        active = _active_states(states, max_pages_per_circle)
+        active = _active_states_force(states, max_pages_per_circle, force_max_requests)
         if not active:
             break
 
@@ -246,13 +257,14 @@ def run_new(
         st.requests += 1
         st.next_page += 1
 
-        element_list = resp.get("elementList") or []
-        if not element_list:
-            st.exhausted = True
-            continue
+        if not force_max_requests:
+            element_list = resp.get("elementList") or []
+            if not element_list:
+                st.exhausted = True
+                continue
 
-        if (not no_adaptive_pages) and (not _is_full_page(resp)):
-            st.exhausted = True
+            if (not no_adaptive_pages) and (not _is_full_page(resp)):
+                st.exhausted = True
 
     csv_path: Optional[Path]
     try:
@@ -281,7 +293,17 @@ def _load_resume_state(raw_dir: Path) -> Tuple[Dict[str, Any], List[CircleState]
         raise FileNotFoundError(f"No existe manifest.json en {manifest_path}")
 
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
-    circles = [Circle(**c) for c in manifest.get("circles_effective", [])]
+    raw_circles = manifest.get("circles_effective") or manifest.get("circles") or []
+    if (not raw_circles) and manifest.get("circle_states"):
+        raw_circles = [
+            {
+                "name": c.get("name"),
+                "center": c.get("center"),
+                "distance_m": c.get("distance_m"),
+            }
+            for c in manifest.get("circle_states", [])
+        ]
+    circles = [Circle(**c) for c in raw_circles if c.get("name") and c.get("center") and c.get("distance_m") is not None]
     circles = _dedupe_circles_keep_first(circles)
     by_name = {c.name: CircleState(circle=c) for c in circles}
 
@@ -314,6 +336,7 @@ def run_resume_latest_rent(
     max_pages_per_circle_override: Optional[int] = None,
     output_csv_override: Optional[str] = None,
     no_adaptive_pages: bool = False,
+    force_max_requests: bool = True,
 ) -> Path:
     client = IdealistaClient()
     raw_dir = _find_latest_rent_raw_dir()
@@ -331,7 +354,7 @@ def run_resume_latest_rent(
     quota_error: Optional[str] = None
 
     while used < max_requests:
-        active = _active_states(states, max_pages_per_circle)
+        active = _active_states_force(states, max_pages_per_circle, force_max_requests)
         if not active:
             break
 
@@ -372,13 +395,14 @@ def run_resume_latest_rent(
         st.requests += 1
         st.next_page += 1
 
-        element_list = resp.get("elementList") or []
-        if not element_list:
-            st.exhausted = True
-            continue
+        if not force_max_requests:
+            element_list = resp.get("elementList") or []
+            if not element_list:
+                st.exhausted = True
+                continue
 
-        if (not no_adaptive_pages) and (not _is_full_page(resp)):
-            st.exhausted = True
+            if (not no_adaptive_pages) and (not _is_full_page(resp)):
+                st.exhausted = True
 
     csv_path: Optional[Path]
     try:
@@ -403,3 +427,8 @@ def add_common_args(parser: argparse.ArgumentParser, *, default_csv: str) -> Non
     parser.add_argument("--max-pages-per-circle", type=int, default=20)
     parser.add_argument("--output-csv", type=str, default=default_csv)
     parser.add_argument("--no-adaptive-pages", action="store_true")
+    parser.add_argument(
+        "--force-max-requests",
+        action="store_true",
+        help="Consume requests until max-requests even if pages are empty/partial.",
+    )

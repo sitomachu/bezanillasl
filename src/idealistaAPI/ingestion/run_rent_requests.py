@@ -19,6 +19,7 @@ def main() -> int:
         max_pages_per_circle=max(1, int(args.max_pages_per_circle)),
         output_csv_name=str(args.output_csv),
         no_adaptive_pages=bool(args.no_adaptive_pages),
+        force_max_requests=bool(args.force_max_requests),
     )
     print(f"OK. Results in: {out_dir.resolve()}")
     return 0
