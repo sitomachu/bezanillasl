@@ -1,4 +1,4 @@
-from __future__ import annotations
+﻿from __future__ import annotations
 
 import argparse
 import json
@@ -79,7 +79,7 @@ def _is_quota_exhausted_error(exc: Exception) -> bool:
         "limit exceeded",
         "monthly",
         "limite",
-        "límite",
+        "li­mite",
         "cupo",
         "429",
         "403",
@@ -103,26 +103,6 @@ def _safe_property_key(it: Dict[str, Any]) -> Optional[str]:
     for ch in s:
         h = (h * 131 + ord(ch)) % 2_147_483_647
     return f"fb:{h}"
-
-
-def _count_unique_keys_seen(raw_dir: Path) -> int:
-    seen: Set[str] = set()
-    for fp in sorted(raw_dir.glob("req*.json")):
-        try:
-            payload = json.loads(fp.read_text(encoding="utf-8"))
-        except Exception:
-            continue
-        el = payload.get("elementList") or []
-        if not isinstance(el, list):
-            continue
-        for it in el:
-            if not isinstance(it, dict):
-                continue
-            k = _safe_property_key(it)
-            if k:
-                seen.add(k)
-    return len(seen)
-
 
 def _search_one(
     client: IdealistaClient,
