@@ -5,6 +5,7 @@ import time
 import typing as t
 import requests
 
+from src.idealistaAPI.ingestion.api_types import SearchResponse
 
 class IdealistaAuthError(RuntimeError):
     """Errores relacionados con credenciales / autenticación."""
@@ -193,7 +194,7 @@ class IdealistaClient:
         distance: int | None = None,
         location_id: str | None = None,
         extra_params: dict[str, t.Any] | None = None,
-    ) -> dict[str, t.Any]:
+    ) -> SearchResponse:
         """
         Ejecuta una búsqueda Idealista.
 
@@ -255,4 +256,5 @@ class IdealistaClient:
         if not r.ok:
             raise IdealistaAPIError(f"Search error ({r.status_code}): {r.text}")
 
-        return r.json()
+        payload: SearchResponse = t.cast(SearchResponse, r.json())
+        return payload

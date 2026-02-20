@@ -1,7 +1,7 @@
 from pathlib import Path
 import json
 
-from src.ingestion.client import IdealistaClient  # <- según tu estructura actual
+from src.idealistaAPI.ingestion.client import IdealistaClient
 
 def main():
     client = IdealistaClient()

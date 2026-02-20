@@ -6,9 +6,7 @@ from typing import Any, Dict, List
 
 import pandas as pd
 
-
-RAW_BASE = Path("data/raw/idealista")
-PROCESSED_BASE = Path("data/processed/idealista")
+from src.idealistaAPI.config.idealista import PROCESSED_BASE, RAW_BASE
 
 
 def extract_all_elements(input_dir: Path) -> List[Dict[str, Any]]:

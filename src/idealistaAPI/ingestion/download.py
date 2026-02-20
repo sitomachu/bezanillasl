@@ -7,10 +7,10 @@ from dataclasses import dataclass
 from pathlib import Path
 import typing as t
 
-from src.ingestion.client import IdealistaClient
+from src.idealistaAPI.config.idealista import RAW_BASE
+from src.idealistaAPI.ingestion.client import IdealistaClient
 
-
-RAW_DIR_DEFAULT = Path("data/raw/idealista")
+RAW_DIR_DEFAULT = RAW_BASE
 
 
 @dataclass(frozen=True)
