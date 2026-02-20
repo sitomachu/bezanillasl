@@ -1,0 +1,70 @@
+{
+  "used_requests": 100,
+  "stopped_by_quota": false,
+  "quota_error": null,
+  "raw_dir": "data/raw/idealista/rent_homes_run_20260220_111903",
+  "processed_dir": "data/processed/idealista/rent_homes_run_20260220_111903",
+  "csv_path": "data/processed/idealista/rent_homes_run_20260220_111903/rent_homes_cantabria_bezana_like_raw.csv",
+  "circle_states": [
+    {
+      "name": "SantaCruzDeBezana",
+      "next_page_final": 11,
+      "requests": 10,
+      "exhausted": false
+    },
+    {
+      "name": "SotoDeLaMarina",
+      "next_page_final": 11,
+      "requests": 10,
+      "exhausted": false
+    },
+    {
+      "name": "Liencres",
+      "next_page_final": 11,
+      "requests": 10,
+      "exhausted": false
+    },
+    {
+      "name": "Pielagos_Boo",
+      "next_page_final": 11,
+      "requests": 10,
+      "exhausted": false
+    },
+    {
+      "name": "Camargo_Muriedas",
+      "next_page_final": 11,
+      "requests": 10,
+      "exhausted": false
+    },
+    {
+      "name": "Santander",
+      "next_page_final": 11,
+      "requests": 10,
+      "exhausted": false
+    },
+    {
+      "name": "Somo",
+      "next_page_final": 11,
+      "requests": 10,
+      "exhausted": false
+    },
+    {
+      "name": "Suances",
+      "next_page_final": 10,
+      "requests": 10,
+      "exhausted": false
+    },
+    {
+      "name": "Laredo",
+      "next_page_final": 11,
+      "requests": 10,
+      "exhausted": false
+    },
+    {
+      "name": "CastroUrdiales",
+      "next_page_final": 11,
+      "requests": 10,
+      "exhausted": false
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "101075742",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d5/34/37/1109178893.webp",
+      "externalReference": "C09A01",
+      "numPhotos": 22,
+      "floor": "1",
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Peñas Blancas",
+      "province": "Cantabria",
+      "municipality": "Ribamontan al Mar",
+      "district": "Somo",
+      "country": "es",
+      "latitude": 43.4553882,
+      "longitude": -3.7448443,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/101075742/",
+      "distance": "9891",
+      "description": "Apartamento céntrico en Somo, con plaza de garaje independiente a pocos metros. Opción de guardar tablas de surf en la plaza garaje. Ideal para familias, perfecto para disfrutar de Somo. A 3 minutos caminando de la playa. Alquiler de corta o media estancia. Se alquila por meses, días, semanas o también días laborables. Máximo de alquiler de 4 meses. Los gastos de gestión, limpieza y suministros no están incluidos. Para esta vivienda el precio con todos los gastos sería desde 950 euros/mes. Se debe depositar fianza y el pago se hace por adelantado antes de la firma del contrato y para bloquear la reserva. El precio puede variar según la temporada. No disponible en temporada de Verano. Ropa de cama, toallas y menaje incluido. Disponemos de más viviendas en todo Asturias y Cantabria. Podrás ver disponibilidad y precios en Somos una consultoría inmobiliaria, que ofrecemos casi todos los servicios relacionados con los bienes inmuebles, a nivel particular, empresa o inversor. Compra-venta-alquiler de propiedades, gestión integral de alquileres vacacionales, broker inmobiliario, reformas integrales y parciales, arquitectura técnica, . Para más información contáctanos. NRU: ESFCTU00003 000000000000000G-1033276.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Somo, Ribamontan al Mar",
+        "title": "Piso en calle Peñas Blancas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "newDevelopmentHighlight": false,
+      "topNewDevelopment": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "99130681",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8f/f7/d6/1034547288.webp",
+      "externalReference": "01007",
+      "numPhotos": 13,
+      "floor": "2",
+      "price": 1150.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1150.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 130.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida de los Castros",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Los Castros",
+      "country": "es",
+      "latitude": 43.469132,
+      "longitude": -3.8056454,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/99130681/",
+      "distance": "7174",
+      "description": "SE ALQUILA Junio, Julio, Agosto, Septiembre 2025  Consultar Precios.   En el Sardinero. Avenida de los Castros.  Próximo a Playas de el Sardinero  3 DORMITORIOS, 2 CUARTOS DE BAÑO   Gran Salon.   Cocina completa con Tendedero.  130 M2 CONSTRUIDOS. Exterior, Luminoso-   2 ascensores, Conserje.  Calefacción y agua caliente incluida en el precio.  GARAJE  amplios espacios comunes. JARDIN  Zona de Calidad de Vida.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Castros, Santander",
+        "title": "Piso en avenida de los Castros"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "newDevelopmentHighlight": false,
+      "topNewDevelopment": false,
+      "topPlus": false
+    }
+  ],
+  "total": 352,
+  "totalPages": 8,
+  "actualPage": 8,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Muriedas, Camargo",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 352,
+  "paginable": true,
+  "lowerRangePosition": 350
+}

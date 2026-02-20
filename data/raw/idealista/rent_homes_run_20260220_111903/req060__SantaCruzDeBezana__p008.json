@@ -1,0 +1,181 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "89293073",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/17/78/5b/1154551742.webp",
+      "externalReference": "00911",
+      "numPhotos": 15,
+      "floor": "1",
+      "price": 2500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 230.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "El Sardinero",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "El Sardinero",
+      "country": "es",
+      "latitude": 43.4789499,
+      "longitude": -3.7890871,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/89293073/",
+      "distance": "10047",
+      "description": "Disponible desde de Febrero a Junio de 2026  Consultar Fechas y Precios.  Incluye calefacción y Agua Caliente.  El Sardinero, Segunda Playa.  Orientación Sur con Vistas a Playas.  4 DORMITORIOS  3 CUARTOS DE BAÑO, 1 ASEO  Máximo 8 personas.  230 M2 CONSTRUIDOS   2 ASCENSORES,  CALEFACCIÓN incluida en Alquiler.  Aparcamiento Comunitario.  Amplias zonas verdes.  ocho camas.  Conserje.  Srguridad Privada.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Sardinero, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98244491",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c9/fd/a0/1018431518.webp",
+      "externalReference": "01000",
+      "numPhotos": 16,
+      "floor": "6",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 130.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "El Sardinero",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "El Sardinero",
+      "country": "es",
+      "latitude": 43.4750638,
+      "longitude": -3.7908445,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98244491/",
+      "distance": "9753",
+      "description": "Disponible agosto 2026 consultar precio.  consultar precios verano  próximo playas de el sardinero.    3 dormitorios, 2 cuartos de baño  130 m2 construidos, amueblado.  ascensor  garaje, jardin  urbanización privada.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Sardinero, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "99130681",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8f/f7/d6/1034547288.webp",
+      "externalReference": "01007",
+      "numPhotos": 13,
+      "floor": "2",
+      "price": 1150.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1150.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 130.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida de los Castros",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Los Castros",
+      "country": "es",
+      "latitude": 43.469132,
+      "longitude": -3.8056454,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/99130681/",
+      "distance": "8404",
+      "description": "SE ALQUILA Junio, Julio, Agosto, Septiembre 2025  Consultar Precios.   En el Sardinero. Avenida de los Castros.  Próximo a Playas de el Sardinero  3 DORMITORIOS, 2 CUARTOS DE BAÑO   Gran Salon.   Cocina completa con Tendedero.  130 M2 CONSTRUIDOS. Exterior, Luminoso-   2 ascensores, Conserje.  Calefacción y agua caliente incluida en el precio.  GARAJE  amplios espacios comunes. JARDIN  Zona de Calidad de Vida.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Castros, Santander",
+        "title": "Piso en avenida de los Castros"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 353,
+  "totalPages": 8,
+  "actualPage": 8,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Bezana, Santa Cruz de Bezana",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 350,
+  "upperRangePosition": 353,
+  "paginable": true
+}
