@@ -17,3 +17,7 @@ Desktop.ini
 !.vscode/extensions.json
 .history/
 *.code-workspace
+
+# --- Project Artifacts ---
+src/idealistaAPI/
+notebooks/*.ipynb
