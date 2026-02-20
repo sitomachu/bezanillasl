@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+from datetime import datetime
 
 from src.idealistaAPI.ingestion.services.request_service import add_common_args, run_new
 
@@ -21,7 +22,8 @@ def main() -> int:
         no_adaptive_pages=bool(args.no_adaptive_pages),
         force_max_requests=bool(args.force_max_requests),
     )
-    print(f"OK. Results in: {out_dir.resolve()}")
+    now = datetime.now().strftime("%H:%M:%S")
+    print(f"[{now}] Ejecucion finalizada. resultados_en={out_dir.resolve()}", flush=True)
     return 0
 
 

@@ -28,6 +28,12 @@ class CircleState:
     next_page: int = 1
     exhausted: bool = False
     requests: int = 0
+    bad_streak: int = 0
+
+
+def _log(msg: str) -> None:
+    now = datetime.now().strftime("%H:%M:%S")
+    print(f"[{now}] {msg}", flush=True)
 
 
 def _ensure_dir(path: Path) -> None:
@@ -79,6 +85,43 @@ def _is_quota_exhausted_error(exc: Exception) -> bool:
         "403",
     ]
     return any(f in txt for f in flags)
+
+
+def _safe_property_key(it: Dict[str, Any]) -> Optional[str]:
+    code = str((it or {}).get("propertyCode", "")).strip()
+    if code:
+        return f"pc:{code}"
+    price = (it or {}).get("price")
+    size = (it or {}).get("size")
+    lat = (it or {}).get("latitude")
+    lon = (it or {}).get("longitude")
+    addr = (it or {}).get("address") or (it or {}).get("streetName") or ""
+    if price is None and size is None and (lat is None or lon is None) and not addr:
+        return None
+    s = f"{price}|{size}|{lat}|{lon}|{str(addr).strip().lower()}"
+    h = 0
+    for ch in s:
+        h = (h * 131 + ord(ch)) % 2_147_483_647
+    return f"fb:{h}"
+
+
+def _count_unique_keys_seen(raw_dir: Path) -> int:
+    seen: Set[str] = set()
+    for fp in sorted(raw_dir.glob("req*.json")):
+        try:
+            payload = json.loads(fp.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        el = payload.get("elementList") or []
+        if not isinstance(el, list):
+            continue
+        for it in el:
+            if not isinstance(it, dict):
+                continue
+            k = _safe_property_key(it)
+            if k:
+                seen.add(k)
+    return len(seen)
 
 
 def _search_one(
@@ -220,15 +263,25 @@ def run_new(
     used = 0
     stopped_by_quota = False
     quota_error: Optional[str] = None
+    _log(
+        f"Inicio de ejecucion: operacion={operation} run_id={run_id} "
+        f"objetivo_requests={max_requests} max_paginas_por_circulo={max_pages_per_circle} "
+        f"circulos={len(states)}"
+    )
 
     while used < max_requests:
         active = _active_states_force(states, max_pages_per_circle, force_max_requests)
         if not active:
+            _log("No quedan circulos activos. Se detiene la ejecucion.")
             break
 
         st = _pick_state(active)
         tag = f"req{used + 1:03d}"
         page = st.next_page
+        _log(
+            f"Request {used + 1}/{max_requests}: tag={tag} circulo={st.circle.name} "
+            f"pagina={page} requests_en_circulo={st.requests}"
+        )
 
         try:
             resp = _search_one(
@@ -244,6 +297,7 @@ def run_new(
                 stopped_by_quota = True
                 quota_error = str(exc)
                 _write_json(raw_dir / f"{tag}__STOP_QUOTA.json", {"error": quota_error})
+                _log(f"Cupo o limite de peticiones detectado. Se detiene la ejecucion. error={quota_error}")
                 break
             _write_json(
                 raw_dir / f"{tag}__ERROR.json",
@@ -251,7 +305,8 @@ def run_new(
             )
             used += 1
             st.requests += 1
-            continue
+            _log(f"Request con error. Se detiene la ejecucion. tag={tag} error={exc}")
+            break
 
         used += 1
         st.requests += 1
@@ -260,17 +315,31 @@ def run_new(
         if not force_max_requests:
             element_list = resp.get("elementList") or []
             if not element_list:
+                st.bad_streak += 1
                 st.exhausted = True
+                _log(f"Pagina vacia. Se marca el circulo como agotado: {st.circle.name}")
                 continue
 
             if (not no_adaptive_pages) and (not _is_full_page(resp)):
+                st.bad_streak += 1
                 st.exhausted = True
+                _log(f"Pagina incompleta. Se marca el circulo como agotado: {st.circle.name}")
+            else:
+                st.bad_streak = 0
+
+        element_count = len(resp.get("elementList") or [])
+        _log(
+            f"Request OK. tag={tag} anuncios={element_count} proxima_pagina={st.next_page} "
+            f"requests_usadas={used}"
+        )
 
     csv_path: Optional[Path]
     try:
         csv_path = clean_json_run(input_dir=raw_dir, output_filename=output_csv_name)
+        _log(f"CSV generado correctamente: {csv_path}")
     except Exception:
         csv_path = None
+        _log("No se pudo generar el CSV (sin filas o error de procesamiento).")
 
     _write_summary(
         processed_dir=processed_dir,
@@ -281,6 +350,7 @@ def run_new(
         raw_dir=raw_dir,
         states=states,
     )
+    _log(f"Ejecucion finalizada. requests_usadas={used} summary={processed_dir / 'summary.json'}")
     return processed_dir
 
 
@@ -352,20 +422,31 @@ def run_resume_latest_rent(
 
     stopped_by_quota = False
     quota_error: Optional[str] = None
+    _log(
+        f"Inicio de reanudacion: run_id={run_id} requests_ya_usadas={used} "
+        f"objetivo_requests={max_requests} max_paginas_por_circulo={max_pages_per_circle} "
+        f"circulos={len(states)}"
+    )
 
     while used < max_requests:
         active = _active_states_force(states, max_pages_per_circle, force_max_requests)
         if not active:
+            _log("No quedan circulos activos. Se detiene la reanudacion.")
             break
 
         st = _pick_state(active)
         tag = f"req{used + 1:03d}"
         page = st.next_page
+        _log(
+            f"Request reanudada {used + 1}/{max_requests}: tag={tag} circulo={st.circle.name} "
+            f"pagina={page} requests_en_circulo={st.requests}"
+        )
         out_json = raw_dir / f"{tag}__{st.circle.name}__p{page:03d}.json"
         if out_json.exists():
             used += 1
             st.requests += 1
             st.next_page += 1
+            _log(f"El archivo del request ya existe. Se omite tag={tag}")
             continue
 
         try:
@@ -382,6 +463,7 @@ def run_resume_latest_rent(
                 stopped_by_quota = True
                 quota_error = str(exc)
                 _write_json(raw_dir / f"{tag}__STOP_QUOTA.json", {"error": quota_error})
+                _log(f"Cupo o limite de peticiones detectado. Se detiene la reanudacion. error={quota_error}")
                 break
             _write_json(
                 raw_dir / f"{tag}__ERROR.json",
@@ -389,7 +471,8 @@ def run_resume_latest_rent(
             )
             used += 1
             st.requests += 1
-            continue
+            _log(f"Request con error. Se detiene la reanudacion. tag={tag} error={exc}")
+            break
 
         used += 1
         st.requests += 1
@@ -398,17 +481,31 @@ def run_resume_latest_rent(
         if not force_max_requests:
             element_list = resp.get("elementList") or []
             if not element_list:
+                st.bad_streak += 1
                 st.exhausted = True
+                _log(f"Pagina vacia. Se marca el circulo como agotado: {st.circle.name}")
                 continue
 
             if (not no_adaptive_pages) and (not _is_full_page(resp)):
+                st.bad_streak += 1
                 st.exhausted = True
+                _log(f"Pagina incompleta. Se marca el circulo como agotado: {st.circle.name}")
+            else:
+                st.bad_streak = 0
+
+        element_count = len(resp.get("elementList") or [])
+        _log(
+            f"Request OK. tag={tag} anuncios={element_count} proxima_pagina={st.next_page} "
+            f"requests_usadas={used}"
+        )
 
     csv_path: Optional[Path]
     try:
         csv_path = clean_json_run(input_dir=raw_dir, output_filename=output_csv_name)
+        _log(f"CSV generado correctamente: {csv_path}")
     except Exception:
         csv_path = None
+        _log("No se pudo generar el CSV (sin filas o error de procesamiento).")
 
     _write_summary(
         processed_dir=processed_dir,
@@ -419,6 +516,7 @@ def run_resume_latest_rent(
         raw_dir=raw_dir,
         states=states,
     )
+    _log(f"Reanudacion finalizada. requests_usadas={used} summary={processed_dir / 'summary.json'}")
     return processed_dir
 
 
