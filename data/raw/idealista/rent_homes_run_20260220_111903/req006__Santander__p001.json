@@ -2109,6 +2109,63 @@
       "topPlus": false
     },
     {
+      "propertyCode": "110643646",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/aa/41/1e/1411094623.webp",
+      "externalReference": "86078",
+      "numPhotos": 26,
+      "floor": "1",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 68.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Mazas",
+      "province": "Cantabria",
+      "municipality": "Cudon",
+      "country": "es",
+      "latitude": 43.4147771,
+      "longitude": -4.0142027,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110643646/",
+      "distance": "17320",
+      "description": "Descubre este magnífico ático ubicado en la encantadora localidad de Cudón, en alquiler para LARGA DURACIÓN, ideal para aquellos que buscan confort y calidad de vida. El ático dispone de tres acogedoras habitaciones. Además, disfrutarás del placer inigualable de contar con una espaciosa terraza que rodea toda la vivienda orientada hacia todas las direcciones donde podrás relajarte con vistas panorámicas o compartir momentos agradables al aire libre bajo el sol durante todo el día. La vivienda se encuentra en perfecto estado 'para entrar a vivir', lo cual minimiza cualquier necesidad inmediata por reformas u obras adicionales; simplemente trae tu maleta e instálate cómodamente desde ya mismo.  Este apartamento es totalmente exterior proporcionando luminosidad natural optimizada gracias a su disposición arquitectónica; aprovecha cada rincón disfrutando no sólo del interior sino también vistas espectaculares sobre los alrededores. No pierdas tiempo y ven a visitarlo con los agentes de inmobiliaria San Fernando.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cudon",
+        "title": "Ático en calle Mazas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
       "propertyCode": "110643577",
       "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4e/46/23/1411078762.webp",
       "externalReference": "2250",
@@ -2642,67 +2699,10 @@
       "topNewDevelopment": false,
       "newDevelopmentHighlight": false,
       "topPlus": false
-    },
-    {
-      "propertyCode": "110623102",
-      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/94/eb/ac/1410484379.webp",
-      "externalReference": "ALQ/274",
-      "numPhotos": 10,
-      "floor": "bj",
-      "price": 680.0,
-      "priceInfo": {
-        "price": {
-          "amount": 680.0,
-          "currencySuffix": "€/mes"
-        }
-      },
-      "propertyType": "flat",
-      "operation": "rent",
-      "size": 50.0,
-      "exterior": true,
-      "rooms": 1,
-      "bathrooms": 1,
-      "address": "Rodil",
-      "province": "Cantabria",
-      "municipality": "Piélagos",
-      "district": "Mortera",
-      "country": "es",
-      "latitude": 43.4441524,
-      "longitude": -3.9286329,
-      "showAddress": false,
-      "url": "https://www.idealista.com/inmueble/110623102/",
-      "distance": "9793",
-      "description": "Para fijo. En MORTERA, Bonito apartamento tipo LOFT en planta baja. Salon con cocina integrada, baño y un dormitorio. Impecable, totalmente amueblado  PERFECTO PARA SINGLES o UNA PAREJA. Urbanización tranquila, A solo 5 min. de las playas de Liencres y del hospital Mompia, a menos de 15 min. del centro de Santander capital. Parada de Autobus, y tren de cercanias, desde Mompía. Disponibilidad a principios de Marzo. CUENTA CON PLAZA DE GARAJE INCLUIDA. NO SE ADMITEN MASCOTAS. Solo Gente con trabajo estable, solvencia demostrable. Cualquier estudio del alquiler estará supeditado a la decisión ultima del propietario.",
-      "hasVideo": false,
-      "status": "good",
-      "newDevelopment": false,
-      "hasLift": false,
-      "parkingSpace": {
-        "hasParkingSpace": true,
-        "isParkingSpaceIncludedInPrice": true
-      },
-      "priceByArea": 14.0,
-      "change": {},
-      "detailedType": {
-        "typology": "flat"
-      },
-      "suggestedTexts": {
-        "subtitle": "Mortera, Piélagos",
-        "title": "Piso en Rodil"
-      },
-      "hasPlan": false,
-      "has3DTour": false,
-      "has360": false,
-      "hasStaging": false,
-      "savedAd": {},
-      "notes": [],
-      "topNewDevelopment": false,
-      "newDevelopmentHighlight": false,
-      "topPlus": false
     }
   ],
-  "total": 345,
-  "totalPages": 7,
+  "total": 351,
+  "totalPages": 8,
   "actualPage": 1,
   "itemsPerPage": 50,
   "numPaginations": 0,
@@ -2714,7 +2714,7 @@
   "alertName": "Viviendas en null",
   "totalAppliedFilters": 0,
   "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 50,
   "lowerRangePosition": 0,
-  "paginable": true,
-  "upperRangePosition": 50
+  "paginable": true
 }

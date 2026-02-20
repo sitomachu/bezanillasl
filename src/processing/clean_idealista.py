@@ -61,3 +61,18 @@ def clean_json_run(
     df.to_csv(output_path, index=False, encoding="utf-8")
 
     return output_path
+
+if __name__ == "__main__":
+    # Carpeta donde están los JSON
+    input_dir = Path("data/raw/idealista/rent_homes_run_20260220_111903")
+
+    # Carpeta de salida deseada
+    PROCESSED_BASE = Path("data/processed")
+
+    # Nombre del CSV
+    output_filename = "rent_homes_cantabria_bezana_like_raw.csv"
+
+    # Ejecutar limpieza
+    out = clean_json_run(input_dir=input_dir, output_filename=output_filename)
+
+    print(f"CSV generado en: {out.resolve()}")

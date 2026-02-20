@@ -8,7 +8,7 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set, Tuple
 
-from src.ingestion.clean_idealista import clean_json_run
+from src.processing.clean_idealista import clean_json_run
 from src.ingestion.client import IdealistaClient
 
 # =========================
@@ -26,29 +26,26 @@ DEFAULT_CIRCLES: List[Tuple[str, str, int]] = [
     ("SantaCruzDeBezana", "43.4435,-3.9036", 12000),
     ("SantaCruzDeBezana", "43.4435,-3.9036", 12000),
     ("SantaCruzDeBezana", "43.4435,-3.9036", 12000),
-
     ("SotoDeLaMarina", "43.4620,-3.9080", 12000),
     ("SotoDeLaMarina", "43.4620,-3.9080", 12000),
-
     ("Liencres", "43.4480,-3.9700", 12000),
     ("Liencres", "43.4480,-3.9700", 12000),
-
     ("Pielagos_Boo", "43.4230,-3.9520", 14000),
     ("Pielagos_Boo", "43.4230,-3.9520", 14000),
-
     ("Camargo_Muriedas", "43.4150,-3.8540", 14000),
     ("Camargo_Muriedas", "43.4150,-3.8540", 14000),
-
     ("Santander", "43.4623,-3.8099", 18000),
     ("Santander", "43.4623,-3.8099", 18000),
-
     ("Somo", "43.4470,-3.7450", 14000),
     ("Suances", "43.4260,-4.0430", 14000),
-
     ("Laredo", "43.4090,-3.4160", 16000),
     ("CastroUrdiales", "43.3830,-3.2140", 16000),
 ]
 
+
+# =========================
+# Modelos
+# =========================
 
 @dataclass(frozen=True)
 class Circle:
@@ -64,6 +61,10 @@ class CircleState:
     exhausted: bool = False
     bad_streak: int = 0  # consecutive “bad yield” pages
 
+
+# =========================
+# Utils
+# =========================
 
 def _ensure_dir(p: Path) -> None:
     p.mkdir(parents=True, exist_ok=True)
@@ -166,6 +167,79 @@ def _search_one(
     return resp
 
 
+# =========================
+# RESUME helpers
+# =========================
+
+def _load_manifest_and_states_for_resume(run_id: str):
+    raw_dir = RAW_BASE / f"rent_homes_run_{run_id}"
+    manifest_path = raw_dir / "manifest.json"
+
+    if not manifest_path.exists():
+        raise FileNotFoundError(f"No existe manifest.json en: {manifest_path}")
+
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+
+    circles = [
+        Circle(
+            name=c["name"],
+            center=c["center"],
+            distance_m=c["distance_m"],
+        )
+        for c in manifest["circles_effective"]
+    ]
+
+    # reconstruir estado de páginas
+    states = {c.name: CircleState(circle=c) for c in circles}
+    used_requests = 0
+
+    for fp in raw_dir.glob("req*.json"):
+        used_requests += 1
+
+        parts = fp.stem.split("__")
+        if len(parts) < 3:
+            continue
+
+        circle_name = parts[1]
+        page_part = parts[2]  # p001
+        page = int(page_part.replace("p", ""))
+
+        if circle_name in states:
+            states[circle_name].next_page = max(
+                states[circle_name].next_page,
+                page + 1
+            )
+
+    return raw_dir, states, used_requests
+
+
+def _rebuild_seen_keys_from_existing_json(raw_dir: Path) -> Set[str]:
+    seen: Set[str] = set()
+
+    for fp in sorted(raw_dir.glob("req*.json")):
+        try:
+            payload = json.loads(fp.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+
+        el = payload.get("elementList") or []
+        if not isinstance(el, list):
+            continue
+
+        for it in el:
+            if not isinstance(it, dict):
+                continue
+            k = _safe_property_key(it)
+            if k:
+                seen.add(k)
+
+    return seen
+
+
+# =========================
+# Runner (nuevo + resume)
+# =========================
+
 def run(
     *,
     max_requests: int,
@@ -173,6 +247,7 @@ def run(
     max_pages_per_circle: int,
     adaptive_pages: bool,
     output_csv_name: str,
+    resume_run_id: Optional[str] = None,
     # duplicate control knobs
     min_new_items_to_continue: int = 5,
     stop_if_dup_ratio_ge: float = 0.85,
@@ -184,43 +259,64 @@ def run(
       - Keep per-circle next_page state (never restart at page 1 for same circle)
       - Stop a circle early when it mostly returns duplicates / too few new items
       - Still uses publicationDate desc to preserve “quality” (recentness)
+
+    Resume mode:
+      - Loads states from processed/summary.json
+      - Rebuilds seen_keys from existing raw req*.json
+      - Continues tags reqNNN until reaching max_requests
     """
     client = IdealistaClient()
 
-    rid = _run_id()
-    raw_dir = RAW_BASE / f"rent_homes_run_{rid}"
-    out_dir = PROCESSED_BASE / f"rent_homes_run_{rid}"
-    _ensure_dir(raw_dir)
-    _ensure_dir(out_dir)
+    if resume_run_id:
+        rid = resume_run_id
 
-    circles = _dedupe_circles_keep_first(circles)
-    states: List[CircleState] = [CircleState(circle=c) for c in circles]
+        # 1) Carga el estado del run desde manifest + raw req*.json
+        raw_dir, states_dict, used = _load_manifest_and_states_for_resume(rid)
 
-    manifest = {
-        "run_id": rid,
-        "operation": "rent",
-        "property_type": "homes",
-        "max_requests": max_requests,
-        "max_pages_per_circle": max_pages_per_circle,
-        "adaptive_pages": adaptive_pages,
-        "circles_effective": [s.circle.__dict__ for s in states],
-        "output_csv_name": output_csv_name,
-        "anti_duplicates": {
-            "min_new_items_to_continue": min_new_items_to_continue,
-            "stop_if_dup_ratio_ge": stop_if_dup_ratio_ge,
-            "stop_after_consecutive_bad_pages": stop_after_consecutive_bad_pages,
-            "dedupe_circles_by": "(center, distance_m)",
-            "pagination_state": "per-circle next_page",
-        },
-    }
-    _write_json(raw_dir / "manifest.json", manifest)
+        # 2) Asegura carpetas
+        _ensure_dir(raw_dir)
 
-    used = 0
-    seen_keys: Set[str] = set()
+        out_dir = PROCESSED_BASE / f"rent_homes_run_{rid}"
+        _ensure_dir(out_dir)
 
-    idx = 0
+        # 3) Reconstruye estados y dedupe global
+        states = list(states_dict.values())
+        seen_keys = _rebuild_seen_keys_from_existing_json(raw_dir)
+    else:
+        rid = _run_id()
+        raw_dir = RAW_BASE / f"rent_homes_run_{rid}"
+        out_dir = PROCESSED_BASE / f"rent_homes_run_{rid}"
+        _ensure_dir(raw_dir)
+        _ensure_dir(out_dir)
+
+        circles = _dedupe_circles_keep_first(circles)
+        states = [CircleState(circle=c) for c in circles]
+
+        manifest = {
+            "run_id": rid,
+            "operation": "rent",
+            "property_type": "homes",
+            "max_requests": max_requests,
+            "max_pages_per_circle": max_pages_per_circle,
+            "adaptive_pages": adaptive_pages,
+            "circles_effective": [s.circle.__dict__ for s in states],
+            "output_csv_name": output_csv_name,
+            "anti_duplicates": {
+                "min_new_items_to_continue": min_new_items_to_continue,
+                "stop_if_dup_ratio_ge": stop_if_dup_ratio_ge,
+                "stop_after_consecutive_bad_pages": stop_after_consecutive_bad_pages,
+                "dedupe_circles_by": "(center, distance_m)",
+                "pagination_state": "per-circle next_page",
+            },
+        }
+        _write_json(raw_dir / "manifest.json", manifest)
+
+        used = 0
+        seen_keys: Set[str] = set()
+
     active_left = sum(1 for s in states if not s.exhausted)
 
+    idx = 0
     while used < max_requests and active_left > 0:
         st = states[idx % len(states)]
         idx += 1
@@ -235,6 +331,14 @@ def run(
 
         tag = f"req{used+1:03d}"
         page = st.next_page
+
+        # Si por cualquier motivo ya existe ese JSON, sáltalo (evita re-trabajo)
+        out_json = raw_dir / f"{tag}__{st.circle.name}__p{page:03d}.json"
+        if out_json.exists():
+            used += 1
+            st.next_page += 1
+            active_left = sum(1 for s in states if not s.exhausted)
+            continue
 
         try:
             resp = _search_one(client, circle=st.circle, page=page, raw_dir=raw_dir, tag=tag)
@@ -254,7 +358,6 @@ def run(
             active_left = sum(1 for s in states if not s.exhausted)
             continue
 
-        # Count new vs duplicates for this page
         new_items = 0
         dup_items = 0
         total_considered = 0
@@ -262,7 +365,6 @@ def run(
         for it in el:
             key = _safe_property_key(it)
             if not key:
-                # Can't dedupe reliably; keep data but don't count as "new"
                 continue
             total_considered += 1
             if key in seen_keys:
@@ -273,13 +375,11 @@ def run(
 
         dup_ratio = (dup_items / total_considered) if total_considered > 0 else 1.0
 
-        # Adaptive stop: if API says it's not a full page, inventory likely exhausted for that query
         if adaptive_pages and not _is_full_page(resp, MAX_ITEMS):
             st.exhausted = True
             active_left = sum(1 for s in states if not s.exhausted)
             continue
 
-        # Duplicate-aware stop
         is_bad = (new_items < min_new_items_to_continue) or (dup_ratio >= stop_if_dup_ratio_ge)
         st.bad_streak = (st.bad_streak + 1) if is_bad else 0
 
@@ -288,20 +388,13 @@ def run(
             active_left = sum(1 for s in states if not s.exhausted)
             continue
 
-        # If still active, advance page for this circle
         st.next_page += 1
         active_left = sum(1 for s in states if not s.exhausted)
 
-    # --------------------------
     # Postprocesado: JSON -> CSV
-    # --------------------------
     csv_path = clean_json_run(
         input_dir=raw_dir,
-        output_dir=out_dir,
-        output_filename=output_csv_name,
-        only_cantabria=True,
-        require_valid_size=True,
-        require_latlon=True,
+        output_filename=output_csv_name
     )
 
     summary = {
@@ -322,10 +415,14 @@ def run(
             for s in states
         ],
     }
-    _write_json(out_dir / "summary.json", summary)
+    _write_json(out_dir / "manifest.json", summary)
 
     return out_dir
 
+
+# =========================
+# CLI
+# =========================
 
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
@@ -347,6 +444,9 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--stop-if-dup-ratio-ge", type=float, default=0.85)
     p.add_argument("--stop-after-bad-pages", type=int, default=2)
 
+    # resume
+    p.add_argument("--resume-run-id", type=str, default=None)
+
     return p
 
 
@@ -364,6 +464,7 @@ def main() -> int:
         max_pages_per_circle=max(1, int(args.max_pages_per_circle)),
         adaptive_pages=(not args.no_adaptive_pages),
         output_csv_name=str(args.output_csv),
+        resume_run_id=args.resume_run_id,
         min_new_items_to_continue=max(0, int(args.min_new_items)),
         stop_if_dup_ratio_ge=float(args.stop_if_dup_ratio_ge),
         stop_after_consecutive_bad_pages=max(1, int(args.stop_after_bad_pages)),

@@ -1,0 +1,2413 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110688717",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/95/47/66/1412427657.webp",
+      "externalReference": "8124",
+      "numPhotos": 14,
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 102.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Oriñón-Allendagua",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Oriñón-Allendagua",
+      "country": "es",
+      "latitude": 43.3956517,
+      "longitude": -3.3275368,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110688717/",
+      "distance": "9281",
+      "description": "Chalet pareado en alquiler por temporadas en Oriñón Se ofrece en alquiler por temporadas chalet pareado ubicado en Oriñón, en entorno residencial tranquilo y bien comunicado, ideal para estancias temporales. La vivienda se asienta sobre una parcela privada con **amplio jardín soleado durante todo el día**, proporcionando un espacio exterior de gran valor. Distribución *Planta baja: * Salón-comedor de generosas dimensiones, con salida directa al jardín. * Cocina independiente, amplia y completamente equipada. * Aseo de cortesía. * Hall distribuidor con acceso funcional a las distintas estancias. *Planta primera: * Tres dormitorios de buen tamaño. * Baño completo reformado, equipado con plato de ducha. La propiedad destaca por su buena distribución, luminosidad y óptimo estado de conservación.  Características adicionales * Aparcamiento privado dentro de la urbanización. * Entorno residencial consolidado. * Excelente orientación y aprovechamiento de la luz natural. *Disponibilidad por temporadas. Condiciones y precios a consultar según duración y periodo de estancia. Si lo desea, puedo adaptarlo también al formato típico de ficha técnica inmobiliaria (con metros, calidades y descripción más esquemática).",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oriñón-Allendagua, Castro-Urdiales",
+        "title": "Chalet pareado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110685643",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4e/c9/59/1412328891.webp",
+      "externalReference": "6642",
+      "numPhotos": 15,
+      "floor": "3",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle de la Granja",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.3714791,
+      "longitude": -3.1993552,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110685643/",
+      "distance": "1744",
+      "description": "***inmobiliarias. Com*** alquila piso en la zona de cotolino, zona tranquila y cerca de todos los servicios. La vivienda esta distribuida con una cocina amplia, gran salón, dos habitacion una con baño es suit y un segundo baño para dar servicio a las demas estancias, el piso dispones de garaje incluido en el precio. 2 habitaciones 2 baños salon amplio cocina equipada terraza garaje incluido en el precio requisitos: tener ingresos demostrables de mas de 2700€ con un contrato indefinido de mas de un año. No mascotas.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Piso en calle de la Granja"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "101815187",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/35/53/47/1134701411.webp",
+      "externalReference": "CALLE BILBAO",
+      "numPhotos": 24,
+      "floor": "2",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle bilbao",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3809611,
+      "longitude": -3.2166961,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/101815187/",
+      "distance": "314",
+      "description": "Vive el verano en pleno centro Disponible exclusivamente durante el mes de julio, este luminoso piso de 3 dormitorios es ideal para quienes buscan una estancia cómoda y bien ubicada durante el verano. Situado junto al Parque Amestoy y rodeado de todos los servicios, disfrutarás de una ubicación céntrica y práctica para el día a día. La vivienda, reformada y muy luminosa, dispone de un amplio salón, cocina totalmente equipada y baño completo. El dormitorio principal es tipo minisuite, aportando un extra de confort a la estancia. Incluye además la comodidad de un garaje situado a pocos metros de la vivienda. Condiciones del alquiler: Alquiler por quincenas Precio: 1.100 € por quincena No se admiten mascotas La vivienda no dispone de ascensor, aunque las escaleras son cortas y de fácil acceso. El alquiler se gestiona a través de agencia inmobiliaria, garantizando un proceso seguro y transparente. Una excelente opción para disfrutar de julio con todas las comodidades y en una ubicación privilegiada.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle bilbao"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110677309",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e4/b5/4e/1412089274.webp",
+      "numPhotos": 16,
+      "floor": "1",
+      "price": 850.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Teresa de Calcuta",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.3693334,
+      "longitude": -3.2019375,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110677309/",
+      "distance": "1805",
+      "description": "Cotolino. INMOBILIARIA LOW COST CASTRO. Alquila piso recién pintado para LARGA ESTANCIA. Consta de 2 habitaciones (ppal con baño y salida a terraza), 2 baños completos, salón comedor con terraza, cocina equipada independiente con balcón tendedero y plaza de garaje incluida. 2 meses de fianza. No mascotas. se hace seguro de impago.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Piso en calle Teresa de Calcuta"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110662999",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/34/49/22/1411671268.webp",
+      "externalReference": "8815",
+      "numPhotos": 19,
+      "floor": "1",
+      "price": 850.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle San Andrés",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.3729201,
+      "longitude": -3.2088651,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110662999/",
+      "distance": "1195",
+      "description": "*** inmobiliarias. Com*** alquila en la zona de cotolino precioso piso distribuido con dos habitaciones amplias, salón amplio, dos baños y cocina equipada. La vivienda se encuentra cerca de todos los servicios (supermercados, farmacia, gym, zonas de ocio.. . ) y a escasos metros de la playa de la playa de brazomar. Habitaciones amplias salon cocina equipada cerca de todos los servicios a escasos metros de la playa de brazomar garaje requisito. - ingresos minimos demostrables 2550€ contrato indefinido mas de un año no mascota cod. 8815-s.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Piso en calle San Andrés"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110661099",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3b/1c/df/1411613232.webp",
+      "numPhotos": 42,
+      "floor": "4",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 68.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Siglo XX, 7",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.383912,
+      "longitude": -3.2198145,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110661099/",
+      "distance": "480",
+      "description": "Sweven Homes alquila precioso piso en pleno CENTRO con los suministros e internet incluidos en el precio. La vivienda cuenta con 68 m2, distribuidos en amplio salón comedor, cocina completamente equipada, muy moderna y funcional, habitación y baño. Toda la vivienda se encuentra en un único espacio proporcionado un espacio diáfano que le da amplitud. Dispone de amplio TRASTERO. Se encuentra al lado de todos los servicios, supermercados, parada de autobús, zonas de ocio, etc.. . PARA MAS INFORMACIÓN NO DUDE EN CONTACTAR CON NOSOTROS. SWEVEN HOMES.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Siglo XX, 7"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110646330",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/dc/07/87/1411170656.webp",
+      "externalReference": "PIS0125",
+      "numPhotos": 8,
+      "floor": "5",
+      "price": 695.0,
+      "priceInfo": {
+        "price": {
+          "amount": 695.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Siglo XX",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3842097,
+      "longitude": -3.2192735,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110646330/",
+      "distance": "446",
+      "description": "Gestión inmobiliaria pone en alquiler POR MESES, LOFT en el centro de Castro Urdiales, a su alrededor puede encontrar todos los servicios necesarios para el día a día. Es una planta diáfana, completamente amueblada, es muy acogedora y cuenta con Ascensor. Dispone de una cama de matrimonio y de un sofá cama, zona de salón comedor, cocina amueblada y baño completo. No dudes en visitarlo. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Siglo XX"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103279006",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a1/2a/77/1184257989.webp",
+      "externalReference": "56",
+      "numPhotos": 9,
+      "floor": "3",
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 40.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Poeta Jose Hierro",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3803193,
+      "longitude": -3.2251607,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/103279006/",
+      "distance": "949",
+      "description": "Apartamento de alquiler en el centro de Castro Urdiales. El piso tiene 1 habitación, 1 baño completo, cocina, salón y balcón. Tiene calefacción de gas natural y ascensor. Se pide 1 mese de fianza + 1 mes de garantía adicional.  Se contrata Seguro de Impago, hay que demostrar ingresos de 2.250€, antigüedad de 1 año en el trabajo y contrato fijo.  El inquilino tiene que contratar un Seguro de Responsabilidad Civíl. No se admiten mascotas.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 19.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Poeta Jose Hierro"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110624593",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ab/d5/96/1410524232.webp",
+      "externalReference": "4801-000737-02",
+      "numPhotos": 26,
+      "floor": "2",
+      "price": 895.0,
+      "priceInfo": {
+        "price": {
+          "amount": 895.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Mamariga",
+      "province": "Vizcaya",
+      "municipality": "Santurtzi",
+      "district": "Mamariga",
+      "country": "es",
+      "latitude": 43.3294941,
+      "longitude": -3.0369974,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110624593/",
+      "distance": "15497",
+      "description": "Fantástico piso de 65m² en Santurtzi. Consta de 2 dormitorios, salón, cocina amueblada y equipada con todos los electrodomésticos y 1 baño completo. Exterior luminoso. Amueblado.  Gastos de comunidad incluidos en el precio de la renta. Finca sin ascensor. Zona comercial y de servicios. Metro Santurtzi a 3 minutos andando. No se permiten animales.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mamariga, Santurtzi",
+        "title": "Piso en calle Mamariga"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110604582",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/54/04/27/1409942036.webp",
+      "externalReference": "467-PA",
+      "numPhotos": 42,
+      "price": 1600.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1600.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 280.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "calle de Montecerredo, 1",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Brazomar",
+      "country": "es",
+      "latitude": 43.3721463,
+      "longitude": -3.2176565,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110604582/",
+      "distance": "1242",
+      "description": "FLAT INMOBILIARIA ALQUILA CHALET PAREADO PARA CORTA TEMPORADA (HASTA EL 30 DE JUNIO) Ubicado en una zona privilegiada de Brazomar, próximo a todos los servicios necesarios para el día a día: centros educativos, comercios, zonas de ocio, parques infantiles y a escasos minutos de la playa. La vivienda se distribuye de la siguiente manera: Planta principal Amplio y luminoso salón-comedor con grandes ventanales y salida directa a la terraza Cocina independiente de generosas dimensiones, totalmente amueblada y equipada con electrodomésticos a estrenar Terraza delantera Aseo Primera planta Dormitorio principal con armarios empotrados, baño en suite con ventana y terraza privada. Dos dormitorios dobles Baño completo con bañera Planta ático Espacio diáfano, ideal como dormitorio adicional, despacho o zona de trabajo Amplia terraza Planta baja Txoko y aseo Garaje cerrado con capacidad para dos vehículos, motos Condiciones del arrendamiento: No se admiten mascotas Será imprescindible la acreditación de ingresos y de solvencia económica demostrables.   Para más información o para concertar una visita, no dude en ponerse en contacto con nosotros. Estaremos encantadas de atenderle.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Brazomar, Castro-Urdiales",
+        "title": "Chalet pareado en calle de Montecerredo, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110583090",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d9/46/10/1409309587.webp",
+      "externalReference": "BIZKASAMANO",
+      "numPhotos": 30,
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 215.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "BARRIO SANGAZO",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Samano",
+      "country": "es",
+      "latitude": 43.3622059,
+      "longitude": -3.2504722,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110583090/",
+      "distance": "3746",
+      "description": "BIZKASA les ofrece un bonito y estratégico chalet individual en alquiler, en la población vecina de Castro Urdiales, en el barrio de Sangazo en Sa9mano. A tan solo 15 min en coche y con un acceso perfecto con vehículo a las vías rápidas, tanto para Bilbao como para Laredo. Chalet individual con acceso por puerta individual a la parcela de terreno y aparcamiento externo de la finca, donde podrá aparcar hasta tres coches dentro de la parcela habilitada. Acceso a la vivienda por hall distribuidor y encontramos tres estancias, la cocina con ventana al jardín y absolutamente equipada hasta con mesa mostrador. Aseo común en hall distribuidor y acceso al salón comedor con amplios ventanales que permiten ver todo el jardín que rodea la casa, además desde esta estancia podemos disfrutar una amplia terraza y con acceso directo al jardín. Seguimos subiendo por la escalera del hall distribuidor y encontramos un generoso cuarto de baño completo, dos cómodas habitaciones ambas con armarios roperos y ventanas, estancias muy luminosas y la habitación suite con ventanas al jardín, espectacular terraza para ver amanecer como anochecer, cuarto de baño incorporado y espacio mas que suficiente para decorarte el dormitorio de tus sueños. El chalet dispone de garaje cerrado, NO incluido en el precio anunciado, si lo quiere con el garaje cerrado son 200€/mes de alquiler mas, es decir una renta de 1.400€. En la parcela de terreno que rodea al chalet puede aparcar dos coches. Todas las ventanas de PVC climalit, calefacción de gas, suelos de tarima maciza y puertas de madera. Se alquila a familia o personas solventes, gente seria, imprescindible demostrar solvencia documentada. SE SOLICITA FIANZA ADICIONAL  Todo esto y mucho más en BIZKASA, la inmobiliaria que no deja de buscar oportunidades para sus clientes, llámenos, contáctenos y venga a ver el inmueble que le interese. INMOBILIARIA BIZKASA La inmobiliaria que no deja de complacer a sus clientes, trabajamos para encontrar el inmueble que se nos solicita, cliente que nos visita, cliente que nos recomienda. ¿Tiene usted algún inmueble para vender ó alquilar? locales, pisos, trasteros, garajes, casas, chalets, caserios, terrenos, negocios, desde Bizkasa buscamos la mejor salida a su producto, llámenos y verá como existe un interesado en su propiedad. BIZKASA SERVICIOS le proporciona presupuesto sin compromiso de cualquiera que sea la actualización que desee realizar en su inmueble, reformas pequeñas, integrales, consulte sin compromiso. BIZKASA FINANCIACIÓN desde inmobiliaria Bizkasa queremos que consigas alcanzar tu ilusión y para ello te ofrecemos una opción más para financiar el inmueble que te interesa, llegando a ofrecerte hasta el 100% de la hipoteca. Realizamos el estudio sin ningún compromiso, tramites rapidos y sencillos, para que dispongas cuanto antes de tu objetivo.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Samano, Castro-Urdiales",
+        "title": "Casa independiente en Barrio Sangazo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110570086",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b8/b8/e7/1408947772.webp",
+      "numPhotos": 18,
+      "floor": "1",
+      "price": 1150.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1150.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 81.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Juan Jose de la Quintana",
+      "province": "Vizcaya",
+      "municipality": "Santurtzi",
+      "district": "La Txitxarra - Murrieta - Parke Santurtzi",
+      "country": "es",
+      "latitude": 43.3274052,
+      "longitude": -3.0323772,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110570086/",
+      "distance": "15931",
+      "description": "Piso en alquiler en Santurtzi – Amplio y bien ubicado Se alquila luminoso piso de 81 m² en la calle Juan José de la Quintana, en una zona muy cómoda y bien comunicada, a pocos minutos de la estación de metro. La vivienda se distribuye en: ✨ Salón amplio, ideal para crear zona de estar y comedor �️ Cocina independiente con tendedero �️ Dos habitaciones � Dos baños completos � Edificio con ascensor Piso funcional y espacioso, perfecto para quienes buscan comodidad, buena ubicación y amplitud en una de las zonas más prácticas de Santurtzi. � Excelente comunicación y servicios cercanos. ⚠️ Imprescindible demostrar solvencia económica.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "La Txitxarra - Murrieta - Parke Santurtzi, Santurtzi",
+        "title": "Piso en calle Juan Jose de la Quintana"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107931414",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ff/07/78/1363555719.webp",
+      "externalReference": "2095",
+      "numPhotos": 18,
+      "floor": "1",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "paseo Menéndez Pelayo",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3784804,
+      "longitude": -3.2175719,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107931414/",
+      "distance": "579",
+      "description": "Inmobiliaria VHL alquila POR TEMPORADAS amplio piso en buena urbanización en la zona de Castro Urdiales. Se distribuye en salón comedor, cocina totalmente equipada, tres habitaciones y dos baños. Incluye en el precio una parcela de garaje con acceso directo desde la vivienda. TERRAZA VISTAS DESPEJADAS AMPLITUD GARAJE Inmobiliaria VHL c/ La Mar 18 Castro Urdiales.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en paseo Menéndez Pelayo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110517894",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7e/59/6e/1267619358.webp",
+      "numPhotos": 18,
+      "floor": "2",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Los Caserios, 8",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.381169,
+      "longitude": -3.2283158,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110517894/",
+      "distance": "1174",
+      "description": "CENTRO. INMOBILIARIA LOW COST CASTRO alquila CORTAS ESTANCIAS. Piso luminoso y soleado. Consta de 2 habitaciones con armarios (ppal con salida a terraza), baño completo, aseo, salón comedor, cocina equipada independiente y plaza de garaje incluida. Urbanización privada con piscina y columpios.  No mascotas. Ref. Caseríos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Los Caserios, 8"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110513291",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f3/87/84/1407234131.webp",
+      "externalReference": "2203",
+      "numPhotos": 21,
+      "floor": "bj",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 68.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Teresa de Calcuta",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.3690207,
+      "longitude": -3.2035556,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110513291/",
+      "distance": "1768",
+      "description": "Inmobiliaria VHL alquila HASTA JUNIO impecable BAJO CON JARDIN en la zona de Cotolino. Se distribuye en; - Sala - Cocina equipada - Dos habitaciones - Dos baños  Incluye en el precio GARAJE CERRADO con acceso directo desde la vivienda. URBANIZACION CON PISCINA EXTERIOR GARAJE PISCINA Inmobiliaria VHL c/ La Mar 18 Castro Urdiales .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Piso en calle Teresa de Calcuta"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110510683",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/03/42/ce/1407146204.webp",
+      "externalReference": "1455",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Las Viñas",
+      "province": "Vizcaya",
+      "municipality": "Santurtzi",
+      "district": "Las Viñas",
+      "country": "es",
+      "latitude": 43.32733,
+      "longitude": -3.0365371,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110510683/",
+      "distance": "15625",
+      "description": "Inmobiliaria Santurtzi ofrece vivienda céntrica para empresas, consta de dos dormitorios, hay cama supletoria en el salón, se requiere dos meses de fianza.    Se encuentra situada junto al metro de Las Viñas y está rodeada de todos tipo de servicios necesarios para el día a día.    Disponible a partir del 1 de MARZO.    Se pueden realizar las visitas a partir del día 2 de FEBRERO.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Las Viñas, Santurtzi",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110441016",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1b/ff/b9/1405219681.webp",
+      "externalReference": "9750",
+      "numPhotos": 34,
+      "floor": "2",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "paseo Menéndez Pelayo",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Brazomar",
+      "country": "es",
+      "latitude": 43.3728762,
+      "longitude": -3.2139638,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110441016/",
+      "distance": "1125",
+      "description": "***INMOBILIARIAS. COM*** su inmobiliaria de confianza en Castro Urdiales alquila ( ALQUILER LARGA ESTANCIA ) impecable y luminosa vivienda de 3 habitaciones con garaje, en urbanización con jardines, en BRAZOMAR, a 5 minutos de la playa.  REQUISITOS PARA EL SEGURO DE ALQUILER: INGRESOS DEMOSTRABLES DE MÍNIMO 3.300 EUROS CON CONTRATO INDEFINIDO DE MÁS DE 1 AÑO DE ANTIGUEDAD. Se distribuye en. - -Recibidor. -Salón amplio y luminoso con zona de comedor. -Cocina totalmente amueblada y equipada con electrodomésticos. -2 amplias habitaciones con armarios. -Habitación principal con baño en suite. -baño completo en pasillo. Amueblado. Garaje incluido en el precio. Exterior y luminoso. Suelos de madera. Calefacción a gas natural. Ventanas pvc doble cristal. Ascensor. Jardines. Rodeado de todo tipo de servicios, comercios, supermercados, centro de salud, zonas de ocio y a 15 minutos andando del centro. Listo para entrar a vivir. Imprescindibles garantías de pago, el propietario realiza SEGURO DE ALQUILER. No se admiten mascotas. COD. -9750-B.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Brazomar, Castro-Urdiales",
+        "title": "Piso en paseo Menéndez Pelayo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110402193",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3c/60/0f/1404059269.webp",
+      "externalReference": "4881",
+      "numPhotos": 18,
+      "floor": "en",
+      "price": 850.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 61.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle de Silvestre Ochoa",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.3870308,
+      "longitude": -3.2267886,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110402193/",
+      "distance": "1126",
+      "description": "ERA CASTRO se transforma en E-CASTRO evolucionando con las nuevas tecnologías de IA y configurándose hoy como la Inmobiliaria líder en Castro-Urdiales. SOLO FUNCIONARIOS. Inmobiliaria E-CASTRO alquila espectacular piso en PRIMERA LÍNEA DE PLAYA en Ostende, a solo unos pasos del paseo marítimo y la playa. Disfruta de impresionantes vistas al mar desde varias estancias de la vivienda. La distribución es cómoda y funcional:  Hall de entrada.  Salón luminoso con cocina americana y grandes ventanales con panorámicas al mar.  Dormitorio con vistas directas al mar, perfecto para despertar con la brisa marina. Baño espacioso con plato de ducha. Ubicada en una urbanización privada que ofrece exclusivas zonas comunes: � Piscina para refrescarse en los días soleados. � Pista de tenis para los amantes del deporte. Se incluye parcela de garaje cerrada. Una oportunidad única de vivir junto al mar en un entorno privilegiado. ¡No dejes pasar esta oportunidad y ven a visitarlo! Tu inmobiliaria en Castro, de toda la vida.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso en calle de Silvestre Ochoa"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104910963",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/82/de/c2/1235789208.webp",
+      "externalReference": "v2024138",
+      "numPhotos": 20,
+      "price": 1400.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1400.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 120.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Guriezo",
+      "province": "Cantabria",
+      "municipality": "Guriezo",
+      "country": "es",
+      "latitude": 43.354347,
+      "longitude": -3.3250327,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/104910963/",
+      "distance": "9523",
+      "description": "Se alquila cada individual en Guriezo ideal para relajarse con toda la familia o amigos en verano. La casa, de 2 pisos, está preparada para recibir hasta 6 personas y consta de una cocina completamente equipada, una habitación de matrimonio con baño, una habitación con dos camas y otra con dos camas de 90 que se pueden unir, 1 baño con ducha y un aseo, amplio salón con comedor, jardín, barbacoa y porche para disfrutar de los días y noches de verano de relax. Precio orientativo: 1.400 semana. Consultar fechas y precios en Garanty Home Cantabria c/Emperador 1, Laredo. Disponible: JULIO.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Guriezo",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110366970",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a5/b5/7d/1403069764.webp",
+      "externalReference": "8112",
+      "numPhotos": 26,
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 158.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle San Pedro",
+      "province": "Cantabria",
+      "municipality": "Limpias",
+      "country": "es",
+      "latitude": 43.3832413,
+      "longitude": -3.4088521,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110366970/",
+      "distance": "15746",
+      "description": "Se alquila chalet individual situado en urbanización privada, en un entorno tranquilo y rodeado de naturaleza, con vistas despejadas y excelente comunicación. Ubicación muy cómoda, cerca del centro de Seña, con rápido acceso a la Autovía del Cantábrico y a pocos minutos de Laredo. La carretera que conecta Seña con la autovía está siendo renovada, lo que mejora notablemente la accesibilidad. La vivienda cuenta con jardín privado, porche en la entrada de la casa y garaje cerrado, y se distribuye en dos plantas: � Planta baja - Porche de entrada, orientado al sur. - Cocina amplia y equipada, con salida directa al jardín - Salón-comedor grande y muy luminoso - Zona de lavandería independiente - Aseo de cortesía � Primera planta - Tres dormitorios dobles - Dormitorio principal con baño en suite y terraza privada - Segundo dormitorio con terraza - Baño completo para las otras dos habitaciones � Vivienda cómoda y luminosa, ideal para larga estancia, que combina tranquilidad, espacio y buena comunicación. � ¡No dejes pasar esta oportunidad! Vive en un entorno rodeado de naturaleza y residencial. Contáctanos para más información o para concertar una visita. Nota: La información proporcionada es de carácter orientativo y podría contener errores o imprecisiones involuntarias. IMPRENSCINDIBLE DEMOSTRAR SOLVENCIA ECONÓMICA.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limpias",
+        "title": "Casa independiente en calle San Pedro"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110287542",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d3/38/f5/1400806982.webp",
+      "externalReference": "24",
+      "numPhotos": 40,
+      "price": 1700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 188.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Barrio Sámano",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Samano",
+      "country": "es",
+      "latitude": 43.3577775,
+      "longitude": -3.2272543,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110287542/",
+      "distance": "3002",
+      "description": "CHALET PAREADO DE 3 HABITACIONES EN SÁMANO. El chalet tiene 188 metros cuadrados construidos.  Están distribuidos en 3 plantas: Planta sótano: Garaje doble de 33 metros cuadrados + txoko montado de 35 metros cuadrados. Planta Principal: Salón amplio amueblado, cocina con zona de comedor, aseo y acceso a jardín/terraza con barbacoa de unos 120 metros. Última Planta: 3 habitaciones, todas ellas con armario empotrado, 2 baños completos, uno de ellos dentro de la habitación principal con bañera y el otro con planto de ducha y balcón en la habitación principal. La urbanización cuenta con piscina comunitaria. EN ALQUILER NO SE ADMITEN MASCOTAS. SE ADMITIRÍA ALQUILER CON OPCIÓN A COMPRA.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Samano, Castro-Urdiales",
+        "title": "Chalet pareado en Barrio Sámano"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110273755",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/26/26/df/1400435110.webp",
+      "externalReference": "2196",
+      "numPhotos": 21,
+      "floor": "3",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle el Sable",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.3921976,
+      "longitude": -3.2255864,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110273755/",
+      "distance": "1386",
+      "description": "Inmobiliaria VHL alquila AMPLIO PISO con VISTAS AL MAR en la zona de Ostende. Vivienda de 100m² que se distribuyen en salón comedor con salida a la terraza, cocina equipada con salida a tendedero, tres habitaciones y dos baños. Incluye en el precio una parcela de garaje con acceso directo a la vivienda. Rodeado de todo tipo de servicios de primera necesidad. * Se requiere solvencia demostrable y contrato de trabajo. URBANIZACION CON PISCINA GARAJE TERRAZA SOLEADO Inmobiliaria VHL c/ La Mar 18 Castro Urdiales.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso en calle el Sable"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110246679",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/76/a7/e8/1399621298.webp",
+      "externalReference": "ALQ SANTULLÁN",
+      "numPhotos": 34,
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 150.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio de Santullán, 21 D",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Mioño-Santullán",
+      "country": "es",
+      "latitude": 43.348293,
+      "longitude": -3.2109118,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110246679/",
+      "distance": "3867",
+      "description": "ALQUILER DE CHALET ADOSADO EN SANTULLÁN PARA LARGA TEMPORADA *Los propietarios para el seguro de impagos requieren nóminas de +3.000 €, contrato de trabajo estable y no aceptan mascotas. El chalet consta de 2 alturas distribuidas de la siguiente manera: -Planta baja: Salón comedor, cocina equipada con comedor, 1 baño con ducha, 1 habitación y 1 espacio diáfano a modo de 2º salón o zona de juegos. -1ª Planta: 2 habitaciones con armarios empotrados, 1 baños con bañera, trastero doble y garaje cerrado para 1 coche. La urbanización dispone de piscina comunitaria, pista de pádel, columpios y patio interior. La salida a la autovía Bilbao-Santander está a 1 minuto en coche y el centro de Castro Urdiales a 5.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mioño-Santullán, Castro-Urdiales",
+        "title": "Chalet adosado en Barrio de Santullán, 21 D"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110227048",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/21/ab/56/1399079043.webp",
+      "numPhotos": 16,
+      "floor": "5",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle de Silvestre Ochoa",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.387147,
+      "longitude": -3.2290876,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110227048/",
+      "distance": "1303",
+      "description": "Castro- Ostende Inmobiliaria SANTA ANA ofrece en alquiler una preciosa vivienda en la zona de Ostende con garaje y urbanización con piscina. Un amplio dormitorio con armario empotrado y gran ventanal hacia la terraza de la vivienda. Gran salón, muy luminoso con acceso directo a la terraza de la vivienda orientada al Sur. Muy soleada. Cocina grande con salida a terraza tendedero. Orientada al Sur. Baño completo con bañera. Garaje con acceso directo desde la planta de la vivienda. Urbanización con piscina. Situado en la zona de Ostende muy cerca de la playa y del paso marítimo. Muy próximo a todos los servicios. Zona residencial muy tranquila.  NO SE ADMITEN MASCOTAS. SE SOLICITAN MEDIOS ACREDITADOS DE INGRESOS PARA PODER REALIZAR EL ESTUDIO DEL SEGURO DE IMPAGOS.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso en calle de Silvestre Ochoa"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105786139",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2c/05/70/1262957552.webp",
+      "externalReference": "ALQUILER OSTENDE",
+      "numPhotos": 24,
+      "floor": "1",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle los Templarios, 6",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.390736,
+      "longitude": -3.2321923,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/105786139/",
+      "distance": "1703",
+      "description": "ALQUILER TEMPORAL DE VIVIENDA EN LA ZONA OSTENDE (11 MESES) *PODRÍA SER PARA UN PERIODO MÁS LARGO DE 18 O 24 MESES POR MOTIVOS LABORALES DEMOSTRABLES. Los propietarios piden nóminas, contrato de trabajo estable y no aceptan mascotas. La vivienda es muy amplia y consta de hall de entrada, 3 habitaciones (principal con baño), gran salón comedor con terraza, 2 baños y cocina equipada con balcón. En el precio se incluyen 2 parcelas de garaje y 1 trastero.  Urbanización con piscina. Zona residencial junto a la salida de la autovía Bilbao-Santander. La playa de Ostende se encuentra a 5 minutos andando y el centro de Castro Urdiales a 10.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso en calle los Templarios, 6"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110149845",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3f/fd/bf/1396768242.webp",
+      "externalReference": "6329",
+      "numPhotos": 41,
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 160.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio de Santullán, 47 C",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Mioño-Santullán",
+      "country": "es",
+      "latitude": 43.3455097,
+      "longitude": -3.2095474,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110149845/",
+      "distance": "4184",
+      "description": "***INMOBILIARIAS. COM*** Su inmobiliaria de confianza en Castro Urdiales alquila exclusivo y precioso chalet adosado de 3 habitaciones y dos baños con jardin privado y terraza en Santullan. No admite mascotas La urbanización cuenta con una gran piscina y zona de jardín y se encuentra rodeada de naturaleza y a 3 min en coche de Castro. Se distribuye en 3 plantas: Planta principal: -Recibidor. -Salón comedor amplio y luminoso con salida a la gran terraza soleada con jardín privado. -Cocina totalmente amueblada y equipada con electrodomésticos y mesa de comedor. -Txoco. -Baño con ducha. Primera planta: -3 habitaciones luminosas con camas y grandes armarios. -Baño completo. -Garaje muy amplio. -2 trasteros. Gran terraza con jardín privado. Suelos de madera. Ventanas con doble acristalamiento. Garaje  Trastero. Calefacción a gas natural. Exterior y muy luminoso. Vistas a la montaña. Se requieren garantías de pago para seguro de alquiler: ingresos de mín 3.300 euros/mes demostrables. - 1 mes de fianza Cod. - 6329-R.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mioño-Santullán, Castro-Urdiales",
+        "title": "Chalet adosado en Barrio de Santullán, 47 C"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109976307",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a4/d0/18/1391462985.webp",
+      "numPhotos": 20,
+      "floor": "bj",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Ataúlfo Argenta",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.3719886,
+      "longitude": -3.2059555,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109976307/",
+      "distance": "1386",
+      "description": "Cotolino. INMOBILIARIA LOW COST CASTRO alquila CORTAS ESTANCIAS. Máximo hasta junio. Piso de 2 habitaciones, 2 baños, terraza, salón comedor y cocina equipada. NO TIENE GARAJE. No mascotas.  Ref. Torre.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Piso en calle Ataúlfo Argenta"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100938670",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/93/e3/0a/1104556019.webp",
+      "externalReference": "7633",
+      "numPhotos": 12,
+      "price": 870.0,
+      "priceInfo": {
+        "price": {
+          "amount": 870.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "rent",
+      "size": 60.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Liendo",
+      "province": "Cantabria",
+      "municipality": "Liendo",
+      "country": "es",
+      "latitude": 43.3967901,
+      "longitude": -3.3655702,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/100938670/",
+      "distance": "12342",
+      "description": "CABAÑA - ALQUILER TEMPORADA HASTA JUNIO - LIENDO Una casita de madera en el precioso valle de Liendo, Cantabria. Desde la casa se puede llagar andando al centro del pueblo, se tarda unos 15 minutos. En el centro hay un pequeño supermercado, una farmacia, una peluquería y varios bares y restaurantes. A pie de calle puedes andar por uno los senderos mas bonitos de España, un tramo del camino de Santiago del norte que te llevara por los acantilados de Liendo hasta Laredo. El espacio Se entra en la casa por la cocina que es amplia y muy luminosa. La cocina esta totalmente equipada y tiene dos fuegos eléctricos, horno y una nevera grande a su disposición. La cabaña cuenta con dos dormitorios, uno con cama de matrimonio de 160cm en la planta baja de la casa y un espacio con dos camas individuales de 90cm bajo cubierta. Además tiene un baño con bañera con ducha y una estancia abierta de salón y comedor. El jardín que tiene alrededor esta amplio con césped y tiene una terraza de madera con muebles de comedor exterior para 4 personas. Servicios y zonas comunes La casa tiene un jardín delante y a los lados para el uso de los huéspedes. Incluido en este espacio está una terraza y la plaza de parking. Otros aspectos destacables La casa se encuentra en un terreno grande con jardín. En su entorno se encuentran prados, campos y las casas de los vecinos del barrio. La casa mas cercana esta a unos 100 metros. A 1 km está el centro del pueblo con un pequeño supermercado, farmacia, peluquería y varios bares. PROHIBIDO FUMAR  PROHIBIDO MASCOTAS.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "countryHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liendo",
+        "title": "Finca rústica"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109890400",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/87/19/ae/1388698876.webp",
+      "numPhotos": 15,
+      "floor": "4",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 40.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Juan de la Cosa",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.379961,
+      "longitude": -3.2189908,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109890400/",
+      "distance": "526",
+      "description": "Castro- CENTRO Inmobiliaria SANTA ANA, ofrece en alquiler un exclusivo LOFT en pleno centro de la ciudad. Se trata de una vivienda con acceso único y exclusivo en ascensor hasta la propia planta de la vivienda. La vivienda es un gran espacio en el que se integran la cocina totalmente amueblada y equipada, el salón y una habitación con cama king-size. El baño cuenta con plato de ducha.  La vivienda tiene una terraza para disfrute de muy buen tamaño. Los suministros de la vivienda se cobran a parte del alquiler, ya que el edificio esta domotizado y el gasto de los mismos está sujeto a valoración diferente. NO SE ADMITEN MASCOTAS. SE SOLICITARÁN MEDIOS ACREDITADOS DE INGRESOS PARA ESTUDIO DE VALORACIÓN POR PARTE DEL SEGURO DE IMPAGOS.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 24.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Ático en calle Juan de la Cosa"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107410908",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/09/b1/cd/1387676978.webp",
+      "externalReference": "EX1126",
+      "numPhotos": 64,
+      "floor": "2",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 83.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Sta. María de Getxo",
+      "province": "Vizcaya",
+      "municipality": "Getxo",
+      "district": "Sta. María de Getxo",
+      "country": "es",
+      "latitude": 43.3617735,
+      "longitude": -3.0217199,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107410908/",
+      "distance": "15719",
+      "description": "DELAGALA Consultoría Inmobiliaria alquila en EXCLUSIVA esta vivienda en urbanización privada con PISCINA y SOLÁRIUM, situada en una de las zonas más demandadas de Santa María de Getxo, ideal para quienes buscan calidad de vida, tranquilidad y servicios completos. Recien Pintado.    La vivienda se alquila SIN MUEBLES y a LARGO PLAZO, una oportunidad perfecta para crear un hogar a tu medida desde el primer día. Cuenta con DOS amplias habitaciones, ambas con armarios empotrados, plaza de GARAJE y TRASTERO con acceso directo desde el ascensor, y un valor diferencial difícil de encontrar: solárium comunitario con vistas al mar, un auténtico lujo para desconectar sin salir de casa.    Ubicada en una segunda planta en esquina, con orientación norte-oeste, destaca por su luminosidad natural y una distribución cómoda y muy funcional. Al acceder, un hall recibidor con armario empotrado da paso a un amplio salón-comedor, perfecto para el día a día y para disfrutar en familia.  La cocina independiente, práctica y bien organizada, dispone además de zona de lavandería.    Las dos habitaciones son exteriores y espaciosas, pensadas para el descanso, y el baño ha sido reformado, con plato de ducha y ventana al exterior, un detalle que marca la diferencia en confort y ventilación.    El edificio, construido en 1992, se encuentra en excelente estado de conservación y dispone de ascensor, acceso directo a garaje y trastero, así como elevador para personas con movilidad reducida, aportando comodidad y accesibilidad.    La urbanización está diseñada para disfrutarla todo el año: dos piscinas (una infantil), vestuarios, pista de squash, txoko, zonas infantiles y espacios comunes cuidados, pensados para el bienestar de toda la familia.    La ubicación es otro de sus grandes atractivos: una zona residencial tranquila, con colegios, transporte público y todos los servicios a mano, combinando privacidad y comodidad diaria.    - Se buscan inquilinos de larga estancia, con ingresos demostrables.  - Viviendas así, en urbanización completa y con vistas al mar, no aparecen a menudo en alquiler.    ¿Te imaginas viviendo aquí? Se busca inquilino a largo plazo puedes llamar y pedir una cita   No lo dejes pasar, contacta con nosotros y ven a conocer tu próximo hogar en Getxo.    ¡Descubre DELAGALA Consultoría Inmobiliaria!    En Calle Las Mercedes 17, bajo 7 (Toldo Amarillo), Las Arenas – Getxo, encontrarás el aliado ideal para vender o comprar tu vivienda con total confianza.    Nuestro horario:    Lunes 09:30h a 14:00h y de 17:00h a 20:00h Martes a jueves: 10:00h a 13:30h y de 16:30h a 20:00h Viernes: 10:00h a 13:30h y de 17:00h a 19:00h    ¿Por qué elegirnos?    Experiencia y respaldo: Presentes en Getxo desde 2014, de la mano de Isabel De La Gala, Perito Tasador Inmobiliario y miembro de la Junta de Gobierno del COAPI-Bizkaia.    Reconocimiento internacional: Contamos con dos designaciones: REALTORS y CRS, lo que aporta un valor diferencial para el mercado extranjero interesado en Getxo, Bilbao y la Margen Derecha.    Compromiso con el propietario: Representación exclusiva, estrategias de marketing actualizadas y un acompañamiento integral hasta la firma notarial, con la máxima transparencia e integridad.    Facilidades para el comprador: Departamento Financiero propio para buscar la mejor financiación hipotecaria.    Lo que opinan nuestros clientes    Consulta nuestras valoraciones en Google y verás por qué confían en nosotros.    Te esperamos    Ven a conocernos y descubre la diferencia de una Gestión Proactiva.    Síguenos en Instagram: @idelagala    ¡Estamos aquí para acompañarte en el logro de tus objetivos inmobiliarios y para acompañarte a tomar decisiones inteligentes, con toda la información que necesitas!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Sta. María de Getxo, Getxo",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109695011",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/15/03/3e/1382699072.webp",
+      "numPhotos": 15,
+      "floor": "1",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 41.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "CL BELEN",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3854398,
+      "longitude": -3.2171986,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109695011/",
+      "distance": "374",
+      "description": "Alquiler Temporal Apartamento funcional en el corazón del casco histórico de Castro-Urdiales Disfruta de la esencia de Castro-Urdiales alojándote en este práctico apartamento de una habitación, con baño, cocina y salón integrados.  Situado en un primer piso sin ascensor, dentro del casco antiguo, tendrás todo lo que necesitas a un paso: restaurantes, bares, tiendas y el puerto. Perfecto para una persona o pareja que valore la comodidad y la cercanía a todo. Un espacio sencillo, cómodo y bien situado — ideal para estancias temporales o trabajo en la zona. No se admiten mascotas.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en CL Belen"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107910149",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2d/ce/12/1328069264.webp",
+      "externalReference": "2101",
+      "numPhotos": 19,
+      "floor": "4",
+      "price": 1800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1800.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 1900.0,
+            "priceDropValue": 100,
+            "priceDropPercentage": 5
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 115.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "paseo Menéndez Pelayo",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Brazomar",
+      "country": "es",
+      "latitude": 43.3742301,
+      "longitude": -3.2150448,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107910149/",
+      "distance": "978",
+      "description": "Inmobiliaria VHL alquila HASTA JUNIO amplio piso en la zona de Brazomar. Vivienda de 115m² distribuidos en salón comedor con chimenea, cocina totalmente equipada con zona terraza cerrada de lavado, cuatro habitaciones; dos con cama de matrimonio, otra con dos camas y otra a modo despacho, todas con terraza, dos baños completos uno con bañera y otro con ducha y hall amplio con zapatero. Aparcamiento comunitario dentro de la urbanización. Rodeado de zonas verdes y de todo tipo de servicios de primera necesidad. * Suministros incluidos TERRAZA AMPLITUD PISO IMPECABLE VISTAL AL MAR Inmobiliaria VHL c/ La Mar 18 Casto Urdiales.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Brazomar, Castro-Urdiales",
+        "title": "Piso en paseo Menéndez Pelayo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109643578",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/96/22/2f/1381101295.webp",
+      "externalReference": "4899",
+      "numPhotos": 17,
+      "floor": "3",
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 49.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Melitón Pérez del Camino, 5",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3823775,
+      "longitude": -3.2187594,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109643578/",
+      "distance": "390",
+      "description": "ERA CASTRO se transforma en E-CASTRO evolucionando con las nuevas tecnologías de IA y configurándose hoy como la Inmobiliaria líder en Castro-Urdiales. SOLO FUNCIONARIOS, PERSONAS NO FUMADORAS Y SIN MASCOTAS. Se alquila acogedor loft reformado en pleno centro de Castro-Urdiales Se ofrece en alquiler un luminoso piso tipo loft de 1 habitación, ubicado en el corazón de Castro-Urdiales, con acceso inmediato a todos los servicios: supermercados, colegios, tiendas de alimentación, paradas de autobús con conexión a Bilbao y Barakaldo, restaurantes, comercios y mucho más. La vivienda se encuentra en excelente estado de conservación, totalmente reformada y lista para entrar a vivir. Distribución funcional: al entrar, a la izquierda se encuentra la cocina equipada y un baño completo con plato de ducha, en el centro, un amplio salón y a la derecha, la habitación principal con balcón, ideal para disfrutar del aire libre. Una oportunidad perfecta para quienes buscan comodidad, estilo y ubicación privilegiada en el centro urbano. Tu inmobiliaria en Castro, de toda la vida.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Melitón Pérez del Camino, 5"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108458522",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a2/38/e6/1345518418.webp",
+      "numPhotos": 36,
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 140.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "BO ALLENDELAGUA, 17",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Oriñón-Allendagua",
+      "country": "es",
+      "latitude": 43.3949757,
+      "longitude": -3.2482852,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108458522/",
+      "distance": "3073",
+      "description": "ALQUILER TEMPORAL-  Preciosa casa de piedra restaurada en el barrio de Allendelagua, a escasos 3 minutos en coche de Castro-Urdiales y sus playas. Esta casa de piedra se ubica en el encantador barrio de Allendelagua, a pie de rutas de montaña y a escasos minutos de las mejores playas del Cantábrico. Reformada y decorada al detalle, cuidando el estilo y dando funcionalidad y comodidad a cada estancia. Cuenta con una planta baja con cocina moderna, un aseo y salón comedor con salida a exterior donde poder disfrutar de una velada agradable y rodeada de tranquilidad. En la planta primera se encuentra la zona de descanso con tres estancias y un baño completo. La habitación principal con cama de 1,50, amplio armario empotrado y balcón desde donde se ve el mar. Una segunda habitación con cama infantil y salida también a balcón con vistas a la montaña. La tercera habitación a modo de vestidor. Cuenta con chimenea y la caldera es de gas butano. No cuenta con internet.  Un capricho para disfrutar de unos días de descanso y disfrute. DISPONIBLE ALQUILER TEMPORAL NO MASCOTAS Parada de autobús dirección Castro-Urdiales y dirección Islares, Oriñon y Sonabia.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oriñón-Allendagua, Castro-Urdiales",
+        "title": "Casa independiente en Bo Allendelagua, 17"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106986620",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/21/8b/81/1392187041.webp",
+      "externalReference": "3367",
+      "numPhotos": 28,
+      "floor": "1",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Brazomar",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Brazomar",
+      "country": "es",
+      "latitude": 43.3671411,
+      "longitude": -3.2169984,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106986620/",
+      "distance": "1779",
+      "description": "BRAZOMAR 3 HABITACIONES EN URBANIZACION PRIVADA *****ALQUILER TEMPORAL SOLO HASTA JUNIO ***** acogedor piso de 3 habitaciones, amueblado en la zona de Brazomar. div Esta vivienda consta de 3 habitaciones completamente exteriores y vistas despejadas, 2 baños completos, un amplio salón comedor con grandes ventanales, cocina totalmente equipada con acceso a zona de tendedero y parcela de garaje incluida en el precio. Se encuentra en una bonita urbanización privada, con 3 piscinas, pistas de pádel y tenis, zona infantil y unas preciosas zonas verdes para poder disfrutar de la urbanización al máximo. Gracias a su ubicación y vistas despejadas goza de gran claridad. /divdiv En un entorno tranquilo de fácil acceso desde la autovía y cercano a todos los servicios necesarios, comercios, colegios, transportes... /divdiv /divdiv***SE REQUIERE ACREDITAR SOLVENCIA DEMOSTRABLE ANTES DE LA VISITA*** /divdiv***NO SE ADMITEN MASCOTAS ***  /divdiv INMOBILIARIA INVERCASS Ardigales 27 Bajo Castro Urdiales   /div.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Brazomar, Castro-Urdiales",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109184769",
+      "numPhotos": 0,
+      "floor": "bj",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 130.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Nafarroa, 2",
+      "province": "Vizcaya",
+      "municipality": "Gallarta",
+      "country": "es",
+      "latitude": 43.3190329,
+      "longitude": -3.0714916,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109184769/",
+      "distance": "13540",
+      "description": "Esta propiedad solo se alquilara para trabajadores o empresas, en los 1600€ están incluidos todos los suministros. ENTRADA EN SEPTIEMBRE.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Gallarta",
+        "title": "Piso en calle Nafarroa, 2"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108975347",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6b/b4/c4/1360590381.webp",
+      "externalReference": "A- 10500",
+      "numPhotos": 17,
+      "floor": "9",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Pérez Galdós",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3820456,
+      "longitude": -3.2189494,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108975347/",
+      "distance": "413",
+      "description": "POR FAVOR LEAN BIEN TODO EL ANUNCIO  Inmobiliaria Jardines de Castro alquila en exclusiva, esta fantástica vivienda ubicada en pleno centro de Castro-Urdiales, en un edificio moderno y de reciente construcción. NO SE ADMITEN MASCOTAS La vivienda cuenta con: Tres habitaciones Salón amplio y luminoso Cocina equipada Dos baños completos Parcela de garaje cerrada incluida en el precio Situada en una de las zonas más demandadas de la ciudad, tendrás todo a mano: supermercados, farmacia, ambulatorio, colegios, comercios y servicios esenciales.  Requisitos imprescindibles: Contrato de trabajo indefinido Ingresos mínimos demostrables de 4000 € mensuales (entre los inquilinos que firmen el contrato) de forma que el alquiler no supere el 30 % de los ingresos, asegurando así una experiencia de arrendamiento cómoda, responsable y sostenible para ambas partes. Solo se tendrán en cuenta las solicitudes que cumplan con los requisitos indicados. NO SE ADMITEN MASCOTAS.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Pérez Galdós"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108830649",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bc/87/86/1356386443.webp",
+      "externalReference": "18553",
+      "numPhotos": 70,
+      "price": 4000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 4000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 295.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "Zierbena",
+      "province": "Vizcaya",
+      "municipality": "Zierbena",
+      "country": "es",
+      "latitude": 43.3491054,
+      "longitude": -3.1107259,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108830649/",
+      "distance": "9159",
+      "description": "Inmobiliaria Quorum alquila este precioso y exclusivo adosado ubicado en la zona de Zierbena/Musquiz con unas vistas únicas al Cantábrico y la playa de Musquiz. La vivienda que esta distribuida en 2 alturas mas zona de sótano. La Planta Baja: Accedemos a la vivienda en la cual tenemos una terraza de unos 19 m2 que rodea la vivienda y zona ajardinada con una superficie de 185 m2.  Dentro ya de la vivienda tenemos un vestíbulo y un baño completo con ducha, una habitación amplia con acceso a la terraza de 16 m2 con armario empotrado, mas cocina americana totalmente equipada junto al salón comedor con espectaculares vistas gracias a los grandes ventanales que le dan mucha luz.  Primera Planta: Distribuida en 3 habitaciones, la principal en suita con zona vestidor y baño con ducha completo de 15 m2 y una terraza de 15 m2 con maravillosas vistas al Cantábrico y a la playa de Arena. Las otras 2 habitaciones una de ellas de 18 m2 y otra de 11.60 que se comunican entre ellas con otra pequeña terraza de 3 m2 y junto a un baño común.  Todas las habitaciones de la vivienda cuentan con demótica para las levantar y cerrar las persianas. Plata Sótano: Por un lado disponemos de un garaje cerrado habilitado para 2 coches y preparado para instalar para un coche eléctrico de una superficie de 32 m2, un distribuidor de 7,5 m2, vestíbulo de 3 m2, aseo y zona de almacenaje de 32 m2 donde encontramos la caldera de aerotermia. Memoria de calidades: Calefacción y agua caliente con sistema de aerotermia de alta eficiencia individualizada mediante bomba de calor con suelo radiante. Ventilación mecánica individual que reduce el consumo energético de la vivienda. Ventanas de aluminio con rotura de puente térmico, oscilobatientes con apertura hacia el interior y persianas con sistema motorizado. Terrazas con pavimento antideslizante. Puerta acorazada con cerradura antibumping con aviso telefónico y puertas interiores lacadas en blanco. Si buscas Agencias Inmobiliarias en Barakaldo, Quorum es la inmobiliaria que puede ayudarte en la compra, venta o alquiler de tu piso, vivienda o local. 23 Años de trayectoria con 7 Oficinas Inmobiliarias y más de 40 profesionales con gran bagaje en el sector inmobiliario a través de una metodología basada en el rigor, el compromiso y la responsabilidad a través del tratamiento personalizado y con la asesoría de un departamento jurídico propio. Siempre con la sensibilidad de que un inmueble puede llegar a ser un hogar, una inversión o la puesta en marcha de un gran proyecto; el objetivo es acompañar a nuestros clientes de principio a fin para satisfacer expectativas y alimentar ilusiones. Garantía, responsabilidad y eficiencia definen los pilares del servicio Quorum. En Grupo Quorum aplicamos una metodología enfocada a lograr resultados óptimos y de beneficio en el menor tiempo posible. En Quorum somos muy conscientes del vínculo emocional asociado a una vivienda o a un proyecto de negocio, de ahí que nuestros agentes y nuestros asesores sepan acompañarle con seriedad y empatía en todo el proceso de compra-venta, facilitando la búsqueda y gestionando desde las labores administrativas, la consecución del certificado energético, home staging, hasta las fotografías/vídeos profesionales o todos los servicios asociados a la gestión inmobiliaria. Un equipo propio experto en marketing, así como un departamento legal velarán por los intereses de cada cliente con el fin de evitar incidencias y simplificar el proceso de compra o de venta de viviendas, chalets, locales o naves industriales en nuestra área de implantación: el Gran Bilbao, así como en zonas vacacionales y proyectos de segunda residencia. Quorum es la inmobiliaria líder en Vizcaya. Localiza nuestra agencia inmobiliaria en Paseo de Los Fueros 20 (antigua oficina de La Caixa).",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zierbena",
+        "title": "Chalet adosado"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105302844",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ff/13/ce/1298011738.webp",
+      "numPhotos": 25,
+      "floor": "1",
+      "price": 1650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 180.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "paseo Ocharan Mazas",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3807435,
+      "longitude": -3.2170177,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105302844/",
+      "distance": "349",
+      "description": "Alquiler Temporal a partir de enero de 2026  Piso 1ª Línea Frente al Mar, Castro-Urdiales Situado en primera línea del frente marítimo de Castro-Urdiales, con espectaculares vistas  a la bahía y conjunto histórico de la ciudad encontramos este gran piso a pie de todos los servicios que ofrece la ciudad de Castro-Urdiales. En concreto se trata de un piso que forma parte de un edificio de 4 alturas y un único piso por planta. Cuenta con zona de aparcamiento dentro de su espacio en urbanización cerrada y espacio cerrado y comunitario para guardar moto, bicicletas, etc. Inmejorable ubicación de este piso que se encuentra a 2 minutos a pie del Muelle de Don Luis y 5 de la plata de Brazomar, así como escasos 100 metros del centro de la ciudad. Todo en llano, sin cuestas. La vivienda cuenta con 180 metros cuadrados construidos distribuidos en una amplia cocina con lavadero y ventana con vistas al conjunto histórico de Castro Urdiales; un gran salón con amplios ventanales y con salida a una terraza donde poder disfrutar de las mejores vistas al mar y olor a sal. Un espacio para disfrutar de un amanecer, una puesta de sol relajándose frente a la bahía y su entorno; desde el salón accedemos a un comedor también con vistas al mar. La vivienda tiene cuatro habitaciones. Una de ellas con gran cama y baño incorporado; una segunda habitación con dos camas, armarios empotrados y baño con ducha; otra habitación con dos camas y armario empotrado y una última y cuarta habitación con dos camas en literas y una tercera cama más, también con armario; y por último otro baño con bañera. Disfrute de una ciudad con tradiciones marineras e inmejorable patrimonio medieval, llena de vida durante todo el año y especialmente en época estival, todo desde la mejor ubicación en una gran vivienda! Disponible desde enero de 2026 a abril de 2026. Disponible julio de 2026, consultar precio del mes de julio.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en paseo Ocharan Mazas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108825193",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4e/0c/98/1357106880.webp",
+      "externalReference": "18537",
+      "numPhotos": 70,
+      "price": 4000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 4000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 295.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "Zierbena",
+      "province": "Vizcaya",
+      "municipality": "Zierbena",
+      "country": "es",
+      "latitude": 43.347104,
+      "longitude": -3.1101188,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108825193/",
+      "distance": "9297",
+      "description": "Inmobiliaria Quorum vende este precioso y exclusivo adosado ubicado en la zona de Zierbena/Musquiz con unas vistas únicas al Cantábrico y la playa de Musquiz. También se ofrece opción de alquiler temporal. La vivienda que esta distribuida en 2 alturas mas zona de sótano. La Planta Baja: Accedemos a la vivienda en la cual tenemos una terraza de unos 19 m2 que rodea la vivienda y zona ajardinada con una superficie de 185 m2.  Dentro ya de la vivienda tenemos un vestíbulo y un baño completo con ducha, una habitación amplia con acceso a la terraza de 16 m2 con armario empotrado, mas cocina americana totalmente equipada junto al salón comedor con espectaculares vistas gracias a los grandes ventanales que le dan mucha luz.  Primera Planta: Distribuida en 3 habitaciones, la principal en suita con zona vestidor y baño con ducha completo de 15 m2 y una terraza de 15 m2 con maravillosas vistas al Cantábrico y a la playa de Arena. Las otras 2 habitaciones una de ellas de 18 m2 y otra de 11.60 que se comunican entre ellas con otra pequeña terraza de 3 m2 y junto a un baño común.  Todas las habitaciones de la vivienda cuentan con demótica para las levantar y cerrar las persianas. Plata Sótano: Por un lado disponemos de un garaje cerrado habilitado para 2 coches y preparado para instalar para un coche eléctrico de una superficie de 32 m2, un distribuidor de 7,5 m2, vestíbulo de 3 m2, aseo y zona de almacenaje de 32 m2 donde encontramos la caldera de aerotermia. Memoria de calidades: Calefacción y agua caliente con sistema de aerotermia de alta eficiencia individualizada mediante bomba de calor con suelo radiante. Ventilación mecánica individual que reduce el consumo energético de la vivienda. Ventanas de aluminio con rotura de puente térmico, oscilobatientes con apertura hacia el interior y persianas con sistema motorizado. Terrazas con pavimento antideslizante. Puerta acorazada con cerradura antibumping con aviso telefónico y puertas interiores lacadas en blanco. La vivienda la cual de obra venia totalmente vacía se ha hecho una inversión importante para dejarla totalmente amueblado, montaje de cocina completo con electrodomesticos de alta calidad, sistema de vigilancia y alarma en toda la vivienda, hilo musical.  Si buscas Agencias Inmobiliarias en Barakaldo, Quorum es la inmobiliaria que puede ayudarte en la compra, venta o alquiler de tu piso, vivienda o local. 23 Años de trayectoria con 7 Oficinas Inmobiliarias y más de 40 profesionales con gran bagaje en el sector inmobiliario a través de una metodología basada en el rigor, el compromiso y la responsabilidad a través del tratamiento personalizado y con la asesoría de un departamento jurídico propio. Siempre con la sensibilidad de que un inmueble puede llegar a ser un hogar, una inversión o la puesta en marcha de un gran proyecto; el objetivo es acompañar a nuestros clientes de principio a fin para satisfacer expectativas y alimentar ilusiones.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zierbena",
+        "title": "Chalet adosado"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108790468",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/81/99/12/1355203938.webp",
+      "externalReference": "2144",
+      "numPhotos": 16,
+      "floor": "bj",
+      "price": 850.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio Brazomar",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Brazomar",
+      "country": "es",
+      "latitude": 43.3632314,
+      "longitude": -3.2164878,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108790468/",
+      "distance": "2207",
+      "description": "Inmobiliaria VHL alquila DE SEPTIEMBRE A JUNIO impecable piso en la zona de Brazomar. Vivienda de 65m² que se distribuyen en; - Salón comedor - Cocina totalmente equipada - Dos habitaciones - Un baño con ventana Incluye en el precio una parcela de garaje con acceso directo desde la vivienda. GARAJE BAJO CON TERRAZZA DE 60M² TOTALMENTE EXTERIOR SOLEADO.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Brazomar, Castro-Urdiales",
+        "title": "Piso en Barrio Brazomar"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108472627",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8b/95/cf/1345947073.webp",
+      "externalReference": "291",
+      "numPhotos": 75,
+      "price": 3650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 3650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 200.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Barrio Noval",
+      "province": "Cantabria",
+      "municipality": "Liendo",
+      "country": "es",
+      "latitude": 43.3917089,
+      "longitude": -3.3883482,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108472627/",
+      "distance": "14121",
+      "description": "¡Chalet en Alquiler en Liendo! Se alquila impresionante chalet en Liendo, con todas las comodidades para disfrutar de tus vacaciones. En la planta baja, encontrarás un amplio salón, una cocina completamente equipada, una acogedora habitación y un baño completo con ducha. Además, cuenta con un garaje amplio que alberga la zona de lavadora. En la segunda planta, la habitación principal en suite dispone de baño privado, vestidor espacioso y terraza privada, también cuenta con dos habitaciones grandes con zona de vestidor y un baño completo. Para mayor disfrute de las vacaciones tiene un amplio jardín y una terraza perfecta para disfrutar del tiempo al aire libre. Se alquila por quincenas. Precios: - Julio: 3650 euros/quincena - Agosto: 4000 euros/quincena CONTACTA O LLAMENOS AL para más información y reserva!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liendo",
+        "title": "Casa independiente en Barrio Noval"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108428498",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/68/ab/2e/1344589454.webp",
+      "numPhotos": 21,
+      "floor": "2",
+      "price": 850.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle de Silvestre Ochoa",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3841058,
+      "longitude": -3.2261254,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108428498/",
+      "distance": "987",
+      "description": "Castro- OSTENDE Inmobiliaria SANTA ANA, pone en alquiler por el periodo de SEPTIEMBRE a AJUNIO, un precioso piso en la zona de Ostende con piscina. Dos grandes habitaciones con armarios empotrados. Salón amplio con salida a terraza orientada al Este muy luminoso y soleado. Cocina de diseño totalmente equipada y amueblada Baño grande con plato de ducha. En perfecto estado de conservación y excelente decoración. Muy bien situado en una zona residencial y tranquila, ideal para el descanso a solo 5 minutos andando de la playa y paseo de Ostende. NO SE ADMITEN MASCOTAS SE SOLICITAN MEDIOS ACREDITADOS DE INGRESOS PARA REALIZAR EL ESTUDIO DEL SEGURO DE IMPAGOS.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle de Silvestre Ochoa"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105116648",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/38/af/df/1242207377.webp",
+      "externalReference": "16477",
+      "numPhotos": 37,
+      "floor": "2",
+      "price": 2000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "rent",
+      "size": 121.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Brazomar",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Brazomar",
+      "country": "es",
+      "latitude": 43.3735341,
+      "longitude": -3.2144636,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105116648/",
+      "distance": "1053",
+      "description": "Alquiler Temporal Piso con Vistas Junto a la Playa en Castro-Urdiales En frente de la playa de Castro-Urdiales, a 60 metros de la playa de Brazomar, y zona  de cafeterías, farmacia y a 600 metros del centro urbano. Este piso dúplex totalmente reformado se distribuye en: - Planta Baja: entrada con armario empotrado, un amplio salón-comedor con salida a terraza con grandes puertas correderas y espectaculares vistas al mar y la playa para experimentar la cercanía al mar; cocina y un aseo.  En planta primera zona de descanso: - 4 habitaciones y un baño. Tres de ellas equipadas con 1 cama de 135 cm cada una, y la cuarta habitación con cama de 105. Uno de los dormitorios cuenta con una terraza con las mismas vistas al mar que el salón. Un lujo donde el descanso y disfrute se hacen más fácil. La casa cuenta con toma wi-fi y con tomas de red en todas las estancias. Además esta vivienda se alquila con dos plazas de garaje, una de ellas cerrada y otra en superficie en parking privado, incluidas en el precio. ¡Venga a disfrutar a Castro-Urdiales con la exclusividad de un piso como este! Disponible de enero a 13 junio de 2026.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 17.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Brazomar, Castro-Urdiales",
+        "title": "Dúplex"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 44,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en ",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 44,
+  "lowerRangePosition": 0,
+  "paginable": false
+}
