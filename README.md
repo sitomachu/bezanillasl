@@ -22,7 +22,8 @@ La arquitectura del proyecto organiza la información desde la ingesta de fuente
 ├── models/                  # Almacenamiento de modelos entrenados (p.ej. predicción de precios).
 ├── notebooks/               # Experimentación y Análisis Exploratorio de Datos (EDA).
 ├── src/                     # Código fuente del proyecto (scripts de limpieza y modelado).
-│   └── idealistaAPI/        # Módulo de ingesta y procesamiento vía API Idealista.
+│   ├── idealistaAPI/        # Módulo de ingesta y procesamiento vía API Idealista.
+│   └── geospatial_expansion/ # Módulo de distancias a POIs (playa, colegio, supermercado, etc.).
 ├── requirements.txt         # Listado de dependencias y versiones.
 └── README.md                # Documentación principal del proyecto.
 ```
@@ -38,3 +39,23 @@ Flujos principales:
 Guías y uso:
 - Documentación del módulo: `src/idealistaAPI/README.md`
 - Guía operativa: `src/idealistaAPI/idealista_API_userguide.md`
+
+## 5. Módulo de Expansión Geoespacial
+El repositorio incluye `src/geospatial_expansion` para enriquecer datasets de venta/alquiler con distancia al punto de interés más cercano por categoría (playa, supermercado, colegio, etc.) usando OpenStreetMap (`osmnx`) en dos procesos.
+
+Entradas:
+- CSV objetivo con coordenadas (`latitude`/`longitude` o columnas equivalentes).
+
+Salida:
+- CSV enriquecido con columnas como `nearest_beach_name` y `nearest_beach_distance_m`.
+
+Paso 1: descargar POIs (config en `run_descargar_pois.py`)
+```bash
+python -m src.geospatial_expansion.run_descargar_pois
+```
+La descarga usa circulos geograficos fijos definidos en `DEFAULT_CIRCLES`.
+
+Paso 2: expandir dataset (config en `run_expandir.py`)
+```bash
+python -m src.geospatial_expansion.run_expandir
+```
