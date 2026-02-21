@@ -1,0 +1,2777 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110599270",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/eb/5f/93/1410022879.webp",
+      "externalReference": "TVGA.COTERO",
+      "numPhotos": 14,
+      "floor": "1",
+      "price": 225000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 225000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 112.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Cotero",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Covadonga - Campuzano - Ciudad Vergel",
+      "country": "es",
+      "latitude": 43.3365472,
+      "longitude": -4.0576509,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110599270/",
+      "distance": "10016",
+      "description": "Tranquilidad y amplitud a un paso de todo. Descubre este magnífico ático - dúplex en Torrelavega. Campuzano- Esta luminosa vivienda está distribuida en dos plantas. En planta baja encontramos el salón comedor, cocina, una habitación muy funcional y un baño adaptado. En la planta superior, dos habitaciones y un baño independiente que garantizan la serenidad y la intimidad para tu descanso. Las habitaciones son amplias y bien iluminadas. Destaca su buena orientación que aporta no sólo las mayores horas de sol, si no también una temperatura agradable en toda la vivienda. Y no sólo eso, además de esta maravilla de vivienda de 112 m2 en perfecto estado para entrar a vivir, incluido en el precio garaje cerrado y trastero. No es fácil encontrar tantas prestaciones por este precio. La vivienda se encuentra en perfecto estado para entrar a vivir. Que no se te adelanten, llámanos y estaremos encantados de atenderte. Tecniobras Vintage, bienvenido al nuevo escenario de tu vida.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2009.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Covadonga - Campuzano - Ciudad Vergel, Torrelavega",
+        "title": "Dúplex en calle Cotero"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109537016",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/50/0e/1e/1377707255.webp",
+      "externalReference": "5342",
+      "numPhotos": 31,
+      "floor": "1",
+      "price": 290000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 290000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 77.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle las Mazas, 13",
+      "province": "Cantabria",
+      "municipality": "Cudon",
+      "country": "es",
+      "latitude": 43.4157856,
+      "longitude": -4.0117209,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109537016/",
+      "distance": "2769",
+      "description": "En el núcleo tranquilo de Cudón (Miengo), este ático propone una forma de vivir la costa cántabra con calma, naturaleza y conexiones ágiles con Santander y Torrelavega. Un espacio concebido para descansar, teletrabajar o recibir, sin renunciar a la comodidad diaria. El interior combina diseño contemporáneo y funcionalidad: salón de concepto abierto con cocina integrada, muy luminoso, y salida directa a la terraza. La zona de noche ofrece dos dormitorios; el principal en suite con baño integrado, más un segundo baño completo que da servicio a la vivienda. El verdadero diferencial está en sus exteriores. Una terraza principal de 117 m² orientada al paisaje amplía la vivienda para comidas al aire libre y zonas de estar. En la planta superior, una segunda terraza con vistas abiertas convierte cada momento en un mirador privado. CasaSantander le facilitará los detalles completos y coordinará una visita con cita previa.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3766.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cudon",
+        "title": "Ático en calle las Mazas, 13"
+      },
+      "hasPlan": false,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110599417",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d6/99/f0/1409787801.webp",
+      "externalReference": "acr-01951",
+      "numPhotos": 30,
+      "price": 470000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 470000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 263.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "pozo barrio el",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.4338358,
+      "longitude": -3.9432367,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110599417/",
+      "distance": "8102",
+      "description": "Chalet individual en Boo de Piélagos, en un entorno privilegiado entre pinos, a 5 min en coche de las maravillosas playas de Liencres, estupenda comunicación con Santander y Torrelavega por la autovía y a un paso de la estación de tren. La vivienda distribuida en planta baja, salón con salida a estupenda terraza, cocina y amplia habitación con baño. 70 metros de terraza. En la primera planta, 3 habitaciones, y 2 baños. La principal con baño en suite y vestidor. Sótano, zona de garaje, y lavadero. Puede informarse y concertar visita respondiendo a éste anuncio, llamándonos, o acercándose a cualquiera de nuestras Oficinas, en: - SANTANDER, Calle Juan de Herrera 8 - SOTO DE LA MARINA, Av Marques de Valdecilla 97. (Impuestos y gastos de escrituración no incluídos en el precio. Sin comisión de agencia para el comprador).",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1787.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Casa independiente en pozo barrio el"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110595557",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/76/2e/e6/1409679393.webp",
+      "externalReference": "12498",
+      "numPhotos": 44,
+      "floor": "bj",
+      "price": 180000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 180000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 49.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Barrio Rodil",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.4447777,
+      "longitude": -3.9239825,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110595557/",
+      "distance": "9833",
+      "description": "En Mortera, una de las zonas más tranquilas y demandadas del entorno de Santander, se encuentra este apartamento bajo tipo estudio, una opción ideal tanto como primera vivienda como, especialmente, como inversión gracias a su gran versatilidad. La propiedad destaca por contar con entrada independiente, un valor añadido que aporta privacidad y comodidad, además de facilitar su explotación tanto en alquiler tradicional como en alquiler vacacional o de temporada. Su distribución tipo estudio permite aprovechar al máximo el espacio, ofreciendo un ambiente funcional y acogedor, perfecto para quienes buscan una vivienda práctica y fácil de mantener. Mortera es una ubicación estratégica, muy valorada por su calidad de vida y su excelente conexión con Santander y el resto de la región. Su entorno natural privilegiado es uno de sus mayores atractivos, encontrándose a pocos minutos de enclaves tan reconocidos como la espectacular Costa Quebrada, un espacio de enorme interés turístico y paisajístico, reconocido como Geoparque Mundial de la UNESCO, así como del Parque Natural de las Dunas de Liencres, uno de los lugares más emblemáticos de Cantabria. Además, la zona cuenta con cercanía a todo tipo de servicios esenciales, como supermercados, centros de salud y hospitales, así como buenas comunicaciones mediante tren, acceso rápido a la autovía y excelentes conexiones con las principales vías, lo que garantiza comodidad tanto para residentes como para visitantes. Una oportunidad perfecta para quienes buscan un inmueble con independencia, ubicación estratégica y múltiples posibilidades de explotación, en una zona con alta demanda y gran proyección. Mikeli Luxury Real Estate. Más inmuebles en la zona. Contacte con su asesor.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3673.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Piso en Barrio Rodil"
+      },
+      "hasPlan": false,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110561189",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5c/87/d6/1408849892.webp",
+      "externalReference": "40857",
+      "numPhotos": 10,
+      "floor": "2",
+      "price": 98000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 98000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 70.0,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Conde Torreanaz",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3508034,
+      "longitude": -4.0459699,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110561189/",
+      "distance": "8364",
+      "description": "Vivienda de 70 metros, distribuida en hall, salón-comedor, cocina con muebles, 2 dormitorios, baño, sin ascensor. BUENA ZONA-NECESITA REFORMA.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1400.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Conde Torreanaz"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110592015",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/aa/83/bd/1409569028.webp",
+      "externalReference": "BI00010",
+      "numPhotos": 5,
+      "price": 545000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 545000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 180.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Suances",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.3993234,
+      "longitude": -4.0500413,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110592015/",
+      "distance": "3020",
+      "description": "Vivir con espacio, luz y tranquilidad es posible en esta vivienda unifamiliar de diseño contemporáneo, situada en una zona residencial muy tranquila de Hinojedo, rodeada de entorno natural y con vistas abiertas. La vivienda dispone de 152 m2 construidos, distribuidos en dos plantas, y destaca por sus generosos espacios exteriores, con varias terrazas y una azotea privada que amplía las posibilidades de disfrute durante todo el año: zona de descanso, solárium o espacio para reuniones al aire libre. En la planta baja cuenta además con un porche techado de gran tamaño, pensado inicialmente para aparcamiento, pero con múltiples usos posibles según las necesidades de cada familia. El proyecto apuesta por una arquitectura actual, funcional y luminosa, con una distribución cómoda y equilibrada, ideal para una vida familiar. La vivienda se entrega con materiales de calidad y soluciones eficientes, pensadas para el confort y el ahorro energético. Características destacadas: - Sistema de aerotermia para calefacción y agua caliente sanitaria - Suelo radiante - Sistema de ventilación con recuperador de calor - Carpintería exterior de alta gama con vidrios de control solar - Iluminación exterior según proyecto - Parcela nivelada y ajardinada (en siembra) - Cerramientos perimetrales incluidos Una vivienda con carácter, diseñada para quienes buscan algo más que una casa: calidad de vida, exterior y tranquilidad, sin renunciar a un diseño moderno.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3028.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110591820",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6d/2b/ba/1409561067.webp",
+      "externalReference": "40889",
+      "numPhotos": 23,
+      "price": 110000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 110000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 194.0,
+      "rooms": 0,
+      "bathrooms": 0,
+      "address": "Viernoles barrio herrera",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Tanos",
+      "country": "es",
+      "latitude": 43.3197931,
+      "longitude": -4.0547755,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110591820/",
+      "distance": "11847",
+      "description": "Casa adosada en la zona de Viernoles, de 194 m² construidos, dividida en 4 plantas. La vivienda cuenta con terraza y socarrena en la parte posterior ofreciendo diferentes posibilidades de uso. Reformada parcialmente. Situada en buena zona y con muchas posibilidades.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 567.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Tanos, Torrelavega",
+        "title": "Chalet adosado en Viernoles barrio herrera"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110588331",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f1/fc/20/1409457989.webp",
+      "externalReference": "PAN0019",
+      "numPhotos": 14,
+      "floor": "1",
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 105.0,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Julián Ceballos",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3479326,
+      "longitude": -4.0511626,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110588331/",
+      "distance": "8705",
+      "description": "Desde Puerta al Norte Gestión Inmobiliaria te presentamos este céntrico piso en Torrelavega, situado en la calle Julián Ceballos, una de las vías más consolidadas y con más servicios de la ciudad. Se trata de una vivienda de 105 m² para reformar, con proyecto de reforma integral aprobado por el Ayuntamiento, que plantea una distribución muy cómoda con tres habitaciones, dos baños, salón-comedor y cocina, además de garaje y trastero en el mismo edificio, un valor añadido poco habitual en esta zona del centro. Su ubicación es uno de sus grandes atractivos: en pleno corazón de Torrelavega, con comercios, supermercados, farmacias, hostelería y transporte público a pocos metros. Una excelente oportunidad para quienes buscan estrenar vivienda en el centro, partiendo de una reforma ya diseñada y aprobada. Contacta con Puerta al Norte Gestión Inmobiliaria y agenda tu visita.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2381.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Julián Ceballos"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110586461",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cf/32/87/1409404831.webp",
+      "externalReference": "2086",
+      "numPhotos": 17,
+      "floor": "1",
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Julián Ceballos",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3495638,
+      "longitude": -4.0537089,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110586461/",
+      "distance": "8542",
+      "description": "**Piso luminoso y acogedor en una ubicación inmejorable** Descubre este espectacular piso de 80 m² útiles, ideal para quienes buscan un hogar cómodo y bien ubicado. Con una distribución diáfana, este espacio se siente amplio y luminoso gracias a su orientación este, que permite disfrutar de la luz natural por las mañanas. La cocina independiente ofrece la privacidad necesaria para cocinar y compartir momentos en familia. El inmueble cuenta con tres dormitorios, perfectos para adaptarse a tus necesidades, ya sea como habitaciones, oficinas o espacios de almacenamiento. Además, la calefacción a gas natural garantiza un ambiente cálido durante los meses más fríos. Situado en la primera planta de un edificio con ascensor, el acceso es fácil y cómodo. No te preocupes por el almacenamiento, ya que incluye un trastero adicional. Y si tienes coche, la plaza de garaje está incluida en el precio, lo que añade un gran valor a esta propiedad. La ubicación es inmejorable, cerca de parques públicos, gimnasios, restaurantes, colegios y bancos. ¡No dejes pasar esta oportunidad de vivir en un lugar que lo tiene todo!",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2778.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Julián Ceballos"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110584903",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/66/60/b8/1409360002.webp",
+      "externalReference": "1434",
+      "numPhotos": 36,
+      "floor": "2",
+      "price": 133000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 133000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 83.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Julián Ceballos, 44",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3478606,
+      "longitude": -4.0461027,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110584903/",
+      "distance": "8691",
+      "description": "Piso de tres dormitorios con ascensor, en el centro de Torrelavega. ¿Buscas una inversión segura o crear el hogar de tus sueños en el corazón de Torrelavega? Presentamos este piso en la emblemática calle Julián Ceballos, recientemente remodelada y transformada en una moderna zona semipeatonal. Ubicación Privilegiada Situado en pleno centro, disfrutarás de la comodidad de tenerlo todo a un paso: colegios, comercios, servicios y la facilidad de un aparcamiento público justo al lado. Una zona con alta demanda de alquiler y revalorización garantizada. Características Principales •Segunda planta con ascensor (portal recién reformado a cota cero). •Edificio actualizado: Tejado reacondicionado y comunidad tranquila con pocos vecinos. •Distribución inteligente: Sus estancias ofrecen múltiples posibilidades para una reforma integral moderna y funcional. •Luminosidad: Orientación que garantiza luz natural, destacando sus dos terrazas cerradas con vistas a la nueva zona semipeatonal. •Configuración actual: 3 amplios dormitorios. Listo para empezar Olvídate de trámites farragosos: la vivienda ya cuenta con los suministros de agua y electricidad dados de alta. Es el momento perfecto para entrar con tu equipo de reforma y empezar a transformar este espacio. Ideal Inversores: Su ubicación estratégica y tipología lo convierten en una pieza clave para el mercado de alquiler, con una rentabilidad muy atractiva tras su rehabilitación. ¿Quieres venir a verlo? No dejes escapar la oportunidad de invertir en la calle de moda de Torrelavega. Contacta ahora para concertar una visita.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1602.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Julián Ceballos, 44"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110586192",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b2/12/fa/1409397028.webp",
+      "externalReference": "2925",
+      "numPhotos": 56,
+      "floor": "4",
+      "price": 255000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 255000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 104.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Raimundo Cicero Arteche",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "El Parque - Zapatón",
+      "country": "es",
+      "latitude": 43.3476129,
+      "longitude": -4.0513749,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110586192/",
+      "distance": "8742",
+      "description": "Exclusivo Duplex en el centro- Zona del Parque. Edificio del año 2007. Descubra este magnifico duplex ubicado en una de las mejores zonas del centro, junto al parque, ideal para quienes buscan comodidad, estilo y una ubicación privilegiada. La vivienda cuenta con ascensor y se distribuye en un amplio y luminoso salón-comedor, cocina equipada, dos dormitorios, vestidor y dos baños completos (ducha y bañera) Grandes ventanales. Magnificas vistas. Ademas incluye una plaza de garaje.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2452.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Parque - Zapatón, Torrelavega",
+        "title": "Dúplex en calle Raimundo Cicero Arteche"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110581203",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4b/17/73/1409256303.webp",
+      "externalReference": "107",
+      "numPhotos": 36,
+      "floor": "bj",
+      "price": 280000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 280000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 73.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Playa de Usil",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4379877,
+      "longitude": -3.9697761,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110581203/",
+      "distance": "6060",
+      "description": "Desde Inmobiliaria Las Dunas les presentamos en exclusiva este bajo con terraza en Mogro. La vivienda se ubica en una urbanización con amplias zonas verdes. La vivienda consta de 73 m² const aprox, según el catastro, que se distribuyen en: Hall de entrada. Acogedor salón con acceso a la terraza - jardín. Cocina independiente con pequeño tendedero al Sur. 3 dormitorios. Baño con plato de ducha y ventana para una buena ventilación. La vivienda dispone de sistema de calefacción de gas natural, así como de una plaza de garaje y un amplio trastero para comodidad del día a día. Todo ello situado en un entorno natural junto a la desembocadura del río Pas y parque de las Dunas de Liencres. Cercano al campo de golf Abra del Pas. Excelente comunicación con la autovía Santander - Torrelavega. Oportunidad como vivienda habitual, segunda residencia o inversión.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3836.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Piso en calle Playa de Usil"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110579903",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8d/69/0c/1409213736.webp",
+      "externalReference": "2089137",
+      "numPhotos": 18,
+      "floor": "3",
+      "price": 120000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 120000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 99.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Ceferino Calderón, 8 A",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Inmobiliaria - Barreda",
+      "country": "es",
+      "latitude": 43.3540181,
+      "longitude": -4.0468063,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110579903/",
+      "distance": "8009",
+      "description": "Inmobiliaria Blanco vende en el corazon de Torrelavega, este espacioso inmueble de 99 m2. ¡Ideal para inversores o familias que buscan crear su hogar a medida!   A pie de calle con todos los servicios (supermercados, colegios, transporte público, etc... ), lo que es perfecto para no depender del coche para la vida diaria. El inmueble se encuentra en una tercera planta (sin ascensor), lo que le otorga una gran entrada de luz natural y un ahorro significativo en los gastos fijos de comunidad. Distribución de la vivienda: - 3 Dormitorios: Amplios y con buena ventilación. - Salón-Comedor: Un espacio acogedor para disfrutar en familia, con salida al balcón. - Cocina Independiente: Funcional y con gran potencial para modernizar. - Baño y Aseo No dejes pasar esta ocasión de adquirir un inmueble con muchísimas posibilidades a un precio competitivo en una de las zonas más dinámicas de la ciudad. ¡Contacta ahora para concertar una visita!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1212.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Inmobiliaria - Barreda, Torrelavega",
+        "title": "Piso en calle Ceferino Calderón, 8 a"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110579139",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/61/9d/ca/1409184551.webp",
+      "externalReference": "Judith 618 625 842",
+      "numPhotos": 25,
+      "price": 355000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 355000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 186.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Bonio",
+      "province": "Cantabria",
+      "municipality": "Cudon",
+      "country": "es",
+      "latitude": 43.4095484,
+      "longitude": -4.0138281,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110579139/",
+      "distance": "2982",
+      "description": "¡TECNOCASA VENDE EN EXCLUSIVA!  Chalet Esquinero en Miengo (Cudón): Confort, Playa y Conectividad Acogedor chalet adosado en el municipio de Miengo, concretamente en la tranquila localidad de Cudón, situado a pocos minutos de las maravillosas playas de Cuchía, Usgo y Robayera. Esta propiedad es perfecta para disfrutar de la costa durante todo el año, encontrándose estratégicamente comunicada con la autovía para acceder a Torrelavega en solo 10 minutos o a Santander en 15 minutos. La vivienda, al ser esquinera y estar adosada únicamente por un lateral, destaca por su gran independencia, privacidad y luminosidad. Se distribuye en una planta principal de 63 metros cuadrados y una planta superior de 61 metros cuadrados, dentro de una urbanización muy tranquila con vistas despejadas. El interior fue reformado íntegramente hace ocho años con materiales de alta calidad, incluyendo una cocina moderna con electrodomésticos de primeras marcas, calefacción individual y ventanas climalit oscilobatientes con mosquiteras en todas las estancias para un aislamiento total. Dispone de tres dormitorios (dos de ellos conectados por una terraza corrida) y dos baños, de los cuales el de la planta baja ha sido totalmente actualizado y el de la planta superior cuenta con mampara nueva. La funcionalidad es máxima gracias a su garaje de 35 metros cuadrados con acceso directo a la vivienda y puerta automática con tres mandos originales. En el exterior, la propiedad ofrece dos patios de hormigón impreso de fácil mantenimiento. El patio trasero está equipado con un gran toldo eléctrico y una piscina desmontable que se entrega con su instalación completa, incluyendo depuradora de arena y cuadro eléctrico con diferencial específico. Una oportunidad única para entrar a vivir en un entorno privilegiado donde solo queda negociar qué enseres se mantienen en la vivienda.  ¡FINANCIAMOS HASTA EL 100%, CONSULTENOS!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1909.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cudon",
+        "title": "Chalet adosado en calle Bonio"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110578383",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d9/34/15/1409160670.webp",
+      "externalReference": "M-2566",
+      "numPhotos": 18,
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 54.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio la Esprilla",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.433411,
+      "longitude": -3.8920698,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110578383/",
+      "distance": "12215",
+      "description": "CASA INDEPENDIENTE CON TERRAZA DE 25 M² Distribuida en salón – comedor con chimenea de pellets, cocina amueblada y equipada, 2 dormitorios y baño. Bomba de calor - frío. Placas solares. Buen estado de conservación. Todas las orientaciones. Excelente ubicación. Situada en Igollo de Camargo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 4630.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente en Barrio la Esprilla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "94344476",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/58/cc/e6/1052441694.webp",
+      "externalReference": "2054##01400431",
+      "numPhotos": 1,
+      "price": 124500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 124500.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 186.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Polanco",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3971497,
+      "longitude": -4.008377,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/94344476/",
+      "distance": "4255",
+      "description": "Inmueble pendiente de Posesión. Altamira vende una casa de pueblo montañesa en Polanco, en Mar. Casa construida en 1900 y rehabilitadad en 1995, distribuida en 3 habitaciones, salón, cocina y 3 baño. Con buenas comunicaciones por carretera y con estación de FEVE a 200 metros. Con todos los servicios en el municipio. Cerca la playa de Cuchía.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 669.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Chalet"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107833701",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b6/22/0a/1325723404.webp",
+      "externalReference": "V5240",
+      "numPhotos": 42,
+      "price": 370000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 370000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 232.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Polanco",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3811449,
+      "longitude": -4.0358263,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107833701/",
+      "distance": "5020",
+      "description": "  Se presenta una exclusiva oportunidad de adquirir una impresionante casa pareada en la apacible localidad de Rinconeda. Esta residencia destaca por su diseño arquitectónico contemporáneo y su excelente distribución. La propiedad, construida en el año 2001, combina a la perfección funcionalidad y estilo, ofreciendo un hogar acogedor y cómodo para toda la familia. Con un total de 232 metros construidos, de los cuales 225 son útiles, la vivienda ofrece espacios amplios y luminosos. Alberga cuatro habitaciones bien distribuidas que aseguran confort y privacidad. El elegante salón cuenta con acceso a la terraza principal, desde la cual se puede disfrutar de la tranquilidad del entorno, mientras que la cocina, completamente equipada con electrodomésticos modernos, se convierte en un espacio ideal tanto para el día a día como para ocasiones especiales. El inmueble también dispone de un aseo cuidadosamente diseñado. La finca está cerrada, ofreciendo seguridad y privacidad, complementada por la ventaja de tener un amplio garaje y trastero, que brindan un espacio adicional de almacenamiento. Situado en una zona excelentemente conectada, el inmueble cuenta con acceso a transporte público cercano, tanto por tren como por autobús, lo que garantiza comodidad en los desplazamientos diarios. La existencia de alcantarillado asegura el correcto funcionamiento de los servicios básicos, contribuyendo a la calidad de vida de sus residentes. El atractivo de esta vivienda no se limita a su interior. La propiedad está rodeada de una encantadora zona ajardinada, ideal para relajarse al aire libre o disfrutar de actividades con familiares y amigos. Este entorno natural se convierte en el complemento perfecto para el hogar, aportando un toque de naturaleza y frescura al día a día. Amueblada con gusto y equipada con electrodomésticos de primer nivel, la casa está lista para recibir a sus nuevos propietarios sin necesidad de renovaciones o grandes inversiones iniciales. Cada rincón ha sido pensado para maximizar su funcionalidad y confort, creando un ambiente cálido que hará que te sientas como en casa desde el primer momento. Invitamos a los interesados a visitar esta exclusiva propiedad para descubrir todo lo que tiene para ofrecer. Su combinación de características excepcionales en una ubicación privilegiada la convierte en una oferta irresistible para quienes buscan una nueva residencia. Esta es una oportunidad única para quienes valoran tanto el diseño como la funcionalidad en un entorno tranquilo y bien conectado. No pierda la oportunidad de adquirir este magnífico inmueble que promete convertirse en el hogar de sus sueños. Contacte con nosotros para más información o para concertar una visita.  .",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1595.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Chalet pareado"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110568125",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/83/2a/68/1408899195.webp",
+      "externalReference": "2936",
+      "numPhotos": 42,
+      "price": 230000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 230000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 152.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Tanos",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Tanos",
+      "country": "es",
+      "latitude": 43.3160712,
+      "longitude": -4.0476276,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110568125/",
+      "distance": "12228",
+      "description": "Viérnoles.  encantadora casa con terreno en baldosa, ubicada en zona tranquila, cercana a la ciudad, para los que buscan confort y calidad de vida.  en planta baja cuenta con un agradable porche, amplio salón -cocina-comedor con chimenea, baño completo y práctico cuarto de lavado. La planta primera, con elegantes vigas de madera, dispone de tres dormitorios, baño completo y una pequeña zona ideal como vestidor o estudio que aporta un plus de funcionalidad. Una vivienda en perfecto estado, coqueta, soleada, luminosa. Perfecta tanto como residencia habitual como para segunda vivenda.  interesante.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1513.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Tanos, Torrelavega",
+        "title": "Chalet adosado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110567141",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cb/14/46/1408861962.webp",
+      "externalReference": "R471",
+      "numPhotos": 13,
+      "floor": "4",
+      "price": 72000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 72000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 44.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Covadonga - Campuzano - Ciudad Vergel",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Covadonga - Campuzano - Ciudad Vergel",
+      "country": "es",
+      "latitude": 43.3466964,
+      "longitude": -4.062091,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110567141/",
+      "distance": "8951",
+      "description": "Apartamento en venta en Torrelavega Barrio Covadonga. Si buscas un piso bien ubicado y con todo a mano, este apartamento en el barrio Covadonga te va a encantar. Está en una zona muy cómoda y consolidada, rodeada de todos los servicios que necesitas en el día a día: colegios, bancos, centro de salud, comercios todo a un paso. La vivienda cuenta con dos dormitorios, sala, cocina  y baño con plato de ducha. Además, es completamente exterior, lo que le aporta mucha luz natural durante todo el día. Ideal tanto para vivienda habitual como para inversores que quieren ampliar su cartera con un valor seguro de revalorización. ¡No lo dudes y pídenos una visita! Al comprador se le cobrarán por gastos de gestión 2.000EUR + IVA.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1636.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Covadonga - Campuzano - Ciudad Vergel, Torrelavega",
+        "title": "Piso"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110566437",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/03/71/f8/1408837774.webp",
+      "externalReference": "V2273",
+      "numPhotos": 19,
+      "floor": "4",
+      "price": 180000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 180000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Serapio Beade, 9",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4229261,
+      "longitude": -4.0528642,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110566437/",
+      "distance": "866",
+      "description": "¡Oportunidad única en Suances! Piso de 2 dormitorios con vistas a los Picos de Europa.  Te presentamos este acogedor piso en una ubicación inmejorable en Suances.   Con orientación sur que garantiza luz natural durante todo el día, este inmueble cuenta con: 2 amplios dormitorios, cocina independiente  con balcón, un salón espacioso con vistas panorámicas, un baño completo y con plaza de garaje privada y trastero incluido, perfecto para almacenamiento adicional.   El edificio, con ascensor, se encuentra en una zona tranquila y rodeado de naturaleza.   Además, está a tan solo unos minutos de las preciosas playas del municipio y del centro del pueblo donde se encuentran todos los servicios y comercios.   Ubicado en una zona tranquila de Suances, este piso ofrece una oportunidad única para disfrutar de la vida en un entorno relajado y con vistas impresionantes a los picos de Europa. Este piso es ideal para aquellos que buscan un hogar luminoso y acogedor.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2769.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Piso en calle Serapio Beade, 9"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110565552",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/78/30/53/1408810266.webp",
+      "externalReference": "PS-475",
+      "numPhotos": 35,
+      "floor": "1",
+      "price": 163000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 163000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 82.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Lugar Barrio Quijas",
+      "province": "Cantabria",
+      "municipality": "Reocin",
+      "country": "es",
+      "latitude": 43.3464263,
+      "longitude": -4.1368266,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110565552/",
+      "distance": "11651",
+      "description": "Imagina un acogedor piso en Quijas! , Situado cerca de la playas. Este encantador hogar cuenta con dos dormitorios, perfectos para descansar después de un día de sol y mar. La cocina está completamente amueblada y es independiente, lo que le permite disfrutar de sus momentos culinarios sin interrupciones. Además, el salón es un espacio amplio y luminoso, ideal para relajarse o compartir momentos con amigos y familiares. Por último, los baños están diseñado para ofrecerte comodidad y funcionalidad. La propiedad cuenta con un espacioso garaje. También, dispone de un trastero independiente, perfecto para almacenar herramientas, bicicletas, material de temporada o cualquier objeto que desee tener bien organizado y fuera de la vivienda principal. Quijas está muy bien situado, ya que se encuentra a poca distancia de algunas de las hermosas playas de la costa cantábrica. Por ejemplo, las playas de Suances y San Vicente de la Barquera, están a solo unos minutos en coche. Estas playas son conocidas por su arena dorada y sus impresionantes paisajes, ideales para disfrutar del sol y el mar. Además, la cercanía a otras localidades como Torrelavega y Comillas también ofrece más opciones para explorar, con su rica historia y cultura. Así que, si le apetece un día de playa después de disfrutar del encanto de Quijas, ¡tiene mucha opciones a tu alcance! definitivamente vale la pena visitar.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1988.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Reocin",
+        "title": "Dúplex en Lugar Barrio Quijas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110562785",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c3/16/47/1329121942.webp",
+      "externalReference": "P2 BJ A",
+      "numPhotos": 11,
+      "floor": "bj",
+      "price": 325000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 325000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 93.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "avenida José María de Pereda, 8",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Sancibrián",
+      "country": "es",
+      "latitude": 43.4632231,
+      "longitude": -3.8796274,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110562785/",
+      "distance": "13822",
+      "description": "VIVIENDAS OBRA NUEVA EN SANTANDER | LandCo Bezana, Santander.  Ahora sabes lo que es ‘vivir mejor’ en LandCo Bezana, una exclusiva promoción de viviendas de obra nueva en un entorno privilegiado entre el mar y la montaña. Descubre luminosas casas de 2 y 3 dormitorios, diseñadas para ofrecerte confort y bienestar, donde cada estancia habla de ti y de tu estilo de vida.  Cada hogar cuenta con amplias terrazas que se convierten en pequeños ecosistemas, ideales para disfrutar del aire y la luz natural. Además, podrás relajarte en espacios bien distribuidos y funcionales, perfectos para descansar o teletrabajar con total privacidad. Las viviendas incluyen garaje, trastero y están equipadas con cocinas amuebladas con los principales electrodomésticos, así como un sistema de aerotermia que garantiza calefacción eficiente y agua caliente sanitaria.  La promoción se encuentra ubicada próxima a Sancibrián en el municipio de Santa Cruz de Bezana, zona de influencia de Santander que ofrece la comodidad de vivir en un entorno tranquilo de zonas verdes con magnificas playas a 15 minutos en coche. Excelentes comunicaciones por carretera a través de la CA-231 que conecta directamente con la S-20, y mediante transporte público con Santander (RENFE, varias líneas urbanas e interurbanas). Aquí podrás disfrutar de un estilo de vida excepcional rodeado de servicios e infraestructuras que facilitan tu día a día.  Características destacadas:   50 viviendas exclusivas.  2-3 dormitorios,  Amplias terrazas luminosas.  Bajos con jardín y áticos con solárium.  Piscina privada para relajarte y disfrutar.  Parque infantil para los más pequeños. Disfrutar de LandCo Bezana es vivir en un residencial privado y contemporáneo, donde cada detalle está pensado para tu comodidad. Un lugar perfecto tanto si buscas tu vivienda habitual como una segunda casa para disfrutar durante las vacaciones. ¡Haz de este residencial tu nuevo hogar!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3495.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Sancibrián, Santa Cruz de Bezana",
+        "title": "Piso en avenida José María de Pereda, 8"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110562658",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ac/68/63/1408928270.webp",
+      "externalReference": "1430",
+      "numPhotos": 42,
+      "floor": "3",
+      "price": 240000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 240000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 83.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Quintana, 58",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4258435,
+      "longitude": -4.0482928,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110562658/",
+      "distance": "427",
+      "description": "Dúplex de 3 dormitorios con vistas al mar en Suances - Pueblo Características Principales: •Distribución: 3 amplios dormitorios con excelente iluminación. •Vistas: Panorámicas a la costa y al mar Cantábrico. •Ubicación: Zona Pueblo, junto a la Iglesia. Entorno tranquilo y consolidado. •Distancias: 10-15 minutos a pie (1 km) de la Playa de la Concha y Playa de Los Locos. Servicios a menos de 5 minutos: •Supermercados, comercios locales y zona gastronómica. •Colegio y Centro de Salud. •Excelentes comunicaciones por carretera. Por qué elegir esta vivienda: Ya sea como vivienda familiar por su cercanía a servicios esenciales o como inversión por su potencial en el mercado turístico, este dúplex ofrece el equilibrio perfecto entre confort y ubicación. Invierta en un valor seguro en plena Costa Quebrada, donde el surf y el paisaje garantizan una ocupación constante. Compra sujeta a impuesto de transmisiones patrimoniales. El adquirente se hará cargo también del coste de las escrituras y de su inscripción en el Registro de la Propiedad.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2892.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Piso en calle Quintana, 58"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110559771",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cc/70/9b/1408958346.webp",
+      "externalReference": "56733",
+      "numPhotos": 22,
+      "price": 210000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 210000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 300.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio Hoyo",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Covadonga - Campuzano - Ciudad Vergel",
+      "country": "es",
+      "latitude": 43.3404236,
+      "longitude": -4.059511,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110559771/",
+      "distance": "9608",
+      "description": "Descubre esta magnífica casa de dos viviendas independientes, ideal para familias grandes o como inversión. Con una superficie total de 300 m2, este inmueble se sitúa a un paso del centro de Torrelavega y ofrece todas las comodidades que necesitas. La primera vivienda cuenta con un salón-cocina abierto, un amplio baño luminoso y dos acogedoras habitaciones; todo exterior para disfrutar al máximo la luz natural. La segunda vivienda también tiene su propio encanto: salón independiente, cocina equipada, otras dos habitaciones cómodas y otro baño bien distribuido. Además incluye un espacioso garaje y almacén perfecto para tus necesidades diarias. No te olvides del encantador patio delantero donde podrás relajarte bajo el sol ni del jardín trasero ideal para reuniones familiares o momentos especiales al aire libre. Esta propiedad es perfecta si buscas tranquilidad sin renunciar a la cercanía con todos los servicios urbanos necesarios.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 700.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Covadonga - Campuzano - Ciudad Vergel, Torrelavega",
+        "title": "Casa independiente en Barrio Hoyo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110508474",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/64/f6/c2/1407069314.webp",
+      "externalReference": "Z1467",
+      "numPhotos": 22,
+      "floor": "bj",
+      "price": 225000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 225000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Villapresente",
+      "province": "Cantabria",
+      "municipality": "Villapresente",
+      "country": "es",
+      "latitude": 43.3621178,
+      "longitude": -4.0998696,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110508474/",
+      "distance": "8459",
+      "description": "Se pone a la venta bajo con jardín en Villapresente, una vivienda cuidada al detalle y lista para entrar a vivir, ubicada en una zona tranquila y con todos los servicios a su alcance. La propiedad se distribuye en cocina independiente con acceso a terraza, práctica y luminosa; salón-comedor con salida directa a una agradable terraza, ideal para disfrutar del exterior; dos dormitorios bien proporcionados y baño completo con bañera. La vivienda se encuentra en inmejorables condiciones, destacando sus paredes insonorizadas, que garantizan confort y privacidad, así como gas ciudad para una mayor eficiencia y comodidad. Cuenta además con permiso para alquiler vacacional, lo que la convierte en una excelente oportunidad tanto como vivienda habitual como inversión con alta rentabilidad. Situada en un entorno residencial con todos los servicios cercanos y buenas comunicaciones, esta propiedad ofrece calidad de vida y funcionalidad en un entorno privilegiado. Una oportunidad única que merece ser visitada. Para más información o realizar una visita, no dude en ponerse en contacto con ESPAZIO INMOBILIARIO. ROSA .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3000.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Villapresente",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110555304",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6f/14/8a/1408508088.webp",
+      "externalReference": "GTRE-02151",
+      "numPhotos": 9,
+      "floor": "3",
+      "price": 70000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 70000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Colonia Santo Domingo, 47",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Inmobiliaria - Barreda",
+      "country": "es",
+      "latitude": 43.3664867,
+      "longitude": -4.045799,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110555304/",
+      "distance": "6621",
+      "description": "Vivienda sin acceso al interior! Descubre este encantador piso ubicado en la tranquila zona de Barreda, Torrelavega. Con un precio accesible de solo 70,000 euros, esta propiedad ofrece una superficie construida de 65 m2 y se encuentra en estado original, lo que brinda la oportunidad perfecta para personalizarla a tu gusto. Cuenta con dos amplias habitaciones dobles ideales para acomodar a toda la familia o como espacio adicional según tus necesidades. La vivienda dispone además de un baño completo y es totalmente exterior, permitiendo disfrutar de abundante luz natural durante todo el día. La ubicación del inmueble es inmejorable; rodeado por árboles frondosos y espacios verdes idóneos para paseos familiares o actividades al aire libre. Adicionalmente cuenta con excelente acceso a transporte público mediante autobuses cercanos y estación ferroviaria próxima que conectan eficientemente con otras áreas urbanas. En las inmediaciones podrás encontrar centros comerciales donde realizar tus compras diarias así como colegios que garantizan educación cercana para los más pequeños del hogar. Además posee vistas agradables desde sus ventanas hacia zonas infantiles perfectas para el disfrute cotidiano.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1077.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Inmobiliaria - Barreda, Torrelavega",
+        "title": "Piso en Colonia Santo Domingo, 47"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110552219",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7b/d8/b5/1408408926.webp",
+      "externalReference": "2565",
+      "numPhotos": 57,
+      "price": 340000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 340000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 224.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio San Roque",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Carandía",
+      "country": "es",
+      "latitude": 43.3355259,
+      "longitude": -3.9759703,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110552219/",
+      "distance": "11425",
+      "description": "EXCLUSIVA. CASA INDEPENDIENTE CON POSIBILIDAD DE NEGOCIO Distribuida en: PLANTA BAJA: negocio de peluquería, garaje con baño y bodega con acceso directo al jardín. PLANTA ALTA: recibidor, salón con terraza, cocina amueblada y equipada con una terraza de 45 m², 3 dormitorios y baño completo. A través del salón se accede a una segunda planta distribuida en 2 dormitorios y baño. Calefacción de gasóleo. El negocio de peluquería esta listo para empezar a funcionar. Parcela de 440 m². Todas las orientaciones. Buen estado de conservación. Excelente ubicación. Situado a 5 minutos de Renedo de Piélagos y 2 minutos de Vargas y acceso a la autovía.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1518.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Carandía, Piélagos",
+        "title": "Casa independiente en Barrio San Roque"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110550887",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/16/be/ee/1408372983.webp",
+      "numPhotos": 8,
+      "price": 425000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 425000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 110.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Arce",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Arce",
+      "country": "es",
+      "latitude": 43.4145661,
+      "longitude": -3.9463501,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110550887/",
+      "distance": "7908",
+      "description": "Chalet independiente en una planta con jardín en Puente Arce – Vive con estilo y tranquilidad ¿Te imaginas vivir rodeado de naturaleza, con espacio exterior, privacidad y excelente conexión con Santander? Este chalet independiente en la urbanización La Mina - Puente Arce es exactamente lo que estás buscando. Distribución en una sola planta Con 110 m² construidos, esta vivienda ofrece una distribución cómoda y funcional. Dispone de un amplio y luminoso salón con cocina integrada de estilo moderno, perfecto para disfrutar en familia o con amigos. Cuenta con 3 dormitorios dobles, 2 baños completos y un diseño pensado para el confort diario. Jardín privado de 350 m² El exterior es un verdadero lienzo en blanco donde podrás crear tu propio oasis: piscina, zona chill out, espacio para mascotas o huerto… Tú decides. Equipamiento y extras Calefacción individual de gas natural Plaza de garaje incluida Urbanización tranquila y cuidada Posibilidad de personalizar la distribución según tus necesidades Ubicación ideal Vive en un entorno residencial tranquilo y rodeado de zonas verdes, pero con todos los servicios esenciales a pocos minutos. Excelente conexión con la autovía A-67 y muy cerca de Torrelavega y Santander. Una oportunidad única para quienes buscan calidad de vida sin renunciar a la comodidad. Haz realidad el hogar que imaginabas. Contacta ahora y agenda tu visita antes de que se reserve.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3864.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Arce, Piélagos",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110549678",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8b/66/f3/1408319147.webp",
+      "externalReference": "114",
+      "numPhotos": 38,
+      "price": 360000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 360000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 180.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Barrio el Arrabal",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Vioño",
+      "country": "es",
+      "latitude": 43.3571308,
+      "longitude": -3.9778664,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110549678/",
+      "distance": "9291",
+      "description": "Desde Inmobiliaria Las Dunas les ofrecemos este estupendo chalet adosado en esquina, de 180 m² aprox, situado en una zona tranquila y residencial de Vioño. Ideal para familias que buscan espacio, comodidad y calidad de vida. La Vivienda de distribuye en 4 plantas: * Planta sótano: Garaje cerrado para 2 coches, con espacio adicional para almacenaje y desde el cual se accede directamente a la vivienda. * Planta baja: Espacioso salón con chimenea. Amplia y luminosa cocina con acceso a una amplia terraza de 200 m² aprox, que bordea toda la casa. En esta misma planta tenemos un baño, con zona de lavadora y secadora. * Planta primera: Dormitorio principal con vestidor y baño privado. En esta misma planta encontramos otros 2 dormitorios y otro baño.  * Planta ático o bajo cubierta: Planta diáfana con un enorme potencial para habilitar la el cuarto dormitorio o zona de trabajo o sala de ocio. La vivienda dispone de calefacción por radiadores eléctricos. No pierda la oportunidad de visitar esta vivienda, les encantara por sus amplios espacios y su buena ubicación.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2000.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Vioño, Piélagos",
+        "title": "Chalet adosado en Barrio el Arrabal"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110549097",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/28/b2/a2/1408295628.webp",
+      "numPhotos": 19,
+      "price": 545000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 545000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 262.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Avenida Monseñor del Val, 13",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.3983669,
+      "longitude": -4.0538647,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110549097/",
+      "distance": "3195",
+      "description": "Magníficas viviendas unifamiliares, diseñadas por el prestigioso estudio “MMiT Arquitectos” con un diseño exclusivo contemporáneo, construidas en una parcela de 2000 m2 en división horizontal, situadas en Hinojedo, Suances (Cantabria). Viviendas de dos alturas sobre rasante (B+1), con 4 dormitorios y tres baños, que disponen de 252 m2, (152m2 de viviendas + 110m2 de terrazas en planta primera y azotéa). Además, en planta baja, cuenta con otra terraza de 35 m2 y un porche techado de 56m2. Excepcionales calidad de materiales, con fachadas ventiladas, carpintería exterior de aluminio, instalación de ACS y calefacción por aerotermia, con suelo radiante, instalación de ventilación mediante recuperador de calor de eficiencia clase A, sanitarios y griferías de marcas de primer nivel …etc.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2080.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Casa independiente en Avenida Monseñor del Val, 13"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106757512",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/53/c5/d8/1293123077.webp",
+      "externalReference": "ALRE-04721",
+      "numPhotos": 61,
+      "price": 320000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 320000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 482.0,
+      "rooms": 4,
+      "bathrooms": 5,
+      "address": "Escobedo",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Escobedo",
+      "country": "es",
+      "latitude": 43.4012687,
+      "longitude": -3.9037553,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106757512/",
+      "distance": "11577",
+      "description": "NO COBRAMOS COMISIÓN DE INTERMEDIACIÓN AL COMPRADOR  Te ofrecemos esta excelente oportunidad de adquirir en propiedad esta casa independiente ubicada en la localidad de Camargo, provincia de Cantabria. Cuenta con tres plantas conectadas mediante escalera interior y una superficie de 482m² bien distribuidos. La planta baja consta de salón-comedor con chimenea, cocina amueblada con gran despensa y lavadero y 1 cuarto de baño. La primera planta dispone de 4 espaciosos dormitorios, todos ellos con baño y el principal con zona de vestidor. El ático se encuentra diáfano. Parte de la vivienda se encuentra destinada a vivienda y parte a taller y garaje. Además, cuenta con un amplio jardín privado. Con una excelente distribución, buena orientación y una ubicación inmejorable, este piso es ideal tanto para familias que busquen un hogar permanente como para aquellos que deseen una vivienda vacacional cerca de las playas y la naturaleza de Cantabria. Además, su excelente precio y ubicación lo convierten en una inversión segura con alto potencial de revalorización. Camargo se encuentra en un entorno privilegiado entre el mar Cantábrico y las montañas. Sus paisajes incluyen playas, acantilados y zonas verdes, ideales para el senderismo y actividades al aire libre. Destacan lugares como el Parque Natural de las Marismas de Santander y la playa de El Puntal. Los accesos a Camargo son óptimos gracias a su cercanía a la ciudad de Santander y su conexión con la Autovía A-8, que la une con otras localidades de la región y el resto de España.  ¿Te interesa recibir más información?  Hipoges es una plataforma inmobiliaria donde podrás acceder a miles de activos inmobiliarios de diferentes tipos como viviendas, locales comerciales, terrenos, nueva obra, tanto a nivel particular como para inversores. Hipoges cuenta con una amplia cartera de activos inmuebles tanto en España como en Portugal y Grecia. ¿Necesitas financiación? Te ofrecemos la posibilidad de financiaciones de hasta el 100% para la compra de este inmueble. Entra en Finanwin. com, haz tu simulación y obtén la mejor oferta para tu Hipoteca de la manera más ágil y sencilla.",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 664.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Escobedo, Camargo",
+        "title": "Casa independiente"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110543207",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5b/c8/81/1408133728.webp",
+      "externalReference": "S768",
+      "numPhotos": 13,
+      "floor": "bj",
+      "price": 210000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 210000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 81.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Polanco",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3905526,
+      "longitude": -4.0275052,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110543207/",
+      "distance": "4135",
+      "description": "Encantador piso de dos habitaciones, con baño completo, cocina totalmente equipada y un luminoso salón-comedor. La vivienda cuenta con una magnífica terraza, ideal para disfrutar de la naturaleza y del aire libre. Incluye plaza de garaje con acceso directo desde el edificio. Requejada, en un entorno tranquilo y agradable, con colegio, farmacias y centro de salud, además de todos los servicios necesarios en las inmediaciones. Excelente comunicación, a solo 3 minutos del acceso a la autovía.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2593.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110538074",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fe/0c/08/1407977998.webp",
+      "externalReference": "V5317",
+      "numPhotos": 26,
+      "floor": "bj",
+      "price": 180000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 180000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Renedo",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Renedo",
+      "country": "es",
+      "latitude": 43.3530078,
+      "longitude": -3.9430592,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110538074/",
+      "distance": "11449",
+      "description": "Rentas y Capitales presenta moderna y luminosa vivienda de 3 dormitorios en el centro de Renedo de Piélagos (frente a la Fábrica de Leche). La vivienda es una planta con una superficie útil de 85 metros, distribuidos en 3 dormitorios, amplio salón con acceso a balcón y cocina moderna equipada con electrodomésticos con acceso a balcón. Dispone de dos baños completos (uno equipado con bañera y el otro con plato ducha). Vivienda muy luminosa totalmente exterior. Los suelos de son gres, dispone de calefacción de gas natural y las ventanas son de PVC climalit.   Incluye garaje y trastero en la misma finca. Pertenece a un conjunto residencial moderno, construido en 2009, muy bien comunicado a 200 metros de la estación de tren, con todos los servicios alrededor. No deje pasar esta oportunidad y solicite visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2118.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Renedo, Piélagos",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110538584",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/66/7f/96/1411173644.webp",
+      "externalReference": "6223",
+      "numPhotos": 12,
+      "floor": "bj",
+      "price": 235000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 235000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 125.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "Barrio la Cruz",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Liencres",
+      "country": "es",
+      "latitude": 43.4608582,
+      "longitude": -3.9312803,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110538584/",
+      "distance": "9816",
+      "description": "ATENCIÓN INVERSORES! Distrito Inmobiliario te ofrece una inmejorable oportunidad de negocio. Local en bruto para hacer 2 apartamentos turísticos con licencia, autorizaciones y permisos concedidos incluidos en el precio.   Rentabilidad asegurada ya que se ubica en una zona con una alta demanda y escasez de oferta.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1880.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liencres, Piélagos",
+        "title": "Piso en Barrio la Cruz"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110537753",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/06/32/18/1407983993.webp",
+      "externalReference": "0102",
+      "numPhotos": 31,
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 226.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle la Central, 14",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Cacicedo",
+      "country": "es",
+      "latitude": 43.4311348,
+      "longitude": -3.8714906,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110537753/",
+      "distance": "13861",
+      "description": "Descubre esta casa individual en una zona con mucha demanda. Esta increíble casa individual se encuentra solo unos pasos de los servicios principales y a solo unos metros del colegio Mateo Escagedo Salmon. Es una casa es para realizar una reforma total, convertirla en un lienzo en blanco, con dos alturas y un total de 226 metros podrás reformar a tu gusto.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1323.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cacicedo, Camargo",
+        "title": "Casa independiente en calle la Central, 14"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110536706",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ec/cc/28/1407934493.webp",
+      "externalReference": "1876817",
+      "numPhotos": 16,
+      "floor": "2",
+      "price": 145000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 145000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 170000.0,
+            "priceDropValue": 25000,
+            "priceDropPercentage": 15
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 84.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "AV FERNANDO ARCE",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3461672,
+      "longitude": -4.0455477,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110536706/",
+      "distance": "8878",
+      "description": "Vivir en el centro de Torrelavega y poder crear un hogar totalmente a tu medida no es algo que aparezca todos los días. Este piso es una de esas oportunidades que destacan precisamente por lo que ofrecen hoy… y por todo lo que pueden llegar a ser mañana. La vivienda se encuentra en pleno corazón de la ciudad, en una ubicación privilegiada que permite disfrutar de todos los servicios, comercios y zonas de vida urbana a solo unos pasos de casa. Un entorno cómodo, práctico y muy demandado, tanto para vivir como para invertir. El edificio marca la diferencia desde el primer momento. El portal ha sido recientemente reformado y cuenta con acceso a cota cero, sin barreras arquitectónicas, además de ascensor. Una comodidad esencial que aporta calidad de vida y que incrementa notablemente el valor de la propiedad, especialmente en una zona tan céntrica como esta. El piso dispone de 84 m² construidos y una distribución clásica que ofrece muchas posibilidades. Actualmente cuenta con tres habitaciones de buen tamaño, salón, cocina independiente y baño completo, además de un balcón que aporta luz natural y una agradable conexión con el exterior. Es una vivienda que necesita actualización, pero precisamente ahí reside su mayor atractivo: la posibilidad de redistribuir los espacios, modernizarlos y diseñar un hogar totalmente personalizado. Existe incluso margen para mejorar la funcionalidad incorporando un segundo baño o creando una zona de día más abierta y actual, adaptada a las necesidades de hoy. Una reforma bien planteada no solo transformará esta vivienda en un hogar cómodo y moderno, sino que también permitirá una revalorización clara en una de las zonas más cotizadas de Torrelavega. Una oportunidad perfecta para quienes buscan algo más que un piso: buscan un proyecto, una inversión inteligente o la posibilidad de vivir en el centro con todas las comodidades, pero con una casa hecha a su medida. Si llevas tiempo esperando un piso con potencial real en el centro de Torrelavega, este puede ser el momento. Llámanos y ven a verlo. El precio de venta no incluye impuestos propios de la transmisión, gastos de Notaría, Registro, ni cualquier otro que según Ley pueda corresponder al comprador.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1726.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en Av Fernando Arce"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110536232",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1c/aa/0d/1407916248.webp",
+      "externalReference": "EXP12883",
+      "numPhotos": 31,
+      "floor": "1",
+      "price": 240000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 240000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 67.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Playa de Usil",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4337722,
+      "longitude": -3.9710607,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110536232/",
+      "distance": "5872",
+      "description": "Descubre este magnífico piso recién reformado y a estrenar, ubicado a tan solo 100 metros de la playa, ideal tanto como vivienda habitual como para disfrutarlo como segunda residencia. La vivienda cuenta con dos habitaciones, una de ellas de matrimonio, y un baño completo con amplia ducha, diseñado con materiales modernos y funcionales. El salón se integra con la cocina y la terraza, creando un espacio abierto, luminoso y amplio, perfecto para disfrutar en familia o con amigos. Dispone de puerta acorazada, sistema de alarma, ventanas de PVC con doble acristalamiento, persianas automaticas y mosquiteras, que garantizan seguridad, confort y aislamiento. La terraza es amplia, con espacio para mesa de comedor exterior, recibe sol desde el mediodía y ofrece agradables vistas al mar, convirtiéndose en uno de los grandes atractivos de la vivienda. Incluye garaje cerrado y trastero, aportando comodidad y espacio extra de almacenaje.  Además, la urbanización cuenta con piscina, situada justo debajo del piso, ideal para relajarse sin salir de casa. Una oportunidad única de estrenar piso en una ubicación privilegiada, cerca del mar y con todas las comodidades. No tiene ascensor, es un primer piso con pocas escaleras.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3582.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Piso en calle Playa de Usil"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110533909",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/19/d9/11/1407839308.webp",
+      "numPhotos": 27,
+      "price": 569000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 569000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 326.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "calle Barrio Sierrapando",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Sierrapando",
+      "country": "es",
+      "latitude": 43.3437208,
+      "longitude": -4.035488,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110533909/",
+      "distance": "9168",
+      "description": "PEREDA36 ofrece a sus clientes estupenda casa en núcleo urbano de Cantabria con todos los servicios y PROXIMO a las playas (10 Kms). Barrio residencial de Torrelavega. Fácil acceso a la autovía A67. Muy bien comunicada. Se trata de una vivienda muy agradable, luminosa y cómoda. 326 m2 construidos de los cuales 167 pertenecen a la vivienda en una sola planta y 159 al garaje cerrado y trastero. Parcela urbana cuidada de 1363 m2. No está agotada la edificabiliadad. Distribución: Hall, cocina amplia con salida al jardín, salón-comedor con salida al porche y al jardín, 4 dormitorios y 3 baños. El dormitorio principal muy amplio, luminoso y con gran armario y baño en suite. Armarios empotrados. Planta de garaje muy amplio cerrado con trastero. La vivienda se vende sin muebles. PEREDA36 es una agencia inmobiliaria especializada en las mejores zonas de Santander y Provincia donde acompañamos a nuestros clientes en todo el proceso de venta ó adquisición de vivienda. También comercializamos viviendas en zonas Prime de Madrid. Ofrecemos garantía de trabajo bien hecho, transparencia y un trato totalmente personalizado.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1745.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Sierrapando, Torrelavega",
+        "title": "Casa independiente en calle Barrio Sierrapando"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110531451",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2f/37/30/1407775865.webp",
+      "externalReference": "PAN0018",
+      "numPhotos": 25,
+      "floor": "2",
+      "price": 225000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 225000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 105.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "plaza Piqué y Varela",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3485901,
+      "longitude": -4.0493148,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110531451/",
+      "distance": "8622",
+      "description": "Desde Puerta al Norte Gestión Inmobiliaria te presentamos este estupendo piso situado en pleno centro de Torrelavega, una ubicación cómoda y consolidada, con supermercados, farmacias, tiendas y todos los servicios a pie de calle. La vivienda cuenta con 105 m² construidos, distribuidos en un amplio salón-comedor, una gran cocina independiente totalmente equipada, tres dormitorios (dos de ellos dobles) y dos baños completos, uno con bañera y otro con plato de ducha, pensados para la comodidad del día a día. Ubicada en un edificio con ascensor, se trata de una vivienda amplia y luminosa, muy cuidada y con una distribución funcional. Dispone de suelos de parquet, armarios empotrados y calefacción individual de gas natural. Su orientación sureste le aporta luz durante gran parte del día.  Una excelente oportunidad para vivir en el centro de Torrelavega, con todo lo necesario a un paso.  Contacta con Puerta al Norte Gestión Inmobiliaria y ven a conocerlo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2143.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en plaza Piqué y Varela"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110530703",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/10/f2/e7/1407751188.webp",
+      "externalReference": "ACR-01946",
+      "numPhotos": 20,
+      "floor": "1",
+      "price": 160000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 160000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 190000.0,
+            "priceDropValue": 30000,
+            "priceDropPercentage": 16
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Urbanización Rìa del Pas",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.4200714,
+      "longitude": -3.955297,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110530703/",
+      "distance": "7113",
+      "description": "En Boo de Piélagos, se vende apartamento a un paso de las maravillosas playas de Liencres. En un entorno natural entre pinos. Urbanización privada con piscina. Estupenda comunicación por autovía hacia Santander y Torrelavega. Ideal como inversión, segunda residencia o vivienda habitual. Puede informarse y concertar visita respondiendo a éste anuncio, llamándonos, o acercándose a cualquiera de nuestras Oficinas, en: - SANTANDER, Calle Juan de Herrera 8 - SOTO DE LA MARINA, Av Marques de Valdecilla 97. (Impuestos y gastos de escrituración no incluídos en el precio. Sin comisión de agencia para el comprador).",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2286.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Piso en Urbanización Rìa del Pas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110526261",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/09/dd/f0/1407620697.webp",
+      "externalReference": "2931",
+      "numPhotos": 31,
+      "floor": "5",
+      "price": 129000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 129000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 89.0,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "calle General Ceballos",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Inmobiliaria - Barreda",
+      "country": "es",
+      "latitude": 43.3518371,
+      "longitude": -4.0472106,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110526261/",
+      "distance": "8253",
+      "description": "Vivienda en venta en pleno centro de Torrelavega, a la altura de la Farmacia 24 h y a tan solo 2 minutos caminando de la Plaza Mayor. La vivienda se distribuye en 4 dormitorios, 1 baño, amplio salón, con una estupenda galería orientada al sur. y cocina independiente con tendedero. Aunque se encuentra de origen, está muy bien conservada y cuidada, por lo que podrás entrar a vivir directamente o actualizarla a tu gusto. Cuenta con suministros de luz y agua dados de alta, toma de gas en la ventana y una excelente orientación sur, lo que garantiza mucha luminosidad durante todo el día. La urbanización dispone de zona de aparcamiento privada, un valor añadido en esta ubicación. Además, la vivienda se encuentra rodeada de todo tipo de comercios y servicios, con absoluta comodidad para el día a día.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1449.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Inmobiliaria - Barreda, Torrelavega",
+        "title": "Piso en calle General Ceballos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110525187",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/30/20/62/1407587124.webp",
+      "externalReference": "2934",
+      "numPhotos": 23,
+      "floor": "5",
+      "price": 125000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 125000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 77.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Inmobiliaria - Barreda",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Inmobiliaria - Barreda",
+      "country": "es",
+      "latitude": 43.3546767,
+      "longitude": -4.0485073,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110525187/",
+      "distance": "7942",
+      "description": "Magnifico piso situado en pleno centro de la ciudad, con ascensor y sin barreras arquitectónicas. La vivienda se distribuye en tres dormitorios, dos de ellos dobles y uno individual, ofreciendo un espacio versátil tanto para familias como para despacho o habitación de invitados. Cuenta con salón muy luminoso. con salida a una agradable terraza, perfecta para disfrutar de la excelentes vistas a la iglesia de la Asunción, La cocina totalmente equipada, baño exterior. Dispone de calefacción y una boardilla que aporta u espacio extra de almacenamiento. Una oportunidad de vivir en el centro, con todos los servicios a un precio muy asequible. Solicite información o visita.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1623.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Inmobiliaria - Barreda, Torrelavega",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110194506",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3b/11/7b/1398063080.webp",
+      "externalReference": "VT214",
+      "numPhotos": 39,
+      "price": 380000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 380000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 354.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Fuente Vieda, 906",
+      "province": "Cantabria",
+      "municipality": "Miengo",
+      "country": "es",
+      "latitude": 43.4264569,
+      "longitude": -4.0036616,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110194506/",
+      "distance": "3177",
+      "description": "Imagina despertar cada mañana rodeado de naturaleza, con el mar como telón de fondo y la tranquilidad que solo Miengo puede ofrecer. Esta Casa independiente con vistas al mar en Miengo se ubica en una zona privilegiada, rodeada de zonas verdes y a pocos minutos de las espectaculares playas de Miengo y Liencres, con rápida conexión a Santander, Suances o Santillana del Mar. Un entorno perfecto para disfrutar de calidad de vida todo el año. En el exterior, su gran jardín privado se convierte en el espacio ideal para reuniones al aire libre, momentos de relax o para que los más pequeños jueguen con total libertad. Además, contar con dos garajes y una nave industrial de casi 200 m² te ofrece un valor añadido único: espacio de sobra para almacenamiento, proyectos personales o incluso uso profesional. En el interior, la vivienda reformada destaca por su comodidad y funcionalidad. Dispone de tres dormitorios amplios, pensados para el descanso, un baño completo, cocina independiente y un acogedor salón-comedor donde crear recuerdos en familia. Todo ello en una sola planta, con calefacción y suelos de gres que aportan confort y fácil mantenimiento. Una oportunidad perfecta si buscas una Casa independiente con vistas al mar en Miengo, con espacio, privacidad y un entorno inmejorable para vivir o invertir. Aquí no solo compras una casa, inviertes en bienestar.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1073.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Miengo",
+        "title": "Chalet en calle Fuente Vieda, 906"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110524170",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/35/60/60/1407556659.webp",
+      "externalReference": "2109",
+      "numPhotos": 21,
+      "floor": "3",
+      "price": 120000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 120000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 125000.0,
+            "priceDropValue": 5000,
+            "priceDropPercentage": 4
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 107.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Inmobiliaria - Barreda",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Inmobiliaria - Barreda",
+      "country": "es",
+      "latitude": 43.3532799,
+      "longitude": -4.0449299,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110524170/",
+      "distance": "8087",
+      "description": "¡Descubre tu nuevo hogar en el corazón de Torrelavega! Este amplio piso en venta te ofrece 107 m² construidos, donde cada rincón está diseñado para maximizar tu comodidad. Con tres dormitorios luminosos, tendrás el espacio perfecto para descansar y disfrutar. La distribución funcional incluye un baño completo y un aseo que actualmente se utiliza como trastero, ideal para mantener todo organizado. Imagina disfrutar de momentos al aire libre en la soleada terraza, perfecta para relajarte o compartir con amigos. Además, tienes la opción de amueblarlo a tu gusto, creando un ambiente único que refleje tu estilo personal. La ubicación es inmejorable, con fácil acceso a tiendas, restaurantes y todos los servicios que necesitas en tu día a día. Este piso, construido en 1960 y en buen estado, cuenta con calefacción por bomba de gas natural y se encuentra en la tercera planta de un edificio sin ascensor. Su orientación norte-sur garantiza una excelente iluminación natural durante todo el día. No dejes pasar esta oportunidad única de vivir en una de las zonas más vibrantes de la ciudad. ¡Contáctanos para más información y ven a verlo!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1121.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Inmobiliaria - Barreda, Torrelavega",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110523051",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d0/fb/72/1409235516.webp",
+      "numPhotos": 24,
+      "floor": "5",
+      "price": 125000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 125000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 77.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "CL CEFERINO CALDERON, 7",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Inmobiliaria - Barreda",
+      "country": "es",
+      "latitude": 43.3530212,
+      "longitude": -4.0474766,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110523051/",
+      "distance": "8122",
+      "description": "Piso en venta en pleno centro de Torrelavega – Calle Ceferino Calderón Se vende luminoso piso en última planta situado en la calle Ceferino Calderón, junto a la Iglesia de la Asunción. La vivienda cuenta con 3 dormitorios, 1 baño, salita y cocina independiente. Desde la salita se accede a un agradable balcón orientado al sureste, con vistas despejadas gracias a que la vivienda vuela por encima del edificio frontal, lo que aporta mucha luz y privacidad. Calefacción individual de gas natural. El baño es exterior, con ventana y plato de ducha. Los suelos mixtos de madera y sintasol, en buen estado. Ascensor, buhardilla de aproximadamente 6 m² y un portal recientemente reformado y totalmente accesible. La vivienda se vende amueblada, lista para entrar a vivir. Gastos de comunidad: 45 €/mes. Ubicación inmejorable, cerca de todos los servicios: autobús, tren, colegios, supermercados, farmacia y todo lo necesario para el día a día. Ideal tanto como vivienda habitual como inversión.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1623.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Inmobiliaria - Barreda, Torrelavega",
+        "title": "Ático en CL Ceferino Calderon, 7"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110509393",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ac/da/60/1407098818.webp",
+      "numPhotos": 36,
+      "price": 985000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 985000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 270.0,
+      "rooms": 7,
+      "bathrooms": 4,
+      "address": "Urbanización el Padrón, 1",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Sancibrián",
+      "country": "es",
+      "latitude": 43.4586619,
+      "longitude": -3.8898667,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110509393/",
+      "distance": "12884",
+      "description": "Chalet independiente en San Cibrán  Venta de chalet independiente situado en Sancibrián, a escasos minutos de Santander, en un entorno tranquilo y residencial, ideal para quienes buscan espacio, privacidad y calidad de vida. La vivienda se distribuye en cuatro plantas, con una organización muy funcional y estancias amplias: Siete habitaciones, cuatro baños, salón-comedor, luminosa cocina con zona de comedor orientada al sur con vistas al jardín, una segunda cocina en la planta baja junto a una zona de estar con acceso al jardín, sala de estar en la planta ático, despensa, varias zonas de almacenamiento, amplio garaje con ventilación natural. En el exterior, la propiedad cuenta con un precioso jardín, muy cuidado y con orientación sur, lo que garantiza luz natural durante todo el día. En el jardín se encuentra además una casita de aperos, perfecta como apoyo para almacenaje o pequeños proyectos. El chalet se encuentra muy bien conservado, aunque el interior admite actualización, lo que lo convierte en una excelente oportunidad para personalizar la vivienda y adaptarla a los gustos actuales, manteniendo una base sólida y de calidad. Una propiedad con gran potencial, ideal como vivienda familiar, segunda residencia o inversión en una de las zonas más demandadas de Santander.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3648.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Sancibrián, Santa Cruz de Bezana",
+        "title": "Casa independiente en Urbanización el Padrón, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110520557",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/87/5d/6e/1407435107.webp",
+      "numPhotos": 4,
+      "floor": "1",
+      "price": 165000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 165000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 169000.0,
+            "priceDropValue": 4000,
+            "priceDropPercentage": 2
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": false,
+      "rooms": 5,
+      "bathrooms": 2,
+      "address": "calle Julián Ceballos s/n",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.348688,
+      "longitude": -4.0482649,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110520557/",
+      "distance": "8606",
+      "description": "Gran vivienda en el centro de Torrelavega con múltiples opciones de rentabilidad – Calle Julián Ceballos Propiedad polivalente, pensada para quien busca vivir con espacio, invertir con rentabilidad o combinar ambas cosas desde el primer día. Ubicada en plena calle Julián Ceballos, corazón de Torrelavega, con tiendas, supermercados, farmacias, colegios, transporte público y todos los servicios a un paso. Zona con demanda constante, tanto residencial como de alquiler. La vivienda destaca por su gran tamaño, distribución inteligente y estado totalmente nuevo, lista para entrar a vivir o generar ingresos sin invertir un euro más. Características principales: 5 habitaciones 3 habitaciones grandes, ideales para parejas o dormitorios principales 2 habitaciones individuales, perfectas como dormitorios, despacho o estudio 2 terrazas, aportando luz, ventilación y desahogo Estado impecable, vivienda nueva, sin necesidad de reformas Opción 1 · Inversión 100 % rentable Distribución ideal para alquiler por habitaciones, con perfiles de alta demanda (trabajadores, estudiantes, parejas jóvenes). � Compra y empieza a generar ingresos desde el primer día, sin obras ni tiempos de espera. Opción 2 · Vivienda habitual para familias grandes Perfecta para familias que necesitan espacio real, varias habitaciones y terrazas, en una ubicación céntrica que facilita el día a día. Una vivienda cómoda, amplia y funcional, difícil de encontrar en el centro. Opción 3 · Modelo mixto: vive y genera ingresos Una de las opciones más demandadas hoy en día: � Usa parte de la vivienda como hogar habitual y alquila habitaciones de forma independiente, ayudando a cubrir la hipoteca o incluso a vivir prácticamente sin coste mensual. Ideal para quien quiere: Vivir en una gran vivienda céntrica Reducir gastos fijos gracias al alquiler Mantener privacidad y control del espacio Un inmueble que se adapta a tu objetivo, no al revés: Vivir con comodidad Invertir con rentabilidad O combinar ambos modelos de forma inteligente � Contacta para más información. Una oportunidad real tanto para particulares como para inversores.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1833.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Julián Ceballos s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110519060",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9f/ac/1c/1407397724.webp",
+      "externalReference": "5742-VE",
+      "numPhotos": 38,
+      "price": 590000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 590000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 281.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Barrio Caborredondo",
+      "province": "Cantabria",
+      "municipality": "Alfoz de Lloredo",
+      "country": "es",
+      "latitude": 43.4022569,
+      "longitude": -4.1588182,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110519060/",
+      "distance": "9719",
+      "description": "Ref 5742 - MyCantabria inmobiliaria vende casa individual en Bo Oreña - Caborredondo, en Alfoz de Lloredo.  La vivienda cuenta con una superficie construida de 281 m², esta propiedad se asienta sobre una amplia parcela de 1365 m², ofreciendo un espectacular jardín en diferentes alturas que invita a disfrutar de la tranquilidad y la belleza del paisaje.  La vivienda se distribuye en 3 plantas: - Planta baja: Entrada directamente a salón comedor, amplia cocina que conduce a cuarto de lavandería y baño (con plato de ducha). - Planta Primera: 4 dormitorios y dos baños (uno de ellos en suite en dormitorio principal). - Planta segunda: Totalmente diáfana usada como espacio multifuncional. El extenso jardín distribuido en varias alturas en el que encontramos una cabaña de madera, ideal para invitados. La parcela dispone de una gran variedad de arbolado. El sistema de calefacción y agua caliente es alimentado por gasoil, . Reformada por completo en 2004 y adaptada a las necesidades actuales. La ubicación de esta vivienda es, sin duda, uno de sus mayores atractivos. Situada en un entorno natural privilegiado, ofrece la posibilidad de disfrutar de actividades al aire libre y de una vida tranquila, a la vez que se encuentra lo suficientemente cerca de La Playa de Luaña (6 km), Torrelavega (13 km) y Santander (34 km). Pídanos más información sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2100.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alfoz de Lloredo",
+        "title": "Casa independiente en Barrio Caborredondo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110515719",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/87/17/fe/1407458408.webp",
+      "externalReference": "AV-532",
+      "numPhotos": 45,
+      "price": 895000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 895000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 374.0,
+      "rooms": 5,
+      "bathrooms": 4,
+      "address": "Urbanización Ladera Sur",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Mompia",
+      "country": "es",
+      "latitude": 43.4383572,
+      "longitude": -3.9214041,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110515719/",
+      "distance": "9913",
+      "description": "Exclusivo chalet de lujo en Mompía, a un paso del mar y de Santander En Mompía, rodeado de naturaleza y privacidad, se alza este exclusivo chalet independiente que destaca por su amplitud, confort y excelente ubicación. A tan solo 4 km de las playas de Liencres y a diez minutos de Santander, la vivienda ofrece una forma de vida cómoda y relajada, con todos los servicios al alcance. La planta baja da la bienvenida con un salón luminoso y acogedor, presidido por una chimenea que aporta calidez y carácter al espacio. El comedor se integra de manera armoniosa y conecta con el jardín, creando una agradable continuidad entre interior y exterior. La cocina, amplia y funcional, completa esta planta junto con un aseo de cortesía. La entreplanta está dedicada en exclusiva al dormitorio principal, concebido como un espacio íntimo y confortable. Dispone de vestidor y un elegante baño con hidromasaje, pensado para el descanso y el bienestar diario. En la primera planta se distribuyen tres dormitorios amplios y bien iluminados, un baño completo y una terraza orientada al sur que aporta luz natural y un espacio exterior adicional para disfrutar durante todo el año. El semisótano ofrece una sorprendente versatilidad: garaje con capacidad para dos vehículos, una amplia bodega con chimenea ideal para reuniones, una habitación adicional, trastero y cuarto de instalaciones, aportando funcionalidad y múltiples posibilidades de uso. La vivienda cuenta con suelo radiante en todas las estancias, aspiración centralizada, reflejo de unas calidades cuidadosamente seleccionadas. El conjunto se completa con un jardín privado de 756 metros cuadrados, con sistema de riego automático, perfectamente integrado con la vivienda, que garantiza privacidad y espacio para disfrutar del entorno natural. Una propiedad elegante y bien diseñada, ideal para quienes buscan una vivienda de calidad en un entorno tranquilo, cerca del mar y de la ciudad.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2393.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mompia, Santa Cruz de Bezana",
+        "title": "Casa independiente en Urbanización Ladera Sur"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110513916",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bc/42/cd/1407250601.webp",
+      "externalReference": "2705",
+      "numPhotos": 18,
+      "price": 569000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 569000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 167.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Sierrapando",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Sierrapando",
+      "country": "es",
+      "latitude": 43.3425859,
+      "longitude": -4.0388275,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110513916/",
+      "distance": "9280",
+      "description": "Descubre esta encantadora casa independiente ubicada en una zona tranquila de Torrelavega, perfecta para quienes buscan un hogar rodeado de naturaleza. Con una amplia parcela de 1363 m², disfrutarás de vistas despejadas y un jardín que invita a relajarse y disfrutar del aire libre. La vivienda, distribuida en una sola planta, cuenta con un hall de entrada espacioso que da la bienvenida a un gran salón comedor, iluminado por la luz natural y con acceso directo al porche. La casa dispone de una gran habitación principal con baño en suite, ideal para mayor comodidad y privacidad. Además, cuenta con dos habitaciones adicionales que comparten un baño completo, y un cuarto dormitorio que puede adaptarse a tus necesidades. Un cuarto de baño adicional para las zonas comunes asegura que todos tengan su espacio. La cocina completamente equipada es perfecta para los amantes de la gastronomía, mientras que los armarios empotrados ofrecen un almacenamiento eficiente. En el sótano, encontrarás un gran garaje cerrado que no solo sirve como aparcamiento, sino que también puede transformarse en trastero.  La parcela tiene volumetría no agotada, lo que brinda la posibilidad de edificar nuevas construcciones si así se desea.  Con fácil acceso a la autovía y al centro de Torrelavega, esta propiedad combina la tranquilidad del campo con la comodidad de la vida urbana. ¡No pierdas la oportunidad de hacer de este lugar tu nuevo hogar! . Si quieres más información ponte en contacto con A3b Gestión Inmobiliaria, te guiaremos y asesoraremos en todo el proceso de compra.  Siéguenos en Instagram y Facebook!.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3407.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Sierrapando, Torrelavega",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 879,
+  "totalPages": 18,
+  "actualPage": 2,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar casas y pisos en Suances, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 50,
+  "paginable": true,
+  "upperRangePosition": 100
+}

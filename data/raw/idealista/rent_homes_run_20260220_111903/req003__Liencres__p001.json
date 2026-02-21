@@ -1,0 +1,2734 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110690044",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2f/1a/92/1412474059.webp",
+      "externalReference": "ACR-01952",
+      "numPhotos": 16,
+      "floor": "bj",
+      "price": 890.0,
+      "priceInfo": {
+        "price": {
+          "amount": 890.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 82.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "BO POZO (EL)",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.4325785,
+      "longitude": -3.9462682,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110690044/",
+      "distance": "2571",
+      "description": "Descubre este encantador BAJO CON JARDIN ubicada en la tranquila zona de Boo, perfecto para disfrutar del confort y la tranquilidad y jardin. NO SE ADMITEN MASCOTAS Cuenta con dos aamplias y acogedoras habitaciones ideales para familias pequeñas o como espacio adicional para invitados. Su impecable estado asegura un hogar listo para habitar desde el primer día. La propiedad se encuentra orientada al sur lo que garantiza luminosidad durante todo el año. Además, podrás disfrutar de un muy amplio jardín con barbacoa. Disfruta también de garaje y trastero ncluidos en el precio. La ubicación es inmejorable gracias a su buena comunicación por su cercanía a la estación de tren y a la salida de la autovía Santander-Torrelavega. El precio de alquiler INCLUYE los gastos de comunidad NO HAY HONORARIOS DE AGENCIA PARA EL ARRENDATARIO No dude en solicitar información o una visita, respondiendo a éste anuncio, llamándonos, o acercándose a cualquiera de nuestras Oficinas DE ACERO INMOBILIARIA -En Santander, en la Calle Juan de Herrera 8 ( junto al Ayuntamiento). -En Soto de la Marina, en Avenida Marques de Valdecilla 97.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Piso en Bo Pozo (el)"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110679255",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7a/29/77/1412142450.webp",
+      "externalReference": "1802-37-10002-ARNIA-NOFIJO",
+      "numPhotos": 6,
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 60.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle de la Arnia",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4648434,
+      "longitude": -3.9054179,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110679255/",
+      "distance": "5538",
+      "description": "*ES UN CHALET CON APARCAMIENTO PRIVADO* ///// NO SE ALQUILA PARA FIJO /////. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. (NO TURISMO) Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 17.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Casa independiente en calle de la Arnia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110679069",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0d/dc/77/1412138264.webp",
+      "externalReference": "1802-106532-LAVAPIES-ESCOLAR",
+      "numPhotos": 13,
+      "floor": "1",
+      "price": 1065.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1065.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 120.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Lavapiés",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4634733,
+      "longitude": -3.8430727,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110679069/",
+      "distance": "10388",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible hasta junio 2026. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente* ////// DE SEPT A JUNIO DE 2027 SON 1100 EUROS//////  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en calle Lavapiés"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110682400",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0a/65/40/1412226685.webp",
+      "externalReference": "V2276",
+      "numPhotos": 17,
+      "floor": "1",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 40.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Doctor Enrique Oti, 6",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4342948,
+      "longitude": -4.0441243,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110682400/",
+      "distance": "6175",
+      "description": "Se alquila apartamento de un dormitorio, salón, cocina y un baño en la playa de La Concha en Suances. El edificio cuenta con ascensor.   Alquiler para fijo 650EUR/mes.   NO SE ADMITEN MASCOTAS.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Piso en calle Doctor Enrique Oti, 6"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110680894",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/87/60/ef/1412181128.webp",
+      "externalReference": "1179",
+      "numPhotos": 25,
+      "floor": "3",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 106.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "CL LUIS VICENTE VELASCO",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4574987,
+      "longitude": -3.8369262,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110680894/",
+      "distance": "10793",
+      "description": "¡Descubre tu nuevo hogar en esta vivienda situada en una fantástica urbanización privada! . Con 106 m² de espacio bien distribuido, este piso en alquiler ofrece un hall de entrada acogedor que te dará la bienvenida. Disfruta de tres amplios dormitorios con armarios empotrados que brindan un excelente almacenamiento. El cuarto de baño y el aseo, ambos recién renovados, aportan un toque moderno y funcional. Cuenta con una galería cerrada. La cocina equipada cuenta con un tendedero techado, ideal para mantener la ropa a cubierto. El salón comedor, luminoso y espacioso, se abre a una terraza orientada al sur, perfecta para disfrutar del sol y las vistas.  Con suelos de madera y ventanas oscilobatientes nuevas, la vivienda combina confort y estilo.  Además, incluye plaza de garaje y trastero sin coste adicional. Ubicada muy cerca del Hospital Valdecilla y rodeada de todo tipo de servicios, esta propiedad es perfecta para quienes buscan comodidad y calidad de vida.  No pierdas la oportunidad de vivir en un entorno privilegiado, donde cada detalle ha sido cuidado para ofrecerte el hogar que mereces. ¡Ven a visitarlo y enamórate! . Si quieres más información ponte en contacto con A3b Gestión Inmobiliaria, te guiaremos y asesoraremos en todo el proceso de compra.  Siéguenos en Instagram y Facebook!.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en CL Luis Vicente Velasco"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110637189",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/75/f8/d0/1410933732.webp",
+      "externalReference": "Daniel González - 642 989 860",
+      "numPhotos": 29,
+      "floor": "10",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 112.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Luis Vicente de Velasco",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4566612,
+      "longitude": -3.8335629,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110637189/",
+      "distance": "11054",
+      "description": "Inmobiliaria TECNOCASA Plaza de las Cervezas alquila en exclusiva: ¡Descubre este fantástico piso en alquiler que combina amplitud, luminosidad y unas vistas impresionantes! Situado en una décima planta, este hogar cuenta con una orientación sur-este que inunda de luz natural todos sus rincones. Con 112 m² construidos y 97 m² útiles, el piso dispone de 3 dormitorios, un salón-comedor ideal para disfrutar de momentos en familia y una cocina independiente. Los dos baños completos, uno de ellos en suite, ofrecen comodidad y privacidad. Además, podrás relajarte en la terraza o el balcón mientras contemplas las vistas. Este inmueble también incluye una plaza de garaje, lo que añade un gran valor a la propiedad. La ubicación es inmejorable, justo al lado del Hospital Universitario Marqués de Valdecilla, lo que facilita el acceso a servicios y transporte. El edificio cuenta con dos ascensores, un amplio portal y portero físico, lo que garantiza seguridad y comodidad.  Con armarios empotrados y calefacción de gas natural, este piso de segunda mano se encuentra en buen estado y listo para ser habitado.  No pierdas la oportunidad de vivir en un lugar que lo tiene todo. ¡Ven a verlo y enamórate de tu nuevo hogar!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en calle Luis Vicente de Velasco"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110667065",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c8/b7/e2/1411783787.webp",
+      "numPhotos": 9,
+      "floor": "1",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 127.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio San Martín",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Zurita",
+      "country": "es",
+      "latitude": 43.3473689,
+      "longitude": -3.9910199,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110667065/",
+      "distance": "11317",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible hasta junio 2026. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zurita, Piélagos",
+        "title": "Piso en Barrio San Martín"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110620157",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d0/88/3d/1410391738.webp",
+      "externalReference": "009481",
+      "numPhotos": 14,
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 130.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "calle Marqués de Villapuente",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Muriedas",
+      "country": "es",
+      "latitude": 43.4183926,
+      "longitude": -3.8469974,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110620157/",
+      "distance": "10463",
+      "description": "Se alquila chalet pareado en la Calle Marques de Villapuente de Muriedas. Chalet de 4 habitaciones, salón, cocina equipada, 2 baños y aseo. Garaje con cuarto de lavado y trastero. La vivienda se alquila semi amueblada. Tiene una parcela de unos 80 m2. Consultar condiciones.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Muriedas, Camargo",
+        "title": "Chalet pareado en calle Marqués de Villapuente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110658974",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/35/7d/2c/1411556525.webp",
+      "externalReference": "35060",
+      "numPhotos": 17,
+      "floor": "6",
+      "price": 975.0,
+      "priceInfo": {
+        "price": {
+          "amount": 975.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 83.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Floranes",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4594894,
+      "longitude": -3.8223717,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110658974/",
+      "distance": "11984",
+      "description": "Se alquila piso de 3 habitaciones, salón, cocina equipada y 1 baño. Amueblado. Terraza. Armarios.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso en calle Floranes"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110640814",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0d/d3/36/1411018588.webp",
+      "numPhotos": 23,
+      "floor": "6",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 138.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle San Fernando",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4579597,
+      "longitude": -3.82354,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110640814/",
+      "distance": "11873",
+      "description": "Pisazo amplio con 3 dormitorios amplios y 2 baños. Gran salón y hermosa cocina. Calidad y confort. Se hace ideal para compartir personal de Valdecilla, de PCTCAN, del Juzgado, etc.. . Muy bueno. Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso en calle San Fernando"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110644564",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/95/26/89/1411114163.webp",
+      "externalReference": "86072",
+      "numPhotos": 18,
+      "floor": "2",
+      "price": 850.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle San Fernando",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4581719,
+      "longitude": -3.824328,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110644564/",
+      "distance": "11812",
+      "description": "¿Buscas apartamento para larga duración? Te presentamos el apartamento que llevabas tiempo buscando, ubicado en el pleno centro de la ciudad. Este precioso apartamento muy soleado, decorado con gusto para ofrecerte una atmósfera acogedora. Dispone de un dormitorio equipado con amplio armario, salón comedor ideal para relajarse o recibir visitas, cocina completamente equipada lista para usar y baño contemporáneo dotado de ducha. Además, disfrutarás de una encantadora terraza orientada al sur que te permitirá aprovechar al máximo los días soleados. El inmueble se encuentra situado en la conocida calle San Fernando dentro de un edificio accesible gracias a su ascensor sin barreras arquitectónicas y con portero físico; todo ello a tan solo unos pasos del corazón comercial donde encontrarás todos los servicios necesarios: supermercados, centros médicos, restaurantes y transporte público cercano. No pierdas esta oportunidad única; ven a conocerlo personalmente hoy mismo acompañado por uno de nuestros expertos agentes inmobiliarios especializados en la zona.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso en calle San Fernando"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110643646",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/aa/41/1e/1411094623.webp",
+      "externalReference": "86078",
+      "numPhotos": 26,
+      "floor": "1",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 68.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Mazas",
+      "province": "Cantabria",
+      "municipality": "Cudon",
+      "country": "es",
+      "latitude": 43.4147771,
+      "longitude": -4.0142027,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110643646/",
+      "distance": "5136",
+      "description": "Descubre este magnífico ático ubicado en la encantadora localidad de Cudón, en alquiler para LARGA DURACIÓN, ideal para aquellos que buscan confort y calidad de vida. El ático dispone de tres acogedoras habitaciones. Además, disfrutarás del placer inigualable de contar con una espaciosa terraza que rodea toda la vivienda orientada hacia todas las direcciones donde podrás relajarte con vistas panorámicas o compartir momentos agradables al aire libre bajo el sol durante todo el día. La vivienda se encuentra en perfecto estado 'para entrar a vivir', lo cual minimiza cualquier necesidad inmediata por reformas u obras adicionales; simplemente trae tu maleta e instálate cómodamente desde ya mismo.  Este apartamento es totalmente exterior proporcionando luminosidad natural optimizada gracias a su disposición arquitectónica; aprovecha cada rincón disfrutando no sólo del interior sino también vistas espectaculares sobre los alrededores. No pierdas tiempo y ven a visitarlo con los agentes de inmobiliaria San Fernando.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cudon",
+        "title": "Ático en calle Mazas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110633480",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/47/6c/ed/1410827943.webp",
+      "externalReference": "ISA948",
+      "numPhotos": 25,
+      "floor": "1",
+      "price": 600.0,
+      "priceInfo": {
+        "price": {
+          "amount": 600.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Urbanización Rìa del Pas",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.4220743,
+      "longitude": -3.9521395,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110633480/",
+      "distance": "3223",
+      "description": "Impecable apartamento de una habitación en Boo de Piélagos, ubicado en una zona tranquila y rodeada de naturaleza, a pocos minutos de Santander y con excelente conexión tanto a la ciudad como a las playas de la zona. La vivienda se encuentra dentro de una urbanización privada que cuenta con dos piscinas y amplias zonas ajardinadas, perfectas para disfrutar del entorno y de la tranquilidad durante todo el año. El edificio dispone de ascensor, lo que aporta un extra de comodidad. El apartamento destaca por su excelente estado de conservación y por lo bien aprovechado que está el espacio. Se distribuye en un luminoso salón con cocina americana integrada, creando un ambiente práctico y acogedor para el día a día. La habitación es amplia y cuenta con acceso a una terraza privada, ideal para desconectar y disfrutar del aire libre. El baño completo se encuentra en perfecto estado, con acabados actuales y funcionales. Se trata de una opción ideal tanto como primera vivienda, segunda residencia o inversión para alquiler en una zona con alta demanda en Cantabria. No dejes pasar esta oportunidad. Llama ahora y agenda tu visita. Este piso puede ser tuyo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Piso en Urbanización Rìa del Pas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110633669",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a1/29/ae/1410835581.webp",
+      "externalReference": "G02260",
+      "numPhotos": 14,
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 66.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Cuatro Caminos",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4578272,
+      "longitude": -3.8260306,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110633669/",
+      "distance": "11672",
+      "description": "¡Tu nuevo hogar en Santander te está esperando! A PARTIR DE MARZO 2026 PARA FIJO. Exclusivo Personal Sanitario. Con su perfecta ubicación, este piso se encuentra a tan unos pasos del Hospital Universitario de Valdecilla, lo que lo convierte en el lugar ideal para profesionales de la salud o estudiantes de áreas relacionadas con la medicina. Además, estarás cerca de transporte público, comercios y todo lo que necesitas para disfrutar de la comodidad y la conveniencia de vivir en el centro. Este piso en un bajo ha sido completamente reformado, lo que te garantiza un espacio completamente nuevo, moderno y lleno de estilo. Con 2 dormitorios y un cuarto extra que puede utilizarse como zona de despacho, este hogar tiene todo lo que necesitas para estudiar, descansar o disfrutar de tu tiempo libre. La amplia cocina te permitirá preparar tus mejores platos, y el baño espacioso ofrece comodidad y funcionalidad. Además, muchos de los muebles son nuevos, asegurando que cada rincón de la vivienda tenga un toque contemporáneo y elegante. Este piso es perfecto para estudiantes que buscan un lugar tranquilo y bien ubicado para concentrarse en sus estudios sin renunciar a la comodidad y la calidad de vida. La cercanía al hospital, la amplitud de los espacios y el entorno moderno y relajado lo convierten en el lugar ideal para aprovechar al máximo tu experiencia universitaria. ¡No dejes pasar esta oportunidad y ven a verlo! � Dada la demanda actual, las visitas se realizarán exclusivamente en jornadas programadas y siguiendo un riguroso orden de contacto. Se sugiere máxima antelación para garantizar disponibilidad en los horarios establecidos. Nota: El acceso a la visita está sujeto al cumplimiento previo de los requisitos imprescindibles y disponibilidad del equipo comercial. TRANSPARENCIA GESTIÓN INMOBILIARIA: No se admiten mascotas. Sujeto a decisión última del cliente propietario. Imprescindible seguro de alquiler. Consultar resto de condiciones.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110340677",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/95/ee/0c/1402424141.webp",
+      "externalReference": "vBAlq374",
+      "numPhotos": 16,
+      "floor": "5",
+      "price": 980.0,
+      "priceInfo": {
+        "price": {
+          "amount": 980.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 107.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida Menéndez Pelayo",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Muriedas",
+      "country": "es",
+      "latitude": 43.418237,
+      "longitude": -3.8422639,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110340677/",
+      "distance": "10831",
+      "description": "Presentamos este exclusivo piso de lujo de diseño en alquiler de larga estancia en la localidad de Maliaño, ideal para quienes buscan confort, estilo y una ubicación estratégica. Situado en la quinta planta de un edificio con ascensor, construido en 1977, este inmueble combina solidez, elegancia y funcionalidad. La vivienda destaca por su orientación sur, garantizando excelente luminosidad natural durante todo el día y creando espacios cálidos y agradables. Además, cuenta con un balcón, perfecto para disfrutar del aire libre, relajarse o aprovechar momentos de descanso con vistas despejadas. El piso dispone de tres habitaciones amplias, luminosas y cuidadosamente diseñadas, pensadas para ofrecer el máximo confort en estancias prolongadas. Su cuidada distribución y diseño aportan una sensación de amplitud y bienestar, convirtiéndolo en una opción perfecta para familias, profesionales desplazados o estancias corporativas. Cada estancia ha sido concebida para el descanso, el teletrabajo o el disfrute personal, ofreciendo versatilidad sin renunciar a la elegancia. El edificio cuenta con ascensor, aportando comodidad en el día a día. La ubicación es excelente, con buena conexión mediante tren y líneas de autobús, facilitando desplazamientos rápidos al centro de la ciudad y a localidades cercanas. El entorno es tranquilo y residencial, con todos los servicios esenciales a pocos minutos: supermercados, comercios, centros educativos y zonas de interés. La calefacción es comunitaria y está incluida en el precio, garantizando confort y eficiencia sin costes adicionales. Este alquiler de larga estancia representa una oportunidad única para disfrutar de un hogar exclusivo, luminoso y perfectamente conectado en Maliaño.  Contáctenos para más información o para concertar una visita. Estaremos encantados de atenderle y ayudarle a descubrir su próxima residencia.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Muriedas, Camargo",
+        "title": "Piso en avenida Menéndez Pelayo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "91805235",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/98/5a/fe/1410594190.webp",
+      "externalReference": "ARS2038i",
+      "numPhotos": 33,
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 149.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Campogiro",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4535603,
+      "longitude": -3.8430137,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/91805235/",
+      "distance": "10268",
+      "description": "Descubre este encantador chalet adosado en urbanización privada y con pista deportiva en Peñacastillo, perfecto para quienes buscan comodidad y espacio en un entorno tranquilo! Con una superficie de 149 metros cuadrados, esta vivienda ofrece un amplio y funcional diseño. Cuenta con tres dormitorios, dos baños, aseo y bajo cubierta de unos 45 m², ideal para familias o quienes necesitan espacio adicional. La propiedad se encuentra sin amueblar, lista para que puedas personalizarla a tu gusto. La cocina está completamente equipada, perfecta para preparar deliciosas comidas en un entorno práctico y cómodo. Dispone de calefacción de gas natural individual, garantizando un ambiente cálido durante los meses más fríos. El jardín privado de unos 25 m² es un espacio perfecto para disfrutar del aire libre, realizar reuniones o simplemente relajarte en un entorno natural. La orientación doble norte y sur aporta luminosidad y ventilación a la vivienda en diferentes momentos del día. El suelo de tarima aporta calidez y elegancia, mientras que las ventanas de aluminio aseguran un buen aislamiento térmico y acústico. El inmueble además cuenta con 2 plazas de garaje, facilitando el aparcamiento y la seguridad de tu vehículo y lavadero comunitario. No se aceptan mascotas. No pierdas la oportunidad de convertir esta casa en tu nuevo hogar en una zona privilegiada de Peñacastillo. ¡Contáctanos y ven a visitarlo! Ref: ARS2038i.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Chalet adosado en calle Campogiro"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110623102",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/94/eb/ac/1410484379.webp",
+      "externalReference": "ALQ/274",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 680.0,
+      "priceInfo": {
+        "price": {
+          "amount": 680.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Rodil",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.4441524,
+      "longitude": -3.9286329,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110623102/",
+      "distance": "3366",
+      "description": "Para fijo. En MORTERA, Bonito apartamento tipo LOFT en planta baja. Salon con cocina integrada, baño y un dormitorio. Impecable, totalmente amueblado  PERFECTO PARA SINGLES o UNA PAREJA. Urbanización tranquila, A solo 5 min. de las playas de Liencres y del hospital Mompia, a menos de 15 min. del centro de Santander capital. Parada de Autobus, y tren de cercanias, desde Mompía. Disponibilidad a principios de Marzo. CUENTA CON PLAZA DE GARAJE INCLUIDA. NO SE ADMITEN MASCOTAS. Solo Gente con trabajo estable, solvencia demostrable. Cualquier estudio del alquiler estará supeditado a la decisión ultima del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Piso en Rodil"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110612459",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/08/4f/a9/1410165018.webp",
+      "numPhotos": 13,
+      "floor": "1",
+      "price": 1065.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1065.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 120.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Lavapiés",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4613849,
+      "longitude": -3.8416022,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110612459/",
+      "distance": "10469",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible hasta junio 2026. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente* ////// DE SEPT A JUNIO DE 2027 SON 1100 EUROS//////  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en calle Lavapiés"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110612744",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fa/a7/92/1410399186.webp",
+      "numPhotos": 12,
+      "floor": "bj",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 55.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle de la Arnia",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4644277,
+      "longitude": -3.9074608,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110612744/",
+      "distance": "5368",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible PARA TEMPORADAS DE ESTUDIO O TRABAJO (no vacacional). Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Piso en calle de la Arnia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110617439",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/51/eb/39/1410310897.webp",
+      "externalReference": "26-0002",
+      "numPhotos": 22,
+      "floor": "4",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 105.0,
+      "exterior": false,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "avenida del Deporte",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4617791,
+      "longitude": -3.8459686,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110617439/",
+      "distance": "10127",
+      "description": "- NO FIJO - ALQUILER TEMPORAL (Consultar periodos) Alquiler de piso de 5 habitaciones, salón, cocina y tres baños. Recién reformado, todo exterior. Distribuido: Dos amplias habitaciones con cama de 1,50cm. una de ellas en suite con baño dentro de la habitación. 1 Habitación con cama de 1,35 cm. 2 Habitaciones con cama de 1,05cm. Dispone de tres baños, uno de ellos dentro de una de las habitaciones. La Cocina totalmente nueva, esta equipada, tiene friegaplatos y dispone de dos frigoríficos grandes. Todas las habitaciones tiene armarios, tv y luz regulable con lamparas de posición. Ventanas de PVC Piso ideal para empresas desplazadas a trabajar, estudiantes, etc. Si tiene que venir a Cantabria por un corto plazo a trabajar o a estudiar, solicite información. En la zona hay mucho aparcamiento.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en avenida del Deporte"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110611789",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7d/16/c5/1410137953.webp",
+      "externalReference": "04908",
+      "numPhotos": 12,
+      "floor": "1",
+      "price": 850.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio San José",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.4263977,
+      "longitude": -3.9390436,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110611789/",
+      "distance": "3466",
+      "description": "Boo de Piélagos: ALQUILER PARA FIJO, piso bajo exterior y soleado, con un precioso jardín al sur y patio al norte. Distribuido en cocina, baño, dos dormitorios, y un amplio salón con salida al jardín. Un lugar cómodo, tranquilo y perfectamente ubicado. Amueblado, con calefacción y plaza de garaje.    Las condiciones planteadas por el propietario para el alquiler, son:    * Seguro de impago. Para la formalización del mismo, (ARAG compañía aseguradora) hará un estudio de viabilidad, para el cual deberás acreditar unos ingresos mínimos FIJOS mensuales en España de 2.125 €.    Si cumples los requisitos, solicita tu visita por whatsapp en el teléfono.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Piso en Barrio San José"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109768604",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/68/42/ce/1409739949.webp",
+      "externalReference": "ASJ1514AL",
+      "numPhotos": 24,
+      "floor": "2",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 124.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "AV NUEVA MONTAÑA",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.439033,
+      "longitude": -3.8493211,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109768604/",
+      "distance": "9793",
+      "description": "Vivienda en alquiler preferiblemente destinada A PERSONAL SANITARIO (médicos, enfermeras, MIR), ideal para quienes buscan comodidad, tranquilidad y una excelente conexión con su lugar de trabajo. El piso cuenta con 101 m² útiles, muy luminoso y bien distribuido. Dispone de tres dormitorios y un vestidor, ofreciendo espacio más que suficiente tanto para el descanso como para el estudio. El salón-comedor, amplio y acogedor, tiene salida a un balcón orientado al sur, con vistas despejadas a Peña Cabarga, perfecto para desconectar tras una jornada intensa. La cocina independiente incluye una galería amplia, ideal como zona de lavandería. La vivienda dispone de un baño completo con bañera y un aseo, suelos cerámicos, ventanas de PVC Climalit, puertas lacadas en blanco y calefacción. Ha sido recientemente pintada y se encuentra lista para entrar a vivir, totalmente amueblada. El edificio cuenta con ascensor. Magnífica ubicación: Excelente comunicación con el Hospital Universitario Marqués de Valdecilla, línea de autobús directo.  Parada de tren a escasos metros de la urbanización A pocos minutos del centro de Santander en coche Zona tranquila, con centros comerciales y servicios cercanos. La urbanización cuenta con zonas ajardinadas. Condiciones: No se admiten mascotas Imprescindible seguro de alquiler, solvencia económica demostrable. Una vivienda cómoda, bien comunicada e ideal para personal sanitario gracias a su estupenda comunicación con el hospital por tren y autobús. Contacta con nosotros para más información o concertar una visita. AVISO IMPORTANTE: “Este anuncio se ofrece con carácter informativo y tiene como objetivo facilitarle una primera aproximación al inmueble. La información puede estar sujeta a posibles actualizaciones o modificaciones y no constituye una oferta contractual. La operación quedará supeditada a la aprobación final del propietario. ”.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en Av Nueva Montaña"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110597613",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/52/57/9d/1409740823.webp",
+      "externalReference": "ARS2757i",
+      "numPhotos": 28,
+      "price": 2300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 252.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Barrio Aguilera",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Parbayón",
+      "country": "es",
+      "latitude": 43.3647646,
+      "longitude": -3.8921286,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110597613/",
+      "distance": "11190",
+      "description": "Exclusivo chalet individual en alquiler desde 1 de agosto de 2026 al 31 de julio de 2027 en Parbayón Descubra esta magnífica propiedad independiente de una sola planta, ubicada en un entorno privilegiado y rodeada de naturaleza, sobre una impresionante parcela privada de 5.000 m² que garantiza privacidad, tranquilidad y confort absoluto. La vivienda ofrece una distribución funcional con 3 dormitorios, 2 baños completos, aseo, despacho y un espectacular salón de grandes dimensiones con cocina americana, concebido como el corazón del hogar. Los suelos porcelánicos aportan sofisticación y continuidad a todos los espacios. Dispone de garaje cerrado de 50 m² para dos vehículos. Equipada con las más altas prestaciones como sistema de ventilación asistida, aerotermia con suelo radiante, placas solares y chimenea con horno de leña, combinando diseño y bienestar durante todo el año. El exterior está pensado para el disfrute en cualquier estación, con una piscina climatizada mediante bomba de calor, cuyo servicio de limpieza está incluido, al igual que el mantenimiento de la finca, ofreciendo una experiencia de vida sin preocupaciones. Una propiedad única y exclusiva, ideal para quienes buscan un alquiler temporal de alto nivel, rodeado de naturaleza.  ¿Qué hay cerca? Parque de Cabárceno a 10 minutos, Santander a 20 minutos, Torrelavega a 20 minutos, playa Liencres a 25 minutos y playa de Somo 25 minutos. No dudes en contactarnos para más información y concertar una visita. Ref: ARS2757i.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Parbayón, Piélagos",
+        "title": "Casa independiente en Barrio Aguilera"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110593594",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8e/66/b9/1409620550.webp",
+      "externalReference": "3719-VI-LND-046-251-054",
+      "numPhotos": 11,
+      "floor": "2",
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "avenida de Bilbao",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Muriedas",
+      "country": "es",
+      "latitude": 43.4192138,
+      "longitude": -3.8471956,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110593594/",
+      "distance": "10419",
+      "description": "Piso en Maliaño. con una superficie de 60 m2, distribuido en 2 dormitorios, 1 baño, salón con balcón y cocina amueblada y equipada con electrodomésticos (vitrocerámica. campana, horno, lavadora, frigorífico y termo eléctrico), con salida a lavadero. El precio incluye una plaza de garaje en el mismo edificio. Suelos de tarima flotante, armarios empotrados y balcones en los dormitorios, ventanas de aluminio lacado en blanco, puertas en color haya, muy luminoso por su orientación este. Recién reformado y acondicionado, listo para entrar a vivir. Situado en la segunda planta de un edificio con ascensor, integrado en una tranquila urbanización privada con zonas comunes. Ubicación estratégica, en una zona consolidada con todos los servicios cercanos como comercios, supermercados, centros educativo transporte y zonas de paseo. A tan sólo, 5 minutos de Santander, ofreciendo una excelente comunicación y convirtiéndolo en una opción ideal para quienes buscan tranquilidad sin renunciar a a cercanía a la ciudad. Bien comunicado por Autovía S-10. Línea de autobuses S2. Apeadero de tren de la línea Santander - Bilbao. A 2 km. del aeropuerto Seve Ballesteros. REQUISITOS: 1 mes de fianza.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Muriedas, Camargo",
+        "title": "Piso en avenida de Bilbao"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110366456",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/be/46/6f/1403057401.webp",
+      "externalReference": "22413",
+      "numPhotos": 90,
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 161.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "avenida de Valdecilla",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4583483,
+      "longitude": -3.8297218,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110366456/",
+      "distance": "11381",
+      "description": "CÉNTRICO CHALET EN ALQUILER EN CIUDAD JARDIN Exclusiva propiedad en cómoda situación, que nos ofrece disponer de jardín y espacio en el centro de la ciudad. La distribución se desarrolla en cuatro niveles: en la primera planta contamos con la zona de día, dividida en salón-comedor, cocina totalmente equipada, con gran espacio de almacenaje, con acceso al jardín y un aseo; En la segunda encontramos la zona de descanso, que cuenta con 2 luminosas habitaciones, armario empotrado, vestidor y un baño completo que les da cobertura; En la última planta encontramos un ático diáfano, con acceso a una agradable terraza, zona de almacenaje y otro baño completo; En la planta baja se ubica la sala de lavandería y la salida al garaje. Todas las alturas están intercomunicadas entre sí por una escalera interior (así como por un ascensor pero que no está en funcionamiento). El garaje es amplio, cuenta con capacidad de albergar hasta dos vehículos. Orientación sur y oeste. Dispone de acceso privado por escaleras y bonito jardín dividido en varios ambientes. Todas las persianas son eléctricas. A tan solo 2 minutos del hospital Marqués de Valdecilla. Se alquila para fijo. No se admiten mascotas. Actualmente se encuentra semi amueblado. Ideal para una familia. Cercano a todos los servicios: Supermercados, farmacias, hospital, comercios, centros deportivos, parques y jardines … Servicio de transporte público a tan solo unos metros (cómo autobús y taxi) Carril bici…. Buena conexión con S-10, aeropuerto y resto de la ciudad. Un auténtico oasis. La mayor y más selecta cartera inmobiliaria de Cantabria. Mikeli Luxury Real Estate. Mas inmuebles en la zona. Contacte con su asesor.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Chalet pareado en avenida de Valdecilla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110587804",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/76/c0/b9/1409530715.webp",
+      "externalReference": "0902-90021-ARNIA",
+      "numPhotos": 12,
+      "floor": "bj",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 55.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle de la Arnia",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4647245,
+      "longitude": -3.9042804,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110587804/",
+      "distance": "5620",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible PARA TEMPORADAS DE ESTUDIO O TRABAJO (no vacacional). Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Piso en calle de la Arnia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110589116",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4a/d6/6d/1409476619.webp",
+      "externalReference": "62181929",
+      "numPhotos": 20,
+      "floor": "4",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Rosalía de Castro, 13",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4390559,
+      "longitude": -3.8554089,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110589116/",
+      "distance": "9304",
+      "description": "Edificio Copérnico, recién entregado, obra nueva. Alquiler para fijo. Piso a estrenar, orientado al Sur, soleado, con vistas despejadas al parque. Estudiamos la posibilidad de alquilarlo amueblado. En Peñacastillo, zona nueva, con todos los servicios, Centros de salud, deportivo, comerciales. Piso confortable, con aerotermia.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en calle Rosalía de Castro, 13"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110582806",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/73/c2/4c/1409301875.webp",
+      "externalReference": "AL2706",
+      "numPhotos": 19,
+      "floor": "2",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 35.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Juan Guerrero Urreisti, 17",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.448522,
+      "longitude": -3.8537749,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110582806/",
+      "distance": "9382",
+      "description": "Rentas y Capitales presenta estupendo apartamento de 1dormitorio en Peñacastillo junto a la gasolinera del empalme. La vivienda es una primera planta en un edificio sin ascensor, tiene una superficie útil de 35 metros distribuidos en salón con cocina americana reformada completamente y equipada con electrodomésticos. Dormitorio principal equipado con cama de matrimonio y armario empotrado. La zona de salón dispone de sofá ( no aparece en las fotos), mueble de tv y Tv de 50´´. Dispone de un balcón al cual se accede desde el salón orientado al sur. La vivienda esta reformada completamente en 2025, los suelos son de tarima flotante, las ventanas de PVC climalit y dispone de calefacción eléctrica. Ubicado junto a la gasolinera del empalme, con parada de autobús junto al portal. Rodeado de todos los servicios como el centro comercial Peñacastillo, supermercados, colegio, instituto, etc. A 800 de la salida de la autovía A-8 y A-67. Se solicita solvencia económica para el alquiler de la vivienda. Pregunte disponibilidad y fechas. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 19.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en calle Juan Guerrero Urreisti, 17"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110580521",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/10/96/07/1409236782.webp",
+      "externalReference": "0633",
+      "numPhotos": 17,
+      "floor": "2",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 109.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Miguel de Unamuno",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Los Castros",
+      "country": "es",
+      "latitude": 43.4654364,
+      "longitude": -3.8250954,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110580521/",
+      "distance": "11855",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Castros, Santander",
+        "title": "Piso en calle Miguel de Unamuno"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110574430",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cf/45/d4/1409055896.webp",
+      "externalReference": "0802-90032-ORIA",
+      "numPhotos": 16,
+      "floor": "9",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida Herrera Oria",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4586139,
+      "longitude": -3.836096,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110574430/",
+      "distance": "10872",
+      "description": "Para residentes del Hospital de Valdecilla. Zona de fácil aparcamiento. Autobuses a pie de calle que te llevan con celeridad a cualquier punto de la ciudad. Amplio piso con vistas despejadas ///// PROXIMO AL HOSPITAL DE VALDECILLA///// Oportunidad.  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en avenida Herrera Oria"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110574459",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b6/d6/e6/1409057161.webp",
+      "numPhotos": 12,
+      "floor": "9",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle San Fernando",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4614437,
+      "longitude": -3.8241831,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110574459/",
+      "distance": "11864",
+      "description": "Piso alto y despejado, con 2 camas grandes y una pequeña. Ideal para 2 personales sanitarios y utilizar la 3ª para invitados. Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso en calle San Fernando"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110578607",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e8/b8/d1/1409166562.webp",
+      "externalReference": "67",
+      "numPhotos": 26,
+      "floor": "4",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 105.0,
+      "exterior": true,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "avenida del Deporte",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4587957,
+      "longitude": -3.8493266,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110578607/",
+      "distance": "9813",
+      "description": "ALQUILER TEMPORAL (Consultar periodos) Alquiler de piso de 5 habitaciones, salón, cocina y tres baños. Recién reformado, todo exterior. Distribuido: Dos amplias habitaciones con cama de 1,50cm. una de ellas en suite con baño dentro de la habitación. 1 Habitación con cama de 1,35 cm.  2 Habitaciones con cama de 1,05cm. Dispone de tres baños, uno de ellos dentro de una de las habitaciones. La Cocina totalmente nueva, esta equipada, tiene friegaplatos y dispone de dos frigoríficos grandes. Todas las habitaciones tiene armarios, tv y luz regulable con lamparas de posición. Ventanas de PVC Piso ideal para empresas desplazadas a trabajar, estudiantes, etc. Si tiene que venir a Cantabria por un corto plazo a trabajar o a estudiar, solicite información. En la zona hay mucho aparcamiento.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en avenida del Deporte"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110042324",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/85/7e/0c/1393535360.webp",
+      "externalReference": "ARS2741i",
+      "numPhotos": 20,
+      "floor": "6",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Floranes",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4615106,
+      "longitude": -3.8231136,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110042324/",
+      "distance": "11950",
+      "description": "Descubre este acogedor piso recién reformado de 84 metros cuadrados, ideal para quienes buscan comodidad y funcionalidad. La vivienda cuenta con tres dormitorios, perfectos para familias o para quienes necesitan espacio adicional. El salón, con orientación oeste, recibe una excelente luz natural durante toda la tarde, creando un ambiente cálido y agradable. La  cocina está completamente equipada, lista para su uso diario. El baño, de diseño práctico, complementa las estancias de la vivienda. El piso dispone de un balcón que invita a disfrutar del aire libre y de vistas agradables. La propiedad cuenta con calefacción eléctrica, lo que garantiza confort en los meses más fríos, y ventanas climalit que aportan aislamiento térmico y acústico. Además, el edificio dispone de ascensor, facilitando el acceso a la vivienda. El suelo de tarima aporta un toque de elegancia y calidez a cada estancia. No se aceptan mascotas. MÁXIMO 3 PERSONAS. Una oportunidad perfecta para vivir en un entorno cómodo, soleado y bien equipado. Ref: ARS2741i.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso en calle Floranes"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110560891",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/73/4c/53/1408677270.webp",
+      "externalReference": "ACR-01947",
+      "numPhotos": 21,
+      "floor": "en",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle de la Arnia",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4623072,
+      "longitude": -3.904417,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110560891/",
+      "distance": "5527",
+      "description": "En ALQUILER, amplio apartamento, muy luminoso, completamente exterior.  Completamente amueblado, cuarto de baño con ducha recién reformado, y con cocina equipada, con zona de comedor, salón y amplia habitación con cama de matrimonio. Además cuenta con un pequeño trastero en la vivienda.  Esta enclavado en una casa con zonas de jardín, completamente exterior.  Situado en Soto de la Marina, con parada al lado de la línea de autobús regular que comunica Santander con Liencres, cada media hora, y las playas de Arnia y Liencres a cinco minutos.  A el alquiler mensual, hay que sumar 140 € fijos mensuales, de luz, calefacción, basuras y agua, quedando así todos los suministros incluidos.  No se admiten mascotas. Requiere seguro de alquiler.  No dude en solicitar información respondiendo a éste mail, llamándonos, o acercándose a cualquiera de nuestras Oficinas: - en Soto de la Marina, Av Marques de Valdecilla 97. - en Santander, C Juan de Herrera 8. IMPRESCINDIBLE FORMALIZAR SEGURO DE ALQUILER CONTRA IMPAGOS. (Requiere estudio previo de solvencia).  El precio incluye los gastos de comunidad NO HAY HONORARIOS DE AGENCIA PARA EL ARRENDATARIO.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Piso en calle de la Arnia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110550042",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/05/04/41/1410767503.webp",
+      "externalReference": "A0100126",
+      "numPhotos": 14,
+      "floor": "1",
+      "price": 725.0,
+      "priceInfo": {
+        "price": {
+          "amount": 725.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "rent",
+      "size": 121.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Oruña",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.3993215,
+      "longitude": -3.9522491,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110550042/",
+      "distance": "5599",
+      "description": "En oruña de pielagos en el centro del pueblo nos encontramos con un duplex de 103 m2  primera planta sin ascensor SOLO PERSONAS ADULTAS! NO SE ADMITEN ANIMALES distribuido en  planta principal hall, cocina amueblada y equipada, un dormitorio con armario empotrado, salon- comedor con una pequeña terraza y un baño completo planta primera, dos dormitorios amplios con ventana y un baño completo con bañera y ventana piso amueblado, el salón solo tiene la mesa de comedor con sillas todo exterior Soleado tiene plaza de garaje abierta y trastero parada de autobus estación de tren en mogro distancia a santander a 12 min playas de mogro a 5 min y a liencres a 6 min no se admiten animales se pide solvencia economica ( seguro de impago).",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Dúplex"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104331518",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b8/7b/0b/1407681777.webp",
+      "externalReference": "ALPS791",
+      "numPhotos": 28,
+      "floor": "1",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 111.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida de Valdecilla, 1",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4583092,
+      "longitude": -3.8266734,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/104331518/",
+      "distance": "11625",
+      "description": "SOLO PERSONAL SANITARIO O FUNCIONARIOS Pyso ALQUILA esta vivienda recién reformada, en la Glorieta de Cuatro Caminos de Santander. Se trata de un amplio piso, de 3 dormitorios todos ellos con armario y el dormitorio principal con salida a balcón, salón con cocina americana totalmente amueblada y amueblada, y dos baños con plato de ducha. Vivienda con calefacción individual por gas natural y suelos de parquet. Piso en perfecto estado de conservación y muy luminoso. Edificio dotado con ascensor. Listo para entrar. Posibilidad de alquiler de plaza de garaje en el mismo edificio por 100€ ADICIONALES PRECIO 1.200€ El arrendamiento quedará sujeto a la contratación de seguro de impago de rentas y a la entrega de dos mensualidades en concepto de fianza Consúltenos y le ampliaremos información o concerte una visita a la propiedad. NO SE ARREPENTIRÁ! Nos adaptamos a sus necesidades En buenas manos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 100.0
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso en avenida de Valdecilla, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110518183",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/33/96/e1/1407373901.webp",
+      "externalReference": "3385A",
+      "numPhotos": 40,
+      "floor": "2",
+      "price": 680.0,
+      "priceInfo": {
+        "price": {
+          "amount": 680.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio las Cuartas, 9",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Renedo",
+      "country": "es",
+      "latitude": 43.3511007,
+      "longitude": -3.947317,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110518183/",
+      "distance": "10928",
+      "description": "AMPLIO Y LUMINOSO PISO EN ALQUILER EN RENEDO. Ref. 3385 A Si estás buscando un hogar amplio, cómodo y bien ubicado, esta vivienda en Renedo de Piélagos es una oportunidad que no puedes dejar escapar. Situado en una urbanización privada, rodeado de servicios y con excelentes accesos, este piso ofrece el equilibrio perfecto entre tranquilidad, comodidad y calidad de vida. La vivienda cuenta con tres dormitorios, ideales tanto para familias como para quienes necesitan espacio extra para teletrabajar o disfrutar de estancias polivalentes. El salón, espacioso y muy luminoso, dispone de un gran mirador con salida directa a una de las dos terrazas, orientadas al sur, lo que garantiza luz natural durante todo el día y una agradable sensación de bienestar. La cocina independiente, funcional y cómoda, también tiene acceso a una segunda terraza, perfecta para el día a día. Dispone de dos baños completos, pensados para ofrecer comodidad y funcionalidad, así como una plaza de garaje, un valor añadido imprescindible que aporta seguridad y comodidad en el día a día. La vivienda está equipada con calefacción individual de gas, ventanas de aluminio con doble acristalamiento, suelos de gres y tarima flotante, y amplios ventanales que llenan cada estancia de luz natural. Vivir en Renedo de Piélagos es disfrutar de una ubicación estratégica, con todos los servicios a mano: comercios, colegios, transporte público, zonas verdes y una excelente comunicación tanto con Santander como con Torrelavega. Es una zona muy demandada por su ambiente familiar, su calidad de vida y su cercanía a la costa y a la naturaleza. La vivienda se alquila por 680 € al mes, con gastos de comunidad e IBI incluidos (suministros aparte). Alquiler de 11 meses, por necesidad de la propiedad, y con seguro de garantía de alquiler, por lo que será imprescindible acreditar ingresos y estabilidad laboral. IMPORTANTE: Para optar al alquiler de esta vivienda, es necesario entrar en nuestra web buscar el inmueble por su Referencia 3385 A y rellenar la ficha de demandante de alquiler. Este es el primer paso obligatorio para poder concertar visita y ser tenido en cuenta en el proceso de selección. No te quedes con las ganas de conocer este piso que lo tiene todo. Contacta con nosotros y da el primer paso hacia tu nuevo hogar en Renedo de Piélagos. La información ofrecida carece de carácter contractual. Puede contener errores o imprecisiones (somos humanos). Para detalles exactos y condiciones contractuales, contacta con nosotros.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Renedo, Piélagos",
+        "title": "Piso en Barrio las Cuartas, 9"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "94938326",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/14/7d/5a/1408474862.webp",
+      "externalReference": "EP-30716-YO",
+      "numPhotos": 71,
+      "price": 1950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 310.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "Mortera",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.4421347,
+      "longitude": -3.9265964,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/94938326/",
+      "distance": "3564",
+      "description": "Para fijo. En mortera de estilo ingles, chalet individual precioso, impecable, vacío sin amueblar, cocina con zona de oficce, con estupendo jardín, magníficas calidades, amplio salón con grandes ventanales, 4 habitaciones, la principal en suite, de 22 metros cuadrados, más vestidor y baño, armarios empotrados en todas las habitaciones, otras 2 habitaciones de 16 metros, 3 baños completos, habitación en planta baja, 2 bodegas y aseo, garaje para 2 coches, soleado todo el día, magnífica urbanización. Disponible para visitar. Se piden nominas y contratos de trabajo imprecindibles, para seguro de impago de alquiler. Este anuncio es meramente informativo, no tiene efectos vinculantes y está sujeto a la aprobación del seguro de impago y de los propietarios.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110489631",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/70/a9/73/1406474606.webp",
+      "externalReference": "ARS2753i",
+      "numPhotos": 23,
+      "floor": "3",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 81.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "AV MENENDEZ PELAYO",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Muriedas",
+      "country": "es",
+      "latitude": 43.416197,
+      "longitude": -3.8421118,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110489631/",
+      "distance": "10914",
+      "description": "Descubre este encantador piso de 81 metros cuadrados, perfecto para quienes buscan comodidad y funcionalidad en un entorno luminoso y acogedor. La vivienda cuenta con tres dormitorios y un baño completo, ideal para familias o quienes necesitan espacio adicional. Totalmente amueblado, el piso ofrece un ambiente listo para entrar a vivir. La orientación oeste garantiza una excelente entrada de luz natural durante toda la tarde, creando un ambiente cálido y soleado. Las ventanas con doble acristalamiento Climalit aseguran un buen aislamiento térmico y acústico, mientras que el suelo de tarima aporta un toque de elegancia y confort. La propiedad dispone de ascensor para facilitar el acceso y calefacción de gas natural individual, permitiendo mantener una temperatura agradable en cualquier época del año. La cocina está completamente equipada, lista para preparar tus mejores recetas. No pierdas la oportunidad de vivir en un piso exterior, luminoso y bien equipado, en una zona que combina comodidad y funcionalidad. ¡Contáctanos y ven a visitarlo! No se aceptan mascotas. Ref: ARS2753i.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Muriedas, Camargo",
+        "title": "Piso en Av Menendez Pelayo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110394617",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b7/9c/dc/1403886514.webp",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "studio",
+      "operation": "rent",
+      "size": 53.0,
+      "exterior": true,
+      "rooms": 0,
+      "bathrooms": 1,
+      "address": "CL CARRAL",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4248005,
+      "longitude": -4.0509452,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110394617/",
+      "distance": "7026",
+      "description": "Alquiler de temporada  Destinado exclusivamente a estancias temporales por motivos laborales, académicos o de desplazamiento puntual, no apto como vivienda habitual. Distribución de la vivienda: La vivienda cuenta con un dormitorio, salón, cocina independiente con salida directa a un agradable jardín privado y baño completo. Se alquila amueblado  Zona tranquila y bien comunicada. Vivienda cómoda, funcional y con espacio exterior, perfecta para una estancia temporal con todas las comodidades.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "studio"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Estudio en CL Carral"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "39570040",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/eb/67/f7/1258498963.webp",
+      "externalReference": "522451",
+      "numPhotos": 25,
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 240.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Soto de la Marina",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4645708,
+      "longitude": -3.9088418,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/39570040/",
+      "distance": "5268",
+      "description": "� Chalet en alquiler de temporada en Soto de la Marina (Santander) – Ideal estudiantes Desde Best House San Fernando te presentamos este bonito chalet en Soto de la Marina, disponible en alquiler de temporada hasta junio de 2026, una opción perfecta para estudiantes de la Universidad del Atlántico. ✨ Características principales del inmueble �️ 4 habitaciones dobles, amplias y luminosas � 3 baños completos �️ Salón–comedor cómodo y funcional � Garaje � Parcela de aproximadamente 400 m2, ideal para disfrutar del exterior � Ubicación inmejorable Situado próximo a la Universidad del Atlántico, en una zona tranquila y residencial, este chalet combina estudio y calidad de vida. Rodeado de zonas verdes y ajardinadas, y a pocos minutos de las playas. � Ideal para estudiantes que buscan espacio y tranquilidad � ¿Te interesa? Llámanos al y uno de nuestros agentes de Best House San Fernando te asesorará sin compromiso. ¡No dejes pasar esta oportunidad! ➣ Consultar resto de condiciones ➣ Sujeto a decisión final del arrendador ➣ Honorarios de la agencia: ½ mensualidad + IVA � Best House San Fernando – Tu alquiler en las mejores manos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110441377",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/44/1c/5f/1405232112.webp",
+      "numPhotos": 14,
+      "price": 1750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 150.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Polanco",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3979774,
+      "longitude": -4.0160353,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110441377/",
+      "distance": "6690",
+      "description": "Casa Pareada para capacidad de 8 personas ///// NO SE ALQUILA PARA FIJO ///// Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*****  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Chalet pareado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110439828",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bb/f5/f2/1405185684.webp",
+      "externalReference": "G02240",
+      "numPhotos": 24,
+      "floor": "4",
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "rent",
+      "size": 73.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Cuatro Caminos",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4566188,
+      "longitude": -3.8259597,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110439828/",
+      "distance": "11666",
+      "description": "**ALQUILER TEMPORAL** PARA PERSONAL SANITARIO, FAMILIARES HOSPITALIZADOS O PROFESORES. Descubre este encantador dúplex ubicado en pleno corazón de Cuatro Caminos, ideal para tu nueva etapa. La propiedad está rodeada de servicios esenciales como supermercados, farmacias y diversos comercios, además del Hospital Universitario Marqués de Valdecilla que se encuentra a tan solo un minuto caminando ⏱️�. Además, los autobuses cercanos te conectarán rápidamente con toda la ciudad ��.  Se alquila completo o por habitaciones: Habitación doble a solo 400€ y habitación individual por 350€. Este dúplex cuenta con dos amplios dormitorios, y dos salones, uno en la planta baja con chimenea que agrega calidez al ambiente ❄️�. Y otro en la planta alta, donde encontrarás un cuarto de almacenamiento. La cocina está completamente equipada, con horno y microondas. El baño ofrece plato de ducha con mampara para más comodidad. La planta baja, además, cuenta con espacio de comedor, con una mesa amplia y excelente iluminación gracias al gran ventanal. La fachada tiene programada una renovación en los próximos meses, por lo que el edificio será más llamativo. No pierdas esta oportunidad única; contáctanos hoy mismo para más información sobre el alquiler! �� TRANSPARENCIA GESTIÓN INMOBILIARIA: - No se admiten mascotas. - Sujeto a decisión última del cliente propietario. - Imprescindible seguro de alquiler. - Honorarios inmobiliarios no incluidos en el precio. - Consultar resto de condiciones.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Dúplex"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110438284",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/da/9b/c6/1405141217.webp",
+      "externalReference": "PAF/IP2555_G",
+      "numPhotos": 44,
+      "floor": "11",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 77.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Cuatro Caminos",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4595846,
+      "longitude": -3.8248004,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110438284/",
+      "distance": "11790",
+      "description": "Inmoprime21, tu inmobiliaria de confianza en Santander. Alquiler FIJO de piso con vistas al mar en Santander Amueblado, 2 habitaciones. Se alquila precioso piso con vistas directas al mar en Santander, ubicado en una undécima planta, lo que garantiza luz natural todo el día y vistas panorámicas espectaculares. Vivienda en alquiler fijo, ideal para quienes buscan comodidad, tranquilidad y una ubicación privilegiada. El piso cuenta con 72 m² útiles (77 m² construidos), distribuidos en 2 amplios dormitorios, salón luminoso, cocina totalmente equipada y baño. La vivienda se entrega completamente amueblada y con electrodomésticos, lista para entrar a vivir. El edificio dispone de ascensor, lo que aporta máxima comodidad. Situado en una de las zonas más demandadas de Santander, rodeado de todos los servicios: supermercados, comercios, restaurantes, zonas de ocio y con excelentes comunicaciones en autobús y tren. Una oportunidad única para vivir junto al mar sin renunciar a la vida urbana.  Ubicación inmejorable  Vistas al mar, 2 habitaciones, Amueblado, con ascensor  y Muy bien comunicado  Contacta con Inmoprime21 y agenda tu visita. ¡Este piso no durará mucho en el mercado!      .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110436344",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/45/0f/6d/1405083516.webp",
+      "externalReference": "3379A",
+      "numPhotos": 72,
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 199.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Renedo",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Renedo",
+      "country": "es",
+      "latitude": 43.3517807,
+      "longitude": -3.9574103,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110436344/",
+      "distance": "10746",
+      "description": "Chalet adosado en alquiler en Renedo. Espacio, comodidad y ubicación ideal. Ref 3379 A Vivir con espacio, independencia y eficiencia energética es posible en este chalet adosado en alquiler en Renedo de Piélagos, una vivienda pensada para quienes buscan comodidad, amplitud y estabilidad a largo plazo. Situado en una urbanización privada, combina la tranquilidad de un entorno residencial con la cercanía a todos los servicios y excelentes accesos, una de las grandes ventajas de esta localidad tan demandada. La vivienda se distribuye en cuatro amplios dormitorios, un acogedor salón, cocina independiente, despacho y tres baños, uno de ellos en suite dentro del dormitorio principal, lo que aporta un plus de privacidad y confort. Desde el salón se accede a una cómoda terraza, acompañada de un gran ventanal que inunda la estancia de luz natural gracias a su orientación sur, creando un ambiente cálido y luminoso durante todo el día. A ello se suma una pequeña zona de jardín, ideal para flores o un pequeño huerto. El chalet cuenta con un amplio garaje y un práctico trastero, aportando el espacio extra tan necesario en una vivienda de estas características. Dispone de calefacción individual de gas, ventanas de PVC con doble acristalamiento, suelos de gres y tarima flotante, y estancias amplias y bien proporcionadas que hacen de esta vivienda un hogar cómodo y funcional para el día a día. Uno de los grandes valores diferenciales de este inmueble es su instalación de paneles solares en la cubierta, destinada a la producción de electricidad, una característica poco habitual en viviendas de alquiler. Un sistema que apuesta por la eficiencia energética, el ahorro en el consumo y el respeto por el medio ambiente. ¿Cuántas viviendas de alquiler pueden ofrecer hoy en día esta ventaja? Vivir en Renedo de Piélagos significa disfrutar de una ubicación estratégica, con todos los servicios a mano, buenas comunicaciones y un entorno ideal para familias o personas que buscan espacio sin alejarse de los principales núcleos urbanos. La conexión con Santander, Torrelavega y el resto de la región es rápida y cómoda, lo que convierte esta zona en una opción práctica y muy valorada. La vivienda se alquila para larga duración, con seguro de garantía de alquiler, por lo que será imprescindible acreditar ingresos y estabilidad laboral. La renta mensual es de 900 €, gastos y suministros no incluidos, sí incluidos los gastos de comunidad y el IBI. Las personas interesadas deben acceder a buscar este inmueble y rellenar la ficha de demandante de alquiler, paso previo e imprescindible para poder optar al alquiler de esta magnífica vivienda. No te quedes con las ganas de visitarlo. Llámanos y descubre todo lo que este chalet adosado puede ofrecerte como tu próximo hogar. La información ofrecida carece de carácter contractual. Puede contener errores o imprecisiones (somos humanos). Para detalles exactos y condiciones contractuales, contacta con nosotros.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 5.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Renedo, Piélagos",
+        "title": "Chalet adosado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110372997",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cb/ee/90/1403259550.webp",
+      "externalReference": "AL2701",
+      "numPhotos": 28,
+      "floor": "1",
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "plaza de la Constitución",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Muriedas",
+      "country": "es",
+      "latitude": 43.4158465,
+      "longitude": -3.8434545,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110372997/",
+      "distance": "10825",
+      "description": "PARA EMPRESAS / TRASLADOS / TRABAJADORES - CONDICIONES A CONSULTAR ( SEGUN NUMERO DE PERSONAS, DURACION, ETC. ). Rentas y Capitales presenta a continuacion amplia y luminosa vivienda en en centro de MALIAÑO, en la plaza de la constitución. La vivienda es una primera planta en un edificio con ascensor, tiene una superficie útil de 90 metros distribuidos en 4 amplios dormitorios con cama de matrimonio cada uno de ellos, amueblados con armarios y mesita. Dispone de cocina independiente moderna, salón con mesa comedor y TV. El baño es moderno equipado con plato de ducha y mampara.  Los suelos son de tarima flotante, dispone de calefacción de gas natural y las ventanas son de PVC climalit. La vivienda ha sido reformada completamente en 2025. Incluye INTERNET. Ubicado en el centro de Maliaño, en la plaza de la constitución, junto a paradas de autobús, supermercados, estación de tren, a 5 km de Santander. Ubicado a escasos 800 metros de la salida de la autovía A8. Esta destinado a un alquiler para EMPRESAS / TRABAJADORES desplazados. No deje pasar esta oportunidad y solicite una visita sin compromiso.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Muriedas, Camargo",
+        "title": "Piso en plaza de la Constitución"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110436383",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5e/98/89/1405084379.webp",
+      "externalReference": "AL2703",
+      "numPhotos": 5,
+      "floor": "bj",
+      "price": 500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "rent",
+      "size": 40.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Barrio las Quintas, 20",
+      "province": "Cantabria",
+      "municipality": "Viveda",
+      "country": "es",
+      "latitude": 43.379131,
+      "longitude": -4.0752323,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110436383/",
+      "distance": "11440",
+      "description": "  presentamos a continuación fantástica vivienda ubicada en Santillana del mar. disponible hasta el 31 de mayo 2026  ubicada en una primera planta con fácil acceso  tiene una superficie útil de 40 metros distribuidos en 1 dormitorios  con cama de 1,40 y armarios,  salón con sofá y mueble de tv ideal  para compartir, cocina americana  equipada completamente con  electrodomésticos, El baño tiene plato de ducha y mampara. La vivienda dispone de calefacción de gas natural. puertas de madera, y ventanas de doble cristal. Es muy soleado, tiene orientación SUR, y norte, lo que garantiza sol durante las horas principales del día.   No dejes pasar esta oportunidad y solicite una visita .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Viveda",
+        "title": "Dúplex en Barrio las Quintas, 20"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110435233",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/63/a1/e9/1405046683.webp",
+      "externalReference": "AL2702",
+      "numPhotos": 6,
+      "floor": "bj",
+      "price": 550.0,
+      "priceInfo": {
+        "price": {
+          "amount": 550.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio las Quintas, 20",
+      "province": "Cantabria",
+      "municipality": "Viveda",
+      "country": "es",
+      "latitude": 43.379131,
+      "longitude": -4.0752323,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110435233/",
+      "distance": "11440",
+      "description": "  presentamos a continuación fantástica vivienda ubicada en Santillana del mar. disponible hasta el 31 de mayo 2026  ubicada en una primera planta con fácil acceso  tiene una superficie útil de 50 metros distribuidos en 2 dormitorios ( uno con cama de 1,40 y el segundo con dos camas de 90 ) y armarios,  salón con sofá y mueble de tv practico para compartir, La cocina esta equipada completamente con  electrodomésticos, El baño tiene plato de ducha y mampara. La vivienda dispone de calefacción de gas natural. puertas de madera, y ventanas de doble cristal. Es muy soleado, tiene orientación SUR, y norte, lo que garantiza sol durante las horas principales del día.   No dejes pasar esta oportunidad y solicite una visita .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Viveda",
+        "title": "Piso en Barrio las Quintas, 20"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110426010",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d4/89/e0/1404750283.webp",
+      "numPhotos": 16,
+      "floor": "9",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida Herrera Oria",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4572135,
+      "longitude": -3.8339659,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110426010/",
+      "distance": "11027",
+      "description": "Para residentes del Hospital de Valdecilla. Zona de fácil aparcamiento. Autobuses a pie de calle que te llevan con celeridad a cualquier punto de la ciudad. Amplio piso con vistas despejadas ///// PROXIMO AL HOSPITAL DE VALDECILLA///// Oportunidad.  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en avenida Herrera Oria"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110429128",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/03/28/c7/1404863911.webp",
+      "externalReference": "86071",
+      "numPhotos": 15,
+      "floor": "bj",
+      "price": 850.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Cuatro Caminos",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4578047,
+      "longitude": -3.822721,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110429128/",
+      "distance": "11937",
+      "description": "Se alquila bajo-dúplex reformado y a estrenar en la zona de la calle Alta, a tan solo 5 minutos del Hospital Marqués de Valdecilla y muy próximo al centro de Santander. La vivienda, de concepto moderno, se distribuye en dos alturas. En la planta inferior se encuentra un luminoso salón-comedor con orientación sur, cocina americana totalmente equipada y un baño con ducha, todo ello recientemente reformado. En la planta superior dispone de dos dormitorios, a los que se accede mediante escaleras. El inmueble cuenta con calefacción individual, ventanas de PVC y una excelente entrada de luz natural. Su estado es impecable, listo para estrenar. Se alquila para larga duración y a perfil muy solvente. Ubicado en una zona con fácil aparcamiento, buenas comunicaciones y todos los servicios necesarios a su alrededor: transporte público, supermercados, comercios y zonas de interés, facilitando el día a día. Además, se encuentra a solo 5 minutos de Cuatro Caminos, uno de los puntos neurálgicos de la ciudad. Una vivienda confortable, funcional y bien situada. Ven a visitarlo con un agente del Grupo Inmobiliario SanFernando.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 116,
+  "totalPages": 3,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Liencres, Piélagos",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 50,
+  "paginable": true
+}

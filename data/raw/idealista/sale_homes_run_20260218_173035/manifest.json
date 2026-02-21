@@ -1,0 +1,96 @@
+{
+  "run_id": "20260218_173035",
+  "operation": "sale",
+  "property_type": "homes",
+  "max_requests": 100,
+  "max_pages_per_circle": 3,
+  "adaptive_pages": true,
+  "verify_ssl": true,
+  "circles": [
+    {
+      "name": "SantaCruzDeBezana",
+      "center": "43.4435,-3.9036",
+      "distance_m": 12000
+    },
+    {
+      "name": "SantaCruzDeBezana",
+      "center": "43.4435,-3.9036",
+      "distance_m": 12000
+    },
+    {
+      "name": "SantaCruzDeBezana",
+      "center": "43.4435,-3.9036",
+      "distance_m": 12000
+    },
+    {
+      "name": "SotoDeLaMarina",
+      "center": "43.4620,-3.9080",
+      "distance_m": 12000
+    },
+    {
+      "name": "SotoDeLaMarina",
+      "center": "43.4620,-3.9080",
+      "distance_m": 12000
+    },
+    {
+      "name": "Liencres",
+      "center": "43.4480,-3.9700",
+      "distance_m": 12000
+    },
+    {
+      "name": "Liencres",
+      "center": "43.4480,-3.9700",
+      "distance_m": 12000
+    },
+    {
+      "name": "Pielagos_Boo",
+      "center": "43.4230,-3.9520",
+      "distance_m": 14000
+    },
+    {
+      "name": "Pielagos_Boo",
+      "center": "43.4230,-3.9520",
+      "distance_m": 14000
+    },
+    {
+      "name": "Camargo_Muriedas",
+      "center": "43.4150,-3.8540",
+      "distance_m": 14000
+    },
+    {
+      "name": "Camargo_Muriedas",
+      "center": "43.4150,-3.8540",
+      "distance_m": 14000
+    },
+    {
+      "name": "Santander",
+      "center": "43.4623,-3.8099",
+      "distance_m": 18000
+    },
+    {
+      "name": "Santander",
+      "center": "43.4623,-3.8099",
+      "distance_m": 18000
+    },
+    {
+      "name": "Somo",
+      "center": "43.4470,-3.7450",
+      "distance_m": 14000
+    },
+    {
+      "name": "Suances",
+      "center": "43.4260,-4.0430",
+      "distance_m": 14000
+    },
+    {
+      "name": "Laredo",
+      "center": "43.4090,-3.4160",
+      "distance_m": 16000
+    },
+    {
+      "name": "CastroUrdiales",
+      "center": "43.3830,-3.2140",
+      "distance_m": 16000
+    }
+  ]
+}
