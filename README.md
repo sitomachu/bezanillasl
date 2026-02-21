@@ -14,18 +14,18 @@ La arquitectura del proyecto organiza la información desde la ingesta de fuente
 
 ```text
 ├── data/
-│   ├── raw/                 # Datos originales sin procesar.
-│   └── mivau/               # Datasets del Ministerio de Vivienda y Agenda Urbana.
-│       ├── datos_alquiler/  # Sistema de Referencia del Precio del Alquiler (SERPAVI).
-│       ├── datos_suelo/     # Estadísticas de precios de suelo urbano.
-│       └── datos_vivienda/  # Estimación del parque de viviendas.
-├── models/                  # Almacenamiento de modelos entrenados (p.ej. predicción de precios).
-├── notebooks/               # Experimentación y Análisis Exploratorio de Datos (EDA).
-├── src/                     # Código fuente del proyecto (scripts de limpieza y modelado).
-│   ├── idealistaAPI/        # Módulo de ingesta y procesamiento vía API Idealista.
-│   └── geospatial_expansion/ # Módulo de distancias a POIs (playa, colegio, supermercado, etc.).
-├── requirements.txt         # Listado de dependencias y versiones.
-└── README.md                # Documentación principal del proyecto.
+│   ├── raw/                    # Datos originales sin procesar.
+│   └── mivau/                  # Datasets del Ministerio de Vivienda y Agenda Urbana.
+│       ├── datos_alquiler/     # Sistema de Referencia del Precio del Alquiler (SERPAVI).
+│       ├── datos_suelo/        # Estadísticas de precios de suelo urbano.
+│       └── datos_vivienda/     # Estimación del parque de viviendas.
+├── models/                     # Almacenamiento de modelos entrenados (p.ej. predicción de precios).
+├── notebooks/                  # Experimentación y Análisis Exploratorio de Datos (EDA).
+├── src/                        # Código fuente del proyecto (scripts de limpieza y modelado).
+│   ├── idealistaAPI/           # Módulo de ingesta y procesamiento vía API Idealista.
+│   └── geospatial_expansion/   # Módulo de distancias a POIs (playa, colegio, supermercado, etc.).
+├── requirements.txt            # Listado de dependencias y versiones.
+└── README.md                   # Documentación principal del proyecto.
 ```
 
 ## 4. Módulo Idealista API
