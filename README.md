@@ -41,13 +41,13 @@ Guías y uso:
 - Guía operativa: `src/idealistaAPI/idealista_API_userguide.md`
 
 ## 5. Módulo de Expansión Geoespacial
-El repositorio incluye `src/geospatial_expansion` para enriquecer datasets de venta/alquiler con distancia al punto de interés más cercano por categoría (playa, supermercado, colegio, etc.) usando OpenStreetMap (`osmnx`) en dos procesos.
+El repositorio incluye `src/geospatial_expansion` para enriquecer datasets de venta/alquiler con distancia mínima al punto de interés más cercano por categoría (playa, supermercado, colegio, etc.) usando OpenStreetMap (`osmnx`).
 
 Entradas:
 - CSV objetivo con coordenadas (`latitude`/`longitude` o columnas equivalentes).
 
 Salida:
-- CSV enriquecido con columnas como `nearest_beach_name` y `nearest_beach_distance_m`.
+- DataFrame enriquecido con columnas como `distancia_min_playa_km`.
 
 Paso 1: descargar POIs (config en `run_descargar_pois.py`)
 ```bash
@@ -55,7 +55,16 @@ python -m src.geospatial_expansion.run_descargar_pois
 ```
 La descarga usa circulos geograficos fijos definidos en `DEFAULT_CIRCLES`.
 
-Paso 2: expandir dataset (config en `run_expandir.py`)
-```bash
-python -m src.geospatial_expansion.run_expandir
+Paso 2: expandir dataset desde notebook/Python:
+```python
+from src.geospatial_expansion import agregar_distancias_minimas_poi
+df_out = agregar_distancias_minimas_poi(
+    df,
+    ["playa", "supermercado"],
+    tipo_distancia="linea_recta",  # o "carretera"
+)
 ```
+
+Notas:
+- `tipo_distancia="linea_recta"` usa Haversine (más rápido).
+- `tipo_distancia="carretera"` usa red vial (más lento) y requiere `networkx`.

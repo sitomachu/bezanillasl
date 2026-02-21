@@ -1,8 +1,15 @@
 # Modulo de Expansion Geoespacial
 
-Modulo simplificado en dos procesos independientes:
-1. `run_descargar_pois.py`: descarga POIs desde OpenStreetMap y genera `csv_pois`.
-2. `run_expandir.py`: toma tu dataset + `csv_pois` y calcula distancias al POI mas cercano.
+Modulo con flujo mixto:
+- Descarga de POIs: permitida por terminal.
+- Expansion de dataset: solo por funcion (Python/notebook).
+
+Funciones principales:
+1. `descargar_pois_desde_circulos_a_csv(...)`: descarga POIs desde OpenStreetMap y genera `csv_pois`.
+2. `agregar_distancias_minimas_poi(dataset, tipos_poi, tipo_distancia="linea_recta"|"carretera")`: toma tu DataFrame y agrega distancias minimas al POI mas cercano.
+
+Guia de usuario operativa:
+- `src/geospatial_expansion/geospatial_expansion_userguide.md`
 
 Estructura:
 - `download/osm_downloader.py`: logica de descarga de POIs.
@@ -13,6 +20,7 @@ Estructura:
 
 - CSV de entrada con coordenadas (`latitude`/`longitude` por defecto).
 - Dependencias Python: `pandas`, `osmnx`.
+- Para `tipo_distancia="carretera"`: `networkx`.
 
 Instalacion:
 
@@ -36,34 +44,28 @@ Salida esperada:
 
 ## Proceso 2: Expandir dataset
 
-1. Edita parametros en `src/geospatial_expansion/run_expandir.py`.
-2. Ejecuta:
-
-```bash
-python -m src.geospatial_expansion.run_expandir
-```
+1. Llamar desde notebook/Python usando `agregar_distancias_minimas_poi(dataset, tipos_poi, tipo_distancia="linea_recta"|"carretera")`.
 
 Salida esperada:
 - Dataset enriquecido con:
-- `nearest_<categoria>_name`
-- `nearest_<categoria>_distance_m`
+- `distancia_min_<categoria>_km`
 
 ## Uso desde cuaderno (Jupyter)
 
 ```python
 import pandas as pd
-from src.geospatial_expansion import expandir_dataset
+from src.geospatial_expansion import agregar_distancias_minimas_poi
 
 df = pd.read_csv("data/processed/idealista/sale_homes_run_20260218_173035/sale_homes_cantabria_bezana_like_raw.csv")
 
-# tipo_poi puede ser string o lista
-df_out = expandir_dataset(
-    dataset=df,
-    tipo_poi=["playa", "colegio"],
-    csv_pois="data/processed/geo/pois_cantabria.csv",
+df_out = agregar_distancias_minimas_poi(
+    df,
+    ["playa", "colegio"],
+    tipo_distancia="linea_recta",  # o "carretera"
 )
 ```
 
 Notas:
-- Si no pasas `col_lat` y `col_lon`, el modulo intenta detectarlas automaticamente.
-- Si no encuentra columnas de coordenadas, lanza error.
+- Si no encuentra coordenadas en espanol/ingles, devuelve `UserWarning` y retorna el DataFrame sin cambios.
+- `linea_recta` es mas rapido.
+- `carretera` es mas lento porque calcula rutas sobre red vial.

@@ -6,7 +6,7 @@ from typing import Final, List, Tuple
 from src.geospatial_expansion.download.osm_downloader import descargar_pois_desde_circulos_a_csv
 
 # -------------------------
-# PARAMETROS (EDITAR AQUI)
+# PARAMETROS
 # -------------------------
 CSV_POIS_SALIDA = Path("data/processed/geo/pois_cantabria.csv")
 CATEGORIAS = ["playa", "supermercado", "colegio"]

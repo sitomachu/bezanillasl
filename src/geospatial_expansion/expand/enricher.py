@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import warnings
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple, Union
 
@@ -10,6 +11,32 @@ from src.geospatial_expansion.common.distance import nearest_point
 
 LAT_CANDIDATES = ("latitude", "lat", "LATITUD", "latitud")
 LON_CANDIDATES = ("longitude", "lon", "lng", "LONGITUD", "longitud")
+PROJECT_ROOT = Path(__file__).resolve().parents[3]
+DEFAULT_POIS_CSV = PROJECT_ROOT / "data" / "processed" / "geo" / "pois_cantabria.csv"
+COORD_WARNING_MSG = (
+    "No se detectaron columnas de coordenadas (latitud/longitud). "
+    "Se probaron nombres en espanol e ingles: "
+    "latitude/longitude, lat/lon, LATITUD/LONGITUD, latitud/longitud. "
+    "Se devuelve el DataFrame sin cambios."
+)
+DIST_LINEA_RECTA = "linea_recta"
+DIST_CARRETERA = "carretera"
+
+
+def _resolve_csv_pois_path(csv_pois: Path) -> Path:
+    if csv_pois.exists():
+        return csv_pois
+
+    candidates = []
+    if not csv_pois.is_absolute():
+        candidates.append(PROJECT_ROOT / csv_pois)
+        candidates.append(PROJECT_ROOT / ".." / csv_pois)
+
+    for candidate in candidates:
+        candidate = candidate.resolve()
+        if candidate.exists():
+            return candidate
+    return csv_pois
 
 
 def _find_first_present(columns: Iterable[str], candidates: Tuple[str, ...]) -> Optional[str]:
@@ -19,6 +46,110 @@ def _find_first_present(columns: Iterable[str], candidates: Tuple[str, ...]) -> 
         if hit:
             return hit
     return None
+
+
+def _normalizar_tipo_distancia(tipo_distancia: str) -> str:
+    tipo = str(tipo_distancia).strip().lower()
+    if tipo not in {DIST_LINEA_RECTA, DIST_CARRETERA}:
+        raise ValueError(
+            "tipo_distancia invalido. Usa 'linea_recta' o 'carretera'."
+        )
+    return tipo
+
+
+def _calcular_distancias_carretera_km(
+    out: pd.DataFrame,
+    *,
+    categorias: List[str],
+    pois_por_categoria: Dict[str, List[Tuple[str, float, float]]],
+    lat_col: str,
+    lon_col: str,
+) -> pd.DataFrame:
+    try:
+        import networkx as nx
+        import osmnx as ox
+    except Exception as exc:
+        raise ImportError(
+            "Para tipo_distancia='carretera' se requiere osmnx y networkx."
+        ) from exc
+
+    coords_df = out[[lat_col, lon_col]].dropna()
+    poi_coords: List[Tuple[float, float]] = []
+    for categoria in categorias:
+        for _, lat, lon in pois_por_categoria.get(categoria, []):
+            poi_coords.append((float(lat), float(lon)))
+
+    if coords_df.empty or not poi_coords:
+        for categoria in categorias:
+            out[f"distancia_min_{categoria}_km"] = None
+        return out
+
+    lats = coords_df[lat_col].astype(float).tolist() + [lat for lat, _ in poi_coords]
+    lons = coords_df[lon_col].astype(float).tolist() + [lon for _, lon in poi_coords]
+    north = max(lats) + 0.01
+    south = min(lats) - 0.01
+    east = max(lons) + 0.01
+    west = min(lons) - 0.01
+
+    graph = ox.graph_from_bbox((west, south, east, north), network_type="drive")
+    if len(graph.nodes) == 0:
+        for categoria in categorias:
+            out[f"distancia_min_{categoria}_km"] = None
+        return out
+
+    destino_nodes_por_categoria: Dict[str, List[int]] = {}
+    for categoria in categorias:
+        nodes: List[int] = []
+        for _, plat, plon in pois_por_categoria.get(categoria, []):
+            try:
+                node = ox.distance.nearest_nodes(graph, X=float(plon), Y=float(plat))
+                nodes.append(int(node))
+            except Exception:
+                continue
+        destino_nodes_por_categoria[categoria] = list(dict.fromkeys(nodes))
+
+    origen_cache: Dict[Tuple[float, float], Optional[int]] = {}
+    for categoria in categorias:
+        col_dist = f"distancia_min_{categoria}_km"
+        destinos = destino_nodes_por_categoria.get(categoria, [])
+        if not destinos:
+            out[col_dist] = None
+            continue
+
+        dists_km: List[Optional[float]] = []
+        for lat, lon in out[[lat_col, lon_col]].itertuples(index=False, name=None):
+            if pd.isna(lat) or pd.isna(lon):
+                dists_km.append(None)
+                continue
+
+            key = (float(lat), float(lon))
+            if key not in origen_cache:
+                try:
+                    origen_cache[key] = int(
+                        ox.distance.nearest_nodes(graph, X=float(lon), Y=float(lat))
+                    )
+                except Exception:
+                    origen_cache[key] = None
+            origen = origen_cache[key]
+            if origen is None:
+                dists_km.append(None)
+                continue
+
+            min_m: Optional[float] = None
+            for destino in destinos:
+                try:
+                    dist_m = nx.shortest_path_length(
+                        graph, source=origen, target=destino, weight="length"
+                    )
+                except (nx.NetworkXNoPath, nx.NodeNotFound):
+                    continue
+                if min_m is None or dist_m < min_m:
+                    min_m = float(dist_m)
+            dists_km.append(round(min_m / 1000.0, 3) if min_m is not None else None)
+
+        out[col_dist] = dists_km
+
+    return out
 
 
 def detect_coordinate_columns(df: pd.DataFrame) -> Tuple[str, str]:
@@ -34,6 +165,9 @@ def cargar_pois_desde_csv(
     csv_pois: Path,
     categorias: List[str],
 ) -> Dict[str, List[Tuple[str, float, float]]]:
+    csv_pois = _resolve_csv_pois_path(Path(csv_pois))
+    if not csv_pois.exists():
+        raise FileNotFoundError(f"No existe el CSV de POIs: {csv_pois.resolve()}")
     df = pd.read_csv(csv_pois)
     required = {"categoria", "nombre", "latitude", "longitude"}
     missing = required.difference(df.columns)
@@ -154,7 +288,11 @@ def expandir_dataset(
         raise ValueError("tipo_poi no puede estar vacio.")
 
     if not col_lat or not col_lon:
-        col_lat, col_lon = detect_coordinate_columns(dataset)
+        try:
+            col_lat, col_lon = detect_coordinate_columns(dataset)
+        except ValueError:
+            warnings.warn(COORD_WARNING_MSG, UserWarning, stacklevel=2)
+            return dataset.copy()
 
     pois_por_categoria = cargar_pois_desde_csv(
         csv_pois=Path(csv_pois),
@@ -168,3 +306,76 @@ def expandir_dataset(
         lon_col=col_lon,
         redondeo_metros=redondeo_metros,
     )
+
+
+def agregar_distancias_minimas_poi(
+    dataset: pd.DataFrame,
+    tipos_poi: List[str],
+    tipo_distancia: str = DIST_LINEA_RECTA,
+) -> pd.DataFrame:
+    """
+    API simplificada para notebooks:
+    - Entrada: DataFrame + lista de tipos de POI.
+    - Salida: DataFrame original + una columna de distancia por tipo de POI.
+    - tipo_distancia:
+      - "linea_recta" (Haversine, por defecto)
+      - "carretera" (red vial OSM)
+
+    Columnas agregadas:
+    - distancia_min_<tipo_poi>_km
+    """
+    if not isinstance(dataset, pd.DataFrame):
+        raise TypeError("dataset debe ser un pandas.DataFrame")
+    if not isinstance(tipos_poi, list):
+        raise TypeError("tipos_poi debe ser una lista de strings")
+    tipo = _normalizar_tipo_distancia(tipo_distancia)
+
+    categorias = [str(c).strip().lower() for c in tipos_poi if str(c).strip()]
+    if not categorias:
+        raise ValueError("tipos_poi no puede estar vacio.")
+
+    try:
+        lat_col, lon_col = detect_coordinate_columns(dataset)
+    except ValueError:
+        warnings.warn(COORD_WARNING_MSG, UserWarning, stacklevel=2)
+        return dataset.copy()
+    pois_por_categoria = cargar_pois_desde_csv(
+        csv_pois=DEFAULT_POIS_CSV,
+        categorias=categorias,
+    )
+
+    out = dataset.copy()
+    out[lat_col] = pd.to_numeric(out[lat_col], errors="coerce")
+    out[lon_col] = pd.to_numeric(out[lon_col], errors="coerce")
+
+    if tipo == DIST_CARRETERA:
+        return _calcular_distancias_carretera_km(
+            out,
+            categorias=categorias,
+            pois_por_categoria=pois_por_categoria,
+            lat_col=lat_col,
+            lon_col=lon_col,
+        )
+
+    for categoria in categorias:
+        points = pois_por_categoria.get(categoria, [])
+        col_dist = f"distancia_min_{categoria}_km"
+        if not points:
+            out[col_dist] = None
+            continue
+
+        dists: List[Optional[float]] = []
+        for lat, lon in out[[lat_col, lon_col]].itertuples(index=False, name=None):
+            if pd.isna(lat) or pd.isna(lon):
+                dists.append(None)
+                continue
+            nearest = nearest_point(float(lat), float(lon), points)
+            if nearest is None:
+                dists.append(None)
+                continue
+            _, metros = nearest
+            dists.append(round(metros / 1000.0, 3))
+
+        out[col_dist] = dists
+
+    return out
