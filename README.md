@@ -58,13 +58,5 @@ La descarga usa circulos geograficos fijos definidos en `DEFAULT_CIRCLES`.
 Paso 2: expandir dataset desde notebook/Python:
 ```python
 from src.geospatial_expansion import agregar_distancias_minimas_poi
-df_out = agregar_distancias_minimas_poi(
-    df,
-    ["playa", "supermercado"],
-    tipo_distancia="linea_recta",  # o "carretera"
-)
+df_out = agregar_distancias_minimas_poi(df, ["playa", "supermercado"])
 ```
-
-Notas:
-- `tipo_distancia="linea_recta"` usa Haversine (más rápido).
-- `tipo_distancia="carretera"` usa red vial (más lento) y requiere `networkx`.

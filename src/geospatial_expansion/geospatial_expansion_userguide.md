@@ -8,9 +8,7 @@ Este modulo enriquece un dataset con una columna de distancia minima por categor
 
 - `distancia_min_<categoria>_km`
 
-Las distancias se devuelven en kilometros y permiten dos modos:
-- `linea_recta`: Haversine (rapido).
-- `carretera`: distancia por red vial (mas lento).
+Las distancias se calculan en linea recta (Haversine) y se devuelven en kilometros.
 
 ## 2. Requisitos
 
@@ -19,12 +17,6 @@ Las distancias se devuelven en kilometros y permiten dos modos:
 
 ```bash
 pip install -r src/geospatial_expansion/requirements.txt
-```
-
-- Para `tipo_distancia="carretera"` necesitas tambien:
-
-```bash
-pip install networkx
 ```
 
 - Dataset de entrada con coordenadas:
@@ -81,13 +73,11 @@ Categorias OSM mapeadas por defecto:
 Funcion recomendada:
 
 - `agregar_distancias_minimas_poi(dataset, tipos_poi)`
-- `agregar_distancias_minimas_poi(dataset, tipos_poi, tipo_distancia="linea_recta")`
 
 Firma:
 
 - `dataset`: `pandas.DataFrame`
 - `tipos_poi`: `list[str]` (ejemplo: `["playa", "supermercado"]`)
-- `tipo_distancia`: `"linea_recta"` o `"carretera"`
 
 ```python
 import pandas as pd
@@ -101,13 +91,6 @@ df = pd.read_csv(
 df_out = agregar_distancias_minimas_poi(
     df,
     ["playa", "supermercado"],
-    tipo_distancia="linea_recta",
-)
-
-df_out_carretera = agregar_distancias_minimas_poi(
-    df,
-    ["playa", "supermercado"],
-    tipo_distancia="carretera",
 )
 ```
 
@@ -118,8 +101,6 @@ Resultado esperado:
   - `distancia_min_supermercado_km`
 - Las distancias salen en kilometros.
 - Usa el database de POIs en `data/processed/geo/pois_cantabria.csv`.
-- `linea_recta` tarda menos.
-- `carretera` tarda mas porque resuelve rutas minimas en la red vial.
 
 Validaciones:
 
@@ -137,9 +118,6 @@ Validaciones:
 
 - `ImportError: No se pudo importar osmnx`
   - Ejecuta: `pip install -r src/geospatial_expansion/requirements.txt`
-
-- `ImportError: Para tipo_distancia='carretera' se requiere osmnx y networkx`
-  - Ejecuta: `pip install networkx`
 
 - `No se pudieron detectar columnas de coordenadas`
   - El modulo devuelve `UserWarning` y retorna el DataFrame sin cambios.
