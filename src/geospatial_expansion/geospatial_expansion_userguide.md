@@ -70,6 +70,28 @@ Categorias OSM mapeadas por defecto:
 
 ## 4. Como llamar al modulo desde notebook
 
+Import recomendado en cuadernos (separado en 2 celdas):
+
+Celda 1: preparar ruta del proyecto
+
+```python
+import sys
+from pathlib import Path
+
+cwd = Path.cwd().resolve()
+project_root = next((p for p in [cwd, *cwd.parents] if (p / "src").exists()), None)
+if project_root is None:
+    raise RuntimeError("No se encontro la raiz del proyecto (carpeta 'src').")
+if str(project_root) not in sys.path:
+    sys.path.insert(0, str(project_root))
+```
+
+Celda 2: importar el modulo geoespacial
+
+```python
+from src.geospatial_expansion import agregar_distancias_minimas_poi
+```
+
 Funcion recomendada:
 
 - `agregar_distancias_minimas_poi(dataset, tipos_poi)`
