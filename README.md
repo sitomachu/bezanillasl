@@ -14,13 +14,16 @@ La arquitectura del proyecto organiza la información desde la ingesta de fuente
 
 ```text
 ├── data/
-│   ├── raw/                    # Datos originales sin procesar.
+│   ├── raw/                    # Datos originales sin procesar (incluye idealistaAPI).
+│   └── processed/              # Datos procesados (incluye idealistaAPI y geo).
 │   └── mivau/                  # Datasets del Ministerio de Vivienda y Agenda Urbana.
 │       ├── datos_alquiler/     # Sistema de Referencia del Precio del Alquiler (SERPAVI).
 │       ├── datos_suelo/        # Estadísticas de precios de suelo urbano.
 │       └── datos_vivienda/     # Estimación del parque de viviendas.
-├── models/                     # Almacenamiento de modelos entrenados (p.ej. predicción de precios).
-├── notebooks/                  # Experimentación y Análisis Exploratorio de Datos (EDA).
+├── notebooks/                  # Cuadernos de exploración/procesamiento (ver notebooks/README.md).
+│   ├── 01_manual_scraping_processing/
+│   ├── 02_idealista_API_processing/
+│   └── 03_macro_and_structural_analysis/
 ├── src/                        # Código fuente del proyecto (scripts de limpieza y modelado).
 │   ├── idealistaAPI/           # Módulo de ingesta y procesamiento vía API Idealista.
 │   └── geospatial_expansion/   # Módulo de distancias a POIs (playa, colegio, supermercado, etc.).
@@ -33,8 +36,8 @@ El repositorio incluye un módulo específico para descargar y preparar datos de
 
 Flujos principales:
 1. Descarga de datos de venta o alquiler con autenticación OAuth.
-2. Almacenamiento de respuestas crudas en `data/raw/idealista/...`.
-3. Limpieza y conversión a CSV en `data/processed/idealista/...`.
+2. Almacenamiento de respuestas crudas en `data/raw/idealistaAPI/...`.
+3. Limpieza y conversión a CSV en `data/processed/idealistaAPI/...`.
 
 Guías y uso:
 - Documentación del módulo: `src/idealistaAPI/README.md`
