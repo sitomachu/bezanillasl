@@ -23,3 +23,10 @@ __pycache__/
 */__pycache__/
 *.py[cod]
 *$py.class
+
+# --- Cache (general + geoespacial/osmnx) ---
+cache/
+.cache/
+data/cache/
+data/raw/cache/
+data/processed/cache/
