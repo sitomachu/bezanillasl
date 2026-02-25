@@ -18,6 +18,9 @@ Este directorio agrupa los cuadernos por fase de trabajo analítico.
 - `analisis_euribor_tipos.ipynb`: análisis macro de tipos y euríbor.
 - `analisis_pestle.ipynb`: análisis estratégico PESTLE.
 
+### `04_terrenos_initial_analysis`
+- `analisis_inicial_terrenos.ipynb`: primer análisis descriptivo sobre `data/processed/scraping_manual/terrenos_idealista_clean.csv` con métricas y visualizaciones.
+
 ## Convención de uso
 
 1. Ejecutar los cuadernos desde la raíz del repositorio o ajustar `sys.path` en el notebook.
