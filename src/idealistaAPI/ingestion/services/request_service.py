@@ -376,7 +376,7 @@ def _load_resume_state(raw_dir: Path) -> Tuple[Dict[str, Any], List[CircleState]
 def _find_latest_rent_raw_dir() -> Path:
     candidates = sorted(RAW_BASE.glob("rent_homes_run_*"))
     if not candidates:
-        raise FileNotFoundError("No hay ejecuciones previas en data/raw/idealista/rent_homes_run_*")
+        raise FileNotFoundError("No hay ejecuciones previas en data/raw/idealistaAPI/raw/rent_homes_run_*")
     return candidates[-1]
 
 

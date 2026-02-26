@@ -4,8 +4,8 @@ from pathlib import Path
 from typing import Final, List, Tuple
 
 
-RAW_BASE: Final[Path] = Path("data/raw/idealista")
-PROCESSED_BASE: Final[Path] = Path("data/processed/idealista")
+RAW_BASE: Final[Path] = Path("data/raw/idealistaAPI/raw")
+PROCESSED_BASE: Final[Path] = Path("data/raw/idealistaAPI/preprocess")
 
 MAX_ITEMS: Final[int] = 50
 SLEEP_S: Final[float] = 0.2

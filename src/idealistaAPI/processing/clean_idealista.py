@@ -62,10 +62,10 @@ def clean_json_run(
 
 if __name__ == "__main__":
     # Carpeta donde están los JSON
-    input_dir = Path("data/raw/idealista/rent_homes_run_20260220_111903")
+    input_dir = Path("data/raw/idealistaAPI/raw/rent_homes_run_20260220_111903")
 
     # Carpeta de salida deseada
-    PROCESSED_BASE = Path("data/processed")
+    PROCESSED_BASE = Path("data/raw/idealistaAPI/preprocess")
 
     # Nombre del CSV
     output_filename = "rent_homes_cantabria_bezana_like_raw.csv"
