@@ -24,7 +24,7 @@ def main():
 
 
     # Exporta resultados
-    out_dir = Path("data/raw/idealista/test")
+    out_dir = Path("data/raw/idealistaAPI/raw/test")
     out_dir.mkdir(parents=True, exist_ok=True)
 
     (out_dir / "response_page1.json").write_text(

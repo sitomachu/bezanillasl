@@ -73,11 +73,13 @@ python src/idealistaAPI/ingestion/run_sale_requests.py --max-requests 100
 python src/idealistaAPI/ingestion/run_rent_requests.py --max-requests 100
 ```
 
-### Resume del ultimo run de alquiler
+### Test de conectividad
 
 ```bash
-python src/idealistaAPI/ingestion/resume_rent_requests.py --max-requests 100
+python -m src.idealistaAPI.ingestion.test_one_request
 ```
+
+Script CLI de resume dedicado (`resume_rent_requests.py`): no encontrado en el repositorio.
 
 ## 6. Parametros comunes
 
@@ -96,10 +98,10 @@ python src/idealistaAPI/ingestion/run_rent_requests.py --max-requests 100 --max-
 
 Por cada run:
 
-- `data/raw/idealista/<operation>_homes_run_<timestamp>/manifest.json`
-- `data/raw/idealista/<operation>_homes_run_<timestamp>/reqXXX__<circle>__pYYY.json`
-- `data/processed/idealista/<operation>_homes_run_<timestamp>/<output_csv>.csv`
-- `data/processed/idealista/<operation>_homes_run_<timestamp>/summary.json`
+- `data/raw/idealistaAPI/raw/<operation>_homes_run_<timestamp>/manifest.json`
+- `data/raw/idealistaAPI/raw/<operation>_homes_run_<timestamp>/reqXXX__<circle>__pYYY.json`
+- `data/raw/idealistaAPI/preprocess/<operation>_homes_run_<timestamp>/<output_csv>.csv`
+- `data/raw/idealistaAPI/preprocess/<operation>_homes_run_<timestamp>/summary.json`
 
 ## 8. Regla de parada por cupo
 

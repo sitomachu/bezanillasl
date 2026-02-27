@@ -24,10 +24,9 @@ $env:PYTHONPATH="."
 ```text
 ├── data/
 │   ├── raw/
-│   │   └── idealista/                      # JSON crudos versionados por ejecución.
-│   │
-│   └── processed/
-│       └── idealista/                      # CSV consolidados + summary.json por run.
+│   │   └── idealistaAPI/
+│   │       ├── raw/                        # JSON crudos versionados por ejecución.
+│   │       └── preprocess/                 # CSV consolidados + summary.json por run.
 │
 ├── src/
 │   └── idealistaAPI/                       # Módulo completo de integración con API Idealista.
@@ -44,7 +43,6 @@ $env:PYTHONPATH="."
 │       │   │
 │       │   ├── run_sale_requests.py        # CLI para descarga mercado de venta.
 │       │   ├── run_rent_requests.py        # CLI para descarga mercado de alquiler.
-│       │   └── resume_rent_requests.py     # CLI para reanudar última ejecución alquiler.
 │       │
 │       └── processing/                     # Capa de transformación.
 │           └── clean_idealista.py          # Conversión JSON raw → CSV estructurado.
@@ -55,32 +53,29 @@ $env:PYTHONPATH="."
 ### 1) Run nuevo venta
 
 ```powershell
-python src/ingestion/run_sale_requests.py --max-requests 100
+python src/idealistaAPI/ingestion/run_sale_requests.py --max-requests 100
 ```
 
 ### 2) Run nuevo alquiler
 
 ```powershell
-python src/ingestion/run_rent_requests.py --max-requests 100
+python src/idealistaAPI/ingestion/run_rent_requests.py --max-requests 100
 ```
 
-### 3) Resume alquiler (ultimo run)
+### 3) Test rápido de conectividad
 
 ```powershell
-python src/ingestion/resume_rent_requests.py --max-requests 100
+python -m src.idealistaAPI.ingestion.test_one_request
 ```
 
-El resume:
-- Lee `data/raw/idealista/rent_homes_run_*/manifest.json` del ultimo run.
-- Detecta requests ya hechas por nombre de fichero.
-- Continua solo con llamadas nuevas hasta `max-requests`.
+Nota: script CLI de resume dedicado (`resume_rent_requests.py`): no encontrado en el repositorio.
 
 ## Salidas por run
 
-- Configuracion del run: `data/raw/idealista/<run>/manifest.json`
-- Respuestas API: `data/raw/idealista/<run>/reqXXX__<circle>__pYYY.json`
-- CSV limpio: `data/processed/idealista/<run>/<output_csv>.csv`
-- Metricas: `data/processed/idealista/<run>/summary.json`
+- Configuracion del run: `data/raw/idealistaAPI/raw/<run>/manifest.json`
+- Respuestas API: `data/raw/idealistaAPI/raw/<run>/reqXXX__<circle>__pYYY.json`
+- CSV limpio: `data/raw/idealistaAPI/preprocess/<run>/<output_csv>.csv`
+- Metricas: `data/raw/idealistaAPI/preprocess/<run>/summary.json`
 
 ## Corte automatico por cupo
 
@@ -99,7 +94,3 @@ Todos los runners principales soportan:
 --output-csv
 --no-adaptive-pages
 ```
-
-## Nota
-
-Hay un shim de compatibilidad en `src/ingestion/request_runner.py` que reexporta funciones hacia `services/request_service.py`.
