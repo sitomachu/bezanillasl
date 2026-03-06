@@ -1,0 +1,53 @@
+codigo_inmueble,precio,superficie_construida_m2,numero_dormitorios,numero_banos,tipologia,subtipologia,provincia,municipio,distrito,latitud,longitud,planta,es_exterior,tiene_ascensor,tiene_garaje,obra_nueva,distancia_min_playa_km,distancia_min_supermercado_km,distancia_min_colegio_km
+110667065,700.0,127.0,3,2,flat,,Cantabria,Piélagos,Zurita,43.3473689,-3.9910199,1,True,False,True,False,9.611,2.897,0.481
+110597613,2300.0,252.0,3,3,chalet,independantHouse,Cantabria,Piélagos,Parbayón,43.3647646,-3.8921286,,,,True,False,9.136,4.39,1.236
+110518183,680.0,90.0,3,2,flat,,Cantabria,Piélagos,Renedo,43.3511007,-3.947317,2,True,True,True,False,9.767,0.228,0.621
+94938326,1950.0,310.0,4,4,chalet,independantHouse,Cantabria,Piélagos,Mortera,43.4421347,-3.9265964,,,,True,False,3.051,1.416,1.141
+110436344,900.0,199.0,4,3,chalet,terracedHouse,Cantabria,Piélagos,Renedo,43.3517807,-3.9574103,,,,True,False,9.53,0.319,0.493
+110450936,1000.0,98.0,3,2,flat,,Cantabria,Torrelavega,Ciudad Nueva,43.3429433,-4.0464908,2,True,True,,False,9.464,0.179,0.277
+110239199,700.0,85.0,2,2,flat,,Cantabria,Piélagos,Parbayón,43.376446,-3.8973369,bj,True,True,True,False,8.631,4.633,0.34
+110094527,620.0,60.0,2,1,flat,,Cantabria,Torrelavega,Ciudad Nueva,43.3407409,-4.0522799,2,True,False,,False,9.763,0.12,0.088
+106863606,900.0,75.0,3,1,flat,,Cantabria,Torrelavega,Covadonga - Campuzano - Ciudad Vergel,43.34498,-4.06215,2,True,False,,False,9.337,0.069,0.178
+102638666,620.0,80.0,2,1,flat,,Cantabria,Cartes,,43.3329123,-4.0601942,bj,True,True,,False,10.664,0.265,0.702
+110688717,900.0,102.0,3,2,chalet,semidetachedHouse,Cantabria,Castro-Urdiales,Oriñón-Allendagua,43.3956517,-3.3275368,,,,,False,0.709,3.477,3.395
+108153825,3500.0,225.0,3,4,chalet,terracedHouse,Cantabria,Laredo,El Puntal,43.4213277,-3.4478837,,,,True,False,0.388,0.275,1.653
+110583090,1200.0,215.0,3,3,chalet,independantHouse,Cantabria,Castro-Urdiales,Samano,43.3622059,-3.2504722,,,,,False,3.369,1.643,2.799
+110554237,1400.0,190.0,4,3,chalet,independantHouse,Cantabria,Voto,,43.3673493,-3.4914265,,,,,False,6.624,1.477,2.778
+101390350,4500.0,130.0,4,2,flat,,Cantabria,Laredo,Carlos V,43.4063361,-3.4230693,1,True,True,True,False,2.525,0.561,0.495
+110418648,7000.0,221.0,4,4,chalet,independantHouse,Cantabria,Laredo,Carlos V,43.4098484,-3.4204002,,,,True,False,2.414,0.308,0.377
+110366970,1200.0,158.0,3,3,chalet,independantHouse,Cantabria,Limpias,,43.3832413,-3.4088521,,,,,False,4.501,2.905,2.628
+108767749,2500.0,140.0,3,2,chalet,independantHouse,Cantabria,Voto,,43.3290402,-3.5054913,,,,True,False,10.974,2.847,1.64
+106654686,1500.0,396.0,3,3,chalet,independantHouse,Cantabria,Barcena de Cicero,,43.3937463,-3.4746284,,,,True,False,3.395,0.116,1.446
+110283222,550.0,55.0,2,1,flat,,Cantabria,Ramales de la Victoria,,43.2765286,-3.4366919,1,True,False,,False,16.058,0.065,3.461
+110624593,895.0,65.0,2,1,flat,,Vizcaya,Santurtzi,Mamariga,43.3294941,-3.0369974,2,True,False,,False,1.624,0.088,0.031
+110604582,1600.0,280.0,4,3,chalet,semidetachedHouse,Cantabria,Castro-Urdiales,Brazomar,43.3721463,-3.2176565,,,,True,False,0.497,0.147,0.281
+110570086,1150.0,81.0,2,2,flat,,Vizcaya,Santurtzi,La Txitxarra - Murrieta - Parke Santurtzi,43.3274052,-3.0323772,1,True,True,,False,1.229,0.03,0.185
+110510683,1200.0,65.0,2,1,flat,,Vizcaya,Santurtzi,Las Viñas,43.32733,-3.0365371,bj,True,False,,False,1.565,0.164,0.119
+100938670,870.0,60.0,2,2,countryHouse,countryHouse,Cantabria,Liendo,,43.3967901,-3.3655702,,,,,False,1.822,4.328,0.853
+107410908,1500.0,83.0,2,1,flat,,Vizcaya,Getxo,Sta. María de Getxo,43.3617735,-3.0217199,2,True,True,True,False,0.703,3.526,0.477
+108458522,1200.0,140.0,3,2,chalet,independantHouse,Cantabria,Castro-Urdiales,Oriñón-Allendagua,43.3949757,-3.2482852,,,,,False,2.024,2.522,2.395
+108830649,4000.0,295.0,4,4,chalet,terracedHouse,Vizcaya,Zierbena,,43.3491054,-3.1107259,,,,True,False,0.314,0.074,3.149
+108825193,4000.0,295.0,4,4,chalet,terracedHouse,Vizcaya,Zierbena,,43.347104,-3.1101188,,,,True,False,0.439,0.223,2.933
+108472627,3650.0,200.0,4,3,chalet,independantHouse,Cantabria,Liendo,,43.3917089,-3.3883482,,,,True,False,2.739,2.983,0.893
+109335231,590.0,45.0,2,1,flat,,Cantabria,Viveda,,43.3813502,-4.0778982,bj,True,False,True,False,5.098,2.589,2.187
+109133338,700.0,79.0,2,1,flat,,Cantabria,Cudon,,43.4142608,-4.0122387,1,True,False,True,False,2.371,1.994,2.242
+110194507,720.0,100.0,3,2,flat,,Cantabria,Entrambasaguas,,43.37899,-3.68158,2,True,True,,False,9.812,1.786,0.327
+109007301,1300.0,140.0,4,4,chalet,independantHouse,Cantabria,Santillana del Mar,,43.3754053,-4.0991947,,,,True,False,5.478,1.542,1.772
+108728740,4500.0,514.0,5,4,chalet,independantHouse,Cantabria,Santa Cruz de Bezana,Maoño,43.4148504,-3.9127107,,,,True,False,5.475,2.027,1.366
+108645402,2500.0,479.0,3,4,chalet,independantHouse,Cantabria,Santa Cruz de Bezana,Maoño,43.4235043,-3.9237197,,,,True,False,4.234,1.304,0.88
+106815522,2000.0,330.0,3,2,chalet,independantHouse,Cantabria,Santa Cruz de Bezana,Mompia,43.4413053,-3.9187406,,,,True,False,3.316,0.986,0.758
+108378836,6500.0,80.0,3,2,flat,,Cantabria,Suances,,43.4342543,-4.0449626,1,True,True,True,False,0.2,0.256,0.803
+95517737,950.0,60.0,2,2,flat,,Cantabria,Torrelavega,Covadonga - Campuzano - Ciudad Vergel,43.3452981,-4.0550936,1,True,False,,False,9.299,0.242,0.352
+110109733,2200.0,333.0,4,3,chalet,independantHouse,Cantabria,Voto,,43.345278,-3.495,,,,True,False,8.982,0.953,0.587
+107891407,4100.0,320.0,5,3,chalet,semidetachedHouse,Cantabria,Noja,Ris,43.4872735,-3.527417,,,,True,False,0.584,0.209,0.697
+108808773,4056.0,115.0,4,2,flat,,Cantabria,Santander,Alisal - Cazoña - San Román,43.4574392,-3.8385411,1,True,True,,False,2.412,0.317,0.122
+98735608,1000.0,75.0,2,1,flat,,Cantabria,Entrambasaguas,,43.37699,-3.68248,3,True,False,,False,9.987,1.906,0.145
+109606296,1000.0,80.0,2,2,flat,,Cantabria,Marina de Cudeyo,,43.4438526,-3.7680394,2,True,True,True,False,0.483,0.039,2.543
+109462979,900.0,65.0,3,1,flat,,Cantabria,Santa Maria de Cayon,,43.3227762,-3.8522453,2,True,False,,False,11.486,0.259,0.307
+109454290,1680.0,250.0,4,4,chalet,terracedHouse,Cantabria,Marina de Cudeyo,,43.4464325,-3.768533,,,,True,False,0.257,0.262,2.414
+109395628,7000.0,470.0,6,3,chalet,independantHouse,Cantabria,Santander,El Sardinero,43.4704399,-3.7813824,,,,True,False,0.216,0.301,0.268
+97527760,900.0,80.0,3,1,flat,,Cantabria,Entrambasaguas,,43.380363,-3.680881,3,True,False,,False,9.697,1.722,0.479
+108356986,4000.0,130.0,3,2,flat,,Cantabria,Ribamontan al Mar,Somo,43.4558332,-3.743074,bj,True,False,True,False,0.86,0.158,1.075
+108236578,2200.0,300.0,5,2,chalet,independantHouse,Cantabria,Villaescusa,,43.3778319,-3.8332416,,,,True,False,5.195,2.083,2.102
+108176909,8000.0,160.0,4,5,chalet,,Cantabria,Santander,El Sardinero,43.4728109,-3.7878641,,,,True,False,0.459,0.339,0.297
+89293073,2500.0,230.0,4,4,flat,,Cantabria,Santander,El Sardinero,43.4789499,-3.7890871,1,,True,,False,0.239,0.057,0.31

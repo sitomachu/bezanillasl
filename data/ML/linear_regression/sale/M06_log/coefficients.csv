@@ -1,0 +1,6 @@
+variable,coef,std_error,t_value,p_value
+const,12.369454,0.02066,598.7168,0.0
+superficie_construida_m2,0.12139,0.03283,3.697552,0.000246
+numero_dormitorios,0.036208,0.030166,1.200295,0.23068
+numero_banos,0.23739,0.027636,8.589994,0.0
+dummy_tipologia_unifamiliar,-0.012748,0.029772,-0.428197,0.66872
