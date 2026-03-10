@@ -29,6 +29,16 @@ class CircleState:
     exhausted: bool = False
     requests: int = 0
     bad_streak: int = 0
+    total_items: int = 0
+    unique_items: int = 0
+    duplicate_items: int = 0
+    zero_new_streak: int = 0
+    last_item_count: int = 0
+    last_new_items: int = 0
+    last_duplicate_items: int = 0
+    last_new_ratio: float = 0.0
+    prior_unique_per_request: float = 0.0
+    prior_duplicate_rate: float = 1.0
 
 
 def _log(msg: str) -> None:
@@ -64,9 +74,30 @@ def _dedupe_circles_keep_first(circles: List[Circle]) -> List[Circle]:
     return out
 
 
+def _raw_run_dirs_for_operation(operation: str) -> List[Path]:
+    return sorted(
+        [
+            p
+            for p in RAW_BASE.glob(f"{operation}_homes_run_*")
+            if p.is_dir()
+        ]
+    )
+
+
 def _is_full_page(resp: SearchResponse) -> bool:
     el = resp.get("elementList") or []
     return len(el) >= MAX_ITEMS
+
+
+def _extract_property_keys(resp: SearchResponse) -> List[str]:
+    keys: List[str] = []
+    for item in resp.get("elementList") or []:
+        if not isinstance(item, dict):
+            continue
+        key = _safe_property_key(item)
+        if key:
+            keys.append(key)
+    return keys
 
 
 def _is_quota_exhausted_error(exc: Exception) -> bool:
@@ -154,7 +185,29 @@ def _active_states_force(
 
 
 def _pick_state(states: List[CircleState]) -> CircleState:
-    return min(states, key=lambda s: (s.requests, s.next_page, s.circle.name))
+    unexplored = [st for st in states if st.requests == 0]
+    if unexplored:
+        return max(
+            unexplored,
+            key=lambda s: (
+                s.prior_unique_per_request,
+                -s.prior_duplicate_rate,
+                -s.circle.distance_m,
+                s.circle.name,
+            ),
+        )
+    return max(
+        states,
+        key=lambda s: (
+            s.last_new_items,
+            s.last_new_ratio,
+            s.unique_items / max(1, s.requests),
+            s.prior_unique_per_request,
+            -s.requests,
+            -s.next_page,
+            s.circle.name,
+        ),
+    )
 
 
 def _new_manifest(
@@ -175,7 +228,7 @@ def _new_manifest(
         "max_items": MAX_ITEMS,
         "output_csv_name": output_csv_name,
         "circles_effective": [c.__dict__ for c in circles],
-        "strategy": "fair_round_robin_over_circles",
+        "strategy": "novelty_prioritized_over_circles",
     }
 
 
@@ -188,6 +241,8 @@ def _write_summary(
     csv_path: Optional[Path],
     raw_dir: Path,
     states: List[CircleState],
+    total_items: int,
+    unique_items: int,
 ) -> None:
     payload = {
         "used_requests": used_requests,
@@ -196,17 +251,119 @@ def _write_summary(
         "raw_dir": str(raw_dir),
         "processed_dir": str(processed_dir),
         "csv_path": str(csv_path) if csv_path else None,
+        "total_items": total_items,
+        "unique_items": unique_items,
+        "duplicate_items": max(0, total_items - unique_items),
+        "duplicate_rate": round(max(0, total_items - unique_items) / total_items, 4) if total_items else 0.0,
         "circle_states": [
             {
                 "name": st.circle.name,
                 "next_page_final": st.next_page,
                 "requests": st.requests,
                 "exhausted": st.exhausted,
+                "total_items": st.total_items,
+                "unique_items": st.unique_items,
+                "duplicate_items": st.duplicate_items,
+                "last_item_count": st.last_item_count,
+                "last_new_items": st.last_new_items,
+                "last_new_ratio": round(st.last_new_ratio, 4),
+                "zero_new_streak": st.zero_new_streak,
             }
             for st in states
         ],
     }
     _write_json(processed_dir / "summary.json", payload)
+
+
+def _update_state_metrics(
+    st: CircleState,
+    resp: SearchResponse,
+    seen_property_keys: Set[str],
+) -> Tuple[int, int, int]:
+    page_keys = _extract_property_keys(resp)
+    page_total = len(page_keys)
+    new_count = 0
+    duplicate_count = 0
+    for key in page_keys:
+        if key in seen_property_keys:
+            duplicate_count += 1
+            continue
+        seen_property_keys.add(key)
+        new_count += 1
+
+    st.total_items += page_total
+    st.unique_items += new_count
+    st.duplicate_items += duplicate_count
+    st.last_item_count = page_total
+    st.last_new_items = new_count
+    st.last_duplicate_items = duplicate_count
+    st.last_new_ratio = (new_count / page_total) if page_total else 0.0
+    st.zero_new_streak = (st.zero_new_streak + 1) if page_total and new_count == 0 else 0
+    return page_total, new_count, duplicate_count
+
+
+def _derive_circle_priors_from_raw_dir(raw_dir: Path) -> Dict[str, Dict[str, float]]:
+    priors: Dict[str, Dict[str, float]] = {}
+    states: Dict[str, CircleState] = {}
+    seen_property_keys: Set[str] = set()
+    for fp in sorted(raw_dir.glob("req*.json")):
+        m = _REQ_PATTERN.match(fp.name)
+        if not m:
+            continue
+        try:
+            payload = json.loads(fp.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        circle_name = m.group(2)
+        st = states.get(circle_name)
+        if st is None:
+            st = CircleState(circle=Circle(name=circle_name, center="", distance_m=0))
+            states[circle_name] = st
+        st.requests += 1
+        _update_state_metrics(st, payload, seen_property_keys)
+
+    for circle_name, st in states.items():
+        total_items = st.total_items
+        priors[circle_name] = {
+            "prior_unique_per_request": st.unique_items / max(1, st.requests),
+            "prior_duplicate_rate": (st.duplicate_items / total_items) if total_items else 1.0,
+        }
+    return priors
+
+
+def _load_circle_priors(operation: str) -> Dict[str, Dict[str, float]]:
+    raw_dirs = _raw_run_dirs_for_operation(operation)
+    if not raw_dirs:
+        return {}
+    latest_raw_dir = raw_dirs[-1]
+    return _derive_circle_priors_from_raw_dir(latest_raw_dir)
+
+
+def _apply_circle_priors(states: List[CircleState], priors: Dict[str, Dict[str, float]]) -> None:
+    for st in states:
+        prior = priors.get(st.circle.name)
+        if not prior:
+            continue
+        st.prior_unique_per_request = float(prior.get("prior_unique_per_request", 0.0) or 0.0)
+        st.prior_duplicate_rate = float(prior.get("prior_duplicate_rate", 1.0) or 1.0)
+
+
+def _should_exhaust_circle(
+    *,
+    st: CircleState,
+    resp: SearchResponse,
+    no_adaptive_pages: bool,
+) -> Tuple[bool, str]:
+    if st.last_item_count == 0:
+        return True, "pagina_vacia"
+
+    if st.zero_new_streak >= 5:
+        return True, "cinco_paginas_sin_novedad"
+
+    if (not no_adaptive_pages) and (not _is_full_page(resp)):
+        return True, "pagina_incompleta"
+
+    return False, ""
 
 
 def run_new(
@@ -228,6 +385,7 @@ def run_new(
 
     circles = _dedupe_circles_keep_first(_default_circles())
     states = _initial_states(circles)
+    _apply_circle_priors(states, _load_circle_priors(operation))
     _write_json(
         raw_dir / "manifest.json",
         _new_manifest(
@@ -241,6 +399,7 @@ def run_new(
     )
 
     used = 0
+    seen_property_keys: Set[str] = set()
     stopped_by_quota = False
     quota_error: Optional[str] = None
     _log(
@@ -291,26 +450,26 @@ def run_new(
         used += 1
         st.requests += 1
         st.next_page += 1
-
+        element_count, new_count, duplicate_count = _update_state_metrics(st, resp, seen_property_keys)
         if not force_max_requests:
-            element_list = resp.get("elementList") or []
-            if not element_list:
+            should_exhaust, reason = _should_exhaust_circle(
+                st=st,
+                resp=resp,
+                no_adaptive_pages=no_adaptive_pages,
+            )
+            if should_exhaust:
                 st.bad_streak += 1
                 st.exhausted = True
-                _log(f"Pagina vacia. Se marca el circulo como agotado: {st.circle.name}")
-                continue
-
-            if (not no_adaptive_pages) and (not _is_full_page(resp)):
-                st.bad_streak += 1
-                st.exhausted = True
-                _log(f"Pagina incompleta. Se marca el circulo como agotado: {st.circle.name}")
+                _log(
+                    f"Circulo agotado: {st.circle.name} motivo={reason} "
+                    f"anuncios={element_count} nuevos={new_count} duplicados={duplicate_count}"
+                )
             else:
                 st.bad_streak = 0
-
-        element_count = len(resp.get("elementList") or [])
         _log(
-            f"Request OK. tag={tag} anuncios={element_count} proxima_pagina={st.next_page} "
-            f"requests_usadas={used}"
+            f"Request OK. tag={tag} anuncios={element_count} nuevos={new_count} "
+            f"duplicados={duplicate_count} ratio_novedad={st.last_new_ratio:.2f} "
+            f"proxima_pagina={st.next_page} requests_usadas={used}"
         )
 
     csv_path: Optional[Path]
@@ -329,6 +488,8 @@ def run_new(
         csv_path=csv_path,
         raw_dir=raw_dir,
         states=states,
+        total_items=sum(st.total_items for st in states),
+        unique_items=len(seen_property_keys),
     )
     _log(f"Ejecucion finalizada. requests_usadas={used} summary={processed_dir / 'summary.json'}")
     return processed_dir
@@ -374,7 +535,7 @@ def _load_resume_state(raw_dir: Path) -> Tuple[Dict[str, Any], List[CircleState]
 
 
 def _find_latest_rent_raw_dir() -> Path:
-    candidates = sorted(RAW_BASE.glob("rent_homes_run_*"))
+    candidates = _raw_run_dirs_for_operation("rent")
     if not candidates:
         raise FileNotFoundError("No hay ejecuciones previas en data/raw/idealistaAPI/raw/rent_homes_run_*")
     return candidates[-1]
@@ -402,6 +563,22 @@ def run_resume_latest_rent(
 
     stopped_by_quota = False
     quota_error: Optional[str] = None
+    seen_property_keys: Set[str] = set()
+
+    for fp in sorted(raw_dir.glob("req*.json")):
+        m = _REQ_PATTERN.match(fp.name)
+        if not m:
+            continue
+        try:
+            payload = json.loads(fp.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        cname = m.group(2)
+        st = next((state for state in states if state.circle.name == cname), None)
+        if st is None:
+            continue
+        _update_state_metrics(st, payload, seen_property_keys)
+
     _log(
         f"Inicio de reanudacion: run_id={run_id} requests_ya_usadas={used} "
         f"objetivo_requests={max_requests} max_paginas_por_circulo={max_pages_per_circle} "
@@ -457,26 +634,26 @@ def run_resume_latest_rent(
         used += 1
         st.requests += 1
         st.next_page += 1
-
+        element_count, new_count, duplicate_count = _update_state_metrics(st, resp, seen_property_keys)
         if not force_max_requests:
-            element_list = resp.get("elementList") or []
-            if not element_list:
+            should_exhaust, reason = _should_exhaust_circle(
+                st=st,
+                resp=resp,
+                no_adaptive_pages=no_adaptive_pages,
+            )
+            if should_exhaust:
                 st.bad_streak += 1
                 st.exhausted = True
-                _log(f"Pagina vacia. Se marca el circulo como agotado: {st.circle.name}")
-                continue
-
-            if (not no_adaptive_pages) and (not _is_full_page(resp)):
-                st.bad_streak += 1
-                st.exhausted = True
-                _log(f"Pagina incompleta. Se marca el circulo como agotado: {st.circle.name}")
+                _log(
+                    f"Circulo agotado: {st.circle.name} motivo={reason} "
+                    f"anuncios={element_count} nuevos={new_count} duplicados={duplicate_count}"
+                )
             else:
                 st.bad_streak = 0
-
-        element_count = len(resp.get("elementList") or [])
         _log(
-            f"Request OK. tag={tag} anuncios={element_count} proxima_pagina={st.next_page} "
-            f"requests_usadas={used}"
+            f"Request OK. tag={tag} anuncios={element_count} nuevos={new_count} "
+            f"duplicados={duplicate_count} ratio_novedad={st.last_new_ratio:.2f} "
+            f"proxima_pagina={st.next_page} requests_usadas={used}"
         )
 
     csv_path: Optional[Path]
@@ -495,6 +672,8 @@ def run_resume_latest_rent(
         csv_path=csv_path,
         raw_dir=raw_dir,
         states=states,
+        total_items=sum(st.total_items for st in states),
+        unique_items=len(seen_property_keys),
     )
     _log(f"Reanudacion finalizada. requests_usadas={used} summary={processed_dir / 'summary.json'}")
     return processed_dir

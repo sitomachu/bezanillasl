@@ -37,6 +37,22 @@ def build_processed_path(input_dir: Path) -> Path:
     return processed_dir
 
 
+def _build_dedupe_key(df: pd.DataFrame) -> pd.Series:
+    property_code = df.get("propertyCode", pd.Series([""] * len(df), index=df.index)).fillna("").astype(str).str.strip()
+    fallback = (
+        df.get("price", pd.Series([""] * len(df), index=df.index)).fillna("").astype(str)
+        + "|"
+        + df.get("size", pd.Series([""] * len(df), index=df.index)).fillna("").astype(str)
+        + "|"
+        + df.get("latitude", pd.Series([""] * len(df), index=df.index)).fillna("").astype(str)
+        + "|"
+        + df.get("longitude", pd.Series([""] * len(df), index=df.index)).fillna("").astype(str)
+        + "|"
+        + df.get("address", df.get("streetName", pd.Series([""] * len(df), index=df.index))).fillna("").astype(str).str.strip().str.lower()
+    )
+    return property_code.where(property_code != "", fallback)
+
+
 def clean_json_run(
     input_dir: Path,
     output_filename: str,
@@ -52,6 +68,8 @@ def clean_json_run(
         raise ValueError("No se encontraron anuncios en los JSON.")
 
     df = pd.json_normalize(rows)
+    df["_dedupe_key"] = _build_dedupe_key(df)
+    df = df.drop_duplicates(subset="_dedupe_key", keep="first").drop(columns=["_dedupe_key"])
 
     processed_dir = build_processed_path(input_dir)
 
