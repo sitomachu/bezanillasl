@@ -1,0 +1,762 @@
+{
+  "run_id": "20260310_171627",
+  "operation": "rent",
+  "property_type": "homes",
+  "max_requests": 100,
+  "max_pages_per_circle": 20,
+  "max_items": 50,
+  "output_csv_name": "rent_homes_cantabria_bezana_like_raw.csv",
+  "circles_effective": [
+    {
+      "name": "SantaCruzDeBezana",
+      "center": "43.4435,-3.9036",
+      "distance_m": 12000
+    },
+    {
+      "name": "SotoDeLaMarina",
+      "center": "43.4620,-3.9080",
+      "distance_m": 12000
+    },
+    {
+      "name": "Liencres",
+      "center": "43.4480,-3.9700",
+      "distance_m": 12000
+    },
+    {
+      "name": "Pielagos_Boo",
+      "center": "43.4230,-3.9520",
+      "distance_m": 14000
+    },
+    {
+      "name": "Camargo_Muriedas",
+      "center": "43.4150,-3.8540",
+      "distance_m": 14000
+    },
+    {
+      "name": "Santander",
+      "center": "43.4623,-3.8099",
+      "distance_m": 18000
+    },
+    {
+      "name": "Somo",
+      "center": "43.4470,-3.7450",
+      "distance_m": 14000
+    },
+    {
+      "name": "Suances",
+      "center": "43.4260,-4.0430",
+      "distance_m": 14000
+    },
+    {
+      "name": "Laredo",
+      "center": "43.4090,-3.4160",
+      "distance_m": 16000
+    },
+    {
+      "name": "CastroUrdiales",
+      "center": "43.3830,-3.2140",
+      "distance_m": 16000
+    },
+    {
+      "name": "Astillero",
+      "center": "43.4019,-3.8186",
+      "distance_m": 12000
+    },
+    {
+      "name": "MedioCudeyo_Solares",
+      "center": "43.3814,-3.7362",
+      "distance_m": 14000
+    },
+    {
+      "name": "SantaMariaCayon",
+      "center": "43.3084,-3.8537",
+      "distance_m": 16000
+    },
+    {
+      "name": "Torrelavega",
+      "center": "43.3493,-4.0476",
+      "distance_m": 18000
+    },
+    {
+      "name": "Santoña",
+      "center": "43.4422,-3.4525",
+      "distance_m": 14000
+    },
+    {
+      "name": "Noja",
+      "center": "43.4893,-3.5231",
+      "distance_m": 14000
+    },
+    {
+      "name": "Colindres",
+      "center": "43.3971,-3.4497",
+      "distance_m": 12000
+    },
+    {
+      "name": "Reinosa",
+      "center": "43.0007,-4.1380",
+      "distance_m": 18000
+    },
+    {
+      "name": "CorralesDeBuelna",
+      "center": "43.2599,-4.0695",
+      "distance_m": 12000
+    },
+    {
+      "name": "Cartes",
+      "center": "43.3222,-4.0703",
+      "distance_m": 10000
+    },
+    {
+      "name": "LosCorralesCentro",
+      "center": "43.2602,-4.0724",
+      "distance_m": 9000
+    },
+    {
+      "name": "CabezonDeLaSal",
+      "center": "43.3082,-4.2363",
+      "distance_m": 12000
+    },
+    {
+      "name": "SanVicenteDeLaBarquera",
+      "center": "43.3851,-4.3980",
+      "distance_m": 14000
+    },
+    {
+      "name": "Comillas",
+      "center": "43.3860,-4.2912",
+      "distance_m": 10000
+    },
+    {
+      "name": "SantillanaDelMar",
+      "center": "43.3890,-4.1092",
+      "distance_m": 10000
+    },
+    {
+      "name": "PuenteViesgo",
+      "center": "43.2996,-3.9644",
+      "distance_m": 10000
+    },
+    {
+      "name": "Lierganes",
+      "center": "43.3449,-3.7422",
+      "distance_m": 10000
+    },
+    {
+      "name": "Entrambasaguas",
+      "center": "43.3798,-3.6827",
+      "distance_m": 10000
+    },
+    {
+      "name": "RibamontanAlMar",
+      "center": "43.4559,-3.6823",
+      "distance_m": 10000
+    },
+    {
+      "name": "Ampuero",
+      "center": "43.3431,-3.4168",
+      "distance_m": 10000
+    },
+    {
+      "name": "RamalesDeLaVictoria",
+      "center": "43.2578,-3.4637",
+      "distance_m": 12000
+    },
+    {
+      "name": "Voto_Badames",
+      "center": "43.3805,-3.4840",
+      "distance_m": 10000
+    },
+    {
+      "name": "CabezonDeLaSalInterior",
+      "center": "43.3070,-4.2350",
+      "distance_m": 9000
+    },
+    {
+      "name": "Potes",
+      "center": "43.1536,-4.6227",
+      "distance_m": 16000
+    },
+    {
+      "name": "CabezonDeLiebanA",
+      "center": "43.1330,-4.5828",
+      "distance_m": 14000
+    },
+    {
+      "name": "ValDeSanVicente",
+      "center": "43.3772,-4.4831",
+      "distance_m": 12000
+    },
+    {
+      "name": "ArenasDeIguna",
+      "center": "43.1872,-4.0478",
+      "distance_m": 12000
+    },
+    {
+      "name": "Molledo",
+      "center": "43.1518,-4.0420",
+      "distance_m": 12000
+    },
+    {
+      "name": "SantaCruzDeBezana__alt_08km",
+      "center": "43.4435,-3.9036",
+      "distance_m": 8500
+    },
+    {
+      "name": "SotoDeLaMarina__alt_08km",
+      "center": "43.4620,-3.9080",
+      "distance_m": 8500
+    },
+    {
+      "name": "Liencres__alt_08km",
+      "center": "43.4480,-3.9700",
+      "distance_m": 8500
+    },
+    {
+      "name": "Pielagos_Boo__alt_10km",
+      "center": "43.4230,-3.9520",
+      "distance_m": 10000
+    },
+    {
+      "name": "Camargo_Muriedas__alt_10km",
+      "center": "43.4150,-3.8540",
+      "distance_m": 10000
+    },
+    {
+      "name": "Santander__alt_12km",
+      "center": "43.4623,-3.8099",
+      "distance_m": 12500
+    },
+    {
+      "name": "Somo__alt_10km",
+      "center": "43.4470,-3.7450",
+      "distance_m": 10000
+    },
+    {
+      "name": "Suances__alt_10km",
+      "center": "43.4260,-4.0430",
+      "distance_m": 10000
+    },
+    {
+      "name": "Laredo__alt_11km",
+      "center": "43.4090,-3.4160",
+      "distance_m": 11000
+    },
+    {
+      "name": "CastroUrdiales__alt_11km",
+      "center": "43.3830,-3.2140",
+      "distance_m": 11000
+    },
+    {
+      "name": "Astillero__alt_08km",
+      "center": "43.4019,-3.8186",
+      "distance_m": 8500
+    },
+    {
+      "name": "MedioCudeyo_Solares__alt_10km",
+      "center": "43.3814,-3.7362",
+      "distance_m": 10000
+    },
+    {
+      "name": "SantaMariaCayon__alt_11km",
+      "center": "43.3084,-3.8537",
+      "distance_m": 11000
+    },
+    {
+      "name": "Torrelavega__alt_12km",
+      "center": "43.3493,-4.0476",
+      "distance_m": 12500
+    },
+    {
+      "name": "Santoña__alt_10km",
+      "center": "43.4422,-3.4525",
+      "distance_m": 10000
+    },
+    {
+      "name": "Noja__alt_10km",
+      "center": "43.4893,-3.5231",
+      "distance_m": 10000
+    },
+    {
+      "name": "Colindres__alt_08km",
+      "center": "43.3971,-3.4497",
+      "distance_m": 8500
+    },
+    {
+      "name": "Reinosa__alt_12km",
+      "center": "43.0007,-4.1380",
+      "distance_m": 12500
+    },
+    {
+      "name": "CorralesDeBuelna__alt_08km",
+      "center": "43.2599,-4.0695",
+      "distance_m": 8500
+    },
+    {
+      "name": "Cartes__alt_07km",
+      "center": "43.3222,-4.0703",
+      "distance_m": 7000
+    },
+    {
+      "name": "LosCorralesCentro__alt_07km",
+      "center": "43.2602,-4.0724",
+      "distance_m": 7000
+    },
+    {
+      "name": "CabezonDeLaSal__alt_08km",
+      "center": "43.3082,-4.2363",
+      "distance_m": 8500
+    },
+    {
+      "name": "SanVicenteDeLaBarquera__alt_10km",
+      "center": "43.3851,-4.3980",
+      "distance_m": 10000
+    },
+    {
+      "name": "Comillas__alt_07km",
+      "center": "43.3860,-4.2912",
+      "distance_m": 7000
+    },
+    {
+      "name": "SantillanaDelMar__alt_07km",
+      "center": "43.3890,-4.1092",
+      "distance_m": 7000
+    },
+    {
+      "name": "PuenteViesgo__alt_07km",
+      "center": "43.2996,-3.9644",
+      "distance_m": 7000
+    },
+    {
+      "name": "Lierganes__alt_07km",
+      "center": "43.3449,-3.7422",
+      "distance_m": 7000
+    },
+    {
+      "name": "Entrambasaguas__alt_07km",
+      "center": "43.3798,-3.6827",
+      "distance_m": 7000
+    },
+    {
+      "name": "RibamontanAlMar__alt_07km",
+      "center": "43.4559,-3.6823",
+      "distance_m": 7000
+    },
+    {
+      "name": "Ampuero__alt_07km",
+      "center": "43.3431,-3.4168",
+      "distance_m": 7000
+    },
+    {
+      "name": "RamalesDeLaVictoria__alt_08km",
+      "center": "43.2578,-3.4637",
+      "distance_m": 8500
+    },
+    {
+      "name": "Voto_Badames__alt_07km",
+      "center": "43.3805,-3.4840",
+      "distance_m": 7000
+    },
+    {
+      "name": "CabezonDeLaSalInterior__alt_07km",
+      "center": "43.3070,-4.2350",
+      "distance_m": 7000
+    },
+    {
+      "name": "Potes__alt_11km",
+      "center": "43.1536,-4.6227",
+      "distance_m": 11000
+    },
+    {
+      "name": "CabezonDeLiebanA__alt_10km",
+      "center": "43.1330,-4.5828",
+      "distance_m": 10000
+    },
+    {
+      "name": "ValDeSanVicente__alt_08km",
+      "center": "43.3772,-4.4831",
+      "distance_m": 8500
+    },
+    {
+      "name": "ArenasDeIguna__alt_08km",
+      "center": "43.1872,-4.0478",
+      "distance_m": 8500
+    },
+    {
+      "name": "Molledo__alt_08km",
+      "center": "43.1518,-4.0420",
+      "distance_m": 8500
+    },
+    {
+      "name": "SantaCruzDeBezana__alt_10km",
+      "center": "43.4435,-3.9036",
+      "distance_m": 10000
+    },
+    {
+      "name": "SotoDeLaMarina__alt_10km",
+      "center": "43.4620,-3.9080",
+      "distance_m": 10000
+    },
+    {
+      "name": "Liencres__alt_10km",
+      "center": "43.4480,-3.9700",
+      "distance_m": 10000
+    },
+    {
+      "name": "Pielagos_Boo__alt_12km",
+      "center": "43.4230,-3.9520",
+      "distance_m": 12000
+    },
+    {
+      "name": "Camargo_Muriedas__alt_12km",
+      "center": "43.4150,-3.8540",
+      "distance_m": 12000
+    },
+    {
+      "name": "Santander__alt_15km",
+      "center": "43.4623,-3.8099",
+      "distance_m": 15500
+    },
+    {
+      "name": "Somo__alt_12km",
+      "center": "43.4470,-3.7450",
+      "distance_m": 12000
+    },
+    {
+      "name": "Suances__alt_12km",
+      "center": "43.4260,-4.0430",
+      "distance_m": 12000
+    },
+    {
+      "name": "Laredo__alt_13km",
+      "center": "43.4090,-3.4160",
+      "distance_m": 13500
+    },
+    {
+      "name": "CastroUrdiales__alt_13km",
+      "center": "43.3830,-3.2140",
+      "distance_m": 13500
+    },
+    {
+      "name": "Astillero__alt_10km",
+      "center": "43.4019,-3.8186",
+      "distance_m": 10000
+    },
+    {
+      "name": "MedioCudeyo_Solares__alt_12km",
+      "center": "43.3814,-3.7362",
+      "distance_m": 12000
+    },
+    {
+      "name": "SantaMariaCayon__alt_13km",
+      "center": "43.3084,-3.8537",
+      "distance_m": 13500
+    },
+    {
+      "name": "Torrelavega__alt_15km",
+      "center": "43.3493,-4.0476",
+      "distance_m": 15500
+    },
+    {
+      "name": "Santoña__alt_12km",
+      "center": "43.4422,-3.4525",
+      "distance_m": 12000
+    },
+    {
+      "name": "Noja__alt_12km",
+      "center": "43.4893,-3.5231",
+      "distance_m": 12000
+    },
+    {
+      "name": "Colindres__alt_10km",
+      "center": "43.3971,-3.4497",
+      "distance_m": 10000
+    },
+    {
+      "name": "Reinosa__alt_15km",
+      "center": "43.0007,-4.1380",
+      "distance_m": 15500
+    },
+    {
+      "name": "CorralesDeBuelna__alt_10km",
+      "center": "43.2599,-4.0695",
+      "distance_m": 10000
+    },
+    {
+      "name": "Cartes__alt_08km",
+      "center": "43.3222,-4.0703",
+      "distance_m": 8500
+    },
+    {
+      "name": "CabezonDeLaSal__alt_10km",
+      "center": "43.3082,-4.2363",
+      "distance_m": 10000
+    },
+    {
+      "name": "SanVicenteDeLaBarquera__alt_12km",
+      "center": "43.3851,-4.3980",
+      "distance_m": 12000
+    },
+    {
+      "name": "Comillas__alt_08km",
+      "center": "43.3860,-4.2912",
+      "distance_m": 8500
+    },
+    {
+      "name": "SantillanaDelMar__alt_08km",
+      "center": "43.3890,-4.1092",
+      "distance_m": 8500
+    },
+    {
+      "name": "PuenteViesgo__alt_08km",
+      "center": "43.2996,-3.9644",
+      "distance_m": 8500
+    },
+    {
+      "name": "Lierganes__alt_08km",
+      "center": "43.3449,-3.7422",
+      "distance_m": 8500
+    },
+    {
+      "name": "Entrambasaguas__alt_08km",
+      "center": "43.3798,-3.6827",
+      "distance_m": 8500
+    },
+    {
+      "name": "RibamontanAlMar__alt_08km",
+      "center": "43.4559,-3.6823",
+      "distance_m": 8500
+    },
+    {
+      "name": "Ampuero__alt_08km",
+      "center": "43.3431,-3.4168",
+      "distance_m": 8500
+    },
+    {
+      "name": "RamalesDeLaVictoria__alt_10km",
+      "center": "43.2578,-3.4637",
+      "distance_m": 10000
+    },
+    {
+      "name": "Voto_Badames__alt_08km",
+      "center": "43.3805,-3.4840",
+      "distance_m": 8500
+    },
+    {
+      "name": "Potes__alt_13km",
+      "center": "43.1536,-4.6227",
+      "distance_m": 13500
+    },
+    {
+      "name": "CabezonDeLiebanA__alt_12km",
+      "center": "43.1330,-4.5828",
+      "distance_m": 12000
+    },
+    {
+      "name": "ValDeSanVicente__alt_10km",
+      "center": "43.3772,-4.4831",
+      "distance_m": 10000
+    },
+    {
+      "name": "ArenasDeIguna__alt_10km",
+      "center": "43.1872,-4.0478",
+      "distance_m": 10000
+    },
+    {
+      "name": "Molledo__alt_10km",
+      "center": "43.1518,-4.0420",
+      "distance_m": 10000
+    },
+    {
+      "name": "SantaCruzDeBezana__alt_14km",
+      "center": "43.4435,-3.9036",
+      "distance_m": 14000
+    },
+    {
+      "name": "SotoDeLaMarina__alt_14km",
+      "center": "43.4620,-3.9080",
+      "distance_m": 14000
+    },
+    {
+      "name": "Liencres__alt_14km",
+      "center": "43.4480,-3.9700",
+      "distance_m": 14000
+    },
+    {
+      "name": "Pielagos_Boo__alt_16km",
+      "center": "43.4230,-3.9520",
+      "distance_m": 16000
+    },
+    {
+      "name": "Camargo_Muriedas__alt_16km",
+      "center": "43.4150,-3.8540",
+      "distance_m": 16000
+    },
+    {
+      "name": "Santander__alt_20km",
+      "center": "43.4623,-3.8099",
+      "distance_m": 20500
+    },
+    {
+      "name": "Somo__alt_16km",
+      "center": "43.4470,-3.7450",
+      "distance_m": 16000
+    },
+    {
+      "name": "Suances__alt_16km",
+      "center": "43.4260,-4.0430",
+      "distance_m": 16000
+    },
+    {
+      "name": "Laredo__alt_18km",
+      "center": "43.4090,-3.4160",
+      "distance_m": 18500
+    },
+    {
+      "name": "CastroUrdiales__alt_18km",
+      "center": "43.3830,-3.2140",
+      "distance_m": 18500
+    },
+    {
+      "name": "Astillero__alt_14km",
+      "center": "43.4019,-3.8186",
+      "distance_m": 14000
+    },
+    {
+      "name": "MedioCudeyo_Solares__alt_16km",
+      "center": "43.3814,-3.7362",
+      "distance_m": 16000
+    },
+    {
+      "name": "SantaMariaCayon__alt_18km",
+      "center": "43.3084,-3.8537",
+      "distance_m": 18500
+    },
+    {
+      "name": "Torrelavega__alt_20km",
+      "center": "43.3493,-4.0476",
+      "distance_m": 20500
+    },
+    {
+      "name": "Santoña__alt_16km",
+      "center": "43.4422,-3.4525",
+      "distance_m": 16000
+    },
+    {
+      "name": "Noja__alt_16km",
+      "center": "43.4893,-3.5231",
+      "distance_m": 16000
+    },
+    {
+      "name": "Colindres__alt_14km",
+      "center": "43.3971,-3.4497",
+      "distance_m": 14000
+    },
+    {
+      "name": "Reinosa__alt_20km",
+      "center": "43.0007,-4.1380",
+      "distance_m": 20500
+    },
+    {
+      "name": "CorralesDeBuelna__alt_14km",
+      "center": "43.2599,-4.0695",
+      "distance_m": 14000
+    },
+    {
+      "name": "Cartes__alt_11km",
+      "center": "43.3222,-4.0703",
+      "distance_m": 11500
+    },
+    {
+      "name": "LosCorralesCentro__alt_10km",
+      "center": "43.2602,-4.0724",
+      "distance_m": 10500
+    },
+    {
+      "name": "CabezonDeLaSal__alt_14km",
+      "center": "43.3082,-4.2363",
+      "distance_m": 14000
+    },
+    {
+      "name": "SanVicenteDeLaBarquera__alt_16km",
+      "center": "43.3851,-4.3980",
+      "distance_m": 16000
+    },
+    {
+      "name": "Comillas__alt_11km",
+      "center": "43.3860,-4.2912",
+      "distance_m": 11500
+    },
+    {
+      "name": "SantillanaDelMar__alt_11km",
+      "center": "43.3890,-4.1092",
+      "distance_m": 11500
+    },
+    {
+      "name": "PuenteViesgo__alt_11km",
+      "center": "43.2996,-3.9644",
+      "distance_m": 11500
+    },
+    {
+      "name": "Lierganes__alt_11km",
+      "center": "43.3449,-3.7422",
+      "distance_m": 11500
+    },
+    {
+      "name": "Entrambasaguas__alt_11km",
+      "center": "43.3798,-3.6827",
+      "distance_m": 11500
+    },
+    {
+      "name": "RibamontanAlMar__alt_11km",
+      "center": "43.4559,-3.6823",
+      "distance_m": 11500
+    },
+    {
+      "name": "Ampuero__alt_11km",
+      "center": "43.3431,-3.4168",
+      "distance_m": 11500
+    },
+    {
+      "name": "RamalesDeLaVictoria__alt_14km",
+      "center": "43.2578,-3.4637",
+      "distance_m": 14000
+    },
+    {
+      "name": "Voto_Badames__alt_11km",
+      "center": "43.3805,-3.4840",
+      "distance_m": 11500
+    },
+    {
+      "name": "CabezonDeLaSalInterior__alt_10km",
+      "center": "43.3070,-4.2350",
+      "distance_m": 10500
+    },
+    {
+      "name": "Potes__alt_18km",
+      "center": "43.1536,-4.6227",
+      "distance_m": 18500
+    },
+    {
+      "name": "CabezonDeLiebanA__alt_16km",
+      "center": "43.1330,-4.5828",
+      "distance_m": 16000
+    },
+    {
+      "name": "ValDeSanVicente__alt_14km",
+      "center": "43.3772,-4.4831",
+      "distance_m": 14000
+    },
+    {
+      "name": "ArenasDeIguna__alt_14km",
+      "center": "43.1872,-4.0478",
+      "distance_m": 14000
+    },
+    {
+      "name": "Molledo__alt_14km",
+      "center": "43.1518,-4.0420",
+      "distance_m": 14000
+    }
+  ],
+  "strategy": "novelty_prioritized_over_circles"
+}

@@ -1,0 +1,397 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110860523",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6c/8b/99/1417768590.webp",
+      "numPhotos": 37,
+      "floor": "4",
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 110.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio la Sota, 26",
+      "province": "Cantabria",
+      "municipality": "Ribamontan al Monte",
+      "country": "es",
+      "latitude": 43.3925794,
+      "longitude": -3.6628739,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110860523/",
+      "distance": "2141",
+      "description": "LARGA ESTANCIA, 1-2 PERSONAS, NO MASCOTAS Y MEDIOS DE PAGO DEMOSTRABLES | ESPECTACULAR ÁTICO CON 3 TERRAZAS EN ANERO ¡Pedazo de propiedad en alquiler! Ático con varias terrazas, zona de gimnasio y garaje cerrado, situado en una zona tranquila y a un paso de la A-8. Se trata de una vivienda de 110m2 distribuidos en vestíbulo de entrada, holgada cocina totalmente equipada, con terraza y despensa, amplio salón con terraza y pequeño trastero en un lateral, tres dormitorios, el principal con baño en suite, y los otros dos restantes, uno con terraza y máquinas de gimnasio (¡ya no hay excusa! ), y un tercero, además de un segundo baño completo. Incluye garaje cerrado para dos coches y zona de trastero. La ubicación es ideal, con acceso a la A-8 a escasos metros, Hoznayo a dos minutos, y Solares a cinco. Asimismo, las playas más bonitas de la tierruca también las tendrías muy cerca. ¡No dudes en consultarnos y vamos a verlo en directo! ¡Te encantará tanto como a nosotros! LARGA ESTANCIA, 1-2 PERSONAS, NO MASCOTAS Y MEDIOS DE PAGO DEMOSTRABLES.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ribamontan al Monte",
+        "title": "Ático en Barrio la Sota, 26"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103803738",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2b/0d/b4/1416389521.webp",
+      "externalReference": "4908",
+      "numPhotos": 19,
+      "floor": "1",
+      "price": 590.0,
+      "priceInfo": {
+        "price": {
+          "amount": 590.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 51.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle los Tilos, 1",
+      "province": "Cantabria",
+      "municipality": "Solares",
+      "country": "es",
+      "latitude": 43.3833522,
+      "longitude": -3.7402463,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/103803738/",
+      "distance": "4667",
+      "description": "En pleno centro de Solares con todos los servicios a su alcance, disponemos en alquiler para fijo de este soleado apartamento completamente orientado al sur; amplio en todas sus estancias, distribuido en hall, sala con cocina americana, dormitorio y baño completo. Dispone además de una amplia  plaza de garaje y trastero justo detrás. Se requiere un mes de fianza y seguro de impago. Se admite mascota según raza y peso, consúltenos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Solares",
+        "title": "Piso en calle los Tilos, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110194507",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/86/ae/80/1398063108.webp",
+      "externalReference": "5224",
+      "numPhotos": 21,
+      "floor": "2",
+      "price": 720.0,
+      "priceInfo": {
+        "price": {
+          "amount": 720.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio Entrambasaguas, 86",
+      "province": "Cantabria",
+      "municipality": "Entrambasaguas",
+      "country": "es",
+      "latitude": 43.37899,
+      "longitude": -3.68158,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110194507/",
+      "distance": "127",
+      "description": "ENTRAMBASAGUAS, en Inmobiliaria Valdecella disponemos en alquilerpara fijo, de amplio piso en segunda planta con ascensor y calefación. La vivienda es totalmente exterior, salvo uno de los baños; distribuida en hall, salón-comedor con salida a terraza ( orientación al sur ), cocina independiente con salida a galería, 3 habitaciones y 2 cuartos de baño ( uno de ellos en el dormitorio principal ). Dispone además, de un trastero de 5m2 ( opcional plaza de garaje para coche y moto, consulte condiciones). No se admite mascota. URBANIZACIÓN: Privada, con gran aparcamiento exterior, piscinas y parque infantil, a escasos metros de las instalaciones deportivas municipales, colegio, ambulatorio, farmacia, supermercado, etc.   UBICACIÓN: El enclave de esta vivienda no puede ser más ideal, a un paso de la salida a la autovía Santander-Bilbao-Torrelavega, a 15 min. de Santander y de las playas de Somo o Loredo. PRECIO Y CONDICIONES: 720EUR al mes. Se requiere un mes de fianza, el mes de alquiler adelantado y solvencia económica demostrable  No lo dude y llame a nuestras oficinas, estaremos encantados de acompañarle.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Entrambasaguas",
+        "title": "Piso en Barrio Entrambasaguas, 86"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108016833",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/65/ff/e1/1331314950.webp",
+      "externalReference": "5100",
+      "numPhotos": 32,
+      "floor": "bj",
+      "price": 725.0,
+      "priceInfo": {
+        "price": {
+          "amount": 725.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 115.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Fernández Rañada, 16",
+      "province": "Cantabria",
+      "municipality": "Solares",
+      "country": "es",
+      "latitude": 43.3818154,
+      "longitude": -3.7363587,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108016833/",
+      "distance": "4342",
+      "description": "ALQUILER TEMPORAL - En El Bosque, junto a Solares, a un paso de todos los servicios necesarios. Bajo con jardín de casi 300m2 disponible en ALQUILER TEMPORAL. La vivienda está distribuida en hall, cocina con tendedero, salón-comedor con salida a terraza, 3 dormitorios, uno a modo de suite con baño incorporado y otro baño más. Desde el salón-comedor y desde dos de los dormitorios se puede acceder a un ESPECTACULAR JARDÍN  de casi 300m2 con orientación sur-este.  La vivienda dispone de calefacción de gas natural, ventanas pvc, suelos de tarima. y se encuentra completamente amueblado, lista para entrar a vivir. Incluye plaza de garaje  y mantenimiento de jardín. Gastos de comunidad incluidos. No se admiten mascotas.  Se requieren dos meses de fianza, el mes de alquiler adelantado y solvencia económica demostrable. Solicite cita en el o en el los agentes de Inmobiliaria Val de Cella estaremos encantados de atenderle.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Solares",
+        "title": "Piso en calle Fernández Rañada, 16"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98735608",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c1/88/f5/1386543000.webp",
+      "externalReference": "AL2400",
+      "numPhotos": 13,
+      "floor": "3",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Entrambasaguas",
+      "province": "Cantabria",
+      "municipality": "Entrambasaguas",
+      "country": "es",
+      "latitude": 43.37699,
+      "longitude": -3.68248,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98735608/",
+      "distance": "312",
+      "description": "EMPRESAS - TRASLADOS - TRABAJADORES por periodos de 3,4, 5,6 meses   Presentamos a continuación amplio piso para TEMPORADAS en Entrambasaguas. El inmueble se ubica junto a la taberna HUNTER. La vivienda es UNA TERCERA PLANTA EN UN EDIFICIO SIN ASCENSOR. Se distribuye en pequeño hall de entrada, dos habitaciones (ambas con dos camas individuales, armarios, mesitas y cajones), cocina completamente equipada con modernos electrodomésticos y mesa-comedor, amplio salón totalmente amueblado con sofá, mueble TV, mesita, mesa - comedor. Baño con bañera y mapara- La vivienda tiene suelos de parquet en buen estado, calefacción de gas natural, ventanas de madera. Cuenta con balcón al que se accede desde la cocina. Se ubica en pleno centro de Entrambasaguas. Con todos los servicios del pueblo a la mano, bancos, comercios, restaurantes.. .   La vivienda está destinada a un alquiler de CORTA DURACION ( entre 3 y 6 meses). Disponible a partir de mediados de Noviembre. Se solicitará solvencia económica para acceder a la vivienda. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Entrambasaguas",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97527760",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d5/b4/a4/1258568380.webp",
+      "externalReference": "AL2309",
+      "numPhotos": 30,
+      "floor": "3",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Entrambasaguas",
+      "province": "Cantabria",
+      "municipality": "Entrambasaguas",
+      "country": "es",
+      "latitude": 43.380363,
+      "longitude": -3.680881,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/97527760/",
+      "distance": "159",
+      "description": "PARA EMPRESAS / TRASLADOS Presentamos coqueta vivienda en el centro de ENTRAMBASAGUAS PARA ALQUILER TEMPORAL. La vivienda es una TERCERA PLANTA SIN ASCENSOR. Tiene una amplia superficie COMPLETAMENTE AMUEBLADA de 80 metros cuadrados distribuidos en tres habitaciones (una con cama de matrimonio mesitas y armario, otra con cama individual y armarios y la tercera con cama nido y armarios), baño con bañera y mampara. Salón y cocina - comedor. La cocina completa dispone de modernos electrodomésticos. La vivienda dispone de calefacción de gas natural, suelos de parquet y las ventanas de madera climalit. La vivienda es totalmente exterior y muy luminosa, con orientación sur y este. Está destinado a un alquiler TEMPORAL. Ideal para FUNCIONARIOS O PERSONAL TRASLADADO. Se solicitará solvencia económica y seguro de impago. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Entrambasaguas",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "96869224",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/70/8e/8d/959025628.webp",
+      "numPhotos": 22,
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "rent",
+      "size": 65.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Diseminado Sobremazas",
+      "province": "Cantabria",
+      "municipality": "Sobremazas",
+      "country": "es",
+      "latitude": 43.3754102,
+      "longitude": -3.7480326,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/96869224/",
+      "distance": "5302",
+      "description": "Precio orientativo, consulte periodo exacto, se alquila por periodos de, quincena o mes NO PARA LARGA ESTANCIA O FIJO.  Espacio perfecto para disfrutar de Cantabria a 25 mim. en coche de las playas de Ribamontan al mar, a 15 de Cabárceno y a 20 de Santander y con cualquier servicio en núcleo de población a 1 km. Finca completamente privada y tranquila ideal para disfrutar en una terraza de 100m, la sombra de higuera y los 14.000 m de finca La capacidad máxima es de 4 personas y para nosotros tu mascota es bienvenida. Incluye gastos por suministros y leña El departamento de alquileres de Gestión propia nace con la máxima de que cada inmueble se lleva de la mano y que cada huésped tiene unas necesidades y se encontrará acompañado en toda su estancia, nuestros propietarios son importantes al igual que nuestros huéspedes.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 23.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casaDePueblo"
+      },
+      "suggestedTexts": {
+        "subtitle": "Sobremazas",
+        "title": "Casa de pueblo en Diseminado Sobremazas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 7,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Entrambasaguas, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 7,
+  "paginable": false
+}

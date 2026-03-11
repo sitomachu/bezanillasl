@@ -1,0 +1,2747 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110869378",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/89/c8/d4/1418028990.webp",
+      "externalReference": "5260",
+      "numPhotos": 13,
+      "floor": "1",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Emilio Pino",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.4600693,
+      "longitude": -3.810877,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110869378/",
+      "distance": "6497",
+      "description": "Distrito Inmobiliario alquila este fantástico piso sito en la calle Emilio Pino, entre la calle Lealtad e Isabel II, en pleno centro de la ciudad. Está distribuido en 2 habitaciones con armarios empotrados, salón, cocina completamente equipada y amueblada y 2 baños completos. Se alquila vacío, sin muebles. Dispone de calefacción individual de gas. El edificio cuenta con ascensor. Se solicita un mes de fianza y superar un estudio de solvencia económica.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Piso en calle Emilio Pino"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110868932",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/39/88/88/1418015810.webp",
+      "externalReference": "ALPS791.1",
+      "numPhotos": 24,
+      "floor": "1",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 110.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida de Valdecilla",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4564221,
+      "longitude": -3.8271753,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110868932/",
+      "distance": "6101",
+      "description": "Pyso ALQUILA esta vivienda prácticamente a estrenar, en la Glorieta de Cuatro Caminos de Santander. Se trata de un amplio piso, de 3 dormitorios todos ellos con armario y el dormitorio principal con salida a balcón, salón con cocina americana totalmente amueblada y amueblada, y dos baños con plato de ducha. Vivienda con calefacción individual por gas natural y suelos de parquet. Piso en perfecto estado de conservación y muy luminoso. Edificio dotado con ascensor. Listo para entrar. Posibilidad de alquiler de plaza de garaje en el mismo edificio por 100€ ADICIONALES PRECIO 1.200€ El arrendamiento quedará sujeto a la contratación de seguro de impago de rentas y a la entrega de dos mensualidades en concepto de fianza Consúltenos y le ampliaremos información o concerte una visita a la propiedad. NO SE ARREPENTIRÁ! Nos adaptamos a sus necesidades En buenas manos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 100.0
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso en avenida de Valdecilla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110868859",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b7/60/70/1418013373.webp",
+      "externalReference": "65073995_1",
+      "numPhotos": 45,
+      "floor": "4",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 81.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Roy Garcia de Santander, 21",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4632299,
+      "longitude": -3.8431446,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110868859/",
+      "distance": "7101",
+      "description": "� Piso de Lujo en Alquiler – Santander � Precio: 1.000 €/mes � Habitaciones: 2 dobles � Baños: 2 completos � Orientación: Sureste � Incluye: Garaje � Calefacción: Gas natural � Estado: Amueblado de lujo � Cocina: Independiente totalmente equipada ✨ Descripción: Vive con estilo en este piso de lujo de 2 habitaciones dobles y 2 baños, diseñado para familias o profesionales que busquen confort, espacio y elegancia. La orientación sureste garantiza luz natural durante todo el día �. Cocina independiente moderna � y salón elegante y acogedor �, listo para disfrutar de cada momento. � Garaje privado incluido y calefacción de gas natural � para tu máxima comodidad. Amueblado con gusto, listo para entrar a vivir y sentir la sensación de hogar desde el primer día. � Ideal para: Familias que valoren espacio, confort y estilo ���� Profesionales que busquen tranquilidad y una vivienda exclusiva � Parejas que quieran un hogar luminoso y elegante ❤️ � Zona y comunicaciones: Situado en El Albericia, con acceso rápido a la S-20 y la A-67 �, conectando fácilmente con Santander y Cantabria. A solo 5-7 minutos en coche del centro de Santander �, ideal para ocio y trabajo. Próximo a supermercados �, colegios �, centros de salud � y zonas verdes �. Transporte público cercano con paradas de autobús a pocos metros �. � ¡Un piso de lujo, cómodo, luminoso y con todas las comodidades listas para ti! Contacta y ven a visitarlo hoy mismo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en calle Roy Garcia de Santander, 21"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110868503",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/16/b0/7c/1418000839.webp",
+      "externalReference": "G02263",
+      "numPhotos": 34,
+      "floor": "2",
+      "price": 870.0,
+      "priceInfo": {
+        "price": {
+          "amount": 870.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 71.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Numancia - San Fernando",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Numancia - San Fernando",
+      "country": "es",
+      "latitude": 43.4624114,
+      "longitude": -3.8179147,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110868503/",
+      "distance": "6728",
+      "description": "EXCLUSIVO PARA PERSONAL SANITARIO. Descubre este encantador piso situado en pleno centro de Santander, ubicado a menos de 5 min de las paradas de autobús �. Y a pocos pasos encontrarás supermercados y diversos comercios. Esta propiedad cuenta con dos amplias habitaciones, un dormitorio principal con cama doble y un segundo dormitorio con cama individual, ambos con armarios empotrados. El baño está incluye bañera, y además cuenta con un aseo adicional. La cocina es amplia y funcional, incluye horno, microondas, vitrocerámica, un gran frigorífico y lavadora. El salón es espacioso y sus grandes ventanales aportan gran luz natural. Además cuenta con mesa comedor perfecta para reuniones. Esta es tu propiedad ideal si buscas cercanía y espacio. ¡No pierdas la oportunidad! � Dada la demanda actual, las visitas se realizarán exclusivamente en jornadas programadas y siguiendo un riguroso orden de contacto. Se sugiere máxima antelación para garantizar disponibilidad en los horarios establecidos. Nota: El acceso a la visita está sujeto al cumplimiento previo de los requisitos imprescindibles y disponibilidad del equipo comercial. TRANSPARENCIA GESTIÓN INMOBILIARIA: - No se admiten mascotas. - Sujeto a decisión última del cliente propietario. - Imprescindible seguro de alquiler. - Honorarios inmobiliarios incluidos en el precio. - Consultar resto de condiciones.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Numancia - San Fernando, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110863133",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c8/8e/e2/1417826424.webp",
+      "numPhotos": 11,
+      "floor": "2",
+      "price": 975.0,
+      "priceInfo": {
+        "price": {
+          "amount": 975.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Consuelo Bergés",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Valdenoja",
+      "country": "es",
+      "latitude": 43.4791215,
+      "longitude": -3.7968013,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110863133/",
+      "distance": "8764",
+      "description": "En lo mejor de Valdenoja, piso amplio de 2 habitaciones, salón, 2 baños. Zona de fácil aparcamiento.  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Valdenoja, Santander",
+        "title": "Piso en calle Consuelo Bergés"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110865386",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fe/35/5d/1417890339.webp",
+      "numPhotos": 15,
+      "floor": "1",
+      "price": 2600.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2600.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 146.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "AV INFANTES",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "El Sardinero",
+      "country": "es",
+      "latitude": 43.470909,
+      "longitude": -3.785939,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110865386/",
+      "distance": "8113",
+      "description": "Exclusivo piso de lujo a estrenar en alquiler en el Sardinero, a pocos metros de la playa. Ubicado en una de las zonas más prestigiosas de El Sardinero, este elegante piso de 146 m² construidos (130 m² útiles) ha sido completamente reformado con materiales de alta calidad, ofreciendo un estilo moderno, funcional y muy luminoso.  La vivienda destaca por sus amplios espacios y una distribución cuidadosamente diseñada para proporcionar independencia y privacidad en cada estancia.  Cuenta con:  • 4 amplios dormitorios, 2 de ellos con vistas al mar • 2 dormitorios con baño en suite  • 1 baño completo adicional  • Cocina totalmente equipada con electrodomésticos  • Zona de salón-comedor amplia y directamente conectada con la cocina  La reforma integral incluye instalaciones, fontanería y electricidad completamente renovadas, además de acabados de gran calidad como:  • Suelos de madera natural  • Paredes lisas  • Carpintería a medida de alta gama  • Calefacción individual • Puerta de seguridad.  Situado en primera planta dentro de un edificio con servicio de conserjería, en una zona tranquila y residencial, muy próxima a comercios, servicios y transporte.  Una de las habitaciones ofrece agradables vistas al mar, recordando la cercanía a las playas del El Sardinero, uno de los enclaves más exclusivos de Santander.  La vivienda incluye además plaza de aparcamiento privada, un valor muy apreciado en la zona.  Disponible para alquiler de larga duración.  � Precio: 2.600 €/mes  Una vivienda ideal para quienes desean disfrutar del lujo de estrenar una vivienda de lujo en el “Sardinero discreto”, a pocos pasos del mar, fantástica para familias o profesionales que buscan amplitud, calidad, y una de las mejores ubicaciones de la ciudad de Santander.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Sardinero, Santander",
+        "title": "Piso en Av Infantes"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105841959",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9c/9b/72/1268489787.webp",
+      "externalReference": "743488",
+      "numPhotos": 14,
+      "floor": "5",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 59.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Puerto Chico",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4632807,
+      "longitude": -3.7903986,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105841959/",
+      "distance": "7194",
+      "description": "¿Buscas la combinación perfecta entre comodidad, estilo y una ubicación inmejorable en Santander? Best House San Fernando te presenta este fantástico apartamento en alquiler de larga duración, ideal para una persona sola o parejas que deseen disfrutar del vibrante ambiente de Puertochico. ✨ CARACTERÍSTICAS QUE TE ENAMORARÁN Situado en una 5ª planta (sin ascensor), este hogar destaca por su luminosidad y su decoración funcional con mobiliario actual y moderno. La vivienda está lista para entrar a vivir y se distribuye en: Habitación Principal confortable y acogedora, con cama de matrimonio (grande). Salón-Comedor, un espacio versátil que incluye un práctico sofá-cama, perfecto para recibir visitas. Cocina Equipada con todo lo necesario para tu día a día. Baño Completo funcional y bien cuidado. Confort: Calefacción de gas individual para asegurar el clima perfecto durante todo el año. ⚓ UBICACIÓN PRIVILEGIADA: El piso se encuentra en la emblemática zona de Puertochico, a escasos metros de la Escuela Técnica Superior de Náutica y el Palacio de Festivales, con los servicios a tu alcance: Supermercados, tiendas de barrio, farmacias y centros de salud. Podrás disfrutar de paseos por la Bahía de Santander y la mejor oferta gastronómica de la ciudad a solo unos minutos caminando y además con paradas de autobús urbano a un paso para moverte por todo Santander. � CONDICIONES DEL ALQUILER. Renta mensual: 700 € Destino: Vivienda habitual (larga duración). Requisitos: Se requiere acreditar ingresos demostrables para la formalización de un seguro de protección de alquiler. ¡No dejes escapar esta oportunidad en una de las zonas más demandadas de Santander! Contacta hoy mismo con Best House San Fernando para concertar una visita. Un asesor experto te acompañará en todo el proceso. ➤ Consulta el resto de condiciones sin compromiso. Sujeto a decisión última del arrendador. Best House San Fernando - Tu confianza, nuestra prioridad.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110857127",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/96/5b/be/1417653568.webp",
+      "externalReference": "5227",
+      "numPhotos": 33,
+      "floor": "2",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 81.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Bonifaz, 19",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4641493,
+      "longitude": -3.797195,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110857127/",
+      "distance": "7133",
+      "description": "¡Joyita en el corazón de Santander! Estilo moderno en Calle Bonifaz ¿Buscas vivir donde todo sucede sin renunciar a la tranquilidad y al confort? Presentamos este espectacular piso en la Calle Bonifaz, una de las vías más exclusivas, señoriales y céntricas de Santander. A un paso de Puerto Chico, el Paseo Pereda y los mejores servicios de la ciudad. Características principales: * Superficie: 81 m² perfectamente aprovechados, sin pasillos perdidos. * Distribución: 2 dormitorios luminosos y acogedores. * Salón-Comedor: Un espacio amplio y bañado por la luz natural, con acceso directo a un balcón propio ideal para disfrutar del pulso de la ciudad. * Cocina de ensueño: Si te gusta cocinar, te enamorarás. Es extraordinariamente amplia, cuenta con zona de comedor integrada y está totalmente equipada. * Baño: Moderno y funcional, con plato de ducha de gran formato. Estado y Estilo: El piso se encuentra en un estado impecable, con una decoración de estilo moderno y cuidado detalle. Está listo para entrar a vivir hoy mismo: suelos cuidados, paredes perfectas y un ambiente cálido que te hará sentir en casa desde el primer segundo. Requisitos: Se solicita solvencia acreditada. Ideal para parejas o profesionales que busquen calidad de vida en el centro.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Piso en calle Bonifaz, 19"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110856200",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ac/74/6f/1417621342.webp",
+      "externalReference": "273.00226",
+      "numPhotos": 12,
+      "floor": "1",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 63.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "El Sardinero",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "El Sardinero",
+      "country": "es",
+      "latitude": 43.4736623,
+      "longitude": -3.7868384,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110856200/",
+      "distance": "8381",
+      "description": "¿Quieres vivir junto al mar en una de las zonas más deseadas de Santander? � Ubicado en la emblemática zona del Sardinero, este inmueble cerca de la Playa del Sardinero es ideal por la cercanía al mar, los servicios y las zonas de paseo. Imagina despertar cada mañana a pocos minutos de la playa, salir a pasear por el Sardinero al atardecer o disfrutar de la brisa del Cantábrico cualquier día del año.  El edificio cuenta con ascensor, el portal no tiene barreras arquitectónicas, un detalle que aporta comodidad en el día a día, especialmente en una zona tan valorada de la ciudad, la vivienda se encuentra en buen estado y lista para entrar a vivir. Cuenta con una acogedora habitación de matrimonio, pensada para el descanso y con buen espacio de almacenamiento gracias a su armario empotrado. El salón con zona de comedor ofrece un ambiente cómodo y funcional para el día a día.  La cocina independiente, práctica y bien distribuida, permite cocinar con comodidad manteniendo separados los espacios de descanso y de vida diaria. Además, la vivienda dispone de tres armarios empotrados, un gran valor añadido que facilita mantener todo organizado sin renunciar a espacio. Entre sus mejoras destacan las ventanas de PVC oscilobatientes, que aportan aislamiento térmico y acústico, así como calefacción, ideal para disfrutar del hogar durante todo el año. El suelo de gres, resistente y fácil de mantener, aporta durabilidad y funcionalidad a la vivienda. Pero sin duda, lo que realmente marca la diferencia es su ubicación privilegiada a pie de la Playa del Sardinero �️. Vivir aquí significa tener el mar, el paseo marítimo, zonas verdes y algunos de los lugares más emblemáticos de Santander a solo unos pasos. Si buscas un piso en Santander cerca de la playa, esta vivienda merece tu visita. � Contacta con Best House San Fernando y agenda tu visita.  Las viviendas en esta ubicación vuelan. ➣ Consultar resto de condiciones. Sujeto a decisión última del arrendador.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Sardinero, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "101523257",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8f/42/eb/1124849882.webp",
+      "externalReference": "36733",
+      "numPhotos": 23,
+      "floor": "1",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Valdenoja",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Valdenoja",
+      "country": "es",
+      "latitude": 43.481367,
+      "longitude": -3.7902866,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/101523257/",
+      "distance": "9126",
+      "description": "Se alquila piso por temporada DE SEPTIEMBRE 2026 A JUNIO 2027 Dispone de 2 habitaciones, salón, cocina equipada y 2 baños. Terraza, orientación sur, parking comunitario. SOLO POR TEMPORADA, NO PARA FIJO.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Valdenoja, Santander",
+        "title": "Piso en calle Valdenoja"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110855555",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/31/85/7d/1417599594.webp",
+      "externalReference": "RVA0117",
+      "numPhotos": 36,
+      "floor": "7",
+      "price": 1400.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1400.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 84.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Valdenoja",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Valdenoja",
+      "country": "es",
+      "latitude": 43.4805699,
+      "longitude": -3.7892089,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110855555/",
+      "distance": "9063",
+      "description": "Vivienda en alquiler para temporada de estudiantes (SEPTIEMBRE - JUNIO) y temporada de verano. Cuenta con 84 m2 construidos situada en una de las zonas más codiciadas de Santander: Valdenoja- La Pereda. Combina un entorno residencial tranquilo con servicios, naturaleza y accesibilidad, a escasos minutos de la Playa del Sardinero.  Ubicado en una urbanización privada, con zona de aparcamiento, y amplias zonas verdes; este luminoso piso destaca por sus impresionantes vistas al mar desde todas las estancias, una auténtica joya para quienes quieren disfrutar de alijarse frente al mar. Distribución: •Salón-comedor perfecto para disfrutar del entorno y del mar como telón de fondo. •2 habitaciones exteriores, ambas con vistas directas a la playa y una con terraza exterior •1 baño completo, amplio y funcional. •Cocina equipada con excelente luz natural y vistas al Sardinero Extras: •Terraza privada con orientación privilegiada. •Plaza de aparcamiento exterior en zona común. Entorno: A 10 minutos de la playa del Sardinero andando. Ubicado en un entorno tranquilo y bien comunicado, con fácil acceso a transporte público, colegios, comercios y a un paso del Parque de Mataleñas y el Campo de Golf Municipal. TARIFAS TEMPORADA ESTUDIANTES: 1400€/mes JUNIO: 3400€/mes  1800€/quincena  900€/ semana JULIO Y AGOSTO: 5000€/mes  2500€/quincena  1200€/semana.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 17.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Valdenoja, Santander",
+        "title": "Piso en calle Valdenoja"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110854612",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c3/d6/8c/1417563298.webp",
+      "externalReference": "923-1713-2026_TEMP",
+      "numPhotos": 20,
+      "floor": "2",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 71.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "cuesta de la Atalaya",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4666711,
+      "longitude": -3.8076959,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110854612/",
+      "distance": "7255",
+      "description": "SOLO TEMPORADA ESCOLAR. A partir de septiembre 2026. (Curso 26-27).  Se alquila este piso en la Cuesta de la Atalaya, en muy buen estado, de unos 70 metros de superficie, distribuidos en 3 dormitorios, salón, cocina, baño y galería.  Totalmente exterior, se trata de una segunda planta sin ascensor, con pocas escaleras y muy luminoso, ubicado en edificio con comunidad muy tranquila.  La vivienda dispone de sistema de calefacción de gas natural, ventanas de PVC y suelos de tarima. La situación es inmejorable, en la cuesta de la Atalaya, junto a la parada del autobús, con escaleras mecánicas de subida y cerca del funicular y a 5 minutos caminando del centro.  En una zona con todos los servicios.  Llámanos y solicita más información, nuestro equipo de expertos estará encantado de ayudarte en todo aquello que necesites. EC Inmobiliaria, con oficinas en Santander, en la calle Floranes 63 junto a Cuatro Caminos y en Fernando de los Ríos 58.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Piso en cuesta de la Atalaya"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110854592",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6b/0b/fa/1417562581.webp",
+      "externalReference": "346",
+      "numPhotos": 23,
+      "floor": "1",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "paseo de Altamira",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4692862,
+      "longitude": -3.8023754,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110854592/",
+      "distance": "7606",
+      "description": "ALQUILER DE SEPTIEMBRE A JUNIO. Buscas piso de alquiler de temporada? ÉTICA INMOBILIARIA te ofrece este piso cerca de las universidades, ideal para estudiantes o profesores. Se trata de un piso completamente amueblado distribuido en 3 habitaciones dobles, baño completo con plato de ducha, cocina equipada y salón. Su orientación Norte/Sur hace que sea muy luminoso. Dispone de calefacción de gas individual, ventanas de PVC de doble cristal, suelos de madera. Se encuentra dentro de una urbanización privada con zona de aparcamiento. Cerca de zonas de ocio, paradas de autobús, supermercados, muy cerca del funicular que te lleva en 5 minutos al centro de la ciudad. No lo dudes y si buscas un piso en alquiler para el curso que viene, llámanos y te lo enseñamos e informamos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Piso en paseo de Altamira"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110854038",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e1/17/c6/1417543974.webp",
+      "numPhotos": 20,
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 228.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Tomás Maza Solano",
+      "province": "Cantabria",
+      "municipality": "El Astillero",
+      "country": "es",
+      "latitude": 43.4027918,
+      "longitude": -3.8294993,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110854038/",
+      "distance": "886",
+      "description": "¿Buscas un apartamento espacioso en El Astillero? Este apartamento amueblado de 3 dormitorios está equipado con comodidades modernas, como calefacción de gas natural, cocina totalmente equipada con lavavajillas y horno, y acceso a balcón o terraza. Se admiten mascotas, lo que lo convierte en la opción perfecta para quienes tienen mascotas. Ten en cuenta que, aunque el agua y el wifi están incluidos, la electricidad y el gas deben gestionarse por separado. Spotahome investiga minuciosamente a todos los propietarios para garantizar una experiencia de alquiler cómoda. Ubicado en El Astillero, este apartamento se beneficia de su proximidad a varios puntos de interés. El colegio María Jesús está cerca, junto con tiendas locales como los mercados de Día y Covirán. Para comer y disfrutar del ocio, encontrarás el Restaurante Hermanos Sampedro, la Taberna 1930, Piccola y la barbacoa La Ksuka a poca distancia a pie. El Astillero ofrece un entorno vibrante y bien conectado para una vida cómoda.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Astillero",
+        "title": "Piso en calle Tomás Maza Solano"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110853819",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5e/6e/cd/1417538391.webp",
+      "externalReference": "W-048SF7",
+      "numPhotos": 28,
+      "floor": "8",
+      "price": 2500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 116.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Isabel II",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Castilla - Hermida",
+      "country": "es",
+      "latitude": 43.4581128,
+      "longitude": -3.8104051,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110853819/",
+      "distance": "6285",
+      "description": "Piso exclusivo con vistas en Santander Engel & Völkers presenta este exclusivo piso de diseño a estrenar con impresionantes vistas a la Bahía de Santander. La propiedad dispone de 116m² construidos con amplio salón-comedor, cocina totalmente equipada, tres dormitorios, dos de ellas y dos cuartos de baño con plato de ducha. Desde el salón y desde una de las habitaciones disfrutará de las mejores vistas a la Bahía, a la playa de El Puntal, al Centro Botín y a Peña Cabarga. Reformado totalmente con las mejores calidades: cocina de Santos, baños de Porcelanosa, luces de led y domótica. Diseño minimalista, con muebles cuidadosamente escogidos. Se alquila amueblado y con plaza de garaje muy próxima. Alquiler para larga estancia. El inmueble está ubicado en la calle Isabel II, exclusiva zona del centro de Santander, en pleno paseo marítimo con inmejorables vistas de la Bahía. Excelente ubicación desde donde se puede ir dando un paseo al Centro Botín, la Plaza Porticada, la Catedral y el Ayuntamiento.  Estación de trenes Feve, corta y media distancia, así como de autobuses a 100 metros. Amplia oferta de servicios en la zona: bancos, supermercados, variedad de tiendas y restaurantes.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 22.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castilla - Hermida, Santander",
+        "title": "Piso en calle Isabel II"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849956",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/db/04/b7/1417438597.webp",
+      "numPhotos": 12,
+      "floor": "4",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 900.0,
+            "priceDropValue": 100,
+            "priceDropPercentage": 11
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Castilla",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Castilla - Hermida",
+      "country": "es",
+      "latitude": 43.4589493,
+      "longitude": -3.8089125,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849956/",
+      "distance": "6391",
+      "description": "Junto a la Plaza de las estaciones, edificio de calidad. Piso muy acogedor y reformado. NO SE ADMITEN MASCOTAS  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castilla - Hermida, Santander",
+        "title": "Piso en calle Castilla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849483",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/97/8c/02/1417429193.webp",
+      "numPhotos": 33,
+      "floor": "9",
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 140.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle San Fernando",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4588271,
+      "longitude": -3.8210441,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849483/",
+      "distance": "6332",
+      "description": "Piso alto, soleado al Sur, pequeña terracita. 2 camas de matrimonio y un tercer dormitorio con 2 camas. *NO SE ADMITEN MASCOTAS Ideal matrimonio maduro o personal funcionario, ingeniería, sanidad, etc. ….  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso en calle San Fernando"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849280",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bf/21/57/1417421180.webp",
+      "numPhotos": 9,
+      "floor": "2",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "avenida de la Reina Victoria",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4632995,
+      "longitude": -3.7878366,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849280/",
+      "distance": "7264",
+      "description": "Apartamento amplio en primera línea de Puertochico con salón y dormitorios exteriores. Próximo a playas y zonas de ocio de Santander. Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Piso en avenida de la Reina Victoria"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849528",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/28/5a/58/1417429656.webp",
+      "externalReference": "0803-130033-OJAIZ",
+      "numPhotos": 26,
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 150.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Luis Buñuel",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4428691,
+      "longitude": -3.8752388,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849528/",
+      "distance": "6455",
+      "description": "Luminoso chalet PAREADO junto al PCTCAN y a 5 minutos de Valdecilla. REFORMADO y RECIEN PINTADO. Se alquila vacío o amueblado /////NO; NO MASCOTAS/////// Imprescindible SEGURO de IMPAGO + 1 mes de Jardín de 90 m2 con orientación Suroeste-Norte. Incluye huerto urbano y un cobertizo para herramientas. (con huerto urbano). Planta principal: cocina totalmente equipada, aseo y amplio salón de 30 m2 con salida a la terraza (con toldo) y al jardín. Planta superior: 3 habitaciones (la principal en suite con baño completo), y un 2º baño. Planta sótano: bodega de 14 m2, lavadero y garaje para 2 coches con puerta automática. A 300 metros del acceso a S-20 y S-30 y del transporte urbano (Línea 3).  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Chalet pareado en calle Luis Buñuel"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110852038",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5c/7f/25/1417479270.webp",
+      "externalReference": "0803-105032-QUEVEDO-2MESES ",
+      "numPhotos": 12,
+      "floor": "3",
+      "price": 1050.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1050.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 115.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle de Torres Quevedo",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4580973,
+      "longitude": -3.8382243,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110852038/",
+      "distance": "6446",
+      "description": "*LEER BIEN* SOLO SE ALQUILA LOS 2 MESES COMPLETOS DE julio y de agosto**** no se alquila para veraneo. SOLO se alquila para trabajadores y estudiantes y tienen que justificarlo para añadirlo al contrato. El precio es una autentica oportunidad porque es lo que cuesta una semana en esos meses. Condiciones 1º se coge por fotos porque está habitado por estudiantes hasta final de junio. 2º Comisión de 600 euros + IVA. 3º El contrato se firma antes de la fecha de entrada para que inquilinos y propiedad tengan el trato cerrado y asegurado.  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en calle de Torres Quevedo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849392",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d9/9e/b4/1417425143.webp",
+      "externalReference": "0803-95022-AMOS",
+      "numPhotos": 14,
+      "floor": "7",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Amos de Escalante",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.461626,
+      "longitude": -3.811724,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849392/",
+      "distance": "6664",
+      "description": "Piso dúplex, junto al Ayuntamiento, de alquiler en pleno centro, junto a todo los servicios, orientado al Sur con grandes ventanales y buenas vistas. Oportunidad. Tiene 2 baños uno en cada planta. Abajo salón cocina y baño. Y arriba dormitorio tipo suite + otro salón con sofá de 2 camas. Armario de pared a pared. Muebles de Soco Restegui. Se pide solvencia acreditada con seguro de alquiler.  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Dúplex en calle Amos de Escalante"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849461",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d7/62/e1/1417427909.webp",
+      "externalReference": "0803-95021-LLUCH",
+      "numPhotos": 1,
+      "floor": "3",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Ernest Lluch",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4750461,
+      "longitude": -3.812043,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849461/",
+      "distance": "8150",
+      "description": "Primeros números de Ernest Lluch, estamos preparando un piso orientado al Sur //////SEMIAMUEBLADO////// Tiene armario empotrados. Incluye garaje y trastero. Oportunidad.  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en calle Ernest Lluch"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849358",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a6/82/0c/1417424535.webp",
+      "externalReference": "0803-87022-MAGALLANES ",
+      "numPhotos": 8,
+      "floor": "2",
+      "price": 870.0,
+      "priceInfo": {
+        "price": {
+          "amount": 870.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Magallanes",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Numancia - San Fernando",
+      "country": "es",
+      "latitude": 43.4611831,
+      "longitude": -3.8146899,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849358/",
+      "distance": "6599",
+      "description": "Centro Numancia /////NUESTROS ULTIMOS INQUILINOS ERAN TRABAJADORES DE VALDECILLA ///// Acogedor y junto a todo tipo de servicios. Muy buen precio zona….  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Numancia - San Fernando, Santander",
+        "title": "Piso en calle Magallanes"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110852042",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ff/f5/15/1417479317.webp",
+      "externalReference": "0803-140032-ANDRES-ESCOLAR ",
+      "numPhotos": 11,
+      "floor": "1",
+      "price": 1400.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1400.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Andrés del Río",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4633885,
+      "longitude": -3.7961451,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110852042/",
+      "distance": "7073",
+      "description": "En pleno Puerto Chico. ///// NO SE ALQUILA PARA FIJO ///// Disponible para el curso escolar 2026–2027. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. *Por favor, abstenerse quienes busquen alquiler para residencia permanente**  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Piso en calle Andrés del Río"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849223",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/85/96/93/1417420790.webp",
+      "externalReference": "0803-70011-SOMO",
+      "numPhotos": 4,
+      "floor": "bj",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "avenida Trasmiera",
+      "province": "Cantabria",
+      "municipality": "Ribamontan al Mar",
+      "district": "Somo",
+      "country": "es",
+      "latitude": 43.4530026,
+      "longitude": -3.7450291,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849223/",
+      "distance": "8220",
+      "description": "Se alquila apartamento en Somo. Fácil aparcamiento. Se requiere vida laboral estable e ingresos acreditados. Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Somo, Ribamontan al Mar",
+        "title": "Piso en avenida Trasmiera"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110852109",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/47/a3/70/1417482492.webp",
+      "numPhotos": 8,
+      "floor": "1",
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 88.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle General Moscardó",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Castilla - Hermida",
+      "country": "es",
+      "latitude": 43.4555696,
+      "longitude": -3.8209072,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110852109/",
+      "distance": "5970",
+      "description": "Hoy Calle Bernardo de Miera y Pacheco. Piso de alquiler para 2 fechas. ////DESDE LA ACTUALIDAD HASTA JUNIO INLUIDO///// y //// CURSO ESCOLAR 26 - 27///// ///// NO SE ALQUILA PARA FIJO ///// Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. *Por favor, abstenerse quienes busquen alquiler para residencia permanente**  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castilla - Hermida, Santander",
+        "title": "Piso en calle General Moscardó"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849597",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9c/f2/77/1417430799.webp",
+      "numPhotos": 10,
+      "floor": "2",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 110.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Nicolás Salmerón",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Castilla - Hermida",
+      "country": "es",
+      "latitude": 43.4580604,
+      "longitude": -3.8107909,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849597/",
+      "distance": "6276",
+      "description": "Junto a las estaciones de FEVE y Adif y Autobuses. ///// NO SE ALQUILA PARA FIJO ///// NO ALQUILER PARA VACACIONES. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castilla - Hermida, Santander",
+        "title": "Piso en calle Nicolás Salmerón"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100323520",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/99/3f/be/1259956331.webp",
+      "externalReference": "LIENCRES - TEMPORAL",
+      "numPhotos": 27,
+      "floor": "1",
+      "price": 487.0,
+      "priceInfo": {
+        "price": {
+          "amount": 487.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 35.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Barrio Somacueto, 6 --A",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Liencres",
+      "country": "es",
+      "latitude": 43.4582027,
+      "longitude": -3.9292771,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/100323520/",
+      "distance": "10911",
+      "description": "Alojamiento TEMPORAL flexible por meses. ■ SIN COMISIÓN DE AGENCIA ■ APARTAMENTOS AMUEBLADOS en LIENCRES, de diseño moderno, a 5 minutos de Santander, en un entorno natural junto al mar, muy cerca de las playas, tranquilo, dinámico y joven, rodeado de todos los servicios que necesitas en tu día a día, cercano al centro de salud, junto a diversos centros educativos, supermercados, cafeterías, restaurantes, farmacias, gimnasios y parada de transporte público con horario muy fluido. •Alquiler temporal flexible por meses, de septiembre hasta junio. Importe según tipología de apartamento y duración del alojamiento. •1 habitación, salón, sofá cama, cocina americana y baño. •Ideal para personas/empresas desplazadas temporalmente por trabajo o estudios. •Gastos de comunidad e IBI incluidos en precio del alquiler. •Suministro electricidad/gas, calefacción, agua, wifi: 69 €/mes. •Parking exterior privado (plazas sujetas a disponibilidad) •Wifi. •No se admiten mascotas. •Espacio libre de humos. •Necesario mes fianza (larga/media estancia) o deposito garantía (corta estancia). ¿Dónde estamos? Barrio Somacueto 6A, Liencres Las imágenes publicadas son orientativas sin carácter vinculante dado que corresponden a una vivienda tipo del edificio y por ello pueden no corresponder a la disponibilidad existente en el momento de su consulta. ■ Observaciones: Comercializamos este inmueble en exclusiva. * Anuncio mostrado a título informativo, no vinculante ni contractual.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liencres, Piélagos",
+        "title": "Piso en Barrio Somacueto, 6 --a"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110838435",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/27/e7/2b/1417109153.webp",
+      "externalReference": "AS527",
+      "numPhotos": 60,
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 73.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Somo",
+      "province": "Cantabria",
+      "municipality": "Ribamontan al Mar",
+      "district": "Somo",
+      "country": "es",
+      "latitude": 43.453737,
+      "longitude": -3.7414523,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110838435/",
+      "distance": "8487",
+      "description": "SOMO. Inmobiliaria SOMOPLAYA e INMOLOREDO alquilan ático con gran terraza en Somo, a un paso de la playa. Se alquila precioso ático en Somo, para larga estancia, mínimo un año, ubicado en una zona céntrica del pueblo y a pocos minutos de su maravillosa playa. La vivienda cuenta con 2 dormitorios, salón luminoso, cocina independiente totalmente equipada y 1 baño completo. Destaca su espectacular terraza de 38 m² orientada al sur, perfecta para disfrutar del sol durante todo el año, comer al aire libre o relajarse con vistas despejadas. El piso se encuentra en un edificio con ascensor e incluye plaza de garaje en el mismo, para mayor comodidad. La vivienda se alquila totalmente equipada, con electrodomésticos, muebles y calefacción, lista para entrar a vivir. Una oportunidad única para disfrutar del mar y la tranquilidad de Somo, en una vivienda con gran terraza y todas las comodidades. Características principales: Ático luminoso Terraza de 38 m² orientada al sur 2 dormitorios Cocina independiente equipada Salón 1 baño completo Ascensor Plaza de garaje  Calefacción Amueblado y con electrodomésticos  [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Somo, Ribamontan al Mar",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110838361",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3c/c1/89/1417106309.webp",
+      "externalReference": "35061",
+      "numPhotos": 23,
+      "floor": "bj",
+      "price": 850.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "avenida Parayas",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4457678,
+      "longitude": -3.8339963,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110838361/",
+      "distance": "5033",
+      "description": "Se alquila piso de 2 habitaciones, salón, cocina y 1 baño. TOTALMENTE REFORMADO. Amueblado y se alquila para fijo, se requiere seguro de alquiler. Es un bajo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en avenida Parayas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105535076",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2f/c4/0b/1255358776.webp",
+      "externalReference": "3698636986",
+      "numPhotos": 26,
+      "floor": "2",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 128.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "avenida de los Castros",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Los Castros",
+      "country": "es",
+      "latitude": 43.4691876,
+      "longitude": -3.807841,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105535076/",
+      "distance": "7531",
+      "description": "Alquilo piso par el próximo curso escolar septiembre a junio. Cuenta con 4 dormitorios, salón, cocina y 1 baño. Terraza con vistas despejadas y esta completamente amueblado. Garaje cerrado. Ideal estudiantes, con posibilidad de alquilar julio y agosto a otro precio.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Castros, Santander",
+        "title": "Piso en avenida de los Castros"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110789922",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/42/97/35/1415589012.webp",
+      "externalReference": "04912",
+      "numPhotos": 34,
+      "floor": "2",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 89.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Rosalía de Castro",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.437364,
+      "longitude": -3.8555429,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110789922/",
+      "distance": "4944",
+      "description": "Entre Peñacastillo y Nueva Montaña, puedes estrenar vivienda en ALQUILER FIJO (larga estancia). Se trata de un piso amueblado de 2 dormitorios, con calefacción y garaje. Ideal singles o parejas con buen perfil profesional.    Se trata de una vivienda de reciente construcción, en el distrito de ampliación de Santander, rodeada de zonas verdes, supermercados, gym y centro comercial. Además, existen varias líneas de autobús municipal que operan en el entorno.    Condiciones de la propiedad:    Seguro de impago ARAG. Deberás acreditar ingresos en España fijos netos mensuales superiores a 2.250 €.     Si cumples los requisitos, solicita tu visita por whatsapp en el teléfono.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en calle Rosalía de Castro"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110835520",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/18/f2/38/1417012667.webp",
+      "externalReference": "MIES670",
+      "numPhotos": 14,
+      "floor": "3",
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 58.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "General Dávila",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4607762,
+      "longitude": -3.8229969,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110835520/",
+      "distance": "6556",
+      "description": "Mies de Rial presenta en alquiler un precioso apartamento listo para entrar a vivir en un buen edificio con ascensor en la zona de Cuatro Caminos-Perines, a un paso de la Alameda de Oviedo, el Hospital de Valdecilla y Ministerios.  Se trata de una vivienda cálida y hogareña, bien distribuida en hall de entrada, salón comedor, cocina independiente amueblada y equipada y 1 baño. Un piso con buenas calidades en una edificación moderna, práctico y cómodo. Imprescindible seguro de impago, sometido a decisión última del propietario.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110830425",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/af/47/65/1416846365.webp",
+      "externalReference": "G02264",
+      "numPhotos": 26,
+      "floor": "3",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Centro - Ayuntamiento",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.4610277,
+      "longitude": -3.8139095,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110830425/",
+      "distance": "6585",
+      "description": "�️ ¡Oportunidad única! Este encantador piso reformado se encuentra en pleno centro de Santander, junto a la Calle Burgos. Rodeado por árboles y con todas las comodidades al alcance: supermercados, tiendas de ropa, cafeterías y farmacias a pocos pasos del edificio. � La ubicación es inmejorable gracias a la cercanía tanto autobuses como comercios, colegios y más servicios necesarios que harán tu vida diaria mucho más cómoda. EXCLUSIVO PERSONAL SANITARIO O FUNCIONARIOS. � El piso cuenta con un amplio dormitorio equipado con grandes armarios empotrados, con cama doble y escritorio. Además, disfrutarás del acceso a un balcón. El luminoso salón comedor destaca por su amplitud y sus dos cómodos sofás ideales para relajarte después del trabajo �, y mesa extensible perfecta para recibir visitas. � La cocina está completamente equipada (horno, microondas, frigorífico, cafetera ☕ e incluso lavavajillas) facilitando así tu día a día. Por último, un moderno baño completo equipado con bañera �. ¡No esperes más! Esta oportunidad podría ser justo lo que estabas buscando. � Dada la demanda actual, las visitas se realizarán exclusivamente en jornadas programadas y siguiendo un riguroso orden de contacto. Se sugiere máxima antelación para garantizar disponibilidad en los horarios establecidos. Nota: El acceso a la visita está sujeto al cumplimiento previo de los requisitos imprescindibles y disponibilidad del equipo comercial. TRANSPARENCIA GESTIÓN INMOBILIARIA: - No se admiten mascotas. - Sujeto a decisión última del cliente propietario. - Imprescindible seguro de alquiler. - Honorarios inmobiliarios incluidos en el precio. - Consultar resto de condiciones.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107448516",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/14/2f/0f/1312927209.webp",
+      "numPhotos": 14,
+      "floor": "2",
+      "price": 840.0,
+      "priceInfo": {
+        "price": {
+          "amount": 840.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle José Simón Cabarga",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "El Sardinero",
+      "country": "es",
+      "latitude": 43.472233,
+      "longitude": -3.7885748,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107448516/",
+      "distance": "8187",
+      "description": "/ ///// NO SE ALQUILA PARA FIJO ///// curso escolar 2026 – 2027. Sólo se atiende a quien especifique ser un estudiante o profesional trasladado por la temporalidad. Próximo universidad de Cantabria y cesine. Zona de fácil aparcamiento. Baño reformado. Ventanas de PVC. Baño con ducha termostática y plato de ducha de 80 cm. Lavavajillas bosch, lavadora nueva. Las luces de las habitaciones son regulables y pueden pasar de luz blanca a calida. Además se ha puesto un termostato digital y cambiado todos los enchufes. Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Sardinero, Santander",
+        "title": "Piso en calle José Simón Cabarga"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110822709",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c9/ae/ae/1416628205.webp",
+      "externalReference": "26-0005",
+      "numPhotos": 9,
+      "floor": "3",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 91.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida Herrera Oria",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.456897,
+      "longitude": -3.855327,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110822709/",
+      "distance": "6796",
+      "description": "¡Descubre tu nuevo hogar en este magnífico piso de 91 m²! Con 3 amplias habitaciones y 2 baños, este espacio es ideal para familias o parejas que buscan comodidad y estilo. Situado en una zona tranquila y bien comunicada, tendrás todo lo que necesitas a un paso: supermercados, centros de salud y más. La orientación sur garantiza que el sol inunde cada rincón, creando un ambiente cálido y acogedor. Además, cuenta con calefacción por gas natural y ventanas de PVC que aseguran un excelente aislamiento. Este piso, en segunda mano pero en buen estado, se encuentra en la tercera planta de un edificio con ascensor, lo que facilita el acceso. Y no te preocupes por el aparcamiento, ya que la plaza de garaje está incluida en el precio. Recuerda que se requiere un mes de fianza, mes de garantía extraordinaria y un seguro de alquiler obligatorio. ¡No dejes pasar esta oportunidad y ven a visitarlo!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en avenida Herrera Oria"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110822077",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4f/26/4e/1416600051.webp",
+      "numPhotos": 11,
+      "floor": "4",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 900.0,
+            "priceDropValue": 100,
+            "priceDropPercentage": 11
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Castilla",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Castilla - Hermida",
+      "country": "es",
+      "latitude": 43.4569076,
+      "longitude": -3.8105174,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110822077/",
+      "distance": "6150",
+      "description": "Junto a la Plaza de las estaciones, edificio de calidad. Piso muy acogedor y reformado. NO SE ADMITEN MASCOTAS  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castilla - Hermida, Santander",
+        "title": "Piso en calle Castilla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110817510",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/05/8e/61/1416597595.webp",
+      "externalReference": "0403-120032-POLIO ",
+      "numPhotos": 10,
+      "floor": "6",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 95.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Bajada de Polio",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Los Castros",
+      "country": "es",
+      "latitude": 43.467994,
+      "longitude": -3.8079872,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110817510/",
+      "distance": "7398",
+      "description": "Piso amplio entre Paseo Altamira y Avenida de los Castros. Reformado. Tiene garaje. ////NO SE ADMITEN MASCOTAS//// Muy acogedor…  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Castros, Santander",
+        "title": "Piso en Bajada de Polio"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109396814",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/40/20/d3/1373393006.webp",
+      "externalReference": "1081-1713",
+      "numPhotos": 11,
+      "floor": "4",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "avenida de los Castros",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "El Sardinero",
+      "country": "es",
+      "latitude": 43.4752327,
+      "longitude": -3.789234,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109396814/",
+      "distance": "8491",
+      "description": "SOLO TEMPORADA ESCOLAR, PARA CURSO ACADÉMICO 2026-2027 A tan solo 400 metros de las playas del Sardinero, y muy cerca de la zona universitaria y diversos centros educativos, se encuentra este piso de 90 metros de superficie, distribuidos en 4 habitaciones, salón, cocina independiente, baño, aseo y terraza. La vivienda dispone de sistema de calefacción de gas natural.  Se trata de una cuarta planta sin ascensor, situada en un edificio de hormigón, con zona de aparcamiento comunitaria. En una zona con todos los servicios, muy cerca del campus universitario, sin problemas de aparcamiento gracias a la plaza de aparcamiento en parking de la urbanización que se incluye en la oferta, y muy cerca de las playas. Se requiere un mes de fianza y no se aceptan mascotas. Llámanos para más información, nuestro equipo de expertos estará encantado de ayudarte en todo aquello que necesites.  EC Inmobiliaria, con oficinas en Santander, en calle Floranes 63, junto a Cuatro Caminos y en Fernando de los Ríos 58. EC INMOBILIARIA.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Sardinero, Santander",
+        "title": "Piso en avenida de los Castros"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103803738",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2b/0d/b4/1416389521.webp",
+      "externalReference": "4908",
+      "numPhotos": 19,
+      "floor": "1",
+      "price": 590.0,
+      "priceInfo": {
+        "price": {
+          "amount": 590.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 51.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle los Tilos, 1",
+      "province": "Cantabria",
+      "municipality": "Solares",
+      "country": "es",
+      "latitude": 43.3833522,
+      "longitude": -3.7402463,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/103803738/",
+      "distance": "6658",
+      "description": "En pleno centro de Solares con todos los servicios a su alcance, disponemos en alquiler para fijo de este soleado apartamento completamente orientado al sur; amplio en todas sus estancias, distribuido en hall, sala con cocina americana, dormitorio y baño completo. Dispone además de una amplia  plaza de garaje y trastero justo detrás. Se requiere un mes de fianza y seguro de impago. Se admite mascota según raza y peso, consúltenos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Solares",
+        "title": "Piso en calle los Tilos, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100817447",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/33/65/ab/1099878275.webp",
+      "externalReference": "ARS2348i",
+      "numPhotos": 24,
+      "floor": "2",
+      "price": 850.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 74.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Cardenal Cisneros",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.4638933,
+      "longitude": -3.8137222,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/100817447/",
+      "distance": "6904",
+      "description": "¡Descubre este encantador piso listo para entrar a vivir! Con una superficie de 74 metros cuadrados, esta vivienda ofrece un espacio cómodo y funcional. Cuenta con dos dormitorios y un baño completo, ideal para familias o parejas que buscan un hogar práctico.  El piso está amueblado y dispone de dos balcones que aportan luz natural y un ambiente fresco. La calefacción de gas natural individual garantiza confort durante todo el año. La cocina, totalmente equipada y amueblada, incluye un lavavajillas para mayor comodidad.  Sus ventanas de aluminio y su orientación tanto norte como sur hacen que sea una vivienda muy soleada y luminosa en todas las estancias. El suelo de tarima aporta calidez y elegancia al hogar. Además, al ser un piso exterior, disfruta de vistas abiertas y buena ventilación.  Una oportunidad perfecta para quienes desean vivir en un espacio moderno, cómodo y bien equipado.  No se aceptan mascotas. ¡Contáctanos para más información y agenda tu visita! Ref: ARS2348i.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Piso en calle Cardenal Cisneros"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110777084",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1c/f8/19/1415217775.webp",
+      "numPhotos": 18,
+      "floor": "1",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "plaza de la Constitucion",
+      "province": "Cantabria",
+      "municipality": "El Astillero",
+      "country": "es",
+      "latitude": 43.4016504,
+      "longitude": -3.8212239,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110777084/",
+      "distance": "213",
+      "description": "Piso confortable con su terracita. IDEAL PARA UNA PAREJA. /////no se admiten mascotas//////.  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Astillero",
+        "title": "Piso en plaza de la Constitucion"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110016183",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/26/b9/91/1392754317.webp",
+      "numPhotos": 10,
+      "floor": "1",
+      "price": 930.0,
+      "priceInfo": {
+        "price": {
+          "amount": 930.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 1050.0,
+            "priceDropValue": 120,
+            "priceDropPercentage": 11
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Macías Picavea",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4668681,
+      "longitude": -3.8024175,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110016183/",
+      "distance": "7340",
+      "description": "Se alquila inmueble para fijo. Se alquila también para estancias mas cortas. 3 habitaciones, 1 baño, cocina y mirador. Imprescindible poder acreditar solvencia. Pleno centro.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Piso en calle Macías Picavea"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110790725",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/58/83/7d/1415618729.webp",
+      "numPhotos": 9,
+      "floor": "3",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Ricardo López Aranda",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4417376,
+      "longitude": -3.8596891,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110790725/",
+      "distance": "5534",
+      "description": "Zona residencial y tranquila. Piso con garaje y trastero. NO SE ADMITEN MASCOTAS. Oportunidad. Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en calle Ricardo López Aranda"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108353532",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/18/e8/09/1341590827.webp",
+      "externalReference": "25-0008",
+      "numPhotos": 18,
+      "floor": "5",
+      "price": 2200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2200.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 2500.0,
+            "priceDropValue": 300,
+            "priceDropPercentage": 12
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle San Luis",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Numancia - San Fernando",
+      "country": "es",
+      "latitude": 43.4630645,
+      "longitude": -3.813867,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108353532/",
+      "distance": "6811",
+      "description": "ALQUILER TEMPORAL  Piso de 4 habitaciones con baño y aseo. Perfectamente localizado en pleno centro de Santander a un paso de todos los servicios y del transporte público. El ascensor llega a la entreplanta. Completamente equipado. Incluye los consumos. Llame ya sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 28.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Numancia - San Fernando, Santander",
+        "title": "Piso en calle San Luis"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110779575",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/80/c2/28/1415271493.webp",
+      "externalReference": "0103-125032-FERNANDO",
+      "numPhotos": 33,
+      "floor": "9",
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 140.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle San Fernando",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4615973,
+      "longitude": -3.822199,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110779575/",
+      "distance": "6644",
+      "description": "Piso alto, soleado al Sur, pequeña terracita. 2 camas de matrimonio y un tercer dormitorio con 2 camas. *NO SE ADMITEN MASCOTAS Ideal matrimonio maduro o personal funcionario, ingeniería, sanidad, etc. ….  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso en calle San Fernando"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110776873",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/dd/51/93/1415214508.webp",
+      "numPhotos": 1,
+      "floor": "3",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Ernest Lluch",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4731283,
+      "longitude": -3.8096355,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110776873/",
+      "distance": "7952",
+      "description": "Primeros números de Ernest Lluch, estamos preparando un piso orientado al Sur //////SEMIAMUEBLADO////// Tiene armario empotrados. Incluye garaje y trastero. Oportunidad.  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en calle Ernest Lluch"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110779720",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1c/ae/89/1415272376.webp",
+      "numPhotos": 26,
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 150.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Luis Buñuel",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4411791,
+      "longitude": -3.8722552,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110779720/",
+      "distance": "6152",
+      "description": "Luminoso chalet PAREADO junto al PCTCAN y a 5 minutos de Valdecilla. REFORMADO y RECIEN PINTADO. Se alquila vacío o amueblado /////NO; NO MASCOTAS/////// Imprescindible SEGURO de IMPAGO + 1 mes de Jardín de 90 m2 con orientación Suroeste-Norte. Incluye huerto urbano y un cobertizo para herramientas. (con huerto urbano). Planta principal: cocina totalmente equipada, aseo y amplio salón de 30 m2 con salida a la terraza (con toldo) y al jardín. Planta superior: 3 habitaciones (la principal en suite con baño completo), y un 2º baño. Planta sótano: bodega de 14 m2, lavadero y garaje para 2 coches con puerta automática. A 300 metros del acceso a S-20 y S-30 y del transporte urbano (Línea 3).  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Chalet pareado en calle Luis Buñuel"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110779578",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/71/4d/83/1415272146.webp",
+      "numPhotos": 10,
+      "floor": "6",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 1200.0,
+            "priceDropValue": 100,
+            "priceDropPercentage": 8
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 95.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Bajada de Polio",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Los Castros",
+      "country": "es",
+      "latitude": 43.4702559,
+      "longitude": -3.8087471,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110779578/",
+      "distance": "7641",
+      "description": "Piso amplio entre Paseo Altamira y Avenida de los Castros. Reformado. Tiene garaje. ////NO SE ADMITEN MASCOTAS//// Muy acogedor…  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Castros, Santander",
+        "title": "Piso en Bajada de Polio"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110776850",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/20/3b/07/1415213669.webp",
+      "numPhotos": 14,
+      "floor": "7",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Amos de Escalante",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.4612639,
+      "longitude": -3.8112343,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110776850/",
+      "distance": "6627",
+      "description": "Piso dúplex, junto al Ayuntamiento, de alquiler en pleno centro, junto a todo los servicios, orientado al Sur con grandes ventanales y buenas vistas. Oportunidad. Tiene 2 baños uno en cada planta. Abajo salón cocina y baño. Y arriba dormitorio tipo suite + otro salón con sofá de 2 camas. Armario de pared a pared. Muebles de Soco Restegui. Se pide solvencia acreditada con seguro de alquiler.  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Dúplex en calle Amos de Escalante"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 331,
+  "totalPages": 7,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en El Astillero, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 50,
+  "paginable": true
+}

@@ -1,0 +1,387 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110844454",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b2/1c/4c/1417293800.webp",
+      "externalReference": "A2604",
+      "numPhotos": 20,
+      "floor": "1",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 123.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Urbanizacion Domañanes, 4",
+      "province": "Cantabria",
+      "municipality": "Cabezón de la Sal",
+      "country": "es",
+      "latitude": 43.3022021,
+      "longitude": -4.2370925,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110844454/",
+      "distance": "559",
+      "description": "ALQUILER PARA FIJO. Ponemos en alquiler un piso amplio y luminoso en Cabezón de la Sal. Tiene vistas despejadas, y está situado en una urbanización muy cómoda para la vida diaria. El diseño del piso permite la entrada de luz natural a todas las estancias, proporcionando un ambiente cálido durante todo el día,  ya que todos los espacios cuentan con grandes ventanales y buena orientación. Con 3 habitaciones, dos baños completos (uno en suite), cocina con salida a una terraza, gran salón-comedor; y situado en una urbanización con todos los servicios cerca: farmacia, gimnasio, parque infantil, lavandería, centro de salud, guardia civil, institutos, etc A un paso del centro de Cabezón de la Sal, y bien comunicado. No tiene garaje pero se puede aparcar cerca del portal.   Admisión de mascotas. Ven a verlo sin compromiso!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cabezón de la Sal",
+        "title": "Piso en Urbanizacion Domañanes, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110763996",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d4/58/f7/1414834657.webp",
+      "externalReference": "CHA0058",
+      "numPhotos": 41,
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 216.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Barrio la Hayuela",
+      "province": "Cantabria",
+      "municipality": "Udias",
+      "country": "es",
+      "latitude": 43.3392983,
+      "longitude": -4.2640561,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110763996/",
+      "distance": "4291",
+      "description": "Se alquila magnífico chalet independiente en en La Hayuela, Udias, una vivienda que destaca por su amplitud, su calidad constructiva y su entorno natural privilegiado. Con 216 m² construidos, ofrece espacios generosos, bien distribuidos y muy luminosos, ideales para quienes buscan tranquilidad y confort. La planta principal alberga la zona de día, con un amplio salón-comedor con grandes ventanales que permiten disfrutar de las vistas abiertas y aportan una excelente luz natural durante todo el día. Tanto desde el salón como desde la cocina se accede directamente al jardín privado, que cuenta con aproximadamente 160 m², un espacio perfecto para disfrutar al aire libre, organizar reuniones o simplemente relajarse contemplando el paisaje. La cocina es independiente y está totalmente equipada, resultando práctica y funcional. En esta planta los suelos son de cerámica, resistentes y fáciles de mantener. En la planta superior se encuentra la zona de descanso, compuesta por tres amplios dormitorios y el baño principal, que dispone de bañera de hidromasaje, perfecta para disfrutar de momentos de relax. En esta planta los suelos son de madera, aportando calidez y un ambiente acogedor. La vivienda cuenta además con ventanas de PVC con doble acristalamiento, garantizando un excelente aislamiento térmico y acústico. En la planta inferior, situada por debajo de la planta principal, se encuentra el garaje con capacidad para dos coches, ofreciendo amplitud y comodidad de acceso. En esta misma zona se dispone de un baño adicional, lo que aporta un extra de funcionalidad. La propiedad también cuenta con trastero y sistema de aspiración central. Uno de los grandes valores añadidos de esta propiedad es su excelente ubicación. La Hayuela se encuentra a poca distancia de algunas de las mejores playas de la costa occidental de Cantabria. En aproximadamente 5-10 minutos en coche se puede acceder a la Playa de Comillas o a la Playa de Oyambre, conocidas por su belleza natural y sus amplios arenales. Esto permite disfrutar tanto de la tranquilidad del entorno rural como de escapadas rápidas al mar durante todo el año. Además, desde el propio jardín se pueden contemplar los majestuosos Picos de Europa, creando un entorno único donde se combinan montaña y costa en un mismo enclave. Esta cercanía tanto a la playa como a la montaña convierte la vivienda en una opción ideal para quienes valoran la naturaleza, el ocio al aire libre y la calidad de vida. Es para alquiler de larga duración. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Udias",
+        "title": "Casa independiente en Barrio la Hayuela"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110127154",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3a/8b/12/1396050891.webp",
+      "numPhotos": 72,
+      "price": 2500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "rent",
+      "size": 1430.0,
+      "rooms": 6,
+      "bathrooms": 6,
+      "address": "Diseminado Cos, 5",
+      "province": "Cantabria",
+      "municipality": "Mazcuerras",
+      "country": "es",
+      "latitude": 43.28505,
+      "longitude": -4.23428,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110127154/",
+      "distance": "2441",
+      "description": "¡Alquiler con opción a compra! Donde la historia se encuentra con la oportunidad perfecta: una propiedad única y lista para despegar. La propiedad reúne 975 m² distribuidos en tres plantas, además de un segundo edificio independiente para reformar con 493 m², ofreciendo múltiples posibilidades de uso. Principalmente como negocio de eventos y restauración, ya que su gran atractivo es que se encuentra prácticamente montado: cocina equipada, zonas de comedor, salones con chimenea… Solo requiere los últimos ajustes para empezar a funcionar. La finca cuenta con un jardín lateral de 325 m² y una extensa parcela arbolada de aproximadamente 4.000 m² situada detrás de la casa principal, donde se encuentra el edificio de casi 500m² ideal para rehabilitar y/o convertir en apartamentos turísticos o viviendas particulares. Distribución del inmueble principal: Planta de acceso: en el ingreso, recibidor / distribuidor de espacios. A la derecha, un salón con chimenea y un cuarto privado. En el frente, la zona de bar con cocina totalmente equipada. A la izquierda, un comedor con estancia reservada y baños. Primera planta: una amplia cocina auxiliar, baños, un dormitorio con chimenea y baño en suite, y un gran comedor con salida a una balconada con vistas abiertas al río y a los prados. Planta bajo cubierta: dividida en dos áreas independientes. La primera incluye salón con cocina americana, baño completo y tres dormitorios (uno en suite). La segunda es un espacio tipo loft de unos 100 m², ideal para nuevos usos o ampliaciones. Frente al inmueble hay más de 2.000 m² para utilizar como aparcamiento, un valor añadido si se plantea actividad turística o hostelera. Se trata de un inmueble sumamente singular: amplia casona tradicional montañesa a la orilla del río Saja, construida en el siglo XVIII con elementos característicos como el soportal de piedra y la solana con maderas nobles, todo ello a pocos minutos de Cabezón de la Sal, en el entorno natural del Valle de Cabuérniga, de nuestra Cantabria Infinita. En resumen: un lugar con alma, metros y potencial: solo falta que alguien lo convierta en su gran proyecto. Para optar a la opción a compra deberá abonarse el 10 % de entrada, 24 mensualidades de 2.500 € y el resto a la firma de escritura. El precio total de la propiedad son 849.000 €.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casale"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mazcuerras",
+        "title": "Casa rural en Diseminado Cos, 5"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109227590",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3b/9f/44/1368072233.webp",
+      "numPhotos": 11,
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "rent",
+      "size": 97.0,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Solapeña, 2",
+      "province": "Cantabria",
+      "municipality": "Comillas",
+      "country": "es",
+      "latitude": 43.362779,
+      "longitude": -4.2920015,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109227590/",
+      "distance": "7727",
+      "description": "**Casa Rural en Alquiler en Comillas - Un Rincón de Encanto** Descubre este maravilloso rincón con encanto en plena naturaleza, ideal para disfrutar de unas vacaciones inolvidables. Situada en Ruiseñada (Comillas), esta casita rural recién construida ofrece un refugio perfecto para parejas que buscan tranquilidad y conexión con el entorno. Con 97 m² construidos y 85 m² útiles, cuenta con un acogedor dormitorio en doble altura, lleno de luz, y un baño completo que garantiza comodidad. La casa está completamente amueblada y lista para entrar, con una cocina equipada. Además, podrás relajarte en el bonito porche exterior, perfecto para disfrutar al aire libre mientras te rodeas de la belleza natural de la zona. Si buscas un espacio extra, hay una opción de habitación independiente con baño propio y acceso directo, ideal para recibir visitas o simplemente disfrutar de mayor privacidad. Con calefacción aerotermia y una orientación sur-este que asegura luminosidad durante todo el día, esta casa es el lugar perfecto para desconectar y recargar energías. A solo unos minutos de la playa, tendrás la oportunidad de explorar la costa y practicar diversas actividades al aire libre. ¡No dejes pasar la oportunidad de vivir esta experiencia única en Cantabria! El precio puede cambiar según la temporada del año. (SIN COMISION DE AGENCIA).",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casale"
+      },
+      "suggestedTexts": {
+        "subtitle": "Comillas",
+        "title": "Casa rural en Solapeña, 2"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109052990",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/94/ed/a4/1362853661.webp",
+      "externalReference": "228",
+      "numPhotos": 17,
+      "floor": "bj",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio Cóbreces, 42",
+      "province": "Cantabria",
+      "municipality": "Alfoz de Lloredo",
+      "country": "es",
+      "latitude": 43.3822382,
+      "longitude": -4.2080419,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109052990/",
+      "distance": "8645",
+      "description": "Ofrecemos este apartamento en alquiler desde septiembre/octubre hasta mayo/junio de 2026. Apartamento de dos dormitorios con una amplia terraza privada con piscina comunitaria muy tranquila.  Parque infantil cubierto con tirolina y pistas de pádel. Se encuentra a 800 metros de la Playa Luaña y a 8 minutos en coche de Comillas y 5 de Santillana del Mar (9km). Habitación principal con cama de matrimonio, la otra con dos camas individuales. Amplio salón-comedor con cocina americana, y una terraza con mesa de comedor y tumbonas. Cuarto de baño con plato de ducha. La casa esta totalmente equipada, tendrás todo lo necesario para pasar una estancia agradable.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alfoz de Lloredo",
+        "title": "Piso en Barrio Cóbreces, 42"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107929009",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5b/dd/26/1328612461.webp",
+      "numPhotos": 26,
+      "price": 5000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 5000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 392.0,
+      "rooms": 6,
+      "bathrooms": 5,
+      "address": "Barrio de la Molina",
+      "province": "Cantabria",
+      "municipality": "Comillas",
+      "country": "es",
+      "latitude": 43.3621854,
+      "longitude": -4.2911451,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107929009/",
+      "distance": "7633",
+      "description": "¡Descubre la mejor casa para pasar tus vacaciones! ¡Esta impresionante casa independiente en alquiler! Situado en un amplio terreno de 804 m², la propiedad destaca por su generosa área de prado-jardín de 656 m², perfecta para disfrutar del aire libre. La casa cuenta con 366,05 m² construidos, distribuidos en tres plantas que ofrecen una distribución funcional y acogedora. Con 6 dormitorios y 5 baños, hay espacio suficiente para toda la familia.  Cada rincón de esta vivienda ha sido diseñado con atención al detalle, desde la estructura de madera de roble hasta las elegantes carpinterías de castaño. Disfruta de la calidez de los tres salones y la comodidad de dos cocinas completamente equipadas. Además, el porche cubierto orientado al sudoeste es ideal para relajarse al atardecer.  La vivienda está adaptada para garantizando confort durante todo el año. Ubicada en un entorno natural excelente, este inmueble es un verdadero oasis. ¡No pierdas la oportunidad de pasar tus vacaciones en un lugar que combina naturaleza y comodidad! El precio varía en función de la fecha y el número de noches. No dudes en consultarnos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Comillas",
+        "title": "Casa independiente en Barrio de la Molina"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105475670",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8d/52/b1/1253404262.webp",
+      "externalReference": "A703",
+      "numPhotos": 51,
+      "price": 12472.0,
+      "priceInfo": {
+        "price": {
+          "amount": 12472.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 274.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Barrio Cóbreces",
+      "province": "Cantabria",
+      "municipality": "Alfoz de Lloredo",
+      "country": "es",
+      "latitude": 43.3816369,
+      "longitude": -4.2081794,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105475670/",
+      "distance": "8577",
+      "description": "\" La Casa de las Aves\" Alquiler Vacacional. Precio expuesto, correspondiente a cada noche, mínimo 4 noches. Bonita casa independiente con estupendas vistas al mar y amplio jardín con arbolado. La Casa, consta de Vestíbulo de acceso con arranque de escalera a Planta Principal donde encontramos recibidor, comedor - cocina todo abierto con salida al jardín sur, dormitorio principal con cama de matrimonio (1,60 m) y con baño dentro. Salón, dos dormitorios (uno con cama con cama de matrimonio (1,35 m) y otro con dos camas individuales ), y cuarto de baño. Sala auxiliar con estupendas vistas, y cuarto de baño. Dentro de la parcela, hay una zona delimitada para aparcar varios coches. Terraza, y jardín. La casa disfruta de varias zonas exteriores con mobiliario de jardín. Situación muy tranquila, entorno bonito y estupendas vistas al mar y al campo. A 7 Km de Comillas y a unos 2 Km de la playa de Luaña. Número de certificación turística G-106.935. PERIODOS NO DISPONIBLES: Del 29 de JUNIO al 06 de JULIO y Del 28 de JULIO al 6 de SEPTIEMBRE.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 46.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alfoz de Lloredo",
+        "title": "Casa independiente en Barrio Cóbreces"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 7,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Cabezón de la Sal, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 7,
+  "paginable": false,
+  "lowerRangePosition": 0
+}

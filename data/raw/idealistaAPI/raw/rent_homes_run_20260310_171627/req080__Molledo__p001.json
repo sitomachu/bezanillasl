@@ -1,0 +1,74 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110344026",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4f/7a/43/1407134111.webp",
+      "externalReference": "65074036_2",
+      "numPhotos": 31,
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 82.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle el Nogalon, 10",
+      "province": "Cantabria",
+      "municipality": "Molledo",
+      "country": "es",
+      "latitude": 43.1519678,
+      "longitude": -4.0428978,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110344026/",
+      "distance": "75",
+      "description": "� ALQUILER FIJO EN MOLLEDO – CHALET PAREADO CON TERRAZA Y APARCAMIENTO Si sueñas con vivir de forma estable en un entorno tranquilo, rodeado de naturaleza � y con todas las comodidades, este chalet pareado en Molledo es para ti. Una vivienda cuidada, acogedora y totalmente equipada, pensada para disfrutarla como hogar desde el primer día � � IDEAL PARA ���� Familias que buscan establecer su residencia habitual en un entorno seguro y relajado � Personas que valoran la calma, el aire puro y la vida lejos del ruido urbano �� Profesionales que teletrabajan y necesitan un espacio cómodo, luminoso y funcional � DISTRIBUCIÓN Y CARACTERÍSTICAS � 82 m2 construidos, distribuidos en dos plantas �️ Tres habitaciones dobles con armarios empotrados | Perfectas para dormitorios, despacho o zona de invitados �️ Salón-comedor amplio y luminoso | Ideal para el descanso, la vida en familia o el teletrabajo �️ Cocina independiente, amueblada y equipada | Lista para usar desde el primer día, con electrodomésticos y menaje � Baño completo con bidé y lavadora | Funcional y cómodo para el día a día � Tendedero exterior | Secado natural aprovechando el aire puro ✨ EXTRAS QUE MARCAN LA DIFERENCIA � Carpintería interior de madera natural | Aporta calidez, elegancia y confort � Calefacción de gasóleo | Eficiente y perfecta para los meses más fríos � Ventanas de madera con doble acristalamiento Climalit | Excelente aislamiento térmico y acústico � Fachada monocapa | Moderna, resistente y de bajo mantenimiento �️ Terraza exterior | Ideal para desayunar al sol, leer o disfrutar del paisaje � Aparcamiento en la puerta de casa | Comodidad total, sin preocupaciones � Vivienda completamente amueblada y lista para entrar a vivir � ENTORNO Zona rural tranquila, con servicios esenciales cercanos y buen acceso por carretera. Una opción perfecta para quienes desean calidad de vida sin renunciar a la comodidad � � CONDICIONES DEL ALQUILER �️ Contrato de larga duración (alquiler fijo) � No se admiten mascotas � Un mes de fianza ✔️ Seguro de impago (50%) � ¿Te interesa? Contacta con nosotros para más información o para concertar una visita. Ven a descubrir tu próximo hogar en Molledo �� Si quieres, puedo adaptarla a un estilo aún más exclusivo o más comercial para portales inmobiliarios �.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Molledo",
+        "title": "Chalet pareado en calle el Nogalon, 10"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 1,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Molledo, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 1,
+  "paginable": false,
+  "lowerRangePosition": 0
+}
