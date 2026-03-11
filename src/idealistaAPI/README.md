@@ -7,8 +7,8 @@ Módulo para ingesta de datos inmobiliarios de Idealista orientado a casos de ne
 1. Crea y activa entorno virtual.
 2. Instala dependencias del modulo:
 
-```powershell
-pip install -r src/idealistaAPI/requirements.txt
+```bash
+python -m pip install -r requirements.txt
 ```
 
 3. Define credenciales de Idealista:
@@ -62,13 +62,17 @@ python src/idealistaAPI/ingestion/run_sale_requests.py --max-requests 100
 python src/idealistaAPI/ingestion/run_rent_requests.py --max-requests 100
 ```
 
+### 2.b) Reanudar el ultimo run de alquiler sin rehacer las requests ya hechas
+
+```bash
+python src/idealistaAPI/ingestion/run_resume_rent_requests.py --max-requests 100
+```
+
 ### 3) Test rápido de conectividad
 
 ```powershell
 python -m src.idealistaAPI.ingestion.test_one_request
 ```
-
-Nota: script CLI de resume dedicado (`resume_rent_requests.py`): no encontrado en el repositorio.
 
 ## Salidas por run
 

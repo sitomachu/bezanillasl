@@ -14,7 +14,7 @@ Guia operativa del modulo `src/idealistaAPI` con la estructura actual.
 Desde la raiz del repo:
 
 ```bash
-pip install -r src/idealistaAPI/requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## 3. Variables de entorno
@@ -73,13 +73,19 @@ python src/idealistaAPI/ingestion/run_sale_requests.py --max-requests 100
 python src/idealistaAPI/ingestion/run_rent_requests.py --max-requests 100
 ```
 
+### Reanudar el ultimo run de alquiler
+
+Esto reutiliza el ultimo `rent_homes_run_*`, conserva las  requests ya consumidas y, si un circulo ya no aporta novedad, pasa a municipios adicionales definidos en configuracion.
+
+```bash
+python src/idealistaAPI/ingestion/run_resume_rent_requests.py --max-requests 100
+```
+
 ### Test de conectividad
 
 ```bash
 python -m src.idealistaAPI.ingestion.test_one_request
 ```
-
-Script CLI de resume dedicado (`resume_rent_requests.py`): no encontrado en el repositorio.
 
 ## 6. Parametros comunes
 

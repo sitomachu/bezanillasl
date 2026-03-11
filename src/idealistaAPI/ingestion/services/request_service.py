@@ -14,6 +14,10 @@ from src.idealistaAPI.ingestion.api_types import SearchResponse
 from src.idealistaAPI.ingestion.client import IdealistaAPIError, IdealistaClient
 from src.idealistaAPI.processing.clean_idealista import clean_json_run
 
+BACKUP_RADIUS_FACTORS: Tuple[float, ...] = (0.7, 0.85, 1.15)
+MIN_BACKUP_DISTANCE_M = 7000
+MAX_BACKUP_DISTANCE_M = 22000
+
 
 @dataclass(frozen=True)
 class Circle:
@@ -72,6 +76,29 @@ def _dedupe_circles_keep_first(circles: List[Circle]) -> List[Circle]:
         seen.add(key)
         out.append(c)
     return out
+
+
+def _rounded_distance_m(distance_m: int) -> int:
+    return int(round(distance_m / 500.0) * 500)
+
+
+def _build_backup_circles(circles: List[Circle]) -> List[Circle]:
+    out: List[Circle] = []
+    for factor in BACKUP_RADIUS_FACTORS:
+        for circle in circles:
+            scaled_distance = _rounded_distance_m(int(circle.distance_m * factor))
+            scaled_distance = max(MIN_BACKUP_DISTANCE_M, min(MAX_BACKUP_DISTANCE_M, scaled_distance))
+            if scaled_distance == circle.distance_m:
+                continue
+            suffix = f"{scaled_distance // 1000:02d}km"
+            out.append(
+                Circle(
+                    name=f"{circle.name}__alt_{suffix}",
+                    center=circle.center,
+                    distance_m=scaled_distance,
+                )
+            )
+    return _dedupe_circles_keep_first(out)
 
 
 def _raw_run_dirs_for_operation(operation: str) -> List[Path]:
@@ -228,8 +255,14 @@ def _new_manifest(
         "max_items": MAX_ITEMS,
         "output_csv_name": output_csv_name,
         "circles_effective": [c.__dict__ for c in circles],
-        "strategy": "novelty_prioritized_over_circles",
+        "strategy": "novelty_prioritized_with_backup_circle_expansion",
     }
+
+
+def _sync_manifest_circles(manifest_path: Path, manifest: Dict[str, Any], states: List[CircleState]) -> None:
+    payload = dict(manifest)
+    payload["circles_effective"] = [st.circle.__dict__ for st in states]
+    _write_json(manifest_path, payload)
 
 
 def _write_summary(
@@ -397,6 +430,9 @@ def run_new(
             circles=circles,
         ),
     )
+    manifest_path = raw_dir / "manifest.json"
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    backup_circles = _build_backup_circles(circles)
 
     used = 0
     seen_property_keys: Set[str] = set()
@@ -411,8 +447,18 @@ def run_new(
     while used < max_requests:
         active = _active_states_force(states, max_pages_per_circle, force_max_requests)
         if not active:
-            _log("No quedan circulos activos. Se detiene la ejecucion.")
-            break
+            states, added = _expand_with_backup_circles(
+                states=states,
+                manifest=manifest,
+                manifest_path=manifest_path,
+                backup_circles=backup_circles,
+            )
+            if added:
+                _log(f"No quedaban circulos activos. Se anaden {added} circulos de respaldo y continua la ejecucion.")
+                active = _active_states_force(states, max_pages_per_circle, force_max_requests)
+            if not active:
+                _log("No quedan circulos activos ni de respaldo. Se detiene la ejecucion.")
+                break
 
         st = _pick_state(active)
         tag = f"req{used + 1:03d}"
@@ -534,6 +580,60 @@ def _load_resume_state(raw_dir: Path) -> Tuple[Dict[str, Any], List[CircleState]
     return manifest, list(by_name.values()), used
 
 
+def _summary_path_for_raw_dir(raw_dir: Path) -> Path:
+    return PROCESSED_BASE / raw_dir.name / "summary.json"
+
+
+def _load_exhausted_circle_names(raw_dir: Path) -> Set[str]:
+    summary_path = _summary_path_for_raw_dir(raw_dir)
+    if not summary_path.exists():
+        return set()
+    try:
+        payload = json.loads(summary_path.read_text(encoding="utf-8"))
+    except Exception:
+        return set()
+    return {
+        str(circle_state.get("name"))
+        for circle_state in (payload.get("circle_states") or [])
+        if circle_state.get("name") and bool(circle_state.get("exhausted"))
+    }
+
+
+def _merge_missing_circles(states: List[CircleState], circles: List[Circle]) -> List[CircleState]:
+    by_name = {st.circle.name for st in states}
+    merged = list(states)
+    for circle in circles:
+        if circle.name in by_name:
+            continue
+        merged.append(CircleState(circle=circle))
+        by_name.add(circle.name)
+    return merged
+
+
+def _expand_with_backup_circles(
+    *,
+    states: List[CircleState],
+    manifest: Dict[str, Any],
+    manifest_path: Path,
+    backup_circles: List[Circle],
+) -> Tuple[List[CircleState], int]:
+    existing_names = {st.circle.name for st in states}
+    existing_keys = {(st.circle.center.strip(), int(st.circle.distance_m)) for st in states}
+    merged = list(states)
+    added = 0
+    for circle in backup_circles:
+        key = (circle.center.strip(), int(circle.distance_m))
+        if circle.name in existing_names or key in existing_keys:
+            continue
+        merged.append(CircleState(circle=circle))
+        existing_names.add(circle.name)
+        existing_keys.add(key)
+        added += 1
+    if added:
+        _sync_manifest_circles(manifest_path, manifest, merged)
+    return merged, added
+
+
 def _find_latest_rent_raw_dir() -> Path:
     candidates = _raw_run_dirs_for_operation("rent")
     if not candidates:
@@ -547,11 +647,12 @@ def run_resume_latest_rent(
     max_pages_per_circle_override: Optional[int] = None,
     output_csv_override: Optional[str] = None,
     no_adaptive_pages: bool = False,
-    force_max_requests: bool = True,
+    force_max_requests: bool = False,
 ) -> Path:
     client = IdealistaClient()
     raw_dir = _find_latest_rent_raw_dir()
     manifest, states, used = _load_resume_state(raw_dir)
+    manifest_path = raw_dir / "manifest.json"
     run_id = str(manifest.get("run_id") or raw_dir.name.replace("rent_homes_run_", ""))
 
     processed_dir = PROCESSED_BASE / f"rent_homes_run_{run_id}"
@@ -560,6 +661,17 @@ def run_resume_latest_rent(
     max_requests = int(max_requests_override or manifest.get("max_requests", 100))
     max_pages_per_circle = int(max_pages_per_circle_override or manifest.get("max_pages_per_circle", 20))
     output_csv_name = str(output_csv_override or manifest.get("output_csv_name", "rent_homes_cantabria_bezana_like_raw.csv"))
+    exhausted_circle_names = _load_exhausted_circle_names(raw_dir)
+
+    # Reanudar sobre el mismo run y, si los circulos previos ya no aportan novedad,
+    # habilitar municipios adicionales definidos actualmente en la configuracion.
+    states = _merge_missing_circles(states, _dedupe_circles_keep_first(_default_circles()))
+    _apply_circle_priors(states, _load_circle_priors("rent"))
+    for st in states:
+        if st.circle.name in exhausted_circle_names:
+            st.exhausted = True
+    _sync_manifest_circles(manifest_path, manifest, states)
+    backup_circles = _build_backup_circles([st.circle for st in states])
 
     stopped_by_quota = False
     quota_error: Optional[str] = None
@@ -588,8 +700,18 @@ def run_resume_latest_rent(
     while used < max_requests:
         active = _active_states_force(states, max_pages_per_circle, force_max_requests)
         if not active:
-            _log("No quedan circulos activos. Se detiene la reanudacion.")
-            break
+            states, added = _expand_with_backup_circles(
+                states=states,
+                manifest=manifest,
+                manifest_path=manifest_path,
+                backup_circles=backup_circles,
+            )
+            if added:
+                _log(f"No quedaban circulos activos. Se anaden {added} circulos de respaldo y continua la reanudacion.")
+                active = _active_states_force(states, max_pages_per_circle, force_max_requests)
+            if not active:
+                _log("No quedan circulos activos ni de respaldo. Se detiene la reanudacion.")
+                break
 
         st = _pick_state(active)
         tag = f"req{used + 1:03d}"

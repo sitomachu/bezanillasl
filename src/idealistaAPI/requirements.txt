@@ -1,6 +1,0 @@
-# Idealista ingestion module dependencies
-# Install with:
-#   pip install -r src/idealistaAPI/requirements.txt
-
-requests>=2.31,<3
-pandas>=2.2,<3

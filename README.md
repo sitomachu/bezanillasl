@@ -27,7 +27,7 @@ La arquitectura del proyecto organiza la información desde la ingesta de fuente
 ├── src/                        # Código fuente del proyecto (scripts de limpieza y modelado).
 │   ├── idealistaAPI/           # Módulo de ingesta y procesamiento vía API Idealista.
 │   └── geospatial_expansion/   # Módulo de distancias a POIs (playa, colegio, supermercado, etc.).
-├── requirements.txt            # Listado de dependencias y versiones.
+├── requirements.txt            # Instalacion completa para trabajo local.
 └── README.md                   # Documentación principal del proyecto.
 ```
 
@@ -42,6 +42,53 @@ Flujos principales:
 Guías y uso:
 - Documentación del módulo: `src/idealistaAPI/README.md`
 - Guía operativa: `src/idealistaAPI/idealista_API_userguide.md`
+
+## Entorno Python recomendado
+
+La forma mas estandarizada de trabajar este repositorio es con un entorno virtual local en `.venv` creado desde la raiz del proyecto.
+
+Crear el entorno si no existe:
+
+```bash
+python3 -m venv .venv
+```
+
+Activarlo en macOS / Linux:
+
+```bash
+source .venv/bin/activate
+```
+
+Activarlo en Windows PowerShell:
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+Actualizar herramientas base de `pip` dentro del entorno:
+
+```bash
+python -m pip install --upgrade pip setuptools wheel
+```
+
+Instalacion completa para desarrollo local y notebooks:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+Instalaciones mas acotadas:
+
+- Instalar todo desde la raiz: `python -m pip install -r requirements.txt`
+
+Comprobar si el entorno virtual esta activo:
+
+```bash
+which python
+python -V
+```
+
+Si el entorno ya existe, solo hay que reactivarlo con el comando de activacion correspondiente.
 
 ## 5. Módulo de Expansión Geoespacial
 El repositorio incluye `src/geospatial_expansion` para enriquecer datasets de venta/alquiler con distancia mínima al punto de interés más cercano por categoría (playa, supermercado, colegio, etc.) usando OpenStreetMap (`osmnx`).
