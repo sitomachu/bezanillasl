@@ -66,7 +66,7 @@ def _obtener_pois_por_categoria(
     except Exception as exc:
         raise ImportError(
             "No se pudo importar osmnx. Instala dependencias con: "
-            "pip install -r src/geospatial_expansion/requirements.txt"
+            "python -m pip install -r requirements.txt"
         ) from exc
 
     out: Dict[str, List[Tuple[str, float, float]]] = {}

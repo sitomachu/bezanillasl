@@ -1,0 +1,559 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110869654",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fc/fb/9c/1418038023.webp",
+      "externalReference": "10334",
+      "numPhotos": 31,
+      "floor": "3",
+      "price": 675.0,
+      "priceInfo": {
+        "price": {
+          "amount": 675.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 65.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Voto",
+      "province": "Cantabria",
+      "municipality": "Voto",
+      "country": "es",
+      "latitude": 43.3544526,
+      "longitude": -3.496441,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110869654/",
+      "distance": "11068",
+      "description": "Se alquila piso en Bádames para larga duración Imprescindible solvencia de los inquilinos para el seguro de impago Residencial privado con piscina. En perfecto estado para entrar a vivir. No se admiten mascotas Ubicado en la localidad de Bádames (Voto) a solo 15 min de Laredo y de las playas. La vivienda dispone de dos habitaciones dos baños completos, uno con plato de ducha y otro con bañera. Cocina con salida a un pequeño balcón y bonito salón comedor con grandes ventanales. Incluye ademas, plaza de garaje y trastero. Se sitúa en una tranquila zona residencial, en el centro de Bádames.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Voto",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108286344",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/91/b1/b0/1339574631.webp",
+      "externalReference": "V202567",
+      "numPhotos": 14,
+      "floor": "1",
+      "price": 1150.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1150.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Ampuero",
+      "province": "Cantabria",
+      "municipality": "Ampuero",
+      "country": "es",
+      "latitude": 43.3471491,
+      "longitude": -3.4263968,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108286344/",
+      "distance": "10383",
+      "description": "Se alquila piso en Ampuero. Situado en la zona de Marrón-El Povedal es un piso ideal para pasar tus vacaciones en familia.  El piso consta de 2 habitaciones, salón-comedor con cocina abierta, 1 baño completo y una bonita terraza desde donde disfrutar de las bonitas vistas de la Cantabria verde. Además, la urbanización cuenta con ascensor y piscina comunitaria. JULIO: Semana: 700€ 1ª Quincena: 1.150€ AGOSTO: Semana: 900€ 1ª Quincena: 1.550€ 2ª quincena de julio y 2ª quincena de agosto, ocupado. Para más información: Garanty Home Cantabria c/Emperador 1, Laredo.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 19.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ampuero",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849612",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9c/c7/b1/1417431346.webp",
+      "externalReference": "0803-70022-LIMPIAS ",
+      "numPhotos": 9,
+      "floor": "bj",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle El Canton",
+      "province": "Cantabria",
+      "municipality": "Limpias",
+      "country": "es",
+      "latitude": 43.3602534,
+      "longitude": -3.4225017,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849612/",
+      "distance": "11869",
+      "description": "Edificio moderno, piso con 2 dormitorios, salón, cocina y 2 baños. Incluye garaje y trastero. Oportunidad.  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limpias",
+        "title": "Piso en calle El Canton"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110812897",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/93/85/a9/1416318876.webp",
+      "externalReference": "003511",
+      "numPhotos": 14,
+      "floor": "2",
+      "price": 590.0,
+      "priceInfo": {
+        "price": {
+          "amount": 590.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 55.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Barrio la Somadilla",
+      "province": "Cantabria",
+      "municipality": "Voto",
+      "country": "es",
+      "latitude": 43.3569335,
+      "longitude": -3.4937399,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110812897/",
+      "distance": "11287",
+      "description": "Desde inmobiliaria Pisos Laredo os presentamos este estupendo piso para alquiler de larga duración en Bádames en una residencia privada con piscina, zona de juegos infantiles y bonitos jardines. Bádames es una localidad que cuenta con todos los servicios (ayuntamiento, centro de salud, supermercados, bancos... ) y se encuentra muy bien comunicado con la A-8 Santander-Bilbao.  Este precioso piso está decorado al detalle y tiene todos los enseres. Cuenta con un dormitorio con cama de matrimonio y armario empotrado, cocina independiente totalmente equipada con salida a un balcón, salón comedor con unas estupendas vistas y un baño completo con bañera. Para más información, llámanos al o pásate por nuestra oficina ubicada en C/López Seña, 13 (Galería Europa) IMPRESCINDIBLE CONTRATO DE TRABAJO Y SOLVENCIA ECONOMICA/ NO SE ADMITEN MASCOTAS.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Voto",
+        "title": "Piso en Barrio la Somadilla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110823062",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d7/fb/d4/1416633046.webp",
+      "externalReference": "10327",
+      "numPhotos": 22,
+      "floor": "1",
+      "price": 675.0,
+      "priceInfo": {
+        "price": {
+          "amount": 675.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Ramales de la Victoria",
+      "province": "Cantabria",
+      "municipality": "Ramales de la Victoria",
+      "country": "es",
+      "latitude": 43.2564718,
+      "longitude": -3.467452,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110823062/",
+      "distance": "337",
+      "description": "Bonito apartamento de una habitación en Ramales¡Ven a verlo! Alquiler de larga temporada, imprescindible la solvencia de los inquilinos para el seguro de impago  El apartamento es de aproximadamente 60 m2 distribuidos en un salón diáfano, cocina, baño, y dormitorio con cama de matrimonio. Situado en el municipio de Ramales a 20 minutos de la playa de Laredo, con todos los servicios a tu alcance. ¡ Ven a visitar la vivienda sin compromiso! Puedes ponerte en contacto con nosotros a través de nuestra página web o a través de nuestro teléfono de contacto.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ramales de la Victoria",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110710207",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/22/24/83/1413105771.webp",
+      "numPhotos": 7,
+      "floor": "2",
+      "price": 500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 55.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Teatro",
+      "province": "Cantabria",
+      "municipality": "Ramales de la Victoria",
+      "country": "es",
+      "latitude": 43.2555961,
+      "longitude": -3.4659536,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110710207/",
+      "distance": "305",
+      "description": "Ático reformado cocina y baño. Muy céntrico y tranquilo. Muy acogedor.  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ramales de la Victoria",
+        "title": "Ático en calle Teatro"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110667129",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0f/e6/59/1411784066.webp",
+      "externalReference": "1702-79032-VOTO",
+      "numPhotos": 8,
+      "floor": "1",
+      "price": 790.0,
+      "priceInfo": {
+        "price": {
+          "amount": 790.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio la Somadilla",
+      "province": "Cantabria",
+      "municipality": "Voto",
+      "country": "es",
+      "latitude": 43.3554295,
+      "longitude": -3.4950492,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110667129/",
+      "distance": "11147",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible hasta junio 2026. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Voto",
+        "title": "Piso en Barrio la Somadilla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100823214",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1c/d4/29/1100054139.webp",
+      "externalReference": "1198",
+      "numPhotos": 1,
+      "floor": "2",
+      "price": 600.0,
+      "priceInfo": {
+        "price": {
+          "amount": 600.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle la Mies",
+      "province": "Cantabria",
+      "municipality": "Ampuero",
+      "country": "es",
+      "latitude": 43.3450746,
+      "longitude": -3.4106473,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/100823214/",
+      "distance": "10611",
+      "description": "Piso de dos dormitorios en Ampuero, salón-comedor, cocina, baño y aseo.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ampuero",
+        "title": "Piso en calle la Mies"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108767749",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ef/68/22/1354553267.webp",
+      "externalReference": "10130",
+      "numPhotos": 28,
+      "price": 2500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 140.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Voto",
+      "province": "Cantabria",
+      "municipality": "Voto",
+      "country": "es",
+      "latitude": 43.3290402,
+      "longitude": -3.5054913,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108767749/",
+      "distance": "8613",
+      "description": "¡Chalet individual con piscina! Quincenas: 2.500€ Desde Inmobiliaria Mi Villa les presentamos esta vivienda totalmente reformada en un entorno privilegiado, rodeado de naturaleza y tranquilidad. A tan solo 10 minutos de la playa de Laredo.  El chalet cuenta con 140m2 distribuidos en dos plantas: La planta principal con cocina totalmente equipada abierta al salón comedor, un baño completo y dos habitaciones con camas de matrimonio. La primera planta dispone de un espacio diáfano con cama de matrimonio, baño con jacuzzi y una zona de ocio con mesa de billar y barra de bar.  El jardín de 800m2 cuenta con una piscina, barbacoa y dos porches. Un espacio que invita a disfrutar en familia. Incluye garaje cerrado.  No admiten mascotas. Para más información o visitar el inmueble no dude en ponerse en contacto con nosotros ¡Estaremos encantados de poder atenderle!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Voto",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109067259",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/41/bd/4e/1363403925.webp",
+      "externalReference": "1274",
+      "numPhotos": 30,
+      "floor": "2",
+      "price": 600.0,
+      "priceInfo": {
+        "price": {
+          "amount": 600.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 87.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Voto",
+      "province": "Cantabria",
+      "municipality": "Voto",
+      "country": "es",
+      "latitude": 43.3533038,
+      "longitude": -3.4954331,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109067259/",
+      "distance": "10925",
+      "description": "GRUPO IMPERIO BUILDING INMOBILIARIA-CONSTRUCTORA CON OFICINAS EN BÁDAMES Y COLINDRES! LES PRESENTAMOS UN MAGNÍFICO PISO DE 2 DORMITORIOS EN ALQUILER DE SEPTIEMBRE A JUNIO. Distribuido en un gran salón-comedor con grandes ventanales y mucha luminosidad, cocina totalmente equipada con balcón-tendedero, dormitorio principal con baño incorporado con plato de ducha, otro baño fuera con bañera y ventana, otro dormitorio doble amplio. Una vivienda muy amplia y con muchísima luz. Esta vivienda dispone de una gran plaza de garaje y un amplísimo trastero de 12 m2 donde poder guardar bicicletas, motos y mil enseres. En Bádames encontrarás todo tipo de servicios como bancos, supermercados, carnicerías, peluquerías, lavandería, bares, restaurantes, dentista, ferretería, colegio, etc. Una vivienda que por sus características deberías venir a verla cuanto antes. Ubicada en una urbanización con bonita piscina y zona verde. A tan sólo 15 minutos de Laredo y su playa. En plena naturaleza con mil rutas de senderismo y bicicleta. Un paraíso de tranquilidad! NO SE ADMITEN MASCOTAS. SOLVENCIA DEMOSTRABLE PARA SEGURO DE ALQUILER NO DEJES QUE TE LO CUENTE Y LLÁMANOS! ESTAREMOS ENCANTADOS DE INFORMARTE EN NUESTRAS OFICINAS DE BÁDAMES Y COLINDRES! Bádames: Junto al Banco Santander Colindres: Plaza del Pescador, 7.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Voto",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 10,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Ramales de la Victoria, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 10,
+  "paginable": false
+}

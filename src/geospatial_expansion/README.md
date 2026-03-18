@@ -24,7 +24,7 @@ Estructura:
 Instalacion:
 
 ```bash
-pip install -r src/geospatial_expansion/requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Proceso 1: Descargar POIs

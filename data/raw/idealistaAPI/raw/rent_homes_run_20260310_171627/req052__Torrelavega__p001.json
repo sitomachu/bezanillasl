@@ -1,0 +1,2704 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110226219",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e8/6f/56/1417728655.webp",
+      "externalReference": "56718",
+      "numPhotos": 29,
+      "price": 795.0,
+      "priceInfo": {
+        "price": {
+          "amount": 795.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 850.0,
+            "priceDropValue": 55,
+            "priceDropPercentage": 6
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 120.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Pablo Garnica",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Cerezo - Aspla - Torres",
+      "country": "es",
+      "latitude": 43.3514503,
+      "longitude": -4.051958,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110226219/",
+      "distance": "425",
+      "description": "Presentamos un encantador piso situado en la área de Aspla, ubicado en el segundo nivel sin ascensor. Esta propiedad cuenta con dos acogedoras habitaciones individuales y una espaciosa habitación matrimonial que incluye un práctico aseo privado. El amplio estudio ofrece versatilidad para diferentes usos, mientras que la cocina totalmente equipada es perfecta para disfrutar de deliciosas comidas familiares gracias a su generoso espacio y gran capacidad de almacenamiento. Además, el luminoso salón se caracteriza por ser muy soleado e invita al relax con vistas hacia un tranquilo patio vecinal. También dispone de un baño completo equipado con bañera y luminoso. Su ubicación es inmejorable: a solo 1 minuto del centro urbano y perfectamente conectado tanto con las principales vías rápidas como trenes; todo ello sumando conveniencia ya que nuestras maravillosas playas están apenas a 10 minutos. si estas pensando en cambiarte a una casa amplia, luminosa y bien situada esta es yu oportunidad.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cerezo - Aspla - Torres, Torrelavega",
+        "title": "Piso en calle Pablo Garnica"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110120259",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8c/5c/07/1417594649.webp",
+      "externalReference": "AL2698",
+      "numPhotos": 13,
+      "floor": "bj",
+      "price": 775.0,
+      "priceInfo": {
+        "price": {
+          "amount": 775.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Juan Cacho Ruiz de Villa, 1",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "El Parque - Zapatón",
+      "country": "es",
+      "latitude": 43.3464646,
+      "longitude": -4.0511743,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110120259/",
+      "distance": "427",
+      "description": "Rentas y Capitales presenta estupendo bajo recién REFORMADO, en Calle Juan Cacho Ruiz de Villa ( junto a la Avenida de España ). planta baja. Gasgos de suministros Incluidos. La vivienda tiene una superficie útil de 65 metros distribuidos en 2 dormitorios ( uno  con cama de matrimonio y armario) y el segundo dormitorio con cama de 90. Salón con cocina americana a estrenar con electrodomésticos. Baño completo con plato de ducha y mampara. Dispone de un balcón al cual accedemos desde el salón. Orientación Sur. Todo exterior. Los suelos son de tarima flotante, las ventana de PVC climalit y la calefacción es eléctrica. Ubicado en el centro de Torrelavega junto a la Avenida de España. Rodeado de todos los servicios como paradas de autobús, supermercados, comercios, colegios, instituto, etc. Se solicitará solvencia económica para acceder al alquiler de la vivienda.   Consulte condiciones y disponibilidad. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Parque - Zapatón, Torrelavega",
+        "title": "Piso en calle Juan Cacho Ruiz de Villa, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849528",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/28/5a/58/1417429656.webp",
+      "externalReference": "0803-130033-OJAIZ",
+      "numPhotos": 26,
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 150.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Luis Buñuel",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4428691,
+      "longitude": -3.8752388,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849528/",
+      "distance": "17382",
+      "description": "Luminoso chalet PAREADO junto al PCTCAN y a 5 minutos de Valdecilla. REFORMADO y RECIEN PINTADO. Se alquila vacío o amueblado /////NO; NO MASCOTAS/////// Imprescindible SEGURO de IMPAGO + 1 mes de Jardín de 90 m2 con orientación Suroeste-Norte. Incluye huerto urbano y un cobertizo para herramientas. (con huerto urbano). Planta principal: cocina totalmente equipada, aseo y amplio salón de 30 m2 con salida a la terraza (con toldo) y al jardín. Planta superior: 3 habitaciones (la principal en suite con baño completo), y un 2º baño. Planta sótano: bodega de 14 m2, lavadero y garaje para 2 coches con puerta automática. A 300 metros del acceso a S-20 y S-30 y del transporte urbano (Línea 3).  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Chalet pareado en calle Luis Buñuel"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849496",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e7/5f/9d/1417428248.webp",
+      "externalReference": "0803-125031-POLANCO-NOFIJO    ",
+      "numPhotos": 6,
+      "price": 1250.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1250.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 80.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio Mar",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3959779,
+      "longitude": -4.0160764,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849496/",
+      "distance": "5781",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible hasta junio 2026. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Casa independiente en Barrio Mar"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110852043",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/47/11/55/1417479365.webp",
+      "numPhotos": 9,
+      "floor": "bj",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 95.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio San Miguel",
+      "province": "Cantabria",
+      "municipality": "Cartes",
+      "country": "es",
+      "latitude": 43.3069472,
+      "longitude": -4.105284,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110852043/",
+      "distance": "6629",
+      "description": "Piso con encanto bohemio /////PARA 1 PERSONA//// (por favor respetad la demanda de la propiedad... ) Zona tranquila en un entorno con amplias zonas verdes para la práctica de actividades al aire libre senderismo. Tiene 2 terrazas exteriores muy soleadas. Gracias  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cartes",
+        "title": "Piso en Barrio San Miguel"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110845111",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cd/2c/fe/1417309272.webp",
+      "externalReference": "AL2711",
+      "numPhotos": 18,
+      "floor": "4",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "calle Hermilio Alcalde del Río, 12",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3501934,
+      "longitude": -4.051331,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110845111/",
+      "distance": "317",
+      "description": "PARA EMPRESAS / TRASLADOS / TRABAJADORES - CONDICIONES A CONSULTAR ( SEGUN NUMERO DE PERSONAS, DURACION, ETC. ). Rentas y Capitales presenta a continuacion amplia y luminosa vivienda en en centro de Torrelavega,   La vivienda esta en un. edificio  con ascensor, tiene una superficie útil de 90 metros distribuidos en 4 amplios dormitorios con cama de matrimonio cada uno de ellos, amueblados con armarios y mesita. Dispone de cocina independiente moderna, salón con mesa comedor y TV. El baño es moderno equipado con plato de ducha y mampara.  Los suelos son de tarima flotante, dispone de calefacción de gas natural y las ventanas son de PVC climalit.   La vivienda ha sido reformada completamente en 2025. Ubicado en el centro de Torrelavega,  junto a paradas de autobús, supermercados, estación de tren, a 15 km de Santander.   Esta destinado a un alquiler para EMPRESAS / TRABAJADORES desplazados. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Hermilio Alcalde del Río, 12"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110844454",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b2/1c/4c/1417293800.webp",
+      "externalReference": "A2604",
+      "numPhotos": 20,
+      "floor": "1",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 123.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Urbanizacion Domañanes, 4",
+      "province": "Cantabria",
+      "municipality": "Cabezón de la Sal",
+      "country": "es",
+      "latitude": 43.3022021,
+      "longitude": -4.2370925,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110844454/",
+      "distance": "16197",
+      "description": "ALQUILER PARA FIJO. Ponemos en alquiler un piso amplio y luminoso en Cabezón de la Sal. Tiene vistas despejadas, y está situado en una urbanización muy cómoda para la vida diaria. El diseño del piso permite la entrada de luz natural a todas las estancias, proporcionando un ambiente cálido durante todo el día,  ya que todos los espacios cuentan con grandes ventanales y buena orientación. Con 3 habitaciones, dos baños completos (uno en suite), cocina con salida a una terraza, gran salón-comedor; y situado en una urbanización con todos los servicios cerca: farmacia, gimnasio, parque infantil, lavandería, centro de salud, guardia civil, institutos, etc A un paso del centro de Cabezón de la Sal, y bien comunicado. No tiene garaje pero se puede aparcar cerca del portal.   Admisión de mascotas. Ven a verlo sin compromiso!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cabezón de la Sal",
+        "title": "Piso en Urbanizacion Domañanes, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100323520",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/99/3f/be/1259956331.webp",
+      "externalReference": "LIENCRES - TEMPORAL",
+      "numPhotos": 27,
+      "floor": "1",
+      "price": 487.0,
+      "priceInfo": {
+        "price": {
+          "amount": 487.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 35.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Barrio Somacueto, 6 --A",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Liencres",
+      "country": "es",
+      "latitude": 43.4582027,
+      "longitude": -3.9292771,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/100323520/",
+      "distance": "15426",
+      "description": "Alojamiento TEMPORAL flexible por meses. ■ SIN COMISIÓN DE AGENCIA ■ APARTAMENTOS AMUEBLADOS en LIENCRES, de diseño moderno, a 5 minutos de Santander, en un entorno natural junto al mar, muy cerca de las playas, tranquilo, dinámico y joven, rodeado de todos los servicios que necesitas en tu día a día, cercano al centro de salud, junto a diversos centros educativos, supermercados, cafeterías, restaurantes, farmacias, gimnasios y parada de transporte público con horario muy fluido. •Alquiler temporal flexible por meses, de septiembre hasta junio. Importe según tipología de apartamento y duración del alojamiento. •1 habitación, salón, sofá cama, cocina americana y baño. •Ideal para personas/empresas desplazadas temporalmente por trabajo o estudios. •Gastos de comunidad e IBI incluidos en precio del alquiler. •Suministro electricidad/gas, calefacción, agua, wifi: 69 €/mes. •Parking exterior privado (plazas sujetas a disponibilidad) •Wifi. •No se admiten mascotas. •Espacio libre de humos. •Necesario mes fianza (larga/media estancia) o deposito garantía (corta estancia). ¿Dónde estamos? Barrio Somacueto 6A, Liencres Las imágenes publicadas son orientativas sin carácter vinculante dado que corresponden a una vivienda tipo del edificio y por ello pueden no corresponder a la disponibilidad existente en el momento de su consulta. ■ Observaciones: Comercializamos este inmueble en exclusiva. * Anuncio mostrado a título informativo, no vinculante ni contractual.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liencres, Piélagos",
+        "title": "Piso en Barrio Somacueto, 6 --a"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110828758",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ef/a5/cb/1416670774.webp",
+      "externalReference": "3393A",
+      "numPhotos": 35,
+      "floor": "1",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 77.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio San Martín, 4",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Zurita",
+      "country": "es",
+      "latitude": 43.3474094,
+      "longitude": -3.9899385,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110828758/",
+      "distance": "4667",
+      "description": "ALQUILER DE PISO EN ZURITA. TRANQUILIDAD, UBICACIÓN Y PRECIO COMPETITIVO POR 650 € AL MES Si estás buscando un piso en alquiler en Zurita de Piélagos que combine tranquilidad, buena comunicación y una renta ajustada, esta vivienda puede encajar perfectamente contigo. Se trata de un estupendo piso totalmente amueblado, distribuido en 2 amplios dormitorios, luminoso salón comedor, cocina independiente y 1 baño completo. Una vivienda cómoda, práctica y funcional, pensada tanto para quienes buscan su primera vivienda en alquiler como para quienes desean más espacio y calidad de vida. La vivienda dispone de calefacción individual de gasoil, lo que permite controlar el consumo y el confort durante todo el año, además de ventanas de PVC y madera, que favorecen el aislamiento térmico y acústico. Está lista para entrar a vivir, sin necesidad de realizar ninguna inversión adicional. Se encuentra en un edificio muy tranquilo, con únicamente otra vivienda más, lo que aporta privacidad y una convivencia relajada. Vivir en una zona residencial como Zurita de Piélagos significa disfrutar de la calma, el entorno verde y el descanso diario, sin renunciar a las conexiones estratégicas: la vivienda está muy próxima al enlace de la autovía y a la estación de tren, facilitando los desplazamientos hacia Santander, Torrelavega y otras zonas de Cantabria. Una ubicación ideal para quienes trabajan fuera pero desean vivir en un entorno más tranquilo. Hoy en día es complicado encontrar un alquiler de 2 dormitorios en Cantabria por 650 € al mes, especialmente en una zona bien comunicada y con estas características. Renta: 650 € al mes (Gastos y suministros no incluidos. Sí se incluyen gastos de comunidad e IBI). La vivienda se alquila con seguro de garantía de alquiler, por lo que será imprescindible acreditar ingresos y estabilidad laboral. Contrato para larga duración. Importante: Las personas interesadas deben acceder a localizar este inmueble y cumplimentar la ficha de demandante de alquiler. Este es el primer e imprescindible paso para poder optar al alquiler de la vivienda. Si buscas un piso en alquiler en Zurita de Piélagos que combine ubicación, tranquilidad y precio razonable, no dejes pasar esta oportunidad. Rellena la ficha de demandante de alquiler y da el primer paso hacia tu nuevo hogar. Información no contractual. Sujeta a posibles errores u omisiones.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zurita, Piélagos",
+        "title": "Piso en Barrio San Martín, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110823107",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a4/5f/25/1417907107.webp",
+      "externalReference": "036.134275",
+      "numPhotos": 13,
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Covadonga - Campuzano - Ciudad Vergel",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Covadonga - Campuzano - Ciudad Vergel",
+      "country": "es",
+      "latitude": 43.3454924,
+      "longitude": -4.0534419,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110823107/",
+      "distance": "634",
+      "description": "Los alquileres sólo se informan de manera presencial en la agencia, sita en julian ceballo 1, cuatro caminos torrelavega.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Covadonga - Campuzano - Ciudad Vergel, Torrelavega",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109665225",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c5/ab/91/1381792118.webp",
+      "externalReference": "11",
+      "numPhotos": 10,
+      "floor": "2",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 45.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Doctor Enrique Oti",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4356696,
+      "longitude": -4.0452256,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109665225/",
+      "distance": "9605",
+      "description": "ALQUILER FIJO - DISPONIBLE TODO EL AÑO. ¿Te interesan temporadas más cortas? Hablemos del precio. Se alquila acogedor apartamento de una habitación, salón con cocina americana integrada y un baño.  La vivienda está reformada y el edificio dispone de ascensor. Incluye también plaza de aparcamiento privado. Ubicado muy cerca de la playa, ideal para quienes buscan vivir todo el año disfrutando del mar, la comodidad y un entorno relajado.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Piso en calle Doctor Enrique Oti"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110820750",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/01/0e/a3/1417594618.webp",
+      "externalReference": "AL2710",
+      "numPhotos": 27,
+      "floor": "2",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Poeta José Luis Hidalgo, 4",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "El Parque - Zapatón",
+      "country": "es",
+      "latitude": 43.3496024,
+      "longitude": -4.0551821,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110820750/",
+      "distance": "613",
+      "description": "- Solo EMPRESAS - Temporales Presentamos a continuación amplia y luminosa vivienda en Torres de calabaza ( en el centro de Torrelavega ), con todas las facilidades de mercados a sus alrededores. La vivienda esta en un  edificio con ascensor. Tiene una superficie útil de 83 metros distribuidos en 3 dormitorios ( el 3 con cama de matrimonio),   amplio salón comedor amueblado con sofá y mesa y mueble de tv, amplia cocina amueblada con electrodomésticos, y baño completo. y un aseo. Muy soleado, exterior completamente con orientación sur, con bonitas vistas  al entorno.   Dispone de calefacción de gas natural  los suelos son de parquet y las ventanas de PVC climalit. Con fácil aparcamiento. Ubicado  en el centro de Torrelavega  con fácil comunicaciones. Esta destinado a empresas que vengan a realizar trabajos a Cantabria ( por meses, trimestres, semestres, etc. ).   La capacidad de alojamiento es de 5 personas máximo. Los precios del alquiler pueden variar en función del tiempo y del numero de personas que se alojen en la vivienda.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Parque - Zapatón, Torrelavega",
+        "title": "Piso en calle Poeta José Luis Hidalgo, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110814480",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/96/ee/95/1416369082.webp",
+      "externalReference": "3392A",
+      "numPhotos": 20,
+      "floor": "3",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 105.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida Luis de la Concha, 37",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Renedo",
+      "country": "es",
+      "latitude": 43.3540038,
+      "longitude": -3.9523029,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110814480/",
+      "distance": "7722",
+      "description": "ALQUILER DÚPLEX EN EL CENTRO DE RENEDO. 700 € MES Si estás buscando un piso en alquiler en Renedo de Piélagos que combine amplitud, comodidad, ubicación estratégica y precio competitivo, esta es tu oportunidad. Te presentamos este estupendo piso tipo dúplex, situado en pleno centro de Renedo, en un edificio de reciente construcción con ascensor, pensado para hacer tu día a día más cómodo y práctico. Una vivienda funcional, luminosa y completamente amueblada, lista para entrar a vivir. La vivienda se distribuye en 3 dormitorios, ideales para familia, teletrabajo o disponer de despacho independiente, un acogedor salón-comedor, cocina independiente totalmente equipada y 2 baños completos, lo que aporta comodidad y privacidad. Además, cuenta con calefacción individual de gas y ventanas de PVC, garantizando eficiencia energética y confort durante todo el año. Vivir en Renedo significa disfrutar de la tranquilidad sin renunciar a nada. En apenas unos minutos caminando tendrás acceso a la estación de tren, centro de salud, supermercados, farmacias, comercios locales, zonas verdes y todos los servicios esenciales. Aquí puedes olvidarte del coche para el día a día y ganar calidad de vida. Renedo ofrece el equilibrio perfecto entre entorno natural y conexiones rápidas con Santander y Torrelavega, convirtiéndose en una de las zonas más demandadas para vivir en Cantabria. Un lugar ideal para descansar, teletrabajar o simplemente disfrutar de un entorno cómodo y bien comunicado. Renta: 700 € al mes (Gastos y suministros no incluidos. Sí se incluyen gastos de comunidad e IBI). Actualmente es muy difícil encontrar una vivienda de estas características, en esta ubicación y a este precio. Se alquila con seguro de garantía de alquiler, por lo que será necesaria acreditación de ingresos y estabilidad laboral. Contrato para larga duración. IMPORTANTE: Las personas interesadas deben acceder a nuestra web buscar este inmueble y rellenar la ficha de demandante de alquiler. Este es el primer e imprescindible paso para poder optar al alquiler de esta vivienda. No dejes pasar esta oportunidad. Las viviendas bien ubicadas y con buena relación calidad-precio duran muy poco en el mercado. Rellena la ficha de demandante de alquiler y da el primer paso hacia tu nuevo hogar. Información no contractual. Sujeta a posibles errores u omisiones.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Renedo, Piélagos",
+        "title": "Piso en avenida Luis de la Concha, 37"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110814177",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ab/db/1c/1416359966.webp",
+      "externalReference": "56754",
+      "numPhotos": 12,
+      "floor": "2",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 82.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Los Corrales de Buelna",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2618649,
+      "longitude": -4.0666402,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110814177/",
+      "distance": "9843",
+      "description": "En el encantador pueblo de Corrales de Buelna, a tan solo cinco minutos del centro urbano de Torrelavega y con acceso inmediato a la autovía que conecta la meseta con la capital, se ofrece este acogedor piso. La propiedad cuenta con una habitación principal equipada con un amplio armario, ideal para maximizar el espacio. Además, presenta una segunda habitación individual perfecta para visitas o como oficina. El baño completo dispone de un práctico plato de ducha y hay también un aseo adicional que brinda mayor comodidad. La cocina está completamente equipada e incluye tendal exterior; es el lugar perfecto para preparar deliciosas comidas familiares o disfrutar momentos agradables entre amigos. Complementa esta oferta una plaza privada en garaje, asegurando así su vehículo frente a las inclemencias del tiempo y proporcionando tranquilidad al propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110808340",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3d/72/d8/1416173304.webp",
+      "numPhotos": 17,
+      "floor": "2",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 93.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio Puente San Miguel",
+      "province": "Cantabria",
+      "municipality": "Puente San Miguel",
+      "country": "es",
+      "latitude": 43.359948,
+      "longitude": -4.0859067,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110808340/",
+      "distance": "3315",
+      "description": "¿Busca un hogar espacioso, ventilado y con luz natural durante todo el día? ☀️ Este segundo piso (sin ascensor) destaca por su excelente distribución y su ubicación estratégica cerca de todos los servicios. La vivienda se distribuye en cocina con zona de comedor independiente, salón muy amplio, tres habitaciones y un baño. No se admiten mascotas. Se hace seguro de impago de alquileres por lo que hay que cumplir con unos ingresos mínimos.  Precio: 650€/mes.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puente San Miguel",
+        "title": "Piso en Barrio Puente San Miguel"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110794654",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0f/61/fe/1415739831.webp",
+      "externalReference": "3391A",
+      "numPhotos": 51,
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 80.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio Sorribero Bajo, 28",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Renedo",
+      "country": "es",
+      "latitude": 43.3568304,
+      "longitude": -3.9554397,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110794654/",
+      "distance": "7498",
+      "description": "APARTAMENTO EN ALQUILER EN RENEDO CON JARDÍN PRIVADO. 700 € Si estás buscando apartamento en alquiler en Renedo de Piélagos, en una zona residencial tranquila, pero a la vez cerca de todos los servicios, esta vivienda puede encajar perfectamente contigo. Se trata de un estupendo apartamento situado en casa pareada, lo que te permite disfrutar de la sensación de vivir en una casa, con mayor privacidad y sin la dinámica de un edificio de muchas viviendas. Está distribuido en 2 dormitorios, salón y cocina en un único espacio abierto, creando una zona de día cómoda y funcional, además de 1 baño situado en la planta baja. En la zona de estar cuenta con estufa de pellets, aportando confort y eficiencia energética. Uno de sus grandes atractivos es su amplia zona privada de jardín orientada al sur, perfecta para disfrutar del sol, relajarte al aire libre, teletrabajar en un entorno más agradable o simplemente desconectar después de la jornada. Ubicado en Renedo de Piélagos, en una zona residencial muy tranquila, pero a escasos minutos caminando de la estación de tren, centro de salud, supermercados, comercios, zonas verdes y todos los servicios del día a día. Una ubicación estratégica que combina tranquilidad, comodidad y excelentes comunicaciones, ideal para quienes trabajan en Santander, Torrelavega o alrededores. Vivir aquí significa poder ir andando a todo, tener facilidad de aparcamiento, disfrutar de zonas verdes y, al mismo tiempo, residir en un entorno silencioso y agradable. Cada vez más personas valoran esta combinación: calidad de vida, buena conexión y entorno residencial. Renta: 700 € al mes (Gastos y suministros no incluidos. Sí se incluyen gastos de comunidad e IBI). En el mercado actual de alquiler en Cantabria, es difícil encontrar una vivienda con jardín, en casa pareada y en una ubicación tan práctica por este precio. Se alquila para larga duración (para fijo) con seguro de garantía de alquiler, por lo que será necesario acreditar ingresos y estabilidad laboral. Paso imprescindible para optar al alquiler: Las personas interesadas deben acceder a nuestra web buscar el inmueble y rellenar la ficha de demandante de alquiler. Este es el primer y obligatorio paso para poder participar en el proceso de selección. No dejes pasar la oportunidad de vivir en un apartamento con jardín en Renedo de Piélagos, en una zona tranquila y con todos los servicios a un paseo. Llámanos y da el siguiente paso. Información no contractual. Sujeta a posibles errores u omisiones.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Renedo, Piélagos",
+        "title": "Chalet en Barrio Sorribero Bajo, 28"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110779720",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1c/ae/89/1415272376.webp",
+      "numPhotos": 26,
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 150.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Luis Buñuel",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4411791,
+      "longitude": -3.8722552,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110779720/",
+      "distance": "17466",
+      "description": "Luminoso chalet PAREADO junto al PCTCAN y a 5 minutos de Valdecilla. REFORMADO y RECIEN PINTADO. Se alquila vacío o amueblado /////NO; NO MASCOTAS/////// Imprescindible SEGURO de IMPAGO + 1 mes de Jardín de 90 m2 con orientación Suroeste-Norte. Incluye huerto urbano y un cobertizo para herramientas. (con huerto urbano). Planta principal: cocina totalmente equipada, aseo y amplio salón de 30 m2 con salida a la terraza (con toldo) y al jardín. Planta superior: 3 habitaciones (la principal en suite con baño completo), y un 2º baño. Planta sótano: bodega de 14 m2, lavadero y garaje para 2 coches con puerta automática. A 300 metros del acceso a S-20 y S-30 y del transporte urbano (Línea 3).  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Chalet pareado en calle Luis Buñuel"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110779657",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/56/4c/ba/1415271886.webp",
+      "numPhotos": 6,
+      "price": 1250.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1250.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 80.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio Mar",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.394498,
+      "longitude": -4.0178501,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110779657/",
+      "distance": "5571",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible hasta junio 2026. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Casa independiente en Barrio Mar"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110771159",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c9/74/b3/1415066362.webp",
+      "externalReference": "AL2709",
+      "numPhotos": 21,
+      "floor": "bj",
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "plaza de las Autonomías, 6",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Ciudad Nueva",
+      "country": "es",
+      "latitude": 43.3394366,
+      "longitude": -4.050491,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110771159/",
+      "distance": "1121",
+      "description": "Presentamos a continuación fantástica vivienda en el centro de  Torrelavega.    La vivienda es UNA PLANTA BAJA, Tiene una superficie útil de 75 metros distribuidos en 2 dormitorios  ( los dos cuentan con cama de matrimonio y armario en 1  habitación tenéis acceso a una puerta con salida a la calle). Amplio salón amueblado totalmente con dos sofás, mesita, mueble de tv ( incluye TV). Baño completo con plato de ducha  y mampara. un segundo baño ubicado en la habitación  principal con plato de ducha.  La Cocina esta equipada totalmente  con electrodomésticos modernos, Dispone de calefacción eléctrica, suelo de tarima cerámica  y ventanas de PVC climalit. La vivienda es muy luminosa dispone de orientación sur-este da el sol todo el día.   La vivienda se encuentra muy bien ubicada en el centro  con todos los servicios al lado farmacias, colegio, médicos, supermercados, etc.   se solicita solvencia económica para hacer seguro de alquiler.   Consulte fechas y disponibilidad.   No dejes pasar esta oportunidad y solicite su visita sin compromiso estaremos encantados de atenderle.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ciudad Nueva, Torrelavega",
+        "title": "Piso en plaza de las Autonomías, 6"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110763996",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d4/58/f7/1414834657.webp",
+      "externalReference": "CHA0058",
+      "numPhotos": 41,
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 216.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Barrio la Hayuela",
+      "province": "Cantabria",
+      "municipality": "Udias",
+      "country": "es",
+      "latitude": 43.3392983,
+      "longitude": -4.2640561,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110763996/",
+      "distance": "17538",
+      "description": "Se alquila magnífico chalet independiente en en La Hayuela, Udias, una vivienda que destaca por su amplitud, su calidad constructiva y su entorno natural privilegiado. Con 216 m² construidos, ofrece espacios generosos, bien distribuidos y muy luminosos, ideales para quienes buscan tranquilidad y confort. La planta principal alberga la zona de día, con un amplio salón-comedor con grandes ventanales que permiten disfrutar de las vistas abiertas y aportan una excelente luz natural durante todo el día. Tanto desde el salón como desde la cocina se accede directamente al jardín privado, que cuenta con aproximadamente 160 m², un espacio perfecto para disfrutar al aire libre, organizar reuniones o simplemente relajarse contemplando el paisaje. La cocina es independiente y está totalmente equipada, resultando práctica y funcional. En esta planta los suelos son de cerámica, resistentes y fáciles de mantener. En la planta superior se encuentra la zona de descanso, compuesta por tres amplios dormitorios y el baño principal, que dispone de bañera de hidromasaje, perfecta para disfrutar de momentos de relax. En esta planta los suelos son de madera, aportando calidez y un ambiente acogedor. La vivienda cuenta además con ventanas de PVC con doble acristalamiento, garantizando un excelente aislamiento térmico y acústico. En la planta inferior, situada por debajo de la planta principal, se encuentra el garaje con capacidad para dos coches, ofreciendo amplitud y comodidad de acceso. En esta misma zona se dispone de un baño adicional, lo que aporta un extra de funcionalidad. La propiedad también cuenta con trastero y sistema de aspiración central. Uno de los grandes valores añadidos de esta propiedad es su excelente ubicación. La Hayuela se encuentra a poca distancia de algunas de las mejores playas de la costa occidental de Cantabria. En aproximadamente 5-10 minutos en coche se puede acceder a la Playa de Comillas o a la Playa de Oyambre, conocidas por su belleza natural y sus amplios arenales. Esto permite disfrutar tanto de la tranquilidad del entorno rural como de escapadas rápidas al mar durante todo el año. Además, desde el propio jardín se pueden contemplar los majestuosos Picos de Europa, creando un entorno único donde se combinan montaña y costa en un mismo enclave. Esta cercanía tanto a la playa como a la montaña convierte la vivienda en una opción ideal para quienes valoran la naturaleza, el ocio al aire libre y la calidad de vida. Es para alquiler de larga duración. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Udias",
+        "title": "Casa independiente en Barrio la Hayuela"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110732317",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c9/01/f4/1413821285.webp",
+      "externalReference": "009486",
+      "numPhotos": 1,
+      "price": 1400.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1400.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 130.0,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "Barrio Arenas",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Escobedo",
+      "country": "es",
+      "latitude": 43.4065938,
+      "longitude": -3.904414,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110732317/",
+      "distance": "13209",
+      "description": "Se alquila casa independiente situada en Escobedo de Camargo. Casa de 4 habitaciones(2 en planta baja), salón, cocina equipada y baño. Porche en la parte trasera y amplio jardín. Aparcamiento para dos vehículos. Disponible para abril. Consultar condiciones.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Escobedo, Camargo",
+        "title": "Chalet en Barrio Arenas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110748032",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/92/a4/88/1414314600.webp",
+      "externalReference": "5252",
+      "numPhotos": 30,
+      "floor": "bj",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 71.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "avenida los Rosales, 21",
+      "province": "Cantabria",
+      "municipality": "Santa Maria de Cayon",
+      "country": "es",
+      "latitude": 43.3275435,
+      "longitude": -3.8517095,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110748032/",
+      "distance": "16025",
+      "description": "NUEVO - A ESTRENAR - EN ALQUILER FIJO. - En Sarón, perteneciente al Municipio de Santa María de Cayón. Bajo con jardín de 115 m2 disponible en ALQUILER PARA FIJO. La vivienda está distribuida en hall, cocina americana abierta a salón-comedor, con salida a a terraza con jardín de 115m2, 2 dormitorios y un baño con bañera. Desde el salón-comedor y desde dos de los dormitorios se puede acceder a un precioso jardín de más de 115 m2con orientación al este.  La vivienda dispone de calefacción de gas natural, ventanas aluminio, suelos de parquet y se encuentra completamente amueblado y listo para entrar a vivir. Incluye plaza de garaje, trastero justo detrás  y mantenimiento de jardín. Gastos de comunidad incluidos. No se admiten mascotas.  Se requieren un mes de fianza, el mes de alquiler adelantado y solvencia económica demostrable. Solicite cita en el o en el los agentes de Inmobiliaria Val de Cella estaremos encantados de atenderle.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santa Maria de Cayon",
+        "title": "Piso en avenida los Rosales, 21"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109600595",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5a/54/8f/1379732899.webp",
+      "externalReference": "1095-1713",
+      "numPhotos": 12,
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 220.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "carretera Hinojedo-Puente Avios",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4067955,
+      "longitude": -4.0774142,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109600595/",
+      "distance": "6831",
+      "description": "SOLO ALQUILER CON OPCIÓN DE COMPRA En Puente Avios, a pocos kilómetros de Suances, se alquila casa independiente con parcela para larga estancia. La vivienda se encuentra rodeada de un amplio jardín, con merendero y barbacoa. Se distribuye en dos plantas, estando en la inferior un garaje con gran amplitud y zona de trastero con grandes ventanales.  La planta principal cuenta con tres habitaciones, un baño, oficina y cocina equipada. La bajo cubierta es un espacio habilitado como zona de ocio y juegos, ideal para los más pequeños. Dispone de sistema de calefacción de gasoil y ventanas de PVC. Ubicado en un entorno muy tranquilo y bien comunicado. No lo dudes y llámanos para obtener más información, nuestro equipo de expertos te asesorará en lo que necesites en todo momento. Puedes visitarnos en Santander, en la calle Floranes 63, junto a Cuatro Caminos y en Fernando de los Ríos 58.  EC INMOBILIARIA.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 5.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Casa independiente en carretera Hinojedo-Puente Avios"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110701997",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/93/ef/f0/1412991433.webp",
+      "externalReference": "G02262",
+      "numPhotos": 41,
+      "price": 1900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 214.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Bezana",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Bezana",
+      "country": "es",
+      "latitude": 43.4434104,
+      "longitude": -3.9008094,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110701997/",
+      "distance": "15816",
+      "description": "Descubre este impresionante chalet espacioso y tranquilo ideal para vivir y disfrutar de tu casa. A menos de dos kilómetros de la playa de La Virgen del Mar y de San Juan de La Canal en Soto de La Marina. Disponible para alquiler fijo. Ideal para familias que buscan un hogar espacioso y del que disfrutar. A un minuto de la autovía y escasos minutos de playas, centro de Santander. Dispone de entrada privada con portón automatizado para mayor seguridad y comodidad. Un garaje amplio con espacio para dos vehículos, además de espacio de aparcamiento junto a la vivienda.  Cuenta con jardín privado para disfrutar al aire libre y zona de terraza equipada con mobiliario de exterior ideal para reuniones con familia y amigos. La entrada cuenta con una zona cubierta que da la bienvenida al hogar.  En la planta baja el amplio recibidor da acceso a un salón con zona de comedor, una cocina completamente amueblada con salida directa al jardín, un dormitorio doble y un baño con plato de ducha.  En la primera planta nos encontramos con tres generosos dormitorios dobles espaciosos y con mucha luz natural. El dormitorio principal incluye un baño privado con bañera, armarios empotrados grandes ventanas y salida a una terraza privada, además de otro amplio cuarto de baño completo con bañera.  Todas las habitaciones cuentan con grandes ventanales proporcionando mucha luz natural, aire fresco y vistas despejadas.   En la parte superior de la casa nos encontramos una gran terraza con visión de 360 grados, ideal para disfrutar del sol y de las vistas de la zona y un tejado semicircular que ofrece un área cubierta perfecta para relajarse bajo la sombra o resguardarse de la lluvia.  Este chalet es una oportunidad única para disfrutar de una zona privilegiada, con todos los servicios a un paso, cercano a la playa y en un entorno tranquilo, seguro y con inmejorables comunicaciones. No pierdas la oportunidad de hacer de este lugar tu hogar. Contáctanos para más información y para programar una visita.  NO SE ADMITEN MASCOTAS.  � Dada la demanda actual, las visitas se realizarán exclusivamente en jornadas programadas y siguiendo un riguroso orden de contacto. Se sugiere máxima antelación para garantizar disponibilidad en los horarios establecidos. Nota: El acceso a la visita está sujeto al cumplimiento previo de los requisitos imprescindibles y disponibilidad del equipo comercial.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Bezana, Santa Cruz de Bezana",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110679255",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7a/29/77/1412142450.webp",
+      "externalReference": "1802-37-10002-ARNIA-NOFIJO",
+      "numPhotos": 6,
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 60.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle de la Arnia",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4648434,
+      "longitude": -3.9054179,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110679255/",
+      "distance": "17232",
+      "description": "*ES UN CHALET CON APARCAMIENTO PRIVADO* ///// NO SE ALQUILA PARA FIJO /////. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. (NO TURISMO) Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 17.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Casa independiente en calle de la Arnia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "95246097",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f3/fe/6b/913324259.webp",
+      "externalReference": "56742",
+      "numPhotos": 15,
+      "floor": "7",
+      "price": 820.0,
+      "priceInfo": {
+        "price": {
+          "amount": 820.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 110.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3480676,
+      "longitude": -4.0482748,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/95246097/",
+      "distance": "147",
+      "description": "Estupenda vivienda en pleno centro de Torrelavega de 3 dormitorios, cocina independiente a estrenar totalmente equipada y baño completo con plato de ducha a estrenar. Dispone de armarios empotrados, muy luminoso, vistas despejadas, calefacción de gas ciudad y ascensor. No Mascotas.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110612744",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fa/a7/92/1410399186.webp",
+      "numPhotos": 12,
+      "floor": "bj",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 55.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle de la Arnia",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4644277,
+      "longitude": -3.9074608,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110612744/",
+      "distance": "17088",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible PARA TEMPORADAS DE ESTUDIO O TRABAJO (no vacacional). Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Piso en calle de la Arnia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110597613",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/52/57/9d/1409740823.webp",
+      "externalReference": "ARS2757i",
+      "numPhotos": 28,
+      "price": 2300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 252.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Barrio Aguilera",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Parbayón",
+      "country": "es",
+      "latitude": 43.3647646,
+      "longitude": -3.8921286,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110597613/",
+      "distance": "12686",
+      "description": "Exclusivo chalet individual en alquiler desde 1 de agosto de 2026 al 31 de julio de 2027 en Parbayón Descubra esta magnífica propiedad independiente de una sola planta, ubicada en un entorno privilegiado y rodeada de naturaleza, sobre una impresionante parcela privada de 5.000 m² que garantiza privacidad, tranquilidad y confort absoluto. La vivienda ofrece una distribución funcional con 3 dormitorios, 2 baños completos, aseo, despacho y un espectacular salón de grandes dimensiones con cocina americana, concebido como el corazón del hogar. Los suelos porcelánicos aportan sofisticación y continuidad a todos los espacios. Dispone de garaje cerrado de 50 m² para dos vehículos. Equipada con las más altas prestaciones como sistema de ventilación asistida, aerotermia con suelo radiante, placas solares y chimenea con horno de leña, combinando diseño y bienestar durante todo el año. El exterior está pensado para el disfrute en cualquier estación, con una piscina climatizada mediante bomba de calor, cuyo servicio de limpieza está incluido, al igual que el mantenimiento de la finca, ofreciendo una experiencia de vida sin preocupaciones. Una propiedad única y exclusiva, ideal para quienes buscan un alquiler temporal de alto nivel, rodeado de naturaleza.  ¿Qué hay cerca? Parque de Cabárceno a 10 minutos, Santander a 20 minutos, Torrelavega a 20 minutos, playa Liencres a 25 minutos y playa de Somo 25 minutos. No dudes en contactarnos para más información y concertar una visita. Ref: ARS2757i.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Parbayón, Piélagos",
+        "title": "Casa independiente en Barrio Aguilera"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109821353",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ba/be/fe/1386668655.webp",
+      "numPhotos": 56,
+      "price": 5500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 5500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 450.0,
+      "rooms": 5,
+      "bathrooms": 6,
+      "address": "BO LIANDRES",
+      "province": "Cantabria",
+      "municipality": "Ruiloba",
+      "country": "es",
+      "latitude": 43.391716,
+      "longitude": -4.2508601,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109821353/",
+      "distance": "17092",
+      "description": "¡Particular! El precio varia en función de de los meses del año que se alquile, en el mes de agosto la casa no estará disponible, desde el día 3 y hasta el día 25. También está disponible por semanas. Esta bonita casa independiente, construida en 2020 es el lugar ideal para disfrutar de la tranquilidad y la belleza del entorno. Situada en una urbanización cerrada, ofrece vistas fabulosas al mar y a la montaña. Con 450 m² construidos. Completamente amueblada. En la planta baja, encontrarás un amplio salón independiente que se conecta con una cocina funcional, perfecta para compartir momentos en familia. Desde aquí, accede a una gran terraza donde podrás relajarte y disfrutar de las vistas al mar. La planta baja también alberga cuatro dormitorios, todos con baño integrado, y tres de ellos cuentan con grandes ventanales que permiten que la luz natural inunde los espacios y ofrecen vistas al mar. Además, la casa incluye una zona de lavado y plancha, acceso directo al garaje y un trastero para mayor comodidad. En la primera planta, se encuentra un acogedor despacho y un dormitorio principal con vestidor y cuarto de baño privado. Totalmente amueblada, esta casa incluye ropa de cama y todo lo necesario para que solo tengas que preocuparte por disfrutar de tu nuevo hogar. Con una parcela de 1.157 m², esta propiedad es perfecta para quienes buscan espacio y confort. No pierdas la oportunidad de vivir en este espectacular chalet en Liandres. ¡Contáctame para más información y ven a visitarlo!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ruiloba",
+        "title": "Casa independiente en Bo Liandres"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110587804",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/76/c0/b9/1409530715.webp",
+      "externalReference": "0902-90021-ARNIA",
+      "numPhotos": 12,
+      "floor": "bj",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 55.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle de la Arnia",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.46485,
+      "longitude": -3.9072845,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110587804/",
+      "distance": "17132",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible PARA TEMPORADAS DE ESTUDIO O TRABAJO (no vacacional). Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Piso en calle de la Arnia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110560891",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/73/4c/53/1408677270.webp",
+      "externalReference": "ACR-01947",
+      "numPhotos": 21,
+      "floor": "en",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle de la Arnia",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4623072,
+      "longitude": -3.904417,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110560891/",
+      "distance": "17078",
+      "description": "En ALQUILER, amplio apartamento, muy luminoso, completamente exterior.  Completamente amueblado, cuarto de baño con ducha recién reformado, y con cocina equipada, con zona de comedor, salón y amplia habitación con cama de matrimonio. Además cuenta con un pequeño trastero en la vivienda.  Esta enclavado en una casa con zonas de jardín, completamente exterior.  Situado en Soto de la Marina, con parada al lado de la línea de autobús regular que comunica Santander con Liencres, cada media hora, y las playas de Arnia y Liencres a cinco minutos.  A el alquiler mensual, hay que sumar 140 € fijos mensuales, de luz, calefacción, basuras y agua, quedando así todos los suministros incluidos.  No se admiten mascotas. Requiere seguro de alquiler.  No dude en solicitar información respondiendo a éste mail, llamándonos, o acercándose a cualquiera de nuestras Oficinas: - en Soto de la Marina, Av Marques de Valdecilla 97. - en Santander, C Juan de Herrera 8. IMPRESCINDIBLE FORMALIZAR SEGURO DE ALQUILER CONTRA IMPAGOS. (Requiere estudio previo de solvencia).  El precio incluye los gastos de comunidad NO HAY HONORARIOS DE AGENCIA PARA EL ARRENDATARIO.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Piso en calle de la Arnia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110500321",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/95/d7/c6/1406826350.webp",
+      "externalReference": "AL2705",
+      "numPhotos": 21,
+      "floor": "1",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 89.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Pintor Modinos",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3467,
+      "longitude": -4.0448798,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110500321/",
+      "distance": "363",
+      "description": "TEMPORAL - PARA EMPRESAS   Rentas y Capitales presenta amplia y luminosa vivienda en el centro de Torrelavega. La vivienda es una PRIMERA PLANTA en un edificio con ascensor. Tiene una superficie útil de 80 metros distribuidos en 3 amplios dormitorios amueblados con cama, armario y mesita. Amplio salón comedor orientado a la calle principal amueblado con sofá, mesa de tv y mesa comedor. Dos baños completos ambos con bañera. La cocina es bastante amplia se encuentra equipada con electrodomésticos. Dispone de calefacción centralizada, los suelos son de parquet y las ventanas de aluminio. Se encuentra muy bien ubicada en el centro de Torrelavega, con gran parking gratuito frente al edificio.   Esta destinado a un alquiler PARA EMPRESAS por temporadas ( las condiciones varían en función del numero de personas y de el tiempo). Se solicita solvencia para el alquiler de la vivienda. Solicite una visita sin compromiso.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Pintor Modinos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "94938326",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/14/7d/5a/1408474862.webp",
+      "externalReference": "EP-30716-YO",
+      "numPhotos": 71,
+      "price": 1950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 310.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "Mortera",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.4421347,
+      "longitude": -3.9265964,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/94938326/",
+      "distance": "14217",
+      "description": "Para fijo. En mortera de estilo ingles, chalet individual precioso, impecable, vacío sin amueblar, cocina con zona de oficce, con estupendo jardín, magníficas calidades, amplio salón con grandes ventanales, 4 habitaciones, la principal en suite, de 22 metros cuadrados, más vestidor y baño, armarios empotrados en todas las habitaciones, otras 2 habitaciones de 16 metros, 3 baños completos, habitación en planta baja, 2 bodegas y aseo, garaje para 2 coches, soleado todo el día, magnífica urbanización. Disponible para visitar. Se piden nominas y contratos de trabajo imprecindibles, para seguro de impago de alquiler. Este anuncio es meramente informativo, no tiene efectos vinculantes y está sujeto a la aprobación del seguro de impago y de los propietarios.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110394617",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b7/9c/dc/1403886514.webp",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "studio",
+      "operation": "rent",
+      "size": 53.0,
+      "exterior": true,
+      "rooms": 0,
+      "bathrooms": 1,
+      "address": "CL CARRAL",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4248005,
+      "longitude": -4.0509452,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110394617/",
+      "distance": "8399",
+      "description": "Alquiler de temporada  Destinado exclusivamente a estancias temporales por motivos laborales, académicos o de desplazamiento puntual, no apto como vivienda habitual. Distribución de la vivienda: La vivienda cuenta con un dormitorio, salón, cocina independiente con salida directa a un agradable jardín privado y baño completo. Se alquila amueblado  Zona tranquila y bien comunicada. Vivienda cómoda, funcional y con espacio exterior, perfecta para una estancia temporal con todas las comodidades.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "studio"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Estudio en CL Carral"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "39570040",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/eb/67/f7/1258498963.webp",
+      "externalReference": "522451",
+      "numPhotos": 25,
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 240.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Soto de la Marina",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4645708,
+      "longitude": -3.9088418,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/39570040/",
+      "distance": "17026",
+      "description": "� Chalet en alquiler de temporada en Soto de la Marina (Santander) – Ideal estudiantes Desde Best House San Fernando te presentamos este bonito chalet en Soto de la Marina, disponible en alquiler de temporada hasta junio de 2026, una opción perfecta para estudiantes de la Universidad del Atlántico. ✨ Características principales del inmueble �️ 4 habitaciones dobles, amplias y luminosas � 3 baños completos �️ Salón–comedor cómodo y funcional � Garaje � Parcela de aproximadamente 400 m2, ideal para disfrutar del exterior � Ubicación inmejorable Situado próximo a la Universidad del Atlántico, en una zona tranquila y residencial, este chalet combina estudio y calidad de vida. Rodeado de zonas verdes y ajardinadas, y a pocos minutos de las playas. � Ideal para estudiantes que buscan espacio y tranquilidad � ¿Te interesa? Llámanos al y uno de nuestros agentes de Best House San Fernando te asesorará sin compromiso. ¡No dejes pasar esta oportunidad! ➣ Consultar resto de condiciones ➣ Sujeto a decisión final del arrendador ➣ Honorarios de la agencia: ½ mensualidad + IVA � Best House San Fernando – Tu alquiler en las mejores manos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110450936",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/97/47/6c/1405345915.webp",
+      "externalReference": "AL2704",
+      "numPhotos": 14,
+      "floor": "2",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 98.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida de Joaquin Fernandez Vallejo, 14",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Ciudad Nueva",
+      "country": "es",
+      "latitude": 43.3429433,
+      "longitude": -4.0464908,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110450936/",
+      "distance": "712",
+      "description": "Presentamos a continuación fantástica vivienda en el centro de Torrelavega.   La vivienda es una SEGUNDA  PLANTA en un edificio CON ASCENSOR. Tiene una superficie útil de 95 metros distribuidos en 3 dormitorios ( 1 con cama de 1,50m, el segundo y el tercero con 2 camas de 90) y armarios.   El salón es bastante amplio incluye mesa, ideal para estudiar o teletrabajar. La cocina esta equipada completamente con modernos electrodomésticos,  El baño tiene plato de ducha y mampara. Y un aseo  La vivienda dispone de calefacción de gas natural, tiene suelos de  cerámica, puertas de madera, y ventanas de doble cristal pvc. Es muy soleado, tiene orientación SUR, y norte, lo que garantiza sol durante las horas principales del día. Esta ubicado en el centro de la capital con paradas de autobús, supermercados, estación de Ferrocarril  No deje pasar esta oportunidad y solicite su visita.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ciudad Nueva, Torrelavega",
+        "title": "Piso en avenida de Joaquin Fernandez Vallejo, 14"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110441377",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/44/1c/5f/1405232112.webp",
+      "numPhotos": 14,
+      "price": 1750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 150.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Polanco",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3979774,
+      "longitude": -4.0160353,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110441377/",
+      "distance": "5983",
+      "description": "Casa Pareada para capacidad de 8 personas ///// NO SE ALQUILA PARA FIJO ///// Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*****  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Chalet pareado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110436383",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5e/98/89/1405084379.webp",
+      "externalReference": "AL2703",
+      "numPhotos": 5,
+      "floor": "bj",
+      "price": 500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "rent",
+      "size": 40.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Barrio las Quintas, 20",
+      "province": "Cantabria",
+      "municipality": "Viveda",
+      "country": "es",
+      "latitude": 43.379131,
+      "longitude": -4.0752323,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110436383/",
+      "distance": "3998",
+      "description": "  presentamos a continuación fantástica vivienda ubicada en Santillana del mar. disponible hasta el 31 de mayo 2026  ubicada en una primera planta con fácil acceso  tiene una superficie útil de 40 metros distribuidos en 1 dormitorios  con cama de 1,40 y armarios,  salón con sofá y mueble de tv ideal  para compartir, cocina americana  equipada completamente con  electrodomésticos, El baño tiene plato de ducha y mampara. La vivienda dispone de calefacción de gas natural. puertas de madera, y ventanas de doble cristal. Es muy soleado, tiene orientación SUR, y norte, lo que garantiza sol durante las horas principales del día.   No dejes pasar esta oportunidad y solicite una visita .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Viveda",
+        "title": "Dúplex en Barrio las Quintas, 20"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109626821",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a2/ee/b3/1380548736.webp",
+      "externalReference": "L1218",
+      "numPhotos": 11,
+      "floor": "2",
+      "price": 680.0,
+      "priceInfo": {
+        "price": {
+          "amount": 680.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Felisa Campuzano, 22",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2619649,
+      "longitude": -4.0677727,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109626821/",
+      "distance": "9846",
+      "description": "En el centro de Los Corrales de Buelna, junto a todos los servicios Alquilamos un piso en segunda planta sin ascensor, con 2 habitaciones más un despacho, salón, cocina amueblada y equipada y 1 baño con ducha y ventana Calefacción, amueblado, soleado y exterior No se admiten mascotas Obligatorio hacer seguro de garantía de pagos Máximo 2 ó 3 personas de unidad familiar.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Piso en calle Felisa Campuzano, 22"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110435233",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/63/a1/e9/1405046683.webp",
+      "externalReference": "AL2702",
+      "numPhotos": 6,
+      "floor": "bj",
+      "price": 550.0,
+      "priceInfo": {
+        "price": {
+          "amount": 550.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio las Quintas, 20",
+      "province": "Cantabria",
+      "municipality": "Viveda",
+      "country": "es",
+      "latitude": 43.379131,
+      "longitude": -4.0752323,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110435233/",
+      "distance": "3998",
+      "description": "  presentamos a continuación fantástica vivienda ubicada en Santillana del mar. disponible hasta el 31 de mayo 2026  ubicada en una primera planta con fácil acceso  tiene una superficie útil de 50 metros distribuidos en 2 dormitorios ( uno con cama de 1,40 y el segundo con dos camas de 90 ) y armarios,  salón con sofá y mueble de tv practico para compartir, La cocina esta equipada completamente con  electrodomésticos, El baño tiene plato de ducha y mampara. La vivienda dispone de calefacción de gas natural. puertas de madera, y ventanas de doble cristal. Es muy soleado, tiene orientación SUR, y norte, lo que garantiza sol durante las horas principales del día.   No dejes pasar esta oportunidad y solicite una visita .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Viveda",
+        "title": "Piso en Barrio las Quintas, 20"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110388584",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/77/35/ab/1403743831.webp",
+      "externalReference": "2101-130033-BUÑUEL",
+      "numPhotos": 17,
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 150.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Luis Buñuel",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4411415,
+      "longitude": -3.8726763,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110388584/",
+      "distance": "17436",
+      "description": "Chalet pareado amplio. Mes de fianza + mes adicional + seguro de impago. NO SE ADMITEN MASCOTAS  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Chalet pareado en calle Luis Buñuel"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110348806",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5e/f1/8d/1402639147.webp",
+      "numPhotos": 16,
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 150.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Luis Buñuel",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4430562,
+      "longitude": -3.8722371,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110348806/",
+      "distance": "17589",
+      "description": "Chalet pareado amplio. Mes de fianza + mes adicional + seguro de impago. NO SE ADMITEN MASCOTAS  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Chalet pareado en calle Luis Buñuel"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108917781",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ef/2d/7c/1358889917.webp",
+      "externalReference": "1533",
+      "numPhotos": 33,
+      "floor": "4",
+      "price": 1800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 91.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Quintana, 15",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4266236,
+      "longitude": -4.0443084,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108917781/",
+      "distance": "8601",
+      "description": "¡Escápate este agosto! Piso con vistas y terraza. Te presentamos esta vivienda, ideal para disfrutar del mes de agosto. Se trata de un piso de tres habitaciones y un baño, completamente exterior, situado en una cuarta planta sin ascensor. Aunque pueda parecer un inconveniente, subir estas escaleras tiene su recompensa: la luminosidad y sus vistas, puedes disfrutar de las vistas al mar o si lo prefieres a la montaña. La vivienda es luminosa, tranquila y bien ventilada. El salón tiene acceso directo a la terraza, un rincón perfecto para relajarse al final del día o disfrutar de un desayuno al aire libre.  NRA ESFCNT00003 000000000000000000000001.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 20.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Piso en calle Quintana, 15"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110264860",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9c/d0/97/1408712115.webp",
+      "externalReference": "ISA943",
+      "numPhotos": 25,
+      "floor": "1",
+      "price": 595.0,
+      "priceInfo": {
+        "price": {
+          "amount": 595.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 53.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "CL CONCHA ESPINA",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2617234,
+      "longitude": -4.0695416,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110264860/",
+      "distance": "9898",
+      "description": "No todos los pisos transmiten sensación de hogar desde el primer momento. Este, en Los Corrales de Buelna, es de esos que te hacen imaginar tu día a día nada más cruzar la puerta. Una vivienda cuidada al detalle, donde se nota que todo está pensado para entrar a vivir y sentirse cómodo desde el primer minuto. Los Corrales de Buelna es una localidad ideal para vivir, con todos los servicios necesarios al alcance de la mano: comercios, supermercados, colegios, institutos, centro de salud, zonas de ocio y buenas conexiones de transporte. Además, cuenta con acceso rápido a la autovía, lo que permite desplazarse con facilidad y llegar en pocos minutos a Torrelavega y al resto de la provincia. La vivienda tiene una superficie aproximada de 53 m² y una distribución muy bien aprovechada. Dispone de una habitación amplia y luminosa, un salón acogedor con la cocina integrada, completamente equipada, y un baño completo. El piso se encuentra en un estado impecable, con un estilo actual y listo para entrar a vivir sin necesidad de hacer nada. El alquiler incluye plaza de garaje, un valor añadido que aporta comodidad y tranquilidad en el día a día. Se solicitan dos meses de fianza. Es una opción ideal para una persona sola o una pareja que busque un hogar funcional, bien ubicado y en una zona con alta demanda de alquiler. Si estás buscando piso en alquiler en Los Corrales de Buelna, no lo dejes pasar. Llámanos y concierta tu visita cuanto antes, porque oportunidades como esta duran muy poco.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Piso en CL Concha Espina"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107029877",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/60/8d/e5/1300898834.webp",
+      "numPhotos": 54,
+      "floor": "3",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 120.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Isla del Castro",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4691172,
+      "longitude": -3.9024695,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107029877/",
+      "distance": "17745",
+      "description": "¡Bienvenido a tu nuevo hogar en Soto de la Marina! Este impresionante piso de 120 m² te ofrece un estilo de vida de alto standing con todas las comodidades de una vivienda de obra nueva. Con tres amplios dormitorios y dos baños, uno de ellos en suite, disfrutarás de espacio y privacidad en cada rincón. La joya de la vivienda es su espectacular terraza perimetral de 70 m², perfecta para relajarte y disfrutar de las vistas a la costa quebrada. La vivienda, construida en 2023, cuenta con tecnología domótica, aerotermia y suelo radiante para que puedas regular la temperatura a tu gusto en cada estancia. Los ventanales panorámicos inundan el salón open space de luz natural, creando un ambiente acogedor y cálido. Además, todas las habitaciones tienen acceso directo a la terraza, proporcionando un espacio exterior único. Garaje con plaza doble ¡No pierdas la oportunidad de vivir la experiencia en este paraíso costero! El precio publicado NO CORRESPONDE a los meses de julio y agosto, se establece para estancias medias de 6 meses, cada periodo distinto a este consúltenos directamente y les informaremos encantados ajustando a sus fechas y servicios.  No incluido: gastos de gestión, suministros, sábanas y toallas UBICACION: Soto de la Marina Playas cercanas:   San Juan de la Canal 10 min a pie.  El Jortín (cala admite perros): 10 min. a pie  Calas: Covachos, Arnía o Portio: 10 minutos en coche  Dunas de Liencres: 15 m in. ACCESIBILIDAD  Aeropuerto Severiano Ballesteros: 15 min  Santander centro 15 minutos.  Acceso A67 10 min. TIPO DE ALQUILER: temporal, el precio publicado no es vinculante, consulte precio según periodo, no incluye servicios ni suministros. Sometido a decisión última del propietario. Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Piso en calle Isla del Castro"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110239199",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a4/2f/33/1399435385.webp",
+      "externalReference": "I00891",
+      "numPhotos": 19,
+      "floor": "bj",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Parbayón",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Parbayón",
+      "country": "es",
+      "latitude": 43.376446,
+      "longitude": -3.8973369,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110239199/",
+      "distance": "12516",
+      "description": "ALQUILER HASTA JUNIO. Bajo con jardín con 2 habitaciones. 2 baños. Amueblado. Calefacción. Ascensor hasta el garaje. Jardín y terraza. 2 garajes cerrados. Comunidad incluida.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Parbayón, Piélagos",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102958739",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d1/b6/0a/1173177896.webp",
+      "externalReference": "AL2559",
+      "numPhotos": 13,
+      "floor": "2",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.348268,
+      "longitude": -4.0470103,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102958739/",
+      "distance": "124",
+      "description": "SOLO PARA EMPRESAS - TEMPORADAS  A PARTIR ENERO DE 2026.   Presentamos a continuacion céntrica y luminosa vivienda en Torrelavega, concretamente en Calle La llama junto  a la cafetería Las Palmas y carnicería Nandín. La vivienda es una SEGUNDA PLANTA en un edificio con ascensor. Tiene una superficie útil de 90 metros distribuidos en 3 dormitorios ( el primero con cama de matrimonio y armario; el segundo con dos camas de 90 y armario y el tercero con 2 camas de 90 y armario desde la cual accedemos a un balcón; y el tercero con cama individual y armario). Amplio salón amueblado, con sofá, armario de tv y mesa comedor. La cocina esta equipada completa con electrodomésticos y el baño dispone de plato de ducha con mampara recién puesto. La vivienda tiene suelos de parquet de madera y las ventanas  son de PVC climalit. Es muy soleado todo exterior, con orientación norte sur.   Rodeado de todos los servicios como supermercados, colegios, comercios, parada de autobús, con parking gratuito cercano. Esta destinado a un alquiler DE TEMPORADAS PARA EMPRESAS. Se solicita solvencia económica para acceder al alquiler de la vivienda. No se admiten mascotas.   No deje pasar esta oportunidad y solicite una visita sin compromiso.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109855396",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/83/f5/78/1387677811.webp",
+      "externalReference": "AL2693",
+      "numPhotos": 21,
+      "floor": "2",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida de la Libertad, 23",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Muriedas",
+      "country": "es",
+      "latitude": 43.4150228,
+      "longitude": -3.851404,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109855396/",
+      "distance": "17457",
+      "description": "Rentas y Capitales presenta SOLO PARA EMPRESAS / TRASLADOS / TEMPORAL ¡Oportunidad única en Maliaño! Amplio y luminoso piso a solo 100 metros del centro y de la Avenida de la Concordia. Cuenta con tres habitaciones, salón-comedor y cocina independiente totalmente equipada con electrodomésticos, incluyendo lavavajillas. Dispone de un aseo y un baño completo con bañera. Todas las estancias, excepto baño, aseo y cocina (que da a patio de comunidad), son exteriores, llenas de luz natural. Además, cuenta con calefacción, suelos de parquet y ventanas de climalit de PVC que garantizan confort y eficiencia energética. El edificio se encuentra frente al colegio Matilde de la Torre, en una zona ideal para familias. Un piso amplio, funcional y listo para entrar a vivir. ¡No dejes pasar esta hermosa oportunidad!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Muriedas, Camargo",
+        "title": "Piso en avenida de la Libertad, 23"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110139428",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/85/69/6c/1396450354.webp",
+      "numPhotos": 15,
+      "floor": "1",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 160.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio Alto de Torres, 29 B",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Cerezo - Aspla - Torres",
+      "country": "es",
+      "latitude": 43.3509815,
+      "longitude": -4.0676839,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110139428/",
+      "distance": "1634",
+      "description": "Maravilloso ático totalmente exterior, con orientación sur y una luminosidad excepcional durante todo el día. Destaca su amplia terraza, con acceso directo desde el salón y la cocina, un espacio perfecto para disfrutar del aire libre y la sensación de estar en plena naturaleza sin salir de casa. La vivienda cuenta con estancias amplias y muy luminosas, distribuidas en dos plantas. En la planta principal dispone de un aseo de cortesía, mientras que en la planta superior se encuentra un cuarto de baño completo con bañera. Dispone de dos dormitorios: uno principal con cama de matrimonio y un segundo dormitorio con dos camas de 90 cm, una de ellas tipo nido, ideal para familia, invitados o despacho. Incluye plaza de garaje privada y trastero, aportando un extra de comodidad y almacenamiento.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cerezo - Aspla - Torres, Torrelavega",
+        "title": "Ático en Barrio Alto de Torres, 29 b"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110127154",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3a/8b/12/1396050891.webp",
+      "numPhotos": 72,
+      "price": 2500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "rent",
+      "size": 1430.0,
+      "rooms": 6,
+      "bathrooms": 6,
+      "address": "Diseminado Cos, 5",
+      "province": "Cantabria",
+      "municipality": "Mazcuerras",
+      "country": "es",
+      "latitude": 43.28505,
+      "longitude": -4.23428,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110127154/",
+      "distance": "16706",
+      "description": "¡Alquiler con opción a compra! Donde la historia se encuentra con la oportunidad perfecta: una propiedad única y lista para despegar. La propiedad reúne 975 m² distribuidos en tres plantas, además de un segundo edificio independiente para reformar con 493 m², ofreciendo múltiples posibilidades de uso. Principalmente como negocio de eventos y restauración, ya que su gran atractivo es que se encuentra prácticamente montado: cocina equipada, zonas de comedor, salones con chimenea… Solo requiere los últimos ajustes para empezar a funcionar. La finca cuenta con un jardín lateral de 325 m² y una extensa parcela arbolada de aproximadamente 4.000 m² situada detrás de la casa principal, donde se encuentra el edificio de casi 500m² ideal para rehabilitar y/o convertir en apartamentos turísticos o viviendas particulares. Distribución del inmueble principal: Planta de acceso: en el ingreso, recibidor / distribuidor de espacios. A la derecha, un salón con chimenea y un cuarto privado. En el frente, la zona de bar con cocina totalmente equipada. A la izquierda, un comedor con estancia reservada y baños. Primera planta: una amplia cocina auxiliar, baños, un dormitorio con chimenea y baño en suite, y un gran comedor con salida a una balconada con vistas abiertas al río y a los prados. Planta bajo cubierta: dividida en dos áreas independientes. La primera incluye salón con cocina americana, baño completo y tres dormitorios (uno en suite). La segunda es un espacio tipo loft de unos 100 m², ideal para nuevos usos o ampliaciones. Frente al inmueble hay más de 2.000 m² para utilizar como aparcamiento, un valor añadido si se plantea actividad turística o hostelera. Se trata de un inmueble sumamente singular: amplia casona tradicional montañesa a la orilla del río Saja, construida en el siglo XVIII con elementos característicos como el soportal de piedra y la solana con maderas nobles, todo ello a pocos minutos de Cabezón de la Sal, en el entorno natural del Valle de Cabuérniga, de nuestra Cantabria Infinita. En resumen: un lugar con alma, metros y potencial: solo falta que alguien lo convierta en su gran proyecto. Para optar a la opción a compra deberá abonarse el 10 % de entrada, 24 mensualidades de 2.500 € y el resto a la firma de escritura. El precio total de la propiedad son 849.000 €.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casale"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mazcuerras",
+        "title": "Casa rural en Diseminado Cos, 5"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 87,
+  "totalPages": 2,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Centro, Torrelavega",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 50,
+  "paginable": true
+}

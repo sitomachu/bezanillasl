@@ -29,6 +29,7 @@ Este directorio agrupa los cuadernos por fase de trabajo analítico.
 
 ## Dependencias recomendadas
 
-- Instalar dependencias globales del proyecto o específicas del módulo en uso:
-  - `src/idealistaAPI/requirements.txt`
-  - `src/geospatial_expansion/requirements.txt`
+- Flujo recomendado:
+  - Crear y activar `.venv` desde la raiz del repo.
+  - Instalar `requirements.txt` si vas a trabajar con notebooks.
+  - Usar siempre el mismo `requirements.txt` global para evitar divergencias.

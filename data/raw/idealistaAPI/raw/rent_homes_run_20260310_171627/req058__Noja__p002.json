@@ -1,0 +1,678 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110210516",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c4/65/ea/1398552183.webp",
+      "externalReference": "10285",
+      "numPhotos": 21,
+      "floor": "2",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4122596,
+      "longitude": -3.4149614,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110210516/",
+      "distance": "12229",
+      "description": "Espectacular piso de alquiler para larga duración en el centro de Laredo! Imprescindible solvencia económica de los inquilinos Cuenta con tres dormitorios amplios con armarios empotrados. Dispone de dos baños, uno con plato de ducha y otro con bañera. Cocina americana completamente equipada con salón comedor amplio y luminoso con galería con vistas. Ubicación inmejorable junto a todos los servicios. Tiene calefacción de gas natural individual. Se alquila con dos habitaciones con cama de matrimonio y una con dos camas de 90.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110050900",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f6/3f/ea/1393706075.webp",
+      "externalReference": "10273",
+      "numPhotos": 17,
+      "floor": "16",
+      "price": 680.0,
+      "priceInfo": {
+        "price": {
+          "amount": 680.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 30.0,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Zona Playa",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Zona Playa",
+      "country": "es",
+      "latitude": 43.4076978,
+      "longitude": -3.4374789,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110050900/",
+      "distance": "11405",
+      "description": "¡Espectacular ático con vistas a la bahía de Laredo! Desde inmobiliaria Mi Villa presentamos en alquiler de ENERO A MAYO, este precioso ático cuenta con una cocina completamente equipada abierta al salón y un baño completo con bañera. Desde el salón se accede a una enorme terraza de 30 metros cuadrados donde disfrutar de los amaneceres y atardeceres con vistas a la playa de Laredo. y otra terraza trasera de 10 m2 cerrada donde disfrutar de un café por las mañanas. En la parte superior cuenta con una habitación con armario empotrado. Cuenta con ascensor y parking comunitario. Agua caliente con gas butano y calefacción eléctrica. Cuenta con conserje todo el año. Para mas información contacte con nosotros en el o en C/López Seña.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 23.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zona Playa, Laredo",
+        "title": "Ático"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109865862",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2b/52/cb/1387985133.webp",
+      "externalReference": "002197",
+      "numPhotos": 54,
+      "floor": "1",
+      "price": 550.0,
+      "priceInfo": {
+        "price": {
+          "amount": 550.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 62.0,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "paseo de Trengandín",
+      "province": "Cantabria",
+      "municipality": "Noja",
+      "district": "Tregadín",
+      "country": "es",
+      "latitude": 43.4806351,
+      "longitude": -3.5196492,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109865862/",
+      "distance": "1002",
+      "description": "ALQUILER DE SEPTIEMBRE A JUNIO ( NO ALQUILER ANUAL ). Ref.2197 - NOJASOL INMOBILIARIA alquila en NOJA precioso primer PISO de 2 HABIT. con 3 terrazas y garaje subterráneo (PASEO TRENGANDIN Nº 3).  El inmueble se encuentra en una primera planta sin ascensor. Este piso luminoso y bien distribuido, con orientación sureste, ideal para disfrutar de la luz natural durante todo el día. La vivienda cuenta con un amplio salón principal con zona de comedor adyacente, ideal para reuniones y momentos de convivencia. Con salida a una estupenda terraza con una mesa y dos silla con vistas laterales a la playa. Cocina independiente totalmente equipada con muebles y electrodomésticos de buena calidad (vitrocerámica, horno, nevera, microondas...). No tiene lavavajillas. Dispone de una práctica terraza auxiliar que funciona como zona de lavandería, dotada de lavadora y con excelente ventilación natural. Un espacio funcional y bien aprovechado que combina comodidad y estilo. Baño moderno y reformado, con acabados de calidad. Cuenta con bañera con ducha tipo lluvia, mueble de lavabo con espejo LED y radiador toallero. Luminoso, funcional y con un toque elegante. Dos confortables habitaciones: * Dormitorio principal contiene una cama matrimonial de 1,50mts, un armario empotrado y una terraza para disfrutar cómodamente mientras admiras las vistas a la playa TRENGANDIN. Dormitorio con cama nido de 0,90 m y un colchón extraíble de la misma medida, además de armario empotrado. Es importante tener en cuenta que, si se saca la cama inferior, no queda mucho espacio y es algo \"engorroso\" su apertura, por lo que su uso requiere cierta planificación. Sus tres terrazas perfectas para relajarse y también disfrutar al aire libre mientras contemplamos las maravillosas vistas de fondo a la playa. El piso dispone de calefacción por gas ciudad y se entrega totalmente amueblado y listo para entrar a vivir, con todo lo necesario para el día a día. Esta vivienda se incluye una plaza de garaje subterránea. MEDIDAS: ANCHO: 2,13mts FONDO: 4,87mts ALTO INTERIOR GARAJES: 2,10mts PUERTA COMUNIDAD (alto): 1,95mts. Además, el edificio cuenta con un parking para residentes al exterior con capacidad aproximada para 10 vehículos. ofreciendo una excelente opción adicional de aparcamiento tanto para residentes como para visitas Esta situado a unos 50 mts de la playa de Trengandin, 150mts de la Plaza de Villa (CENTRO DE NOJA), 200 mts de supermercados, a unos 225 mts del estación de buses. Dispone de videos. Se requiere nomina con antigüedad, pensión compensatoria o declaración de la renta (en el caso de autónomos que tengan recorrido estable laboral en su profesión) para justificar ingresos. El alquiler con gastos no puede superar el 30% de los ingresos demostrables (si fuese así la propiedad no va aceptar). Se pide una fianza 1100€.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Tregadín, Noja",
+        "title": "Piso en paseo de Trengandín"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109579602",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d7/b3/05/1379047515.webp",
+      "numPhotos": 17,
+      "floor": "1",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 91.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle la Quinta, 19",
+      "province": "Cantabria",
+      "municipality": "Colindres",
+      "country": "es",
+      "latitude": 43.3945532,
+      "longitude": -3.4499167,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109579602/",
+      "distance": "12078",
+      "description": "Se alquila amplio piso de tres habitaciones situado en la calle La Quinta nº 19. La vivienda dispone de tres dormitorios luminosos, un gran salón con salida a terraza, cocina totalmente equipada con acceso a otra terraza independiente y dos baños completos. Se encuentra en buen estado y está preparado para alquiler a trabajadores o empresas que busquen alojamiento para su personal en la zona. Ubicación tranquila, bien comunicada y con todos los servicios cerca. Listo para entrar a vivir. Disponibilidad inmediata.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Colindres",
+        "title": "Piso en calle la Quinta, 19"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109545152",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ea/d5/2f/1377984245.webp",
+      "externalReference": "01146",
+      "numPhotos": 42,
+      "price": 1450.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1450.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 200.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "calle Pintor Ángel Alonso",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "El Puntal",
+      "country": "es",
+      "latitude": 43.4209889,
+      "longitude": -3.4478069,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109545152/",
+      "distance": "9727",
+      "description": "Chalet adosado a pocos metros de la playa Salvé! La vivienda cuenta con 3 plantas mas sótano.  Se distribuye de la siguiente manera: En la Primera Planta: cocina independiente y completa, Aseo de cortesía y salón-comedor con chimenea con salida a través de un amplio ventanas al jardín y terraza En la Segunda Planta encontramos tres dormitorios, uno de ellos en Suite con baño completo con bañera incorporada, y un segundo baño también completo para dar servicio al resto de las estancias. Todas tienen armarios empotrados y gran luminosidad. En el Ático, aprovechando el bajo cubierta nos encontramos una habitación abuhardillada con salida a una espectacular terraza con vistas despejadas y orientación sur además de mucha intimidad. Esta estancia tiene un montón de posibilidades como sala de estar, cuarto dormitorio, … Por último, en el sótano cuenta con garaje cerrado de gran capacidad, un espacio amplio para almacenaje y un txoco con ventilación y mucha luz. Esta vivienda forma parte de una urbanización con cerrada con piscina comunitaria ALQUILER PARA TODO EL AÑO.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Puntal, Laredo",
+        "title": "Chalet adosado en calle Pintor Ángel Alonso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109360395",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/75/15/02/1372289152.webp",
+      "externalReference": "2025108",
+      "numPhotos": 24,
+      "floor": "5",
+      "price": 550.0,
+      "priceInfo": {
+        "price": {
+          "amount": 550.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 49.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "El Puntal",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "El Puntal",
+      "country": "es",
+      "latitude": 43.4223456,
+      "longitude": -3.4488715,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109360395/",
+      "distance": "9555",
+      "description": "Se alquila apartamento en Laredo. Situado en la zona del puntal se alquila para estancias cortas. Situado en una urbanización con zona ajardinada y a 100 metros de la playa, cuenta con portero todo el año. El apartamento dispone de 1 habitación, cocina, baño completo y salón con acceso a una bonita terraza. Precio orientativo. Consultar disponibilidad y precios según fechas deseadas. Para más información: Garanty Home Cantabria c/Emperador 1, Laredo. SEPT-JUNIO: 550€ JULIO: 900€ semana,  1.500€ quincena  3.000€ mes. AGOSTO: 1ª quincena ocupado. 2ª quincena: 1.500€.  Semana: 900€.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Puntal, Laredo",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108277037",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/90/id.pro.es.image.master/09/61/f5/1350070882.webp",
+      "externalReference": "laredo",
+      "numPhotos": 32,
+      "floor": "7",
+      "price": 600.0,
+      "priceInfo": {
+        "price": {
+          "amount": 600.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "studio",
+      "operation": "rent",
+      "size": 35.0,
+      "exterior": true,
+      "rooms": 0,
+      "bathrooms": 1,
+      "address": "avenida de Francia, 99",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "El Puntal",
+      "country": "es",
+      "latitude": 43.4257624,
+      "longitude": -3.4476708,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108277037/",
+      "distance": "9325",
+      "description": "Disponible por semanas, quincenas y meses. ( Mirar disponibilidad abajo)  CODIGO DE REGISTRO DE ALQUILER DE TEMPORADA  ESFCNT00003 000000000000000000000009 Alquiler de temporada a 5 minutos de la playa caminando.  Amueblado recientemente. Disfruta de unas vistas espectaculares al mar desde la terraza, desayuna con el sonido de las olas y relájate en un ambiente impecable, luminoso y con todo lo necesario para una estancia cómoda  Estudio, diafano con vistas panorámicas al mar. Es ideal para dos personas, también con un niñ@ El alquiler no incluye sabanas ni toallas. Dispone de calefacción.  Posibilidad de varios meses, corta estancia, consultar: PRECIO DE 3 A 6 MESES, 600€  Noviembre a Abril 420€ la semana 740€ quincena  Del 19 marzo al 12 abril 460€ la semana Julio - OCUPADO AGOSTO- OCUPADO Septiembre-octubre Semana 460€ Quincena 800€ Mes 1400€ Tiene una cama de 140 cm con almacenaje, que se independiza mediante sistema de cortinas opacas y almacenaje.  Sofá cama de 150 cm, TV con brazo para verla tanto desde la zona salón como desde la cama. Cocina independiente. Y terraza con mesa y dos sillas, es el lujo de la casa.  La urbanización cuenta con zona ajardinada, duchas, columpios, y zona para jugar a fútbol. Es una séptima altura con ascensor, dispone de calefacción individual de gas.  Zona cómoda para ir a la playa y aparcar.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 17.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "studio"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Puntal, Laredo",
+        "title": "Estudio en avenida de Francia, 99"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108061046",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c7/40/f2/1333869863.webp",
+      "externalReference": "25-0017",
+      "numPhotos": 18,
+      "floor": "3",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 95.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Virgen del Carmen",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.4407948,
+      "longitude": -3.4515132,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108061046/",
+      "distance": "7903",
+      "description": "ALQUILER TEMPORAL DE SEPTIEMBRE A JUNIO! Magnifico piso de 3 habitaciones y 2 baños con garaje en Santoña. Completamente equipado con todo lo necesario. Consultar precio dependiendo del periodo de alquiler. Llame sin compromiso para concertar una visita.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso en calle Virgen del Carmen"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "101075733",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7c/66/35/1109178905.webp",
+      "externalReference": "C03a01",
+      "numPhotos": 28,
+      "floor": "1",
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 65.0,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Urbanización Parque Mar",
+      "province": "Cantabria",
+      "municipality": "Barcena de Cicero",
+      "country": "es",
+      "latitude": 43.4243134,
+      "longitude": -3.522629,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/101075733/",
+      "distance": "7225",
+      "description": "CORTA ESTANCIA. Precioso apartamento y acogedor en Gama. Zona tranquila y con vistas a las marismas y parque natural. Ideal para disfrutar con la familia o en pareja. Alquiler de corta o media estancia. Se alquila por meses, días, semanas o también días laborables. Máximo de alquiler de 4 meses. Los gastos de gestión, limpieza y suministros no están incluidos. Para esta vivienda el precio con todos los gastos sería desde 950 euros/mes. Se debe depositar fianza y el pago se hace por adelantado antes de la firma del contrato y para bloquear la reserva. El precio puede variar según la temporada. No disponible en temporada de Verano. Ropa de cama, toallas y menaje incluido. Disponemos de más viviendas en todo Asturias y Cantabria. Podrás ver disponibilidad y precios en Somos una consultoría inmobiliaria, que ofrecemos casi todos los servicios relacionados con los bienes inmuebles, a nivel particular, empresa o inversor. Compra-venta-alquiler de propiedades, gestión integral de alquileres vacacionales, broker inmobiliario, reformas integrales y parciales, arquitectura técnica, . Para más información contáctanos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Barcena de Cicero",
+        "title": "Piso en calle Urbanización Parque Mar"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107891407",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/51/33/6a/1327487902.webp",
+      "numPhotos": 29,
+      "price": 4100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 4100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 320.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "calle la Brava, 29",
+      "province": "Cantabria",
+      "municipality": "Noja",
+      "district": "Ris",
+      "country": "es",
+      "latitude": 43.4872735,
+      "longitude": -3.527417,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107891407/",
+      "distance": "414",
+      "description": "NOTA INFORMATIVA TEMPORADA 2026 * 2DA QUINCENA DE JULIO Y TODO AGOSTO RESERVADO EL RESTO DE FECHAS CONTINÚAN DISPONIBLES ¡Tu refugio perfecto te está esperando en Noja! Si buscas un lugar donde el verano se sienta como en casa, este espectacular pareado en Noja es para ti. ✨ Espacio de sobra para todos: 4 habitaciones con baño compartido, una de ellas con baño en suite y una quinta en el ático con encanto de cabaña, perfecta para otras 4 personas con baño. Comodidad y privacidad aseguradas. Con capacidad total para 12 personas. ☀️ Disfruta del aire libre como nunca: Distintos balcones, una terraza para desayunos con brisa y un jardín de 1.000m² para tomar el sol, jugar con los peques o preparar una barbacoa inolvidable. Olvídate del aparcamiento: 3 plazas exteriores + 1 interior para que todos lleguen sin preocupaciones. Un verano de tranquilidad y desconexión te espera en Noja. ¿Te imaginas aquí? Escríbeme y ven a conocerla. ¡No tardes, que el verano vuela! ☀️ SOLO SE ALQUILA POR QUINCENAS CONSULTA DISPONIBILIDAD Y PRECIOS PARA LA TEMPORADA 2026.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ris, Noja",
+        "title": "Chalet pareado en calle la Brava, 29"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106840304",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/97/f4/4f/1295537406.webp",
+      "externalReference": "L-1117",
+      "numPhotos": 35,
+      "floor": "1",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Ris",
+      "province": "Cantabria",
+      "municipality": "Noja",
+      "district": "Ris",
+      "country": "es",
+      "latitude": 43.4882829,
+      "longitude": -3.5256456,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106840304/",
+      "distance": "234",
+      "description": "SE ALQUILA VIVIENDA VACACIONAL (JUNIO A SEPTIEMBRE), de unos 75m2 aproximadamente, a 50 metros de la playa del Ris, a 17 min a pie de Playa de Trengandín y a 43 km de Puerto de Santander. Dispone de dos dormitorios, baño completo, salón comedor con salida a terraza y cocina equipada. Vivienda totalmente amueblada. Además cuenta con parcela de garaje incluida en el precio. A escasos metros de todos los servicios como supermercados, restaurantes, así como el centro de ocio, con espacios para muchas actividades y biblioteca. Además cruzando la calle nos encontramos con el campo de golf.     CONSULTAR PRECIO POR SEMANA, QUINCENA O MES    SEGUNDA QUINCENA JULIO - RESERVADO    MES DE AGOSTO COMPLETO - RESERVADO.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ris, Noja",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100803703",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/38/af/79/1099395731.webp",
+      "externalReference": "V202341",
+      "numPhotos": 31,
+      "floor": "2",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "avenida de España",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4087529,
+      "longitude": -3.416957,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/100803703/",
+      "distance": "12394",
+      "description": "Se alquila piso en Laredo para estancias durante el curso y en verano. La vivienda está situada en pleno centro de la villa con todos los servicios al lado y a escasos metros de la playa de la Salvé.  El piso cuenta con 2 habitaciones y 1 baño y es ideal para un máximo de 4 personas. Destaca su hermosa y luminosa cocina completamente equipada con lavavajillas incluido y su terracita con mesa y sillas para disfrute del verano. Además, la vivienda dispone de wifi y calefacción de gas. Para más información sobre disponibilidad y precios: Garanty Home Cantabria: c/Emperador 1, Laredo. DISPONIBILIDAD: Julio: del 1 al 27. Agosto: del 14 al 22. Septiembre: del 1 al 6. Consultar precio según fechas. Precio orientativo: 1.000€/semana G35762.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en avenida de España"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 62,
+  "totalPages": 2,
+  "actualPage": 2,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Ris, Noja",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 62,
+  "paginable": true,
+  "lowerRangePosition": 50
+}

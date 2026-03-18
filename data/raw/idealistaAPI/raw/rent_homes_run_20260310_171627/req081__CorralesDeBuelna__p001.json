@@ -1,0 +1,1459 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110226219",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e8/6f/56/1417728655.webp",
+      "externalReference": "56718",
+      "numPhotos": 29,
+      "price": 795.0,
+      "priceInfo": {
+        "price": {
+          "amount": 795.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 850.0,
+            "priceDropValue": 55,
+            "priceDropPercentage": 6
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 120.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Pablo Garnica",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Cerezo - Aspla - Torres",
+      "country": "es",
+      "latitude": 43.3514503,
+      "longitude": -4.051958,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110226219/",
+      "distance": "10277",
+      "description": "Presentamos un encantador piso situado en la área de Aspla, ubicado en el segundo nivel sin ascensor. Esta propiedad cuenta con dos acogedoras habitaciones individuales y una espaciosa habitación matrimonial que incluye un práctico aseo privado. El amplio estudio ofrece versatilidad para diferentes usos, mientras que la cocina totalmente equipada es perfecta para disfrutar de deliciosas comidas familiares gracias a su generoso espacio y gran capacidad de almacenamiento. Además, el luminoso salón se caracteriza por ser muy soleado e invita al relax con vistas hacia un tranquilo patio vecinal. También dispone de un baño completo equipado con bañera y luminoso. Su ubicación es inmejorable: a solo 1 minuto del centro urbano y perfectamente conectado tanto con las principales vías rápidas como trenes; todo ello sumando conveniencia ya que nuestras maravillosas playas están apenas a 10 minutos. si estas pensando en cambiarte a una casa amplia, luminosa y bien situada esta es yu oportunidad.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cerezo - Aspla - Torres, Torrelavega",
+        "title": "Piso en calle Pablo Garnica"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110120259",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8c/5c/07/1417594649.webp",
+      "externalReference": "AL2698",
+      "numPhotos": 13,
+      "floor": "bj",
+      "price": 775.0,
+      "priceInfo": {
+        "price": {
+          "amount": 775.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Juan Cacho Ruiz de Villa, 1",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "El Parque - Zapatón",
+      "country": "es",
+      "latitude": 43.3464646,
+      "longitude": -4.0511743,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110120259/",
+      "distance": "9738",
+      "description": "Rentas y Capitales presenta estupendo bajo recién REFORMADO, en Calle Juan Cacho Ruiz de Villa ( junto a la Avenida de España ). planta baja. Gasgos de suministros Incluidos. La vivienda tiene una superficie útil de 65 metros distribuidos en 2 dormitorios ( uno  con cama de matrimonio y armario) y el segundo dormitorio con cama de 90. Salón con cocina americana a estrenar con electrodomésticos. Baño completo con plato de ducha y mampara. Dispone de un balcón al cual accedemos desde el salón. Orientación Sur. Todo exterior. Los suelos son de tarima flotante, las ventana de PVC climalit y la calefacción es eléctrica. Ubicado en el centro de Torrelavega junto a la Avenida de España. Rodeado de todos los servicios como paradas de autobús, supermercados, comercios, colegios, instituto, etc. Se solicitará solvencia económica para acceder al alquiler de la vivienda.   Consulte condiciones y disponibilidad. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Parque - Zapatón, Torrelavega",
+        "title": "Piso en calle Juan Cacho Ruiz de Villa, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110852043",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/47/11/55/1417479365.webp",
+      "numPhotos": 9,
+      "floor": "bj",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 95.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio San Miguel",
+      "province": "Cantabria",
+      "municipality": "Cartes",
+      "country": "es",
+      "latitude": 43.3069472,
+      "longitude": -4.105284,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110852043/",
+      "distance": "5979",
+      "description": "Piso con encanto bohemio /////PARA 1 PERSONA//// (por favor respetad la demanda de la propiedad... ) Zona tranquila en un entorno con amplias zonas verdes para la práctica de actividades al aire libre senderismo. Tiene 2 terrazas exteriores muy soleadas. Gracias  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cartes",
+        "title": "Piso en Barrio San Miguel"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110845111",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cd/2c/fe/1417309272.webp",
+      "externalReference": "AL2711",
+      "numPhotos": 18,
+      "floor": "4",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "calle Hermilio Alcalde del Río, 12",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3501934,
+      "longitude": -4.051331,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110845111/",
+      "distance": "10146",
+      "description": "PARA EMPRESAS / TRASLADOS / TRABAJADORES - CONDICIONES A CONSULTAR ( SEGUN NUMERO DE PERSONAS, DURACION, ETC. ). Rentas y Capitales presenta a continuacion amplia y luminosa vivienda en en centro de Torrelavega,   La vivienda esta en un. edificio  con ascensor, tiene una superficie útil de 90 metros distribuidos en 4 amplios dormitorios con cama de matrimonio cada uno de ellos, amueblados con armarios y mesita. Dispone de cocina independiente moderna, salón con mesa comedor y TV. El baño es moderno equipado con plato de ducha y mampara.  Los suelos son de tarima flotante, dispone de calefacción de gas natural y las ventanas son de PVC climalit.   La vivienda ha sido reformada completamente en 2025. Ubicado en el centro de Torrelavega,  junto a paradas de autobús, supermercados, estación de tren, a 15 km de Santander.   Esta destinado a un alquiler para EMPRESAS / TRABAJADORES desplazados. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Hermilio Alcalde del Río, 12"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110828758",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ef/a5/cb/1416670774.webp",
+      "externalReference": "3393A",
+      "numPhotos": 35,
+      "floor": "1",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 77.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio San Martín, 4",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Zurita",
+      "country": "es",
+      "latitude": 43.3474094,
+      "longitude": -3.9899385,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110828758/",
+      "distance": "11667",
+      "description": "ALQUILER DE PISO EN ZURITA. TRANQUILIDAD, UBICACIÓN Y PRECIO COMPETITIVO POR 650 € AL MES Si estás buscando un piso en alquiler en Zurita de Piélagos que combine tranquilidad, buena comunicación y una renta ajustada, esta vivienda puede encajar perfectamente contigo. Se trata de un estupendo piso totalmente amueblado, distribuido en 2 amplios dormitorios, luminoso salón comedor, cocina independiente y 1 baño completo. Una vivienda cómoda, práctica y funcional, pensada tanto para quienes buscan su primera vivienda en alquiler como para quienes desean más espacio y calidad de vida. La vivienda dispone de calefacción individual de gasoil, lo que permite controlar el consumo y el confort durante todo el año, además de ventanas de PVC y madera, que favorecen el aislamiento térmico y acústico. Está lista para entrar a vivir, sin necesidad de realizar ninguna inversión adicional. Se encuentra en un edificio muy tranquilo, con únicamente otra vivienda más, lo que aporta privacidad y una convivencia relajada. Vivir en una zona residencial como Zurita de Piélagos significa disfrutar de la calma, el entorno verde y el descanso diario, sin renunciar a las conexiones estratégicas: la vivienda está muy próxima al enlace de la autovía y a la estación de tren, facilitando los desplazamientos hacia Santander, Torrelavega y otras zonas de Cantabria. Una ubicación ideal para quienes trabajan fuera pero desean vivir en un entorno más tranquilo. Hoy en día es complicado encontrar un alquiler de 2 dormitorios en Cantabria por 650 € al mes, especialmente en una zona bien comunicada y con estas características. Renta: 650 € al mes (Gastos y suministros no incluidos. Sí se incluyen gastos de comunidad e IBI). La vivienda se alquila con seguro de garantía de alquiler, por lo que será imprescindible acreditar ingresos y estabilidad laboral. Contrato para larga duración. Importante: Las personas interesadas deben acceder a localizar este inmueble y cumplimentar la ficha de demandante de alquiler. Este es el primer e imprescindible paso para poder optar al alquiler de la vivienda. Si buscas un piso en alquiler en Zurita de Piélagos que combine ubicación, tranquilidad y precio razonable, no dejes pasar esta oportunidad. Rellena la ficha de demandante de alquiler y da el primer paso hacia tu nuevo hogar. Información no contractual. Sujeta a posibles errores u omisiones.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zurita, Piélagos",
+        "title": "Piso en Barrio San Martín, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110823107",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a4/5f/25/1417907107.webp",
+      "externalReference": "036.134275",
+      "numPhotos": 13,
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Covadonga - Campuzano - Ciudad Vergel",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Covadonga - Campuzano - Ciudad Vergel",
+      "country": "es",
+      "latitude": 43.3454924,
+      "longitude": -4.0534419,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110823107/",
+      "distance": "9605",
+      "description": "Los alquileres sólo se informan de manera presencial en la agencia, sita en julian ceballo 1, cuatro caminos torrelavega.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Covadonga - Campuzano - Ciudad Vergel, Torrelavega",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110820750",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/01/0e/a3/1417594618.webp",
+      "externalReference": "AL2710",
+      "numPhotos": 27,
+      "floor": "2",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Poeta José Luis Hidalgo, 4",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "El Parque - Zapatón",
+      "country": "es",
+      "latitude": 43.3496024,
+      "longitude": -4.0551821,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110820750/",
+      "distance": "10041",
+      "description": "- Solo EMPRESAS - Temporales Presentamos a continuación amplia y luminosa vivienda en Torres de calabaza ( en el centro de Torrelavega ), con todas las facilidades de mercados a sus alrededores. La vivienda esta en un  edificio con ascensor. Tiene una superficie útil de 83 metros distribuidos en 3 dormitorios ( el 3 con cama de matrimonio),   amplio salón comedor amueblado con sofá y mesa y mueble de tv, amplia cocina amueblada con electrodomésticos, y baño completo. y un aseo. Muy soleado, exterior completamente con orientación sur, con bonitas vistas  al entorno.   Dispone de calefacción de gas natural  los suelos son de parquet y las ventanas de PVC climalit. Con fácil aparcamiento. Ubicado  en el centro de Torrelavega  con fácil comunicaciones. Esta destinado a empresas que vengan a realizar trabajos a Cantabria ( por meses, trimestres, semestres, etc. ).   La capacidad de alojamiento es de 5 personas máximo. Los precios del alquiler pueden variar en función del tiempo y del numero de personas que se alojen en la vivienda.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Parque - Zapatón, Torrelavega",
+        "title": "Piso en calle Poeta José Luis Hidalgo, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110814177",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ab/db/1c/1416359966.webp",
+      "externalReference": "56754",
+      "numPhotos": 12,
+      "floor": "2",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 82.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Los Corrales de Buelna",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2618649,
+      "longitude": -4.0666402,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110814177/",
+      "distance": "318",
+      "description": "En el encantador pueblo de Corrales de Buelna, a tan solo cinco minutos del centro urbano de Torrelavega y con acceso inmediato a la autovía que conecta la meseta con la capital, se ofrece este acogedor piso. La propiedad cuenta con una habitación principal equipada con un amplio armario, ideal para maximizar el espacio. Además, presenta una segunda habitación individual perfecta para visitas o como oficina. El baño completo dispone de un práctico plato de ducha y hay también un aseo adicional que brinda mayor comodidad. La cocina está completamente equipada e incluye tendal exterior; es el lugar perfecto para preparar deliciosas comidas familiares o disfrutar momentos agradables entre amigos. Complementa esta oferta una plaza privada en garaje, asegurando así su vehículo frente a las inclemencias del tiempo y proporcionando tranquilidad al propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110808340",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3d/72/d8/1416173304.webp",
+      "numPhotos": 17,
+      "floor": "2",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 93.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio Puente San Miguel",
+      "province": "Cantabria",
+      "municipality": "Puente San Miguel",
+      "country": "es",
+      "latitude": 43.359948,
+      "longitude": -4.0859067,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110808340/",
+      "distance": "11203",
+      "description": "¿Busca un hogar espacioso, ventilado y con luz natural durante todo el día? ☀️ Este segundo piso (sin ascensor) destaca por su excelente distribución y su ubicación estratégica cerca de todos los servicios. La vivienda se distribuye en cocina con zona de comedor independiente, salón muy amplio, tres habitaciones y un baño. No se admiten mascotas. Se hace seguro de impago de alquileres por lo que hay que cumplir con unos ingresos mínimos.  Precio: 650€/mes.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puente San Miguel",
+        "title": "Piso en Barrio Puente San Miguel"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110771159",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c9/74/b3/1415066362.webp",
+      "externalReference": "AL2709",
+      "numPhotos": 21,
+      "floor": "bj",
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "plaza de las Autonomías, 6",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Ciudad Nueva",
+      "country": "es",
+      "latitude": 43.3394366,
+      "longitude": -4.050491,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110771159/",
+      "distance": "8976",
+      "description": "Presentamos a continuación fantástica vivienda en el centro de  Torrelavega.    La vivienda es UNA PLANTA BAJA, Tiene una superficie útil de 75 metros distribuidos en 2 dormitorios  ( los dos cuentan con cama de matrimonio y armario en 1  habitación tenéis acceso a una puerta con salida a la calle). Amplio salón amueblado totalmente con dos sofás, mesita, mueble de tv ( incluye TV). Baño completo con plato de ducha  y mampara. un segundo baño ubicado en la habitación  principal con plato de ducha.  La Cocina esta equipada totalmente  con electrodomésticos modernos, Dispone de calefacción eléctrica, suelo de tarima cerámica  y ventanas de PVC climalit. La vivienda es muy luminosa dispone de orientación sur-este da el sol todo el día.   La vivienda se encuentra muy bien ubicada en el centro  con todos los servicios al lado farmacias, colegio, médicos, supermercados, etc.   se solicita solvencia económica para hacer seguro de alquiler.   Consulte fechas y disponibilidad.   No dejes pasar esta oportunidad y solicite su visita sin compromiso estaremos encantados de atenderle.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ciudad Nueva, Torrelavega",
+        "title": "Piso en plaza de las Autonomías, 6"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "95246097",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f3/fe/6b/913324259.webp",
+      "externalReference": "56742",
+      "numPhotos": 15,
+      "floor": "7",
+      "price": 820.0,
+      "priceInfo": {
+        "price": {
+          "amount": 820.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 110.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3480676,
+      "longitude": -4.0482748,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/95246097/",
+      "distance": "9952",
+      "description": "Estupenda vivienda en pleno centro de Torrelavega de 3 dormitorios, cocina independiente a estrenar totalmente equipada y baño completo con plato de ducha a estrenar. Dispone de armarios empotrados, muy luminoso, vistas despejadas, calefacción de gas ciudad y ascensor. No Mascotas.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110500321",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/95/d7/c6/1406826350.webp",
+      "externalReference": "AL2705",
+      "numPhotos": 21,
+      "floor": "1",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 89.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Pintor Modinos",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3467,
+      "longitude": -4.0448798,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110500321/",
+      "distance": "9854",
+      "description": "TEMPORAL - PARA EMPRESAS   Rentas y Capitales presenta amplia y luminosa vivienda en el centro de Torrelavega. La vivienda es una PRIMERA PLANTA en un edificio con ascensor. Tiene una superficie útil de 80 metros distribuidos en 3 amplios dormitorios amueblados con cama, armario y mesita. Amplio salón comedor orientado a la calle principal amueblado con sofá, mesa de tv y mesa comedor. Dos baños completos ambos con bañera. La cocina es bastante amplia se encuentra equipada con electrodomésticos. Dispone de calefacción centralizada, los suelos son de parquet y las ventanas de aluminio. Se encuentra muy bien ubicada en el centro de Torrelavega, con gran parking gratuito frente al edificio.   Esta destinado a un alquiler PARA EMPRESAS por temporadas ( las condiciones varían en función del numero de personas y de el tiempo). Se solicita solvencia para el alquiler de la vivienda. Solicite una visita sin compromiso.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Pintor Modinos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110450936",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/97/47/6c/1405345915.webp",
+      "externalReference": "AL2704",
+      "numPhotos": 14,
+      "floor": "2",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 98.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida de Joaquin Fernandez Vallejo, 14",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Ciudad Nueva",
+      "country": "es",
+      "latitude": 43.3429433,
+      "longitude": -4.0464908,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110450936/",
+      "distance": "9419",
+      "description": "Presentamos a continuación fantástica vivienda en el centro de Torrelavega.   La vivienda es una SEGUNDA  PLANTA en un edificio CON ASCENSOR. Tiene una superficie útil de 95 metros distribuidos en 3 dormitorios ( 1 con cama de 1,50m, el segundo y el tercero con 2 camas de 90) y armarios.   El salón es bastante amplio incluye mesa, ideal para estudiar o teletrabajar. La cocina esta equipada completamente con modernos electrodomésticos,  El baño tiene plato de ducha y mampara. Y un aseo  La vivienda dispone de calefacción de gas natural, tiene suelos de  cerámica, puertas de madera, y ventanas de doble cristal pvc. Es muy soleado, tiene orientación SUR, y norte, lo que garantiza sol durante las horas principales del día. Esta ubicado en el centro de la capital con paradas de autobús, supermercados, estación de Ferrocarril  No deje pasar esta oportunidad y solicite su visita.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ciudad Nueva, Torrelavega",
+        "title": "Piso en avenida de Joaquin Fernandez Vallejo, 14"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109626821",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a2/ee/b3/1380548736.webp",
+      "externalReference": "L1218",
+      "numPhotos": 11,
+      "floor": "2",
+      "price": 680.0,
+      "priceInfo": {
+        "price": {
+          "amount": 680.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Felisa Campuzano, 22",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2619649,
+      "longitude": -4.0677727,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109626821/",
+      "distance": "268",
+      "description": "En el centro de Los Corrales de Buelna, junto a todos los servicios Alquilamos un piso en segunda planta sin ascensor, con 2 habitaciones más un despacho, salón, cocina amueblada y equipada y 1 baño con ducha y ventana Calefacción, amueblado, soleado y exterior No se admiten mascotas Obligatorio hacer seguro de garantía de pagos Máximo 2 ó 3 personas de unidad familiar.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Piso en calle Felisa Campuzano, 22"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110264860",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9c/d0/97/1408712115.webp",
+      "externalReference": "ISA943",
+      "numPhotos": 25,
+      "floor": "1",
+      "price": 595.0,
+      "priceInfo": {
+        "price": {
+          "amount": 595.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 53.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "CL CONCHA ESPINA",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2617234,
+      "longitude": -4.0695416,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110264860/",
+      "distance": "202",
+      "description": "No todos los pisos transmiten sensación de hogar desde el primer momento. Este, en Los Corrales de Buelna, es de esos que te hacen imaginar tu día a día nada más cruzar la puerta. Una vivienda cuidada al detalle, donde se nota que todo está pensado para entrar a vivir y sentirse cómodo desde el primer minuto. Los Corrales de Buelna es una localidad ideal para vivir, con todos los servicios necesarios al alcance de la mano: comercios, supermercados, colegios, institutos, centro de salud, zonas de ocio y buenas conexiones de transporte. Además, cuenta con acceso rápido a la autovía, lo que permite desplazarse con facilidad y llegar en pocos minutos a Torrelavega y al resto de la provincia. La vivienda tiene una superficie aproximada de 53 m² y una distribución muy bien aprovechada. Dispone de una habitación amplia y luminosa, un salón acogedor con la cocina integrada, completamente equipada, y un baño completo. El piso se encuentra en un estado impecable, con un estilo actual y listo para entrar a vivir sin necesidad de hacer nada. El alquiler incluye plaza de garaje, un valor añadido que aporta comodidad y tranquilidad en el día a día. Se solicitan dos meses de fianza. Es una opción ideal para una persona sola o una pareja que busque un hogar funcional, bien ubicado y en una zona con alta demanda de alquiler. Si estás buscando piso en alquiler en Los Corrales de Buelna, no lo dejes pasar. Llámanos y concierta tu visita cuanto antes, porque oportunidades como esta duran muy poco.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Piso en CL Concha Espina"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102958739",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d1/b6/0a/1173177896.webp",
+      "externalReference": "AL2559",
+      "numPhotos": 13,
+      "floor": "2",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.348268,
+      "longitude": -4.0470103,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102958739/",
+      "distance": "9992",
+      "description": "SOLO PARA EMPRESAS - TEMPORADAS  A PARTIR ENERO DE 2026.   Presentamos a continuacion céntrica y luminosa vivienda en Torrelavega, concretamente en Calle La llama junto  a la cafetería Las Palmas y carnicería Nandín. La vivienda es una SEGUNDA PLANTA en un edificio con ascensor. Tiene una superficie útil de 90 metros distribuidos en 3 dormitorios ( el primero con cama de matrimonio y armario; el segundo con dos camas de 90 y armario y el tercero con 2 camas de 90 y armario desde la cual accedemos a un balcón; y el tercero con cama individual y armario). Amplio salón amueblado, con sofá, armario de tv y mesa comedor. La cocina esta equipada completa con electrodomésticos y el baño dispone de plato de ducha con mampara recién puesto. La vivienda tiene suelos de parquet de madera y las ventanas  son de PVC climalit. Es muy soleado todo exterior, con orientación norte sur.   Rodeado de todos los servicios como supermercados, colegios, comercios, parada de autobús, con parking gratuito cercano. Esta destinado a un alquiler DE TEMPORADAS PARA EMPRESAS. Se solicita solvencia económica para acceder al alquiler de la vivienda. No se admiten mascotas.   No deje pasar esta oportunidad y solicite una visita sin compromiso.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110139428",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/85/69/6c/1396450354.webp",
+      "numPhotos": 15,
+      "floor": "1",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 160.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio Alto de Torres, 29 B",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Cerezo - Aspla - Torres",
+      "country": "es",
+      "latitude": 43.3509815,
+      "longitude": -4.0676839,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110139428/",
+      "distance": "10128",
+      "description": "Maravilloso ático totalmente exterior, con orientación sur y una luminosidad excepcional durante todo el día. Destaca su amplia terraza, con acceso directo desde el salón y la cocina, un espacio perfecto para disfrutar del aire libre y la sensación de estar en plena naturaleza sin salir de casa. La vivienda cuenta con estancias amplias y muy luminosas, distribuidas en dos plantas. En la planta principal dispone de un aseo de cortesía, mientras que en la planta superior se encuentra un cuarto de baño completo con bañera. Dispone de dos dormitorios: uno principal con cama de matrimonio y un segundo dormitorio con dos camas de 90 cm, una de ellas tipo nido, ideal para familia, invitados o despacho. Incluye plaza de garaje privada y trastero, aportando un extra de comodidad y almacenamiento.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cerezo - Aspla - Torres, Torrelavega",
+        "title": "Ático en Barrio Alto de Torres, 29 b"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106863606",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/20/14/a9/1296214760.webp",
+      "externalReference": "AL2642",
+      "numPhotos": 29,
+      "floor": "2",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Julio Ruiz de Salazar, 51",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Covadonga - Campuzano - Ciudad Vergel",
+      "country": "es",
+      "latitude": 43.34498,
+      "longitude": -4.06215,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/106863606/",
+      "distance": "9478",
+      "description": "SOLO EMPRESAS / TRASLADOS  Presentamos a continuación estupenda vivienda en la barrio Covadonga junto a la rotonda de la fuente y el bar Jaime. La vivienda es una SEGUNDA planta en un edificio sin ascensor. Tiene una superficie útil de 75 metros distribuidos en 3 dormitorios  (el primero con dos camas de 90 y armario; el segundo, con cama de 90 y armario; y el tercero, con litera con dos camas de 90). Cocina tipo americana abierta con el salón, amueblada con electrodomésticos y menaje. El salón dispone de sofá, mesa comedor con sillas y dispone de una galería. El baño es completo, equipado con bañera. La orientación es sur este, muy luminoso, todo exterior. Las ventanas son de aluminio, los suelos son cerámicos y dispone de calefacción eléctrica. En pleno corazón del popular barrio Covadonga, rodeado de todos los servicios (supermercados, parada de autobús, centros médicos, bares, comercios, etc. ). Muy bien comunicado con la salida de la autovía A8. Se solicita solvencia económica para acceder al alquiler de la vivienda. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Covadonga - Campuzano - Ciudad Vergel, Torrelavega",
+        "title": "Piso en calle Julio Ruiz de Salazar, 51"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102638666",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/56/b6/1d/1162181883.webp",
+      "numPhotos": 7,
+      "floor": "bj",
+      "price": 620.0,
+      "priceInfo": {
+        "price": {
+          "amount": 620.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "la garoja, 2",
+      "province": "Cantabria",
+      "municipality": "Cartes",
+      "country": "es",
+      "latitude": 43.3329123,
+      "longitude": -4.0601942,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/102638666/",
+      "distance": "8153",
+      "description": "OCTUBRE 25 A JUNIO26. Piso de dos habitaciones en Cartes, muy cerquita de Torrelavega. El piso tiene 2 habitaciones, 1 baño y salón cocina, con un jardincito que hace ideal la estancia en el piso. Recientemente reformado con mucho gusto, ven a verlo! 1 mes de fianza y medio mes de agencia.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cartes",
+        "title": "Piso en la garoja, 2"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106651427",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/db/85/8e/1289963831.webp",
+      "externalReference": "56407",
+      "numPhotos": 12,
+      "floor": "2",
+      "price": 550.0,
+      "priceInfo": {
+        "price": {
+          "amount": 550.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 600.0,
+            "priceDropValue": 50,
+            "priceDropPercentage": 8
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Los Corrales de Buelna",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2638274,
+      "longitude": -4.0690761,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106651427/",
+      "distance": "438",
+      "description": "¿Tienes que trasladarte y buscas un apartamento el cual puedas personalizar como tu quieras? . Pues hoy lo tenemos, un apartamento VACIO con una habitación, con baño completo, salón con cocina americana totalmente equipada, con trastero y plaza de garaje. NO MASCOTAS.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109369913",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/86/b4/93/1414891390.webp",
+      "externalReference": "AL2679",
+      "numPhotos": 18,
+      "floor": "1",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 164.0,
+      "exterior": true,
+      "rooms": 5,
+      "bathrooms": 2,
+      "address": "plaza San Bartolomé, 9",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Inmobiliaria - Barreda",
+      "country": "es",
+      "latitude": 43.3517012,
+      "longitude": -4.0461996,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109369913/",
+      "distance": "10379",
+      "description": "////// SOLO EMPRESAS /////// máximo 5 personas. Se alquila amplia y luminosa vivienda en Torrelavega, ideal para uso empresarial ( para obreros y trabajadores destinados en la región por tiempo determinado). La vivienda es una PRIMERA PLANTA de un edificio con ascensor en el centro de Torrelavega junto a la plaza de la llama. Tiene una superficie útil de 160 metros distribuidos en 5 dormitorios, ( la primera con cama de 1.35 y armario; la segunda con cama de 1.35  y armario, la tercera con cama articulada y armario empotrado, la cuarta con armario y con posibilidad de poner cama; y la  quinta destinada como despacho con posibilidad de poner cama y armario. Amplia cocina independiente la cual se encuentra totalmente equipada con electrodomésticos (horno, microondas, lavadora y frigorífico), lista para su utilización inmediata.   El inmueble ofrece además un salón-comedor de generosas dimensiones, muy luminoso, amueblado con sofá, mesa comedor, mesa de Tv y Tv incorporada, lo que aporta un ambiente confortable y representativo. Dispone de dos baños, ambos bastante amplios, uno con bañera y el otro con plato de ducha y mampara. Entre sus prestaciones dispone de calefacción de gas natural, los suelos son de parquet y las ventanas de PVC climalit. En definitiva, se trata de un piso amplio, funcional y perfectamente acondicionado, ideal para empresas que busquen un espacio individual para cada uno de sus trabajadores y con todas las comodidades en el centro de Torrelavega. Dispone de varios parking públicos a menos de 200 metros. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Inmobiliaria - Barreda, Torrelavega",
+        "title": "Piso en plaza San Bartolomé, 9"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109476951",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c9/15/58/1375839053.webp",
+      "externalReference": "56623",
+      "numPhotos": 27,
+      "floor": "3",
+      "price": 790.0,
+      "priceInfo": {
+        "price": {
+          "amount": 790.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle La Paz, 2",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2590864,
+      "longitude": -4.067651,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109476951/",
+      "distance": "174",
+      "description": "Tenemos un piso en el centro de Los Corrales de Buelna muy cerca de la parada de autobús y con todos los servicios a pie de calle en una de las comunidades más bonitas y cómodas de la ciudad. La vivienda consta de buenas calidades en suelo, ventanas y en muy buen estado de conservación. Consta de tres habitaciones, una doble muy amplia con armario empotrado, dos individuales. tiene dos baños con plato de ducha y una cocina con tendedero muy amplia con todos los electrodomésticos necesarios para la comodidad del día a día, y salón luminoso con balcón. NO MASCOTAS. NO FUMADORES.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Piso en calle La Paz, 2"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107914380",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4d/07/9d/1328169554.webp",
+      "numPhotos": 11,
+      "floor": "2",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 120.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Diseminado Puente Viesgo",
+      "province": "Cantabria",
+      "municipality": "Puente Viesgo",
+      "country": "es",
+      "latitude": 43.2955926,
+      "longitude": -3.9635911,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107914380/",
+      "distance": "9447",
+      "description": "Se alquila ático en Puente Viesgo. Vivienda con salón-cocina, dos dormitorios dobles, aseo y baño, para 4 personas máximo. Se puede también utilizar un maravilloso jardín de 1000 m2, totalmente privado y con una vistas inmejorables. Se alquila por temporadas, ideal para disfrutar de uno de los pueblos más bonitos de Cantabria, al lado de las Cuevas del Monte Castillo, Patrimonio de la Humanidad, en el centro de Cantabria, y a los pies de los Valles Pasiegos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puente Viesgo",
+        "title": "Ático en Diseminado Puente Viesgo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109250317",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ae/23/cf/1417350202.webp",
+      "numPhotos": 15,
+      "floor": "bj",
+      "price": 615.0,
+      "priceInfo": {
+        "price": {
+          "amount": 615.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Villabáñez, 30",
+      "province": "Cantabria",
+      "municipality": "Castañeda",
+      "country": "es",
+      "latitude": 43.3153123,
+      "longitude": -3.9509795,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109250317/",
+      "distance": "11400",
+      "description": "Apartamento en planta baja, con terraza para disfrutar en cuanto llegue la primavera. Garaje incluido. Disponible a partir del 14 de marzo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castañeda",
+        "title": "Piso en calle Villabáñez, 30"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "95517737",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3a/9e/4d/1151835095.webp",
+      "externalReference": "Al2141",
+      "numPhotos": 15,
+      "floor": "1",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Covadonga - Campuzano - Ciudad Vergel",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Covadonga - Campuzano - Ciudad Vergel",
+      "country": "es",
+      "latitude": 43.3452981,
+      "longitude": -4.0550936,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/95517737/",
+      "distance": "9566",
+      "description": "////////// TEMPORAL //////////////  De  15 mayo / 30 de junio el precio son 700 euros/mes.   De Julio a Agosto de 2025 el precio son 1400 euros / mes. Presentamos a continuación amplio apartamento de dos dormitorios recién reformado en Ciudad Vergel ( detrás de la Seg. Social). La vivienda es una PRIMERA PLANTA, en un edificio SIN ASCENSOR. Tiene una superficie útil de 60 metros distribuidos en dos dormitorios ( uno de ellos con baño con plato de ducha), el primero tiene cama de 1,35m, armarios y mesita; y el segundo dispone de dos camas individuales, armarios y mesita.   Salón amueblado completamente con sofá, mesa y Tv de 55 pulgadas. Cocina equipada completamente y baño en pasillo principal equipado también con plato de ducha y mampara. Los suelos son de tarima flotante, las ventanas de PVC climalit abatibles, y las puertas lacadas en blanco.   Es muy luminosa, todo exterior, y tiene 2 orientación ( sur y este ). Es una zona muy tranquila sin tráfico de vehículos. Esta muy bien ubicada, junto al edificio de la seg. social, con todos los servicios cercanos, como paradas de autobús, supermercados, centros médicos, comercios, etc. A 7 minutos andando del centro de Torrelavega.   Se solicitará solvencia económica para acceder al alquiler de la vivienda. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Covadonga - Campuzano - Ciudad Vergel, Torrelavega",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "101075743",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8a/31/aa/1109178969.webp",
+      "externalReference": "C02a01",
+      "numPhotos": 31,
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 67.0,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Juan de Herrera",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2586086,
+      "longitude": -4.0682519,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/101075743/",
+      "distance": "175",
+      "description": "CORTA ESTANCIA Vivienda situada en Los Corrales de Buelna. Ideal para familias, con jardín. Alquiler de corta o media estancia. Se alquila por meses, días, semanas o también días laborables. Máximo de alquiler de 4 meses. Los gastos de gestión, limpieza y suministros no están incluidos. Para esta vivienda el precio con todos los gastos sería desde 950 euros/mes. Se debe depositar fianza y el pago se hace por adelantado antes de la firma del contrato y para bloquear la reserva. El precio puede variar según la temporada. No disponible en temporada de Verano. Ropa de cama, toallas y menaje incluido. Disponemos de más viviendas en todo Asturias y Cantabria. Podrás ver disponibilidad y precios en Somos una consultoría inmobiliaria, que ofrecemos casi todos los servicios relacionados con los bienes inmuebles, a nivel particular, empresa o inversor. Compra-venta-alquiler de propiedades, gestión integral de alquileres vacacionales, broker inmobiliario, reformas integrales y parciales, arquitectura técnica, . Para más información contáctanos. NRU: ESFCTU00003 000000000000000G 1026474.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Chalet en calle Juan de Herrera"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98283026",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8a/e7/a2/1287653159.webp",
+      "externalReference": "AL2254",
+      "numPhotos": 27,
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 198.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Los Corrales de Buelna",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2646114,
+      "longitude": -4.0659536,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98283026/",
+      "distance": "597",
+      "description": "PARA EMPRESAS - POR MESES - TRIMESTRES Presentamos a continuación fantástico Chalet adosado en Urbanización de 3 viviendas en Los corrales de Buelna. La vivienda tiene una superficie total de 198 metros cuadrados. Es una edificación de tres plantas la cual se distribuye de la siguiente manera:   En planta baja encontramos, salón comedor  con acceso a amplia terraza de 28 metros y cocina equipada completamente. En la primera planta encontramos hall mirador acristalado con fantásticas vistas al dobra y a los alrededores. Seguimos con un dormitorio con cama de matrimonio y mesitas, el cual incluye walking closet  (  vestidor). En esta primera planta accedemos a un baño con plato de ducha y mampara. En la segunda planta, hay dos dormitorios, uno con vestidor y otro con acceso a terraza de 7 metros. En esta misma planta accedemos a un segundo baño con bañera. Los dormitorios están amueblados completamente. Los baños están alicatados con diseños de agatha ruiz de la prada y buenos acabados. Dispone de calefacción de gas natural, suelos de cerámica de porcelanosa en la planta baja y de  parquet de madera en las plantas superiores, y ventanas de PVC de doble cristal.   Tiene orientación Norte - Sur, es exterior completamente en todas sus espacios y muy luminoso. La vivienda goza de exquisitas vistas a las montañas.   Desde el exterior de la vivienda accedemos a un garaje comunitario con puerta automática, dando acceso a una plaza abierta de 29 metros ( dan cabida a 2 vehículos ). Pertenece a un conjunto residencial de 3 viviendas, construido en el año 2006. Tiene una ubicación privilegiada, en una zona residencial junto al centro de Los Corrales. Con todos los servicios cercanos, como paradas de autobús, taxi, estación de tren de lombera, centro cultural, centros médicos, zonas deportivas y zonas verdes. Se solicítara solvencia económica para acceder al alquiler de la vivienda. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 5.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Chalet"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 27,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Los Corrales de Buelna, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 27,
+  "paginable": false
+}

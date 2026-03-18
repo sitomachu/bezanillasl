@@ -1,0 +1,550 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110852043",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/47/11/55/1417479365.webp",
+      "numPhotos": 9,
+      "floor": "bj",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 95.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio San Miguel",
+      "province": "Cantabria",
+      "municipality": "Cartes",
+      "country": "es",
+      "latitude": 43.3069472,
+      "longitude": -4.105284,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110852043/",
+      "distance": "5839",
+      "description": "Piso con encanto bohemio /////PARA 1 PERSONA//// (por favor respetad la demanda de la propiedad... ) Zona tranquila en un entorno con amplias zonas verdes para la práctica de actividades al aire libre senderismo. Tiene 2 terrazas exteriores muy soleadas. Gracias  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cartes",
+        "title": "Piso en Barrio San Miguel"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110814177",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ab/db/1c/1416359966.webp",
+      "externalReference": "56754",
+      "numPhotos": 12,
+      "floor": "2",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 82.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Los Corrales de Buelna",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2618649,
+      "longitude": -4.0666402,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110814177/",
+      "distance": "501",
+      "description": "En el encantador pueblo de Corrales de Buelna, a tan solo cinco minutos del centro urbano de Torrelavega y con acceso inmediato a la autovía que conecta la meseta con la capital, se ofrece este acogedor piso. La propiedad cuenta con una habitación principal equipada con un amplio armario, ideal para maximizar el espacio. Además, presenta una segunda habitación individual perfecta para visitas o como oficina. El baño completo dispone de un práctico plato de ducha y hay también un aseo adicional que brinda mayor comodidad. La cocina está completamente equipada e incluye tendal exterior; es el lugar perfecto para preparar deliciosas comidas familiares o disfrutar momentos agradables entre amigos. Complementa esta oferta una plaza privada en garaje, asegurando así su vehículo frente a las inclemencias del tiempo y proporcionando tranquilidad al propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110771159",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c9/74/b3/1415066362.webp",
+      "externalReference": "AL2709",
+      "numPhotos": 21,
+      "floor": "bj",
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "plaza de las Autonomías, 6",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Ciudad Nueva",
+      "country": "es",
+      "latitude": 43.3394366,
+      "longitude": -4.050491,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110771159/",
+      "distance": "8986",
+      "description": "Presentamos a continuación fantástica vivienda en el centro de  Torrelavega.    La vivienda es UNA PLANTA BAJA, Tiene una superficie útil de 75 metros distribuidos en 2 dormitorios  ( los dos cuentan con cama de matrimonio y armario en 1  habitación tenéis acceso a una puerta con salida a la calle). Amplio salón amueblado totalmente con dos sofás, mesita, mueble de tv ( incluye TV). Baño completo con plato de ducha  y mampara. un segundo baño ubicado en la habitación  principal con plato de ducha.  La Cocina esta equipada totalmente  con electrodomésticos modernos, Dispone de calefacción eléctrica, suelo de tarima cerámica  y ventanas de PVC climalit. La vivienda es muy luminosa dispone de orientación sur-este da el sol todo el día.   La vivienda se encuentra muy bien ubicada en el centro  con todos los servicios al lado farmacias, colegio, médicos, supermercados, etc.   se solicita solvencia económica para hacer seguro de alquiler.   Consulte fechas y disponibilidad.   No dejes pasar esta oportunidad y solicite su visita sin compromiso estaremos encantados de atenderle.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ciudad Nueva, Torrelavega",
+        "title": "Piso en plaza de las Autonomías, 6"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109626821",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a2/ee/b3/1380548736.webp",
+      "externalReference": "L1218",
+      "numPhotos": 11,
+      "floor": "2",
+      "price": 680.0,
+      "priceInfo": {
+        "price": {
+          "amount": 680.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Felisa Campuzano, 22",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2619649,
+      "longitude": -4.0677727,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109626821/",
+      "distance": "422",
+      "description": "En el centro de Los Corrales de Buelna, junto a todos los servicios Alquilamos un piso en segunda planta sin ascensor, con 2 habitaciones más un despacho, salón, cocina amueblada y equipada y 1 baño con ducha y ventana Calefacción, amueblado, soleado y exterior No se admiten mascotas Obligatorio hacer seguro de garantía de pagos Máximo 2 ó 3 personas de unidad familiar.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Piso en calle Felisa Campuzano, 22"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110264860",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9c/d0/97/1408712115.webp",
+      "externalReference": "ISA943",
+      "numPhotos": 25,
+      "floor": "1",
+      "price": 595.0,
+      "priceInfo": {
+        "price": {
+          "amount": 595.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 53.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "CL CONCHA ESPINA",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2617234,
+      "longitude": -4.0695416,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110264860/",
+      "distance": "286",
+      "description": "No todos los pisos transmiten sensación de hogar desde el primer momento. Este, en Los Corrales de Buelna, es de esos que te hacen imaginar tu día a día nada más cruzar la puerta. Una vivienda cuidada al detalle, donde se nota que todo está pensado para entrar a vivir y sentirse cómodo desde el primer minuto. Los Corrales de Buelna es una localidad ideal para vivir, con todos los servicios necesarios al alcance de la mano: comercios, supermercados, colegios, institutos, centro de salud, zonas de ocio y buenas conexiones de transporte. Además, cuenta con acceso rápido a la autovía, lo que permite desplazarse con facilidad y llegar en pocos minutos a Torrelavega y al resto de la provincia. La vivienda tiene una superficie aproximada de 53 m² y una distribución muy bien aprovechada. Dispone de una habitación amplia y luminosa, un salón acogedor con la cocina integrada, completamente equipada, y un baño completo. El piso se encuentra en un estado impecable, con un estilo actual y listo para entrar a vivir sin necesidad de hacer nada. El alquiler incluye plaza de garaje, un valor añadido que aporta comodidad y tranquilidad en el día a día. Se solicitan dos meses de fianza. Es una opción ideal para una persona sola o una pareja que busque un hogar funcional, bien ubicado y en una zona con alta demanda de alquiler. Si estás buscando piso en alquiler en Los Corrales de Buelna, no lo dejes pasar. Llámanos y concierta tu visita cuanto antes, porque oportunidades como esta duran muy poco.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Piso en CL Concha Espina"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102638666",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/56/b6/1d/1162181883.webp",
+      "numPhotos": 7,
+      "floor": "bj",
+      "price": 620.0,
+      "priceInfo": {
+        "price": {
+          "amount": 620.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "la garoja, 2",
+      "province": "Cantabria",
+      "municipality": "Cartes",
+      "country": "es",
+      "latitude": 43.3329123,
+      "longitude": -4.0601942,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/102638666/",
+      "distance": "8144",
+      "description": "OCTUBRE 25 A JUNIO26. Piso de dos habitaciones en Cartes, muy cerquita de Torrelavega. El piso tiene 2 habitaciones, 1 baño y salón cocina, con un jardincito que hace ideal la estancia en el piso. Recientemente reformado con mucho gusto, ven a verlo! 1 mes de fianza y medio mes de agencia.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cartes",
+        "title": "Piso en la garoja, 2"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106651427",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/db/85/8e/1289963831.webp",
+      "externalReference": "56407",
+      "numPhotos": 12,
+      "floor": "2",
+      "price": 550.0,
+      "priceInfo": {
+        "price": {
+          "amount": 550.0,
+          "currencySuffix": "€/mes",
+          "priceDropInfo": {
+            "formerPrice": 600.0,
+            "priceDropValue": 50,
+            "priceDropPercentage": 8
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Los Corrales de Buelna",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2638274,
+      "longitude": -4.0690761,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106651427/",
+      "distance": "484",
+      "description": "¿Tienes que trasladarte y buscas un apartamento el cual puedas personalizar como tu quieras? . Pues hoy lo tenemos, un apartamento VACIO con una habitación, con baño completo, salón con cocina americana totalmente equipada, con trastero y plaza de garaje. NO MASCOTAS.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109476951",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c9/15/58/1375839053.webp",
+      "externalReference": "56623",
+      "numPhotos": 27,
+      "floor": "3",
+      "price": 790.0,
+      "priceInfo": {
+        "price": {
+          "amount": 790.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle La Paz, 2",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2590864,
+      "longitude": -4.067651,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109476951/",
+      "distance": "403",
+      "description": "Tenemos un piso en el centro de Los Corrales de Buelna muy cerca de la parada de autobús y con todos los servicios a pie de calle en una de las comunidades más bonitas y cómodas de la ciudad. La vivienda consta de buenas calidades en suelo, ventanas y en muy buen estado de conservación. Consta de tres habitaciones, una doble muy amplia con armario empotrado, dos individuales. tiene dos baños con plato de ducha y una cocina con tendedero muy amplia con todos los electrodomésticos necesarios para la comodidad del día a día, y salón luminoso con balcón. NO MASCOTAS. NO FUMADORES.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Piso en calle La Paz, 2"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "101075743",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8a/31/aa/1109178969.webp",
+      "externalReference": "C02a01",
+      "numPhotos": 31,
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 67.0,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Juan de Herrera",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2586086,
+      "longitude": -4.0682519,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/101075743/",
+      "distance": "379",
+      "description": "CORTA ESTANCIA Vivienda situada en Los Corrales de Buelna. Ideal para familias, con jardín. Alquiler de corta o media estancia. Se alquila por meses, días, semanas o también días laborables. Máximo de alquiler de 4 meses. Los gastos de gestión, limpieza y suministros no están incluidos. Para esta vivienda el precio con todos los gastos sería desde 950 euros/mes. Se debe depositar fianza y el pago se hace por adelantado antes de la firma del contrato y para bloquear la reserva. El precio puede variar según la temporada. No disponible en temporada de Verano. Ropa de cama, toallas y menaje incluido. Disponemos de más viviendas en todo Asturias y Cantabria. Podrás ver disponibilidad y precios en Somos una consultoría inmobiliaria, que ofrecemos casi todos los servicios relacionados con los bienes inmuebles, a nivel particular, empresa o inversor. Compra-venta-alquiler de propiedades, gestión integral de alquileres vacacionales, broker inmobiliario, reformas integrales y parciales, arquitectura técnica, . Para más información contáctanos. NRU: ESFCTU00003 000000000000000G 1026474.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Chalet en calle Juan de Herrera"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98283026",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8a/e7/a2/1287653159.webp",
+      "externalReference": "AL2254",
+      "numPhotos": 27,
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 198.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Los Corrales de Buelna",
+      "province": "Cantabria",
+      "municipality": "Los Corrales de Buelna",
+      "country": "es",
+      "latitude": 43.2646114,
+      "longitude": -4.0659536,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98283026/",
+      "distance": "716",
+      "description": "PARA EMPRESAS - POR MESES - TRIMESTRES Presentamos a continuación fantástico Chalet adosado en Urbanización de 3 viviendas en Los corrales de Buelna. La vivienda tiene una superficie total de 198 metros cuadrados. Es una edificación de tres plantas la cual se distribuye de la siguiente manera:   En planta baja encontramos, salón comedor  con acceso a amplia terraza de 28 metros y cocina equipada completamente. En la primera planta encontramos hall mirador acristalado con fantásticas vistas al dobra y a los alrededores. Seguimos con un dormitorio con cama de matrimonio y mesitas, el cual incluye walking closet  (  vestidor). En esta primera planta accedemos a un baño con plato de ducha y mampara. En la segunda planta, hay dos dormitorios, uno con vestidor y otro con acceso a terraza de 7 metros. En esta misma planta accedemos a un segundo baño con bañera. Los dormitorios están amueblados completamente. Los baños están alicatados con diseños de agatha ruiz de la prada y buenos acabados. Dispone de calefacción de gas natural, suelos de cerámica de porcelanosa en la planta baja y de  parquet de madera en las plantas superiores, y ventanas de PVC de doble cristal.   Tiene orientación Norte - Sur, es exterior completamente en todas sus espacios y muy luminoso. La vivienda goza de exquisitas vistas a las montañas.   Desde el exterior de la vivienda accedemos a un garaje comunitario con puerta automática, dando acceso a una plaza abierta de 29 metros ( dan cabida a 2 vehículos ). Pertenece a un conjunto residencial de 3 viviendas, construido en el año 2006. Tiene una ubicación privilegiada, en una zona residencial junto al centro de Los Corrales. Con todos los servicios cercanos, como paradas de autobús, taxi, estación de tren de lombera, centro cultural, centros médicos, zonas deportivas y zonas verdes. Se solicítara solvencia económica para acceder al alquiler de la vivienda. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 5.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Corrales de Buelna",
+        "title": "Chalet"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 10,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Los Corrales de Buelna, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 10,
+  "paginable": false
+}
