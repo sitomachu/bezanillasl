@@ -1,0 +1,13 @@
+variable,coef,std_error,t_value,p_value
+const,6.95944,0.016917,411.396419,0.0
+superficie_construida_m2,0.141178,0.02973,4.748665,3e-06
+numero_dormitorios,0.063446,0.025646,2.473892,0.013851
+numero_banos,0.002156,0.02422,0.08902,0.929118
+dummy_tipologia_unifamiliar,-0.012856,0.020295,-0.63342,0.526884
+tiene_garaje_bin,-0.019757,0.018382,-1.074754,0.283245
+obra_nueva_bin,-0.0,0.0,-2.534346,0.011713
+latitud,0.0513,0.031156,1.646541,0.100574
+longitud,0.084932,0.025995,3.267205,0.001197
+distancia_min_playa_km,-0.044698,0.026112,-1.71178,0.087846
+distancia_min_supermercado_km,-0.012452,0.02214,-0.562439,0.574187
+distancia_min_colegio_km,0.004161,0.021463,0.19389,0.846378

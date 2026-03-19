@@ -1,0 +1,6 @@
+variable,coef,std_error,t_value,p_value
+const,12.369454,0.018222,678.80581,0.0
+superficie_construida_m2,0.173069,0.024858,6.962306,0.0
+numero_dormitorios,0.049336,0.026633,1.85245,0.06464
+numero_banos,0.213406,0.023923,8.920418,0.0
+precio_m2_municipio,0.211396,0.018975,11.140558,0.0
