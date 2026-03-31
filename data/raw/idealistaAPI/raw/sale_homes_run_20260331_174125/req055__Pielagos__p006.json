@@ -1,0 +1,2794 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "109200557",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c0/69/98/1419884459.webp",
+      "externalReference": "RV0389",
+      "numPhotos": 70,
+      "price": 598000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 598000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 294.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "calle Rebollar",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.4366862,
+      "longitude": -3.8804527,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109200557/",
+      "distance": "5974",
+      "description": "Espectacular vivienda independiente en Igollo de Camargo, a tan solo 15 minutos de Santander. Un chalet que combina amplitud, comodidad y luminosidad, con una superficie construida de 290 m2 distribuidos en tres plantas y enclavado en una parcela de 598 m2 que ofrece espacio exterior para disfrutar en familia. En la planta principal encontramos un amplio y luminoso salón, perfecto para reuniones o momentos de descanso, un aseo de cortesía, una cocina muy amplia equipada con electrodomésticos y una habitación funcional que aporta versatilidad al espacio. La primera planta acoge tres dormitorios, destacando el principal por su luminosidad y vestidor propio, además de dos baños completos que aportan comodidad a toda la familia. En la planta baja descubrimos un porche con acceso directo al jardín, ideal para disfrutar de las vistas despejadas y de la tranquilidad del entorno, así como una amplia terraza que añade aún más posibilidades de ocio y descanso. La vivienda cuenta con calefacciónde gasoil y todos los servicios necesarios para entrar a vivir. Una oportunidad única para quienes buscan calidad de vida, proximidad a la ciudad y un hogar listo para disfrutar.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2034.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente en calle Rebollar"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109187588",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9f/ee/97/1366865869.webp",
+      "externalReference": "CA4963",
+      "numPhotos": 68,
+      "price": 2000000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2000000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 545.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "calle San Vicente",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Maoño",
+      "country": "es",
+      "latitude": 43.418371,
+      "longitude": -3.9167023,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109187588/",
+      "distance": "2896",
+      "description": "Veri Corral Inmobiliaria pone a la venta esta magnífica casa individual situada en Maoño, Santa Cruz de Bezana, ideal para quienes buscan amplitud y comodidad. Esta espectacular propiedad cuenta con unos 545m² sobre una parcela de 1526m².     Cuenta con una luminoso salón-comedor con chimenea; amplia cocina independiente con despensa; cuatro dormitorios con armarios empotrados y cuatro cuartos de baño. Esta propiedad ofrece espacio suficiente para toda la familia y más, también dispone de un amplio garaje cerrado.     Construida en el año 2001 con materiales de excelente calidad, se encuentra sobre una parcela de 1.526 m² que incluye una preciosa piscina privada.     Toda la vivienda es muy luminosa gracias a sus grandes ventanales.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3670.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Maoño, Santa Cruz de Bezana",
+        "title": "Casa independiente en calle San Vicente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109122071",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3f/12/c0/1364981119.webp",
+      "externalReference": "W-030IRV",
+      "numPhotos": 63,
+      "price": 1295000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1295000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 600.0,
+      "rooms": 5,
+      "bathrooms": 2,
+      "address": "Barrio Sorriba",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Liencres",
+      "country": "es",
+      "latitude": 43.4597037,
+      "longitude": -3.9244915,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109122071/",
+      "distance": "4646",
+      "description": "Espectacular chalet en Liencres Engel & Völkers presenta una espectacular propiedad situada en una de las zonas más tranquilas y codiciadas de Liencres. Imagine despertar cada mañana con el sonido del mar y la brisa acariciando su hogar. Se trata de un chalet independiente de 500 m² distribuidos en tres plantas, que ofrece espacios amplios y luminosos, combinando el carácter de su construcción original de 1977 con el confort y la modernidad incorporados tras una reforma integral realizada en 2008. Situado en una de las calles más exclusivas de Liencres, este chalet goza de gran privacidad y de un acceso rápido a algunas de las mejores playas de la región, como Somocuevas y La Arnía, así como a todos los servicios, comercios y restaurantes de la zona. La conexión con Santander y las principales vías de comunicación es excelente, lo que convierte a esta propiedad en una opción ideal tanto como residencia habitual como segunda vivienda.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2158.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liencres, Piélagos",
+        "title": "Casa independiente en Barrio Sorriba"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109083137",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/31/31/09/1363881263.webp",
+      "externalReference": "01074",
+      "numPhotos": 7,
+      "price": 1550000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1550000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 750.0,
+      "rooms": 9,
+      "bathrooms": 3,
+      "address": "Boo",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.426561,
+      "longitude": -3.9375378,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109083137/",
+      "distance": "1233",
+      "description": "Finca de 7587 m2 frente al Río PAS. Vistas Espectaculares  CHALET-Mansión de 750m2 construidos  GARAJE, 93,3 m2  planta baja, 260,77 m2  Primera planta, 230,24 m2  Bajo Cubierta, 128,46m2  Terraza Suite 24,56 m2  Terraza Sur 51,20 m2  zonas verdes muy cuidadas.  Posibilidades de ampliar construcción en parte inferior de la Finca.  Cómodos Accesos.  Ocasión para Inversores.  Interesados pueden solicitar Videos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2067.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109074775",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7c/c5/9f/1397114819.webp",
+      "externalReference": "00087",
+      "numPhotos": 39,
+      "price": 530000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 530000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 276.0,
+      "rooms": 6,
+      "bathrooms": 3,
+      "address": "Urbanizacion Arco Iris",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Bezana",
+      "country": "es",
+      "latitude": 43.4437529,
+      "longitude": -3.8996528,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109074775/",
+      "distance": "4815",
+      "description": "Vivir en una urbanización privada con piscina, zonas deportivas y jardines, a pocos minutos de Santander y de las mejores playas de Cantabria, es posible en esta amplia vivienda familiar, ideal para quienes buscan un entorno de tranquilidad sin renunciar a servicios ni comunicaciones. GRUPO INMOBILIARIO TRIBECA pone a la venta este chalet situado en un complejo residencial con excelentes instalaciones: piscina principal, otra infantil, pista de tenis, cancha de baloncesto, parque de juegos y jardines comunitarios que invitan al relax. El enclave es ideal para quienes buscan naturaleza sin renunciar a la comodidad del día a día. A tan solo unos minutos andando dispones de colegio, guardería, instituto, centro de salud, Ayuntamiento, farmacias, supermercados, gimnasio, tiendas de proximidad, bares y restaurantes. � La comunicación es inmejorable: estación de tren con enlace directo a Santander, servicio de autobuses y parada de taxis muy cercana. � A escasos 15 minutos en coche descubrirás el Parque Natural de las Dunas de Liencres y las playas de Canallave y Liencres, perfectas para surf, paseos y rutas por la espectacular Costa Quebrada. Además, a poca distancia podrás disfrutar de las reconocidas playas de San Juan de la Canal, Arnía y Covachos. � Si deseas ampliar información o visitar la propiedad, contacta con nosotros sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1920.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Bezana, Santa Cruz de Bezana",
+        "title": "Chalet adosado en Urbanizacion Arco Iris"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109049579",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/db/46/5d/1363454099.webp",
+      "externalReference": "W-030W12",
+      "numPhotos": 25,
+      "price": 645000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 645000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "sale",
+      "size": 600.0,
+      "rooms": 6,
+      "bathrooms": 2,
+      "address": "Barrio la Maza",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Escobedo",
+      "country": "es",
+      "latitude": 43.4089102,
+      "longitude": -3.9008523,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109049579/",
+      "distance": "4418",
+      "description": "Espectacular casona solariega en Camargo Engel & Völkers presenta esta espectacular casona solariega de 1630 con portalada en Escobedo de Camargo. Hacia el siglo XV, con el paso de mercancías procedentes de Castilla-La Mancha, la familia Escobar, originaria de Guadalajara, se asentó en el concejo de Camargo, en el lugar que hoy conocemos como Escobedo. De esta casa, donde nace el apellido Escobedo, saldrían personajes vinculados a la realeza, como Juan de Escobedo, escribiente de la Casa de los Austrias. El escudo de la portalada data del año 1630, fecha a la que se remonta la casona. Una propiedad que forma parte de la historia de la zona de Escobedo, con una portalada monumental digna de admirar. La vivienda cuenta con una superficie útil de 482 m², distribuidos en tres plantas comunicadas mediante una escalera interior, sobre una parcela de 1.000 m² cerrada completamente por un muro de piedra de más de 2 metros de altura, lo que garantiza total privacidad. La planta baja alberga un amplio salón-comedor con chimenea, una cocina, sala de calderas, además de tres espacios diáfanos para adaptar según sus necesidades, así como un cuarto de baño. En la primera planta se encuentran un distribuidor, tres amplios dormitorios —uno de ellos con baño en suite y zona de vestidor—, un salón distribuidor y otro espacio sin terminar dividido en tres estancias y un distribuidor adicional, que podrían convertirse en tres habitaciones más o en los espacios que usted precise. La segunda planta es un espacio diáfano, ideal para adaptar conforme a sus necesidades. Parte de la propiedad está destinada a vivienda, mientras que otra se utiliza como taller y garaje. Además, la casa dispone de un amplio jardín privado que aporta un entorno natural y tranquilo, perfecto para disfrutar al aire libre. Camargo se encuentra en un entorno privilegiado, entre el mar Cantábrico y las montañas. Sus paisajes combinan playas, acantilados y amplias zonas verdes, ideales para la práctica del senderismo y otras actividades al aire libre. Entre sus principales atractivos naturales destacan el Parque Natural de las Marismas de Santander y la playa de El Puntal. Los accesos a Camargo son inmejorables, gracias a su proximidad a la ciudad de Santander y a su conexión con la Autovía A-8, que la comunica con otras localidades de la región y con el resto de España.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1075.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "caseron"
+      },
+      "suggestedTexts": {
+        "subtitle": "Escobedo, Camargo",
+        "title": "Caserón en Barrio la Maza"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107219759",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d4/14/31/1336456827.webp",
+      "externalReference": "0037",
+      "numPhotos": 64,
+      "floor": "3",
+      "price": 345000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 345000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 125.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Comillas, 66",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4250985,
+      "longitude": -4.0344989,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107219759/",
+      "distance": "6666",
+      "description": "Exclusivo Dúplex en Suances: Vistas al Mar y a 100 Metros de la Playa Te presentamos esta espectacular vivienda ubicada en una de las mejores zonas de Suances, en la Ribera, a solo 100 metros de la playa. Un enclave privilegiado que te permitirá disfrutar de unas impresionantes vistas al mar y de la tranquilidad de una urbanización con piscina. Este magnífico dúplex destaca por su luminosidad, su amplitud y su cuidada distribución, pensada para ofrecer el máximo confort. Distribución y Características  Planta principal:  Moderna y completa cocina con acceso a una terraza orientada al sur, ideal para disfrutar del sol durante todo el día.  Espacioso y acogedor salón con un gran ventanal que ofrece una panorámica espectacular de la ría de Suances. Un auténtico mirador natural desde donde contemplar cada amanecer y atardecer.  Habitación doble con gran capacidad de almacenamiento.  Baño completo con bañera.  Planta superior:  Dormitorio principal en suite con su propio baño completo, un espacio perfecto para relajarse con total privacidad.  Segunda habitación doble de gran tamaño y muy luminosa.  Un tercer baño amplio, también con bañera, para mayor comodidad.  Extras:  Garaje cerrado, que no solo ofrece seguridad para el vehículo sino que también funciona como trastero.  Piscina comunitaria, para disfrutar en los meses de verano sin salir de la urbanización.  Entorno exclusivo, con acceso directo a la playa y todos los servicios necesarios a pocos pasos. Ubicación y Estilo de Vida Vivir aquí significa poder disfrutar de la playa a diario, salir a cenar a los mejores restaurantes de la zona o tomar algo en las terrazas más animadas. Suances se ha convertido en un destino TOP para disfrutar del verano sin renunciar a la comodidad de una vida bien conectada, con supermercados, farmacia, bancos y servicio de autobús urbano a Torrelavega. Además, este entorno ofrece un sinfín de opciones de ocio: �♂️ Surf y deportes acuáticos. � Degustar las mejores rabas y mariscos en locales de moda. �️ Tiendas exclusivas con las últimas tendencias. � Paseos y rutas con vistas inigualables. Si buscas una vivienda con encanto, lista para entrar a vivir y con una ubicación inmejorable, este dúplex es para ti. ¡No dejes pasar esta oportunidad! � Contáctanos y agenda tu visita hoy mismo.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2760.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Dúplex en calle Comillas, 66"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109041403",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9a/14/93/1372913149.webp",
+      "externalReference": "CHALET 7",
+      "numPhotos": 8,
+      "price": 690000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 690000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 309.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "alto San Mateo s/n",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.424619,
+      "longitude": -3.9271206,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109041403/",
+      "distance": "2017",
+      "description": "PROMOCIÓN DE CHALETS INDIVIDUALES EN BOO DE PIÉLAGOS - RESIDENCIAL LA TEJERA Descubre Residencial La Tejera, una exclusiva promoción de 17 chalets unifamiliares individuales situados en Boo de Piélagos, un entorno natural privilegiado que combina tranquilidad y cercanía. Ubicación Ideal: Situados en un punto estratégico, estos chalets ofrecen fácil acceso a la autovía A-67, a solo 10 minutos en coche de Santander y a 5 minutos del impresionante Parque Natural de las Dunas de Liencres. Cada chalet cuenta con una parcela individual de aproximadamente 1.200 metros cuadrados y una superficie construida de 308 metros cuadrados. En planta baja: vestíbulo, salón-comedor, cocina, 1 dormitorio y 1 baño que dará servicio a la planta. En planta primera: 3 dormitorios y 2 cuartos de baño, destacando que el dormitorio principal será tipo suite y dispondrá de terraza En planta sótano contaremos con un amplio garaje para varios vehículos con trastero y tendedero. En cuanto a las calidades de la obra resaltar que la fachada se terminará con aplacado de piedra. La carpintería exterior será de P. V. C. climalit. Los solados serán cerámicos en todas las plantas para una mayor eficiencia de la calefacción por suelo radiante con aerotermia. Alicatados en cerámica de primera calidad. Carpintería interior con puertas lacadas y armarios empotrados. Precio de Venta: Desde 595.000 € (impuestos no incluidos). Si deseas más información, no dudes en contactarnos. Estaremos encantados de atenderte, ya sea por teléfono o de manera presencial. ¡Tu nuevo hogar te espera en Residencial La Tejera!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2233.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Casa independiente en alto San Mateo s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109036599",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9f/2b/a4/1362334640.webp",
+      "externalReference": "Mirapiso212",
+      "numPhotos": 35,
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 65.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio la Esprilla, 9",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.4378113,
+      "longitude": -3.8881612,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109036599/",
+      "distance": "5411",
+      "description": "Elegancia y sostenibilidad en plena naturaleza: joya arquitectónica en el corazón de Camargo Descubra esta exquisita residencia de 65?m² construidos sobre una parcela de 100?m², donde cada rincón ha sido concebido para ofrecer confort, estilo y eficiencia.  Situada en el encantador entorno de Ovillo de Camargo, a tan solo 11 minutos de las playas doradas de Santander, esta propiedad representa el equilibrio perfecto entre serenidad rural y sofisticación contemporánea.  Características destacadas:  Dos habitaciones con armarios empotrados de diseño, pensadas para el descanso y la funcionalidad. Salón acogedor, ideal para momentos de relax o reuniones íntimas. Cocina equipada con electrodomésticos de alta gama, lista para inspirar a los paladares más exigentes. Altillo de cómodo acceso, versátil y con posibilidad de instalar una cama adicional: perfecto como zona de lectura, despacho o dormitorio auxiliar. Terraza de 40?m², un oasis privado donde disfrutar del aire libre, organizar veladas o simplemente contemplar la naturaleza. Tecnología y confort de vanguardia: - Placas solares para una energía limpia y eficiente. - Aerotermia para calefacción sostenible. - Bomba de calor y frío que garantiza una temperatura perfecta durante todo el año. - Puerta de entrada estanca, diseñada para aislar del ruido exterior y preservar la paz interior. Ubicación privilegiada: Rodeada de vegetación autóctona y tranquilidad absoluta, esta propiedad ofrece un estilo de vida pausado y refinado, sin renunciar a la cercanía de la costa y los servicios urbanos. IMPORTANTE: ACCEDA AL TOUR VIRTUAL Y AL PLANO ADJUNTO PARA MAS DETALLES Comunicaciones:   - 10km. Playas  - 5 km. Santander por autovía.  - 30 km. Aeropuerto de Santander ¡No pierdas esta oportunidad! Llámanos y concretamos una visita sin ningún compromiso. AL COMPRAR CON MIRAPISO TODO SON GARANTÍAS - Con todas las garantías legales: antes de adquirir el mandato de un piso, nuestros técnicos, realizan un estudio técnico para asegurarnos de que todo está en perfecto estado. Revisamos la vivienda, el estado de conservación del edificio y zonas comunes. Analizamos el resultado de la ITE (Inspección técnica de edificios) y si hay posibles trabajos previstos para el edificio. TRABAJAMOS POR Y PARA TU TRANQULIDAD - Sin sorpresas técnicas: además de una revisión técnica, todos nuestros pisos se someten a una revisión por parte de nuestro departamento legal para garantizar que la vivienda no tiene ninguna carga que pueda transmitirse al comprador. INFORMACION: Precio Actual SIN Impuestos: (I. T. P. Impuesto de transmisión patrimonial)  Este precio si incluye gastos de honorario de inmobiliaria.  No incluye notaría y registrales.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3846.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente en Barrio la Esprilla, 9"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109030315",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1d/eb/7a/1362189284.webp",
+      "numPhotos": 44,
+      "price": 445000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 445000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 313.0,
+      "rooms": 6,
+      "bathrooms": 4,
+      "address": "Ca-232 s/n",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.4120534,
+      "longitude": -3.9525268,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109030315/",
+      "distance": "1217",
+      "description": "Fincas Diego vende esta magnifica propiedad en un Paraíso Natural junto al Río Pas Descubre esta impresionante casa independiente, situada en un entorno natural inigualable que te hará sentir en el paraíso. Con más de 70 metros de frente al río Pas, esta propiedad cuenta con acceso privado al agua, ideal para disfrutar de momentos inolvidables en familia o con amigos. Imagina poder navegar en tu propia embarcación y explorar las playas cercanas mientras disfrutas de la tranquilidad que ofrece este remanso de paz. La casa se asienta sobre una parcela de 2.058 m², con un amplio jardín repleto de árboles frutales que invitan a disfrutar del aire libre. El terreno es totalmente plano, lo que permite aprovechar al máximo cada rincón. En la planta baja, encontrarás un garaje diáfano que incluye una caldera de calefacción de gas/oil, ofreciendo comodidad y funcionalidad. Accede a la primera planta a través de una escalera exterior que te llevará al porche de entrada, donde nos encontramos con el salón comedor y el acceso a la cocina, disponemos 4 habitaciones dobles y 2 baños, brindando espacio suficiente para toda la familia. En la Planta bajo cubierta tiene 2 habitaciones con 2 baños incorporados sala, trastero Construida en 1987, en buen estado y con el tejado nuevo recientemente, esta propiedad de 313 m² es una oportunidad única que no querrás dejar pasar. ¡Ven a visitarla y descubre su encanto!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1422.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Casa independiente en Ca-232 s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109013230",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/aa/2e/44/1361976432.webp",
+      "externalReference": "2 Bajo D",
+      "numPhotos": 30,
+      "floor": "bj",
+      "price": 340000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 340000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 78.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio El Pozo de la Torre, 1 A",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.442818,
+      "longitude": -3.9300346,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109013230/",
+      "distance": "2828",
+      "description": "¡Vive en un entorno privilegiado, estrena tu hogar y disfruta de la tranquilidad sin renunciar a la comodidad! Descubre Lascaredo, una nueva promoción que combina diseño, confort y ubicación privilegiada. Situada en Altos del Palancete, Mortera, en pleno municipio de Piélagos, esta urbanización ofrece tranquilidad, naturaleza y cercanía con Santander y las playas más bonitas de Cantabria. Disponemos de: 12 Bajos con jardín privado (3 habitaciones, 2 baños) con superficies desde 67 m² útiles y jardines de hasta 303 m². 24 Dúplex (2 habitaciones, 2 baños) desde 63 m² útiles. Calidades Premium Fachada en ladrillo caravista y piedra natural con aislamiento térmico y acústico. Carpintería exterior de PVC con rotura de puente térmico y doble acristalamiento bajo emisivo. Calefacción eficiente con caldera de gas y sistema de aerotermia o placas solares. Pavimentos de gres y suelos laminados de primera calidad. Baños y cocina equipados con sanitarios y grifería Roca o similar. Urbanización con zonas ajardinadas y acabados de alto nivel Un Entorno que lo Tiene Todo Mortera es sinónimo de calidad de vida: Rodeado de paisajes verdes y rutas naturales. A pocos minutos de las playas de Liencres y Valdearenas, un paraíso para los amantes del mar y el surf. Excelentes comunicaciones con Santander y Torrelavega gracias a la proximidad de la autovía. Servicios cercanos: colegios, supermercados, restaurantes y centros deportivos. Precios desde: Bajos: 280.000 € + impuestos Dúplex: 195.000 € + impuestos (Garaje incluido en el precio) Los precios varían en función de tamaño, orientación y parcela. No pierdas la oportunidad! Una oportunidad única para adquirir vivienda en una de las zonas mejor valoradas de Cantabria. � Llámanos o visítanos y descubre tu nuevo hogar en Mortera. Naturaleza, mar, montaña… y calidad de vida, todo en uno.",
+      "hasVideo": false,
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4359.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Piso en Barrio El Pozo de la Torre, 1 a"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109013605",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/52/2b/ca/1361716390.webp",
+      "externalReference": "W-0464FI",
+      "numPhotos": 66,
+      "price": 697000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 697000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 359.0,
+      "rooms": 7,
+      "bathrooms": 4,
+      "address": "calle Jenoz",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Cacicedo",
+      "country": "es",
+      "latitude": 43.4333222,
+      "longitude": -3.8697813,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109013605/",
+      "distance": "6737",
+      "description": "Magnífica casa en Camargo Engel & Völkers presenta esta magnífica casa independiente que combina amplitud, privacidad y entorno natural en una de las zonas más tranquilas y verdes del Valle de Camargo, a menos de 10 minutos de Santander y de sus playas. La propiedad se asienta sobre una parcela de más de 5.500 m² con vistas libres de 360 grados al paisaje cántabro. Desde ella se puede disfrutar tanto de la salida del sol por el este como de las espectaculares puestas de sol por el oeste, en un entorno rodeado de naturaleza y con total independencia. La vivienda principal está distribuida en tres plantas y actualmente está dividida en dos viviendas completas e independientes, aunque comparten los suministros principales. Cada una de ellas dispone de cocina equipada, salón, dormitorios y baños propios, lo que ofrece una gran versatilidad de uso: ideal para familias que deseen vivir juntas, pero manteniendo su intimidad, o para destinar una de las viviendas al alquiler turístico o residencial. Con una superficie construida de aproximadamente 359 m², la casa cuenta con nueve estancias en total, siete dormitorios y cuatro baños, además de varias zonas de estar y terrazas con orientación perfecta para aprovechar la luz natural durante todo el día. El terreno, de más de 5.000 m² de jardín, incluye además dos construcciones auxiliares: una para almacenaje agrícola y otra para aperos, con potencial para reconvertirse en espacios de ocio, taller o zona de invitados. La finca dispone de espacio suficiente para instalar una piscina, huerto o choco, y ofrece múltiples posibilidades de personalización. En cuanto a equipamiento, cuenta con calefacción mediante radiadores de gasóleo, chimenea, garaje, terraza, balcón y sistema de seguridad. Dispone de buena conexión a la autovía A-67, el aeropuerto de Santander y el Hospital Universitario Marqués de Valdecilla, situados todos a menos de diez minutos. Esta casa ofrece el equilibrio perfecto entre naturaleza y comodidad, con todos los servicios colegios, supermercados, centros de salud— a pocos minutos, pero con la paz de un entorno rural abierto y sin edificaciones cercanas. Cacicedo es una localidad tranquila y bien comunicada perteneciente al municipio de Camargo, en Cantabria y que se encuentra a menos de 10 minutos del Aeropuerto y de Santander y de sus playas. Con fácil acceso a la autovía A-67 y a tan solo 10 minutos del Hospital Universitario Valdecilla y el Parque de Cabárceno ofrece la combinación perfecta entre la cercanía a la ciudad y la calidad de vida de un entorno residencial. Rodeada de zonas verdes y con todos los servicios esenciales a pocos minutos (colegios, centros de salud, supermercados), es ideal tanto para familias como para quienes buscan un entorno apacible sin renunciar a la comodidad. La zona se caracteriza por viviendas unifamiliares, urbanizaciones modernas y una comunidad tranquila, con un ambiente acogedor y seguro. Además, está muy bien conectada mediante transporte público con el resto del municipio y con Santander.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1942.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cacicedo, Camargo",
+        "title": "Casa independiente en calle Jenoz"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109010178",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ed/78/0d/1361604393.webp",
+      "externalReference": "1052363",
+      "numPhotos": 68,
+      "price": 590000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 590000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 428.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "Barrio Somavilla, 4",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Camargo",
+      "country": "es",
+      "latitude": 43.4039428,
+      "longitude": -3.8854256,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109010178/",
+      "distance": "5779",
+      "description": " .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1379.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Camargo, Camargo",
+        "title": "Chalet en Barrio Somavilla, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109009902",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/32/ed/95/1361593979.webp",
+      "externalReference": "AJ00425",
+      "numPhotos": 60,
+      "price": 460000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 460000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 215.0,
+      "rooms": 5,
+      "bathrooms": 5,
+      "address": "Alto",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Parbayón",
+      "country": "es",
+      "latitude": 43.3789271,
+      "longitude": -3.898009,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109009902/",
+      "distance": "6560",
+      "description": "Si buscas un Refugio Familiar a solo unos minutos de Santander y de las playas SIN OBRAS, descubre este CHALET INDIVIDUAL con FINCA PRIVADA DE 5700m2, de CONSTRUCCIÓN RECIENTE, diseñado para ofrecerte la COMODIDAD y PRIVACIDAD que tu familia merece.  Esta propiedad es el lugar ideal tanto para VIVIR en familia, así como SEGUNDA RESIDENCIA o incluso como una OPORTUNIDAD DE NEGOCIO, gracias además de a sus características, a su UBICACIÓN ESTRATÉGICA, a tan solo 15 minutos de Santander y de las playas de la Costa Quebrada, a 10 minutos de Cabárceno y a 20 minutos de Somo o Miengo, con estación de tren o autobús en el pueblo.  Ubicada dentro de una PRECIOSA FINCA de casi 6.000m2, completamente cercada y acondicionada, con zona de aparcamiento, jardín, huerta, árboles frutales, zona de porche, terreno alicatado para utilizar como comedor, barbacoa, área de piscina y un sin fin de detalles, orientada al sur y con unas preciosas vistas a los valles, que te permitirán darte cuenta que es la CASA QUE NECESITAS. Una vivienda pensada y adecuada para VIVIR CÓMODAMENTE, con las mejores CALIDADES y en un estado IMPOLUTO, absolutamente LISTA PARA ENTRAR A VIVIR.  Accedemos a la vivienda a través de un PORCHE de 20m2, acondicionado para ofrecer sombra durante las reuniones en los días más calurosos.  En la PLANTA BAJA, perfectamente diseñada para hacer una vida completa sin barreras arquitectónicas, tenemos un acogedor SALÓN-COMEDOR, con orientación este y sur, que ofrece unas preciosas vistas y que cuenta con chimenea, COCINA, completamente equipada y con zona para comer, que además comunica con la zona de GARAJE, donde actualmente encontramos cocina y amplio espacio tanto para aparcar el coche como para utilizarlo de choco. En esta planta tenemos además la actual HABITACIÓN PRINCIPAL, que cuenta con zona de dormitorio y BAÑO ensuite, ambos con orientación sur. Por último, cuenta también con un cuarto de aseo para dar servicio a esta planta. En la PRIMERA PLANTA, bajocubierta, tenemos 4 DORMITORIOS, 2 con baño propio (orientación oeste) y un tercer baño que da servicio a los otros dos dormitorios, todos ellos dobles y con balcón, además en la zona oeste de la casa, encima de la zona de garaje, podrás habilitar si te interesa una terraza de casi 50m2 que tiene de planta. Destacar que la casa se hizo nueva hace 17 años, conservando la estética de una edificación anterior, lo que permite un buenísimo aislamiento dado el grosor de sus muros, el TEJADO de la mejor calidad asentado sobre estructura de hormigón. Estilo rústico renovado, suelo cerámico en la planta baja y parquet en la planta de habitaciones. Todas las estancias son EXTERIORES y están en PERFECTO ESTADO DE CONSERVACIÓN, ventanas de PVC con mosquiteras en toda la casa salvo tipo velux en los baños, CALEFACCIÓN de gas con depósito así como con chimenea. Sistema de video vigilancia, portilla de acceso y de garaje automática, saneamiento propio y comunitario, así como buena conexión a internet. Disfruta cada mañana rodeado por naturaleza mientras contemplas paisajes impresionantes desde tu propio hogar sin renunciar a la practicidad de estar cerca de todo. Y como ves, solo necesitarás traer tus pertenencias para poder disfrutar de tu nuevo hogar, ¡LLÁMANOS! *Impuestos y gastos de notaria y registro no incluidos en el precio de venta.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2140.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Parbayón, Piélagos",
+        "title": "Casa independiente en Alto"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108983611",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/98/d1/96/1360854062.webp",
+      "externalReference": "ED 1 Bajo a",
+      "numPhotos": 6,
+      "floor": "bj",
+      "price": 305000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 305000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 72.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "via Barrio El Pozo de la Torre, 1",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.442818,
+      "longitude": -3.9300346,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108983611/",
+      "distance": "2828",
+      "description": "Planta baja con jardín de 3 dormitorios y 2 baños. Imagina despertar cada día, rodeado de espacios verdes, pero a un paso de todo, sentir la hierba al pisar descalzo y disfrutar del entorno y la calma. Una promoción de obra nueva única en un enclave natural privilegiado, de 36 viviendas y garajes, pensadas para quienes sueñan con vivir en equilibrio entre naturaleza y conexión a todos los servicios. Situada frente a espacios verdes abiertos y parque infantil y a un paso de la zona comercial de Mortera. A 2 minutos del Hospital Mompía, la autovía y la estación de tren. A 5 minutos de la playa de Liencres. El sueño de cualquiera ahora disponible para ti, llámanos y estaremos encantados de informarte. Adquiere esta vivienda con nosotros y disfruta de los privilegios que te ofrece Tecniobras Vintage.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4236.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Piso en via Barrio El Pozo de la Torre, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108974005",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b6/d3/b5/1360548005.webp",
+      "externalReference": "Ed 2 bjc",
+      "numPhotos": 7,
+      "floor": "bj",
+      "price": 325000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 325000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 78.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "via Barrio El Pozo de la Torre, 1",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.442818,
+      "longitude": -3.9300346,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108974005/",
+      "distance": "2828",
+      "description": "Fabuloso bajo con jardín de 167 m2 Imagina despertar cada día, rodeado de espacios verdes, pero a un paso de todo, salir al jardín, sentir el tacto y el aroma de la hierba y disfrutar del entorno y la calma. Una promoción de obra nueva única en un enclave natural privilegiado, de 36 viviendas y garajes, pensadas para quienes sueñan con vivir en equilibrio entre naturaleza y conexión a todos los servicios. Situada frente a espacios verdes abiertos y parque infantil y a un paso de la zona comercial de Mortera. A 2 minutos del Hospital Mompía, la autovía y la estación de tren. A 5 minutos de la playa de Liencres. El sueño de cualquiera ahora disponible para ti, llámanos y estaremos encantados de informarte. Adquiere esta vivienda con nosotros y disfruta de los privilegios que te ofrece Tecniobras Vintage.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4167.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Piso en via Barrio El Pozo de la Torre, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108835902",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7f/f0/5b/1413945848.webp",
+      "externalReference": "SV1385",
+      "numPhotos": 46,
+      "floor": "2",
+      "price": 235000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 235000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 249000.0,
+            "priceDropValue": 14000,
+            "priceDropPercentage": 6
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 83.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio las Reigadas",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Liencres",
+      "country": "es",
+      "latitude": 43.4609262,
+      "longitude": -3.9276512,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108835902/",
+      "distance": "4652",
+      "description": "Ubicado en la zona de Costa Quebrada recientemente declarada patrimonio de la Unesco, a un paso de las playas, este hogar combina naturaleza, comodidad y privacidad. La vivienda está pensada para que solo tengas que traer tus maletas, lista para entrar a vivir. Dispone de 2 habitaciones, un baño completo y un aseo, una cocina con galería cerrada y un salón muy luminoso. También cuenta con una gran terraza desde la que se ve el mar. Además, incluye plaza de garaje para que aparcar no sea un problema y trastero comunitario para que ganes espacio en casa. Este dúplex no solo es un lugar donde vivir, sino un estilo de vida: tranquilo y cómodo. Escríbenos y ven a descubrirlo. Puede que este sea tu próximo hogar. Entre las imagenes expuestas, hay mobiliario y decoracion realizado virtualmente.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2831.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liencres, Piélagos",
+        "title": "Piso en Barrio las Reigadas"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108930407",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/05/25/71/1359273723.webp",
+      "externalReference": "bajo b",
+      "numPhotos": 7,
+      "floor": "bj",
+      "price": 280000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 280000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 74.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "via Barrio El Pozo de la Torre, 1",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.442818,
+      "longitude": -3.9300346,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108930407/",
+      "distance": "2828",
+      "description": "TECNIOBRAS VINTAGE. Agencia inmobiliaria. Bajos con jardín de 3 dormitorios desde 280.000€, con plaza de garaje en sótano con ascensor incluida en el precio. Imagina despertar cada día, rodeado de espacios verdes, pero a un paso de todo, asomarte a la terraza y disfrutar del entorno y la calma. Una promoción de obra nueva única en un enclave natural privilegiado, de 36 viviendas y garajes, pensadas para quienes sueñan con vivir en equilibrio entre naturaleza y conexión a todos los servicios. Situada frente a espacios verdes abiertos y parque infantil y a un paso de la zona comercial de Mortera. A 2 minutos del Hospital Mompía, la autovía y la estación de tren. A 5 minutos de la playa de Liencres. El sueño de cualquiera ahora disponible para ti, llámanos y estaremos encantados de informarte. .",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3784.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Piso en via Barrio El Pozo de la Torre, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108916296",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9e/94/3a/1358845678.webp",
+      "externalReference": "00085",
+      "numPhotos": 46,
+      "floor": "bj",
+      "price": 1900000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1900000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "sale",
+      "size": 574.0,
+      "rooms": 12,
+      "bathrooms": 12,
+      "address": "camino Mortera a Liencres",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.4472815,
+      "longitude": -3.9210763,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108916296/",
+      "distance": "3677",
+      "description": "La Posada Sotobosque es una espectacular casona del siglo XIX, completamente rehabilitada, situada en la tranquila y bien comunicada localidad de Mortera, dentro del municipio de Piélagos (Cantabria). Esta propiedad única combina el encanto de la arquitectura tradicional cántabra con todas las comodidades modernas, en un entorno natural de gran belleza y privacidad. Actualmente, la propiedad funciona con éxito como hotel boutique con encanto, lo que añade una línea de ingresos consolidada para quien desee continuar con su explotación turística.  Conserva sus materiales nobles originales —piedra, madera, forja artesanal— y ha sido actualizada con un gusto exquisito, respetando su alma histórica sin renunciar al confort. Es una propiedad ideal como residencia familiar de alto nivel, ya sea como primera vivienda o segunda residencia de lujo.  Una Parcela con Futuro: Potencial Edificable La finca se asienta sobre una parcela ajardinada con edificabilidad disponible, lo que permite: Construcción de una segunda vivienda independiente (ideal para invitados, familiares o como casa auxiliar). Instalación de una piscina privada, zona de wellness o spa. Proyectos paisajísticos, huerta ecológica, zona de juegos o espacios deportivos. Este valor añadido convierte la propiedad en una inversión flexible, adaptable a distintos proyectos residenciales o turísticos. - Un Hogar Único Rodeado de Naturaleza Situada en una finca ajardinada con vistas abiertas a la campiña cántabra, la propiedad ofrece un entorno sereno, perfecto para quienes valoran la tranquilidad, el espacio y el contacto con la naturaleza. Sus amplios jardines privados son ideales para el disfrute familiar, celebraciones al aire libre o simplemente para desconectar del ritmo urbano. - Ubicación Estratégica A solo 14 km de Santander y 13 km del aeropuerto internacional, lo que permite combinar vida tranquila con acceso rápido a ciudad, servicios y transporte. A menos de 10 minutos de las playas de Liencres y del Parque Natural de las Dunas, con acceso a senderos, naturaleza virgen y actividades al aire libre. Cerca de colegios internacionales, campos de golf y zonas deportivas. Distribución y Comodidades La propiedad cuenta con múltiples estancias versátiles y luminosas que pueden adaptarse fácilmente a las necesidades de una gran familia: Habitaciones espaciosas con baño privado, algunas con bañera de hidromasaje y zona de estar. Salones acogedores grandes ventanales y con chimenea, zonas de lectura, espacios ideales para reuniones familiares o descanso. Amplia cocina equipada, con comedor anexo. Servicios premium: lavandería, cuarto de plancha, servicio de habitaciones (si se desea mantener parte del modelo de negocio anterior). Garaje y aparcamiento privado en la finca. -Para Quienes Buscan Más Que Una Casa Esta no es solo una vivienda, es una oportunidad de adquirir un hogar con alma, un lugar especial donde crear recuerdos, compartir con familia y amigos, y disfrutar de cada estación del año. La Posada Sotobosque representa una combinación perfecta de historia, naturaleza, privacidad y calidad de vida. ¿Estás buscando un hogar que sea tan especial como tu estilo de vida?",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3310.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "countryHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Finca rústica en camino Mortera a Liencres"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108865945",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6a/4e/3e/1357430171.webp",
+      "externalReference": "M-2538",
+      "numPhotos": 52,
+      "price": 990000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 990000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 369.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio Cutios",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Arce",
+      "country": "es",
+      "latitude": 43.4174651,
+      "longitude": -3.9425152,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108865945/",
+      "distance": "982",
+      "description": "CHALET INDEPENDIENTE CON JARDÍN DE 10.890 M² Distribuido en: PLANTA SÓTANO: garaje para 6 coches, sala de calderas y cuarto trastero. PLANTA PRINCIPAL: recibidor, salón – comedor con amplios ventanales que da acceso a una terraza – poche cubierto y al jardín, cocina amueblada y equipada con zona de office, sala de estar, dormitorio principal en suite con vestidor, baño completo y terrazas con vistas, 2 dormitorios y baño. Jardín de 10.890 m². Cuenta con sistema de placas solares. Antigüedad del año 2006. Muy buen estado de conservación. Todas las orientaciones. Excelente ubicación. Situada junto a la urbanización La Mina. Muy buena comunicación con la autovía A-67, a 12 minutos de Santander y 10 minutos de las playas de Liencres y Mogro.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2683.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Arce, Piélagos",
+        "title": "Casa independiente en Barrio Cutios"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108857119",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4f/49/90/1395787271.webp",
+      "externalReference": "2937",
+      "numPhotos": 7,
+      "price": 110600.0,
+      "priceInfo": {
+        "price": {
+          "amount": 110600.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 118.0,
+      "exterior": false,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Barrio Requejada",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3905633,
+      "longitude": -4.0220211,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108857119/",
+      "distance": "6708",
+      "description": "� Inversión en rentabilidad en Requejada (Cantabria) Oportunidad de adquirir un inmueble con inquilino y contrato vigente, que garantiza ingresos estables desde el primer día. Ubicado en una zona tranquila y bien comunicada, rodeada de servicios y con excelente acceso a las principales vías de Cantabria. � Contrato de alquiler en vigor hasta el 07/06/2029 � Renta mensual actual: 239,53 € � Inquilinos solventes – pagos al día � Propiedad perteneciente a fondo de inversión � El comprador se subroga al contrato de arrendamiento existente � No visitable actualmente � Fotografías orientativas – el estado interior puede diferir � No se dispone de planos ni distribución verificada ❌ No apto como primera vivienda ni para uso propio � No apto para financiación hipotecaria � Sin comisión de intermediación al comprador � Entorno residencial con supermercados, colegios, centros de salud, comercios y restaurantes en las inmediaciones. Bien conectado con Santander y otras localidades de Cantabria. Desde Smart Estate, estaremos encantados de resolver cualquier duda y acompañarte en todo el proceso. ¡Invierte con confianza y seguridad en Requejada!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 937.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Piso en Barrio Requejada"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108852530",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/52/1a/aa/1357017304.webp",
+      "externalReference": "W-02XIRE",
+      "numPhotos": 50,
+      "price": 875000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 875000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 250.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Torrelavega",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4263857,
+      "longitude": -4.0354536,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108852530/",
+      "distance": "6749",
+      "description": "Casa única en primera línea de La Ribera en Suances Engel & Völkers presenta esta propiedad única. Se trata de una casa independiente en primera línea de playa, ubicada en la zona de La Ribera, con acceso directo a la misma. Ofrece unas preciosas vistas al mar y un jardín que rodea toda la vivienda, ideal para disfrutar de los atardeceres y de la bahía de Suances. La propiedad se distribuye en dos plantas. En la planta principal encontramos un hall de entrada, un amplio salón con chimenea, una cocina completamente equipada, dos luminosos dormitorios y un baño completo. En la planta superior se ubican dos habitaciones adicionales y un segundo baño. Junto a la planta baja, la vivienda cuenta con un anexo acristalado y abatible, perfecto como comedor o sala de estar, ideal para disfrutar tanto en familia como con amigos. No deje pasar esta oportunidad única en una de las zonas más exclusivas de Suances. Situada en uno de los enclaves más deseados del norte de España, La Ribera, en Suances, ofrece un entorno inmejorable para quienes buscan calidad de vida, naturaleza y proximidad al mar. Esta exclusiva zona residencial se encuentra a escasos minutos del centro del municipio y combina a la perfección la tranquilidad de un entorno natural con todos los servicios a mano. La Ribera destaca por su cercanía a la playa de la Ribera y la ría de San Martín, ofreciendo vistas únicas y paseos junto al mar. Es una zona muy valorada tanto por residentes habituales como por quienes buscan una segunda residencia en la costa. Aquí se respira aire puro, se disfruta del sonido del mar y se goza de atardeceres inolvidables. Con una excelente conexión con Santander (a menos de 30 minutos en coche) y buenas comunicaciones por carretera, Suances es también un punto estratégico para explorar la belleza de Cantabria: desde Santillana del Mar hasta los Picos de Europa. Si buscas una zona con encanto, segura, rodeada de naturaleza y con un ambiente relajado pero con vida durante todo el año, La Ribera en Suances es la elección perfecta.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3500.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Casa independiente en calle Torrelavega"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108835995",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/97/e0/00/1356546018.webp",
+      "externalReference": "1052363",
+      "numPhotos": 68,
+      "price": 590000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 590000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 428.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "Barrio Somavilla, 4",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Camargo",
+      "country": "es",
+      "latitude": 43.4039428,
+      "longitude": -3.8854256,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108835995/",
+      "distance": "5779",
+      "description": "Chalet señorial sobre finca privada de 1 600 m², a 10 min de Santander: 5 dormitorios, vivienda anexa, merendero cerrado, porche, bodega, jardín frutal… Elegancia y tranquilidad en cada rincón. Situado en un entorno apacible a solo 10 minutos de Santander, este chalet independiente sobre finca cerrada de 1 600 m² ofrece una experiencia de vida plena desde el primer instante. La entrada señorial flanqueada por muros de piedra y puertas de madera anticipa la distinción del conjunto. En la planta baja, el salón de más de 35 m², con orientación Norte-Sur-Este-Oeste, se baña en luz natural. Le sigue una cocina con despensa, dos dormitorios y baño. La planta alta acoge cuatro dormitorios —incluida una suite con vestidor— y dos baños adicionales. El exterior es un festín para los sentidos: jardín con árboles frutales, merendero cerrado con barbacoa, porche cubierto, bodega tradicional y garaje amplio. Además, dispone de una vivienda anexa de tres dormitorios, cocina y baño, ideal para invitados o como espacio independiente. Construido en 2000 con materiales de primera calidad, destaca por su solidez, armarios empotrados, calefacción diésel y chimenea central. Con 428 m² construidos, certificación energética clase E (140,40 kWh/m² año) y emisiones CO₂ clase E (37,40 kgCO₂/m² año), combina amplitud, comodidad y eficiencia. No deje escapar esta vivienda distinguida que fusiona exclusividad y serenidad. Contacte con nosotros para concertar una visita cuando desee.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1379.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Camargo, Camargo",
+        "title": "Casa independiente en Barrio Somavilla, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108759412",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b2/bb/a0/1354271345.webp",
+      "externalReference": "00084",
+      "numPhotos": 81,
+      "price": 990000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 990000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 369.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Arce",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Arce",
+      "country": "es",
+      "latitude": 43.419146,
+      "longitude": -3.9499662,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108759412/",
+      "distance": "458",
+      "description": "Te presentamos este magnifico chalet independiente en Arce (Piélagos), ubicado en una amplia parcela privada ideal para disfrutar del aire libre, reuniones familiares y momentos de relax. Una propiedad única, diseñada para quienes valoran la calidad, el confort y una estética contemporánea. Esta casa destaca por su arquitectura moderna, elegante, con grandes ventanales que inundan de luz natural cualquier estancia. Dispone de dos plantas: - Planta principal: donde se encuentran todas las estancias principales de la vivienda, la vivienda se distribuye completamente en una sola planta lo que hace que la vida diaria sea mucho mas cómoda.  Se distribuye en un amplio y luminoso salón donde poder relajarse y disfrutar de la tranquilidad, con acceso directo a un acogedor porche y a una gran terraza orientada al sur, perfecta para disfrutar del sol con unas vistas impresionantes. Junto al salón encontramos la cocina y otro amplio salón o zona de ocio, donde poder recibir visitas y pasar buenos ratos con amigos o familiares. Separado de estas estancias tenemos las 3 habitaciones. La suite principal es una verdadera joya: un refugio privado con vestidor, baño en suite y espectaculares vistas panorámicas que se disfrutan tanto desde la cama como desde la bañera, creando un ambiente de bienestar total. Planta -1: dispone de un amplio garaje con capacidad para 6 vehículos, cuarto de calderas y una zona de almacenaje/cuarto húmedo. Ubicada junto a la prestigiosa urbanización La Mina, en Arce (Puente Arce), municipio de Piélagos, esta vivienda ofrece una combinación perfecta de privacidad, entorno natural y excelentes conexiones. A tan solo 12 minutos de Santander, cerca de playas como Usil (Mogro), el Parque Natural de las Dunas de Liencres y el campo de golf Abra del Pas. Una zona ideal para quienes buscan naturaleza, deporte y calidad de vida. Además, la propiedad cuenta con un sistema de placas solares que proporciona alta eficiencia energética y autosuficiencia eléctrica, reduciendo significativamente el gasto en suministros y convirtiéndola en una opción más sostenible y económica a largo plazo. Si se desea también se puede realizar la conexión a la red eléctrica pública  No dejes pasar tu oportunidad! Solicita una visita.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2683.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Arce, Piélagos",
+        "title": "Casa independiente"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108681513",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/63/cb/0f/1353991712.webp",
+      "externalReference": "12448",
+      "numPhotos": 53,
+      "price": 420000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 420000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 340.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "camino Vial",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.4059926,
+      "longitude": -3.9501796,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108681513/",
+      "distance": "1896",
+      "description": "Con Gran Potencial en Oruña de Piélagos, con independencia y con todos los servicios cercanos, un chalet con dos viviendas, cada una con entrada independiente, ya que las propiedades están cada una en una planta, planta baja y planta 1º. Perfectamente pueden adaptarse a tus necesidades, manteniéndolas separadas o unirlas en su interior. La planta baja ha sido completamente reformada, presentando un diseño moderno y funcional, lista para que te mudes sin preocupaciones y la vivienda original es perfecta para distribuir nuevamente y adaptarla dado lo amplio de sus espacios. Disfruta transformándola en un hogar o adaptándola para obtener una mayor rentabilidad. Situada en una tranquila zona residencial de Oruña de Piélagos, esta propiedad te ofrece la combinación ideal de serenidad y accesibilidad. Estarás a pocos pasos del emblemático Puente Viejo de Oruña, inmerso en un entorno natural privilegiado, además, disfrutarás de una excelente comunicación con Santander y todas sus comodidades y servicios; muy cerca de las impresionantes playas de la costa, como la famosa Liencres, ideal para los amantes del mar y la naturaleza, y todos los servicios a poca distancia, facilitando tu día a día. Esta propiedad es ideal tanto para familias que buscan amplitud y la posibilidad de tener espacios diferenciados, como para inversores que deseen obtener una alta rentabilidad, gracias a sus dos viviendas independientes y su excelente ubicación. No pierdas la oportunidad de visitar esta propiedad versátil con un gran potencial en un entorno inigualable. Mikeli Luxury Real Estate, la mayor y más selecta cartera inmobiliaria de Cantabria. MÁS INMUEBLES EN LA ZONA. Contacte con su asesor. **Precio sujeto a cambios o retirada sin previo aviso. La información es orientativa. El precio no incluye impuestos ni gastos de compraventa. Para una información más detallada y ajustada, nuestro departamento de economía y finanzas está dispuesto a informarle.  Inmueble en exclusiva. Para más información, contacte con la agencia. Se ruega no molestar a propietarios u ocupantes. **.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1235.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Casa independiente en camino Vial"
+      },
+      "hasPlan": false,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108633383",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/17/51/6d/1350543858.webp",
+      "externalReference": "116040",
+      "numPhotos": 17,
+      "price": 230000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 230000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 216.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "AV SANTA CRUZ (MAOÑO)",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Maoño",
+      "country": "es",
+      "latitude": 43.4228908,
+      "longitude": -3.922213,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108633383/",
+      "distance": "2405",
+      "description": "Santanderhouse vende casa en Maoño. Se vende casa pareada en Maoño (Santa Cruz de Bezana), la casa tiene 216m2 construidos distribuidos en Salón comedor, cocina, dos habitaciones, un baño adaptado, un trastero, cuenta con una estancia bajo cubierta diáfana. La vivienda esta reformada, para entrar a vivir. Se encuentra en una zona muy demandada por su excelente ubicación a 10 minutos de Santander y de Torrelavega excelente conexión con al autovía A-67, cerca de las playas de Liencres, con todos los servicios a escasos metros de la vivienda. Contacte con nosotros para más información y programar una visita.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1065.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Maoño, Santa Cruz de Bezana",
+        "title": "Chalet pareado en Av Santa Cruz (maoño)"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108590551",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d5/f6/f1/1417625530.webp",
+      "externalReference": "6902/3528",
+      "numPhotos": 40,
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 60.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Igollo",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.4366552,
+      "longitude": -3.8898357,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108590551/",
+      "distance": "5244",
+      "description": "REF. 6902/3528. Bonita y acogedora casa en Igollo de Camargo. Totalmente independiente, situada en zona tranquila con mucho campo sin renunciar a la cercanía de Santander y a sus playas. La casa tiene un amplio salón con mucha luz, una bonita y moderna cocina bien equipada, 1 baño y 2 dormitorios con armarios empotrados, cuenta también con un altillo que podría ser una habitación adicional. La vivienda está hecha con mucho gusto, muy alegre y vistosa. Cuenta con un patio de unos 40 m2 que rodea toda la casa. Tiene placas solares, aerotermia, aire acondicionado. También chimenea de pellets. Bien comunicado y a tan solo 10 minutos de Santander.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 4167.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108528143",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e7/a1/d9/1347567877.webp",
+      "externalReference": "FV5015",
+      "numPhotos": 37,
+      "price": 565000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 565000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 400.0,
+      "rooms": 6,
+      "bathrooms": 4,
+      "address": "Barrio el Perujo",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Arce",
+      "country": "es",
+      "latitude": 43.4181585,
+      "longitude": -3.9346996,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108528143/",
+      "distance": "1497",
+      "description": "Preciosa casa situada en la localidad de Puente Arce. A tan sólo 15 minutos de Santander. Fachada de piedra y maderas nobles que otorgan caracter y exclusividad a una espaciosa vivienda que cuenta con 350 metros cuadrados. El arco de entrada da acceso a un inmeso hall, en la planta baja tiene salón-comedor, cocina, dos dormitorios, dos cuartos de baño y un porche que da al espectacular jardín. Anexo cuenta, en el antiguo pajar-bodega, con otra cocina y comedor de diario. En la planta de arriba se encuentran las cuatro habitaciones y dos cuartos de baño. Dispone de dos terrazas dónde crear un agradable espacio.    Rodeada de un espectacular y cuidado jardin de 500 metros cuadrados, que otorga a la casa un lugar perfecto para disfrutar de la naturaleza y contemplar un precioso paisaje. Puente Arce se encuentra a pocos minutos de las playas del litoral Cántabro.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1413.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Arce, Piélagos",
+        "title": "Chalet pareado en Barrio el Perujo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108510742",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ac/65/53/1347414815.webp",
+      "externalReference": "MIES611",
+      "numPhotos": 22,
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 54.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Igollo",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.4358019,
+      "longitude": -3.8922888,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108510742/",
+      "distance": "5027",
+      "description": "IGOLLO DE CAMARGO.  Mies de Rial pone a la venta un coqueto chalet individual a escasos 5 minutos de Santander, individual, reformado íntegro y para disfrutar desde el primer día. Se trata de una casita en planta distribuida en un amplio salón comedor con estufa-chimenea de pellets, una moderna y equipada cocina, 1 baño y 2 dormitorios. Además la vivienda cuenta con un altillo versátil que hace las veces de tercera habitación con zona de estudio pero que puede utilizarse para múltiples usos. Se trata de una vivienda moderna con placas solares, eficiente energéticamente, con aerotermia, aire acondicionado... no le falta detalle!  Preciosa terraza para disfrutar en familia y con amigos, ideal para primera y para segunda residencia, bien comunicado por carretera, cerca de Santander y a 12 minutos de las playas en coche. Impuestos, gastos de notaría y registro no incluidos en el precio.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 4630.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108442353",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/79/8f/09/1345607322.webp",
+      "externalReference": "V0443",
+      "numPhotos": 36,
+      "floor": "2",
+      "price": 329000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 329000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 349000.0,
+            "priceDropValue": 20000,
+            "priceDropPercentage": 6
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 111.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Torrelavega, 6",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4299084,
+      "longitude": -4.0374278,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108442353/",
+      "distance": "6941",
+      "description": "¡Piso en venta en la zona de playa de Suances! ******PRECIO ACTUALIZADO******* Una oportunidad única de inversión en un entorno privilegiado Descubre este encantador piso situado a pocos pasos del mar, ideal como vivienda habitual,  segunda residencia o inversión vacacional. Ubicado en una de las zonas costeras más atractivas de Cantabria, este inmueble te permitirá disfrutar del mar, la naturaleza y todos los servicios al alcance. Distribución: Luminoso salón-comedor con amplios ventanales que inundan el espacio de luz natural. Cocina independiente totalmente equipada. Baño reformado con ducha y ventana. Aseo con ventana. Tres habitaciones. Pasillo distribuidor. Extras y comodidades: Ventanas nuevas en toda la vivienda. Suelos renovados. Baños y cocinas reformados  Plaza de aparcamiento exterior. Precioso jardín comunitario. Edificio de solo tres viviendas, lo que garantiza tranquilidad y privacidad. Ubicación inmejorable: A tan solo unos metros de la coqueta playa urbana de La Ribera, en la desembocadura de la ría de Suances. Muy cerca también de la famosa Playa de La Concha, con sus dunas naturales y arena dorada, y la Playa de Los Locos, un paraíso para los amantes del surf. Disfrutarás de una amplia oferta de ocio: Restaurantes, cafeterías y heladerías. Paseos paisajísticos y carril bici. Zona infantil y actividades náuticas. Escuelas de surf, paseos en barco y mucho más. Solo necesitas coger la toalla y estarás en la playa en cuestión de minutos. Este piso tiene todo el potencial para convertirse en tu refugio ideal junto al mar. ¿Te interesa? Contacta con Inmobiliaria Suances y te acompañaremos en todo el proceso de compra. ¡No dejes pasar esta gran oportunidad!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2964.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Piso en calle Torrelavega, 6"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108449388",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/98/95/5d/1372913918.webp",
+      "externalReference": "CHALET 17",
+      "numPhotos": 8,
+      "price": 710000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 710000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 305.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "alto San Mateo s/n",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.424619,
+      "longitude": -3.9271206,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108449388/",
+      "distance": "2017",
+      "description": "PROMOCIÓN DE CHALETS INDIVIDUALES EN BOO DE PIÉLAGOS - RESIDENCIAL LA TEJERA Descubre Residencial La Tejera, una exclusiva promoción de 17 chalets unifamiliares individuales situados en Boo de Piélagos, un entorno natural privilegiado que combina tranquilidad y cercanía. Ubicación Ideal: Situados en un punto estratégico, estos chalets ofrecen fácil acceso a la autovía A-67, a solo 10 minutos en coche de Santander y a 5 minutos del impresionante Parque Natural de las Dunas de Liencres. Cada chalet cuenta con una parcela individual de aproximadamente 1.200 metros cuadrados y una superficie construida de 308 metros cuadrados. En planta baja: vestíbulo, salón-comedor, cocina, 1 dormitorio y 1 baño que dará servicio a la planta. En planta primera: 3 dormitorios y 2 cuartos de baño, destacando que el dormitorio principal será tipo suite y dispondrá de terraza En planta sótano contaremos con un amplio garaje para varios vehículos con trastero y tendedero. En cuanto a las calidades de la obra resaltar que la fachada se terminará con aplacado de piedra. La carpintería exterior será de P. V. C. climalit. Los solados serán cerámicos en todas las plantas para una mayor eficiencia de la calefacción por suelo radiante con aerotermia. Alicatados en cerámica de primera calidad. Carpintería interior con puertas lacadas y armarios empotrados. Precio de Venta: Desde 595.000 € (impuestos no incluidos). Si deseas más información, no dudes en contactarnos. Estaremos encantados de atenderte, ya sea por teléfono o de manera presencial. ¡Tu nuevo hogar te espera en Residencial La Tejera!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2328.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Casa independiente en alto San Mateo s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108449330",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a4/55/77/1372911929.webp",
+      "externalReference": "CHALET 16",
+      "numPhotos": 8,
+      "price": 690000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 690000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 305.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "alto San Mateo s/n",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.424619,
+      "longitude": -3.9271206,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108449330/",
+      "distance": "2017",
+      "description": "PROMOCIÓN DE CHALETS INDIVIDUALES EN BOO DE PIÉLAGOS - RESIDENCIAL LA TEJERA Descubre Residencial La Tejera, una exclusiva promoción de 17 chalets unifamiliares individuales situados en Boo de Piélagos, un entorno natural privilegiado que combina tranquilidad y cercanía. Ubicación Ideal: Situados en un punto estratégico, estos chalets ofrecen fácil acceso a la autovía A-67, a solo 10 minutos en coche de Santander y a 5 minutos del impresionante Parque Natural de las Dunas de Liencres. Cada chalet cuenta con una parcela individual de aproximadamente 1.200 metros cuadrados y una superficie construida de 308 metros cuadrados. En planta baja: vestíbulo, salón-comedor, cocina, 1 dormitorio y 1 baño que dará servicio a la planta. En planta primera: 3 dormitorios y 2 cuartos de baño, destacando que el dormitorio principal será tipo suite y dispondrá de terraza En planta sótano contaremos con un amplio garaje para varios vehículos con trastero y tendedero. En cuanto a las calidades de la obra resaltar que la fachada se terminará con aplacado de piedra. La carpintería exterior será de P. V. C. climalit. Los solados serán cerámicos en todas las plantas para una mayor eficiencia de la calefacción por suelo radiante con aerotermia. Alicatados en cerámica de primera calidad. Carpintería interior con puertas lacadas y armarios empotrados. Precio de Venta: Desde 595.000 € (impuestos no incluidos). Si deseas más información, no dudes en contactarnos. Estaremos encantados de atenderte, ya sea por teléfono o de manera presencial. ¡Tu nuevo hogar te espera en Residencial La Tejera!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2262.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Casa independiente en alto San Mateo s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108413421",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2c/4c/3b/1344180150.webp",
+      "externalReference": "IAILC2",
+      "numPhotos": 49,
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 70.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio la Esprilla",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.4352885,
+      "longitude": -3.8893849,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108413421/",
+      "distance": "5237",
+      "description": "SI LO QUE BUSCAS ES UNA ACOGEDORA CASA INDEPENDIENTE EN UNA PLANTA + ALTILLO, VISTAS PANORÁMICAS Y DESPEJADAS, RODEADA DE NATURALEZA PERO A SU VEZ MUY CERCA DE LA CIUDAD Y DE LAS PLAYAS.. . ¡LO TENEMOS! Os presentamos esta casa en Igollo de Camargo con un total de 54m2 útiles (más un altillo) sobre una parcela de 100 m2, y se distribuye en 2 dormitorios exteriores con armarios empotrados, un baño completo con plato de ducha, espaciosa cocina totalmente amueblada y equipada con electrodomésticos de primeras marcas, y un acogedor salón con zona de comedor, donde poder relajarte y disfrutar de la estufa de pellets en los días más fríos del año. Además, cuenta con un altillo que se puede habilitar como un tercer dormitorio y donde encontrarás una zona de trastero con amplio almacenaje donde poder guardar todo aquello que necesites. Cabe destacar la gran luminosidad con la que cuenta la vivienda, ya que es toda exterior, las ventanas de PVC con doble cristal, la puerta principal de acceso con aislamiento total de ruido, las placas solares que te garantizarán un gran ahorro de luz, bomba de frío/calor y aire acondicionado y termo híbrido aerotermia 100 litros.  Sin olvidarnos, por supuesto, de su fabulosa terraza de unos 25m2 orientada al sur donde poder relajarse y tomar el aire, así como disfrutar del entorno, la naturaleza y su tranquilidad. A tan solo 10 minutos en coche del centro de Santander, a 3 del centro de Bezana, donde encontrarás todos los servicios necesarios para tu día a día y a 15 minutos de las Playas. Contacta para más información.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3571.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente en Barrio la Esprilla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108285819",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d8/bb/f4/1339552856.webp",
+      "externalReference": "W-030071",
+      "numPhotos": 36,
+      "price": 580000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 580000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 600.0,
+      "rooms": 8,
+      "bathrooms": 5,
+      "address": "Barrio la Maza",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Escobedo",
+      "country": "es",
+      "latitude": 43.410289,
+      "longitude": -3.9010305,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108285819/",
+      "distance": "4352",
+      "description": "Espectacular casa individual en Camargo Engel & Völkers presenta esta magnífica casa independiente de estilo clásico, ubicada sobre una atractiva parcela de 1.147 m² que garantiza privacidad y tranquilidad. La vivienda, de 525 m² construidos distribuidos en cuatro plantas, ofrece amplios espacios con 8 dormitorios y 6 baños. En la planta principal destaca un espectacular vestíbulo de entrada con gran altura, coronado por una cubierta acristalada de diseño impactante. Esta planta incluye también un aseo de cortesía, un elegante comedor, una cocina cómoda y funcional, y un amplio salón dividido en tres ambientes con chimenea y estanterías, todo con acceso directo al jardín y sus terrazas. Se dispone también de un dormitorio para invitados o para personas con movilidad reducida. La planta superior está dedicada a la zona de descanso, con una inteligente distribución de los dormitorios y una sala de estar con terraza de 180º. La suite principal cuenta con amplios ventanales, vestidor y baño completo. El ático se compone de tres dormitorios en suite y un espacioso hall-salón, con acabados pendientes para que el futuro propietario pueda personalizarlos a su gusto. La planta semisótano alberga la bodega, lavandería, patio interior, zonas de trabajo, taller, garaje cubierto y una habitación de servicio. Tres patios orientados al sur, este y oeste aseguran abundante luz natural, haciendo esta planta tan luminosa y confortable como el resto del inmueble. La casa, con fachada orientada al sureste, fue construida en 2010 y ha estado habitada por su arquitecto y su familia desde entonces. Su diseño sigue proporciones armónicas de la arquitectura clásica, combinando interiores de estilo neoclásico, rústico y neutro según cada estancia. La vivienda principal se asienta sobre 963 m², con una parcela adicional de 184 m² en la parte frontal. Aunque es apta para ser habitada de inmediato, algunas zonas requieren acabados menores e instalaciones complementarias para su completo aprovechamiento. La estructura principal es de hormigón con cubierta metálica y carpintería exterior de aluminio, salvo en el sótano, donde es de PVC. Dispone de calefacción por acumuladores nocturnos, agua caliente con apoyo solar y chimenea de leña. Entre otros detalles sostenibles destacan bidones para recogida de agua de lluvia, aspiración centralizada en tres plantas y un pozo de seguridad para el drenaje de patios. Actualmente ofrece 200 m² útiles en dos plantas, ampliables a 290 m² utilizando la segunda planta, ya preparada con acometidas e instalaciones. La planta sótano, con 264 m² útiles más 35 m² de patios, incluye antiguos despachos, archivo, lavadero, bodega, garaje para tres vehículos y taller. Las obras de finalización dependen del uso que el futuro comprador quiera darle a las áreas disponibles, sin necesidad de licencias administrativas. Esta propiedad se encuentra ubicada en Escobedo de Camargo, en una zona residencial muy tranquila y de fácil acceso, con todos los servicios a mano. Está próxima al centro del pueblo, donde se encuentran los comercios esenciales, y a tan solo 10 km de las playas del Cantábrico y 8 km del centro de Santander. Se trata de una ubicación ideal, con excelentes comunicaciones: acceso rápido a la autopista (a solo 5 minutos), aeropuerto a 15 minutos y el centro de Santander a apenas 12 minutos. Además, está situada cerca de enclaves naturales como las playas de la Costa Quebrada, y cuenta con una buena conexión con la autovía S-10 y el aeropuerto. En resumen, una localización estratégica que combina tranquilidad residencial con cercanía a los principales puntos de interés y servicios de la región.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 967.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Escobedo, Camargo",
+        "title": "Casa independiente en Barrio la Maza"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108265789",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d0/88/f7/1338972689.webp",
+      "externalReference": "CHALET 1",
+      "numPhotos": 8,
+      "price": 595000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 595000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 308.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "alto San Mateo s/n",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.424619,
+      "longitude": -3.9271206,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108265789/",
+      "distance": "2017",
+      "description": "PROMOCIÓN DE CHALETS INDIVIDUALES EN BOO DE PIÉLAGOS - RESIDENCIAL LA TEJERA Descubre Residencial La Tejera, una exclusiva promoción de 17 chalets unifamiliares individuales situados en Boo de Piélagos, un entorno natural privilegiado que combina tranquilidad y cercanía. Ubicación Ideal: Situados en un punto estratégico, estos chalets ofrecen fácil acceso a la autovía A-67, a solo 10 minutos en coche de Santander y a 5 minutos del impresionante Parque Natural de las Dunas de Liencres. Cada chalet cuenta con una parcela individual de aproximadamente 1.200 metros cuadrados y una superficie construida de 308 metros cuadrados. En planta baja: vestíbulo, salón-comedor, cocina, 1 dormitorio y 1 baño que dará servicio a la planta. En planta primera: 3 dormitorios y 2 cuartos de baño, destacando que el dormitorio principal será tipo suite y dispondrá de terraza En planta sótano contaremos con un amplio garaje para varios vehículos con trastero y tendedero. En cuanto a las calidades de la obra resaltar que la fachada se terminará con aplacado de piedra. La carpintería exterior será de P. V. C. climalit. Los solados serán cerámicos en todas las plantas para una mayor eficiencia de la calefacción por suelo radiante con aerotermia. Alicatados en cerámica de primera calidad. Carpintería interior con puertas lacadas y armarios empotrados. Precio de Venta: Desde 595.000 € (impuestos no incluidos). Si deseas más información, no dudes en contactarnos. Estaremos encantados de atenderte, ya sea por teléfono o de manera presencial. ¡Tu nuevo hogar te espera en Residencial La Tejera!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 1932.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Casa independiente en alto San Mateo s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108184975",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fe/15/fe/1353990408.webp",
+      "externalReference": "12432",
+      "numPhotos": 98,
+      "price": 875000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 875000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 308.0,
+      "rooms": 6,
+      "bathrooms": 5,
+      "address": "Barrio la Arnía",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Liencres",
+      "country": "es",
+      "latitude": 43.4722988,
+      "longitude": -3.9193201,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108184975/",
+      "distance": "6083",
+      "description": "Chalet unifamiliar en la playa de la Arnia, encontramos una de las playas con más encanto de Cantabria. Situada en plena Costa Quebrada, aparece Liencres, Barrio La Arnía, a tan solo un paso de las playas de Arnia, Portio, Cachavas, y San Juan. Rodeada de naturaleza, mar y montaña.  Presentamos este magnífico chalet próximo a los acantilados.  Privacidad y tranquilidad, así podríamos definirlo, ya que se encuentra en una pequeña urbanización privada.  El chalet consta de tres plantas, en la que en la principal encontramos una pequeña habitación muy luminosa, un baño completo, una moderna y funcional cocina con salida al porche acristalado, un amplio salón con grandes ventanales, dos ambientes creados de salón y comedor, chimenea y vistas despejadas.  Ya en la planta superior, podemos vislumbrar dos amplias habitaciones en suite con baños y vestidor, la principal con salida a la terraza, mas una habitación doble, forman esta planta.  Para terminar, en la planta tercera, o sótano, disponemos de una piscina, sauna, ducha abierta, zona de lavandería, aspiración centralizada. Además, disponemos de dos apartamentos independientes con salón, cocina estilo americana, una habitación y el baño puede ser utilizados como apartamento de alquiler turístico, o zona independiente para invitados. El chalet independiente está rodeado de terrazas y jardín donde poder disfrutar de este maravilloso entorno.  Mikeli Luxury Real Estate, la mejor y más selecta cartera inmobiliaria de Cantabria. Más inmuebles en la zona. Contacte con su asesor. **Precio sujeto a cambios o retirada sin previo aviso. La información es orientativa. El precio no incluye impuestos ni gastos de compraventa. Para una información más detallada y ajustada, nuestro departamento de economía y finanzas está dispuesto a informarle.  Inmueble en exclusiva. Para más información, contacte con la agencia. Se ruega no molestar a propietarios u ocupantes. **.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2841.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liencres, Piélagos",
+        "title": "Casa independiente en Barrio la Arnía"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108181094",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c8/f0/b7/1338367060.webp",
+      "externalReference": "RV148",
+      "numPhotos": 49,
+      "price": 159000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 159000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio Rodil",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.4428589,
+      "longitude": -3.9250686,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108181094/",
+      "distance": "3099",
+      "description": "Atica inmobiliaria pone a la venta maravilloso local reformado y cuidado al mínimo detalle, en una ubicación inmejorable: Mortera localidad situada al norte del municipio de Piélagos (Cantabria). Ideal para los amantes de la naturaleza y la tranquilidad ya que desde aquí parten muchas personas que practican senderismo accediendo a 12 rutas a pie que transcurren por los pueblos del municipio, siendo una de las más populares la que lleva al monte La Picota y cercano a las maravillosas playas de Liencres, la Arnia y Soto de la Marina. Muy bien comunicado con el autobús a la puerta de casa y el tren a 5 minutos. Distribuido en la actualidad en un pequeño hall, salón, cocina americana, dos habitaciones con zona de estudio, baño completo con plato ducha, aseo, y zona de lavanderia. Se entrega totalmente amueblado como se ve en las fotos. No pierdas la oportunidad, Llámanos y estaremos encantadas de acompañarte a visitarlo. Nos adaptamos a tus horarios. “El precio de venta no incluye impuestos, ni los gastos de notaría, registro de la propiedad y otros gastos inherentes a la compraventa, que serán a cargo del comprador. ”.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3180.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Piso en Barrio Rodil"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108168823",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/eb/20/61/1335913872.webp",
+      "numPhotos": 48,
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 100.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Igollo",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.4290519,
+      "longitude": -3.8796387,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108168823/",
+      "distance": "5881",
+      "description": "¡Descubre tu nuevo hogar en Igollo! Esta encantadora casa independiente, a solo un kilómetro de la playa, es el refugio perfecto para quienes buscan comodidad y estilo. Totalmente reformada y equipada con electrodomésticos de primeras marcas, esta vivienda ofrece un ambiente acogedor y moderno. Con 100 m² construidos y 70 m² útiles, cuenta con dos habitaciones y un altillo que se puede utilizar como dormitorio adicional.  El salón, con techos altos, es ideal para disfrutar de momentos en familia, mientras que la cocina bien equipada hará las delicias de los amantes de la gastronomía. Además, la estufa de pellets añade un toque decorativo y cálido a los espacios. La casa está equipada con placas solares, lo que garantiza un consumo de luz cero, y cuenta con bomba de frío/calor y aire acondicionado para mantener la temperatura perfecta durante todo el año. No te olvides de la terraza con vistas panorámicas, un lugar ideal para relajarte al final del día. Los armarios empotrados ofrecen un amplio espacio de almacenamiento, y el trastero es perfecto para guardar lo que necesites. El aparcamiento en la calle no será un problema, ya que hay espacio suficiente justo al lado de la casa. ¡No dejes pasar la oportunidad de vivir en este maravilloso hogar!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2500.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente en Igollo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108149793",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d1/e2/d8/1335340732.webp",
+      "externalReference": "111",
+      "numPhotos": 30,
+      "floor": "bj",
+      "price": 159000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 159000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio Rodil",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.4449201,
+      "longitude": -3.924674,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108149793/",
+      "distance": "3287",
+      "description": "Desde Inmobiliaria Las Dunas les ofrecemos este espectacular local destinado a vivienda totalmente reformado y nuevo a estrenar. Local de 50 m² aprox, distribuido en: Pequeño hall de entrada. Acogedor salón con espaciosa cocina americana. 2 espaciosos dormitorios. Impecable baño con plato de ducha y aseo. También dispone de un pequeño cuarto de lavado. Ubicado junto a transporte público y a tan solo 3 minutos de la autovía Santander - Torrelavega. Esta propiedad esta pensada y reformada para alquilar por habitaciones. No pierda la oportunidad de visitarlo y de ver todo su potencial de inversión.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3180.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Piso en Barrio Rodil"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106803385",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/84/50/5c/1384551409.webp",
+      "numPhotos": 26,
+      "price": 310000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 310000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "sale",
+      "size": 96.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "La granja",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3832179,
+      "longitude": -3.9978436,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106803385/",
+      "distance": "5768",
+      "description": "¡Descubre el encanto de la vida en el campo con esta acogedora casa de pueblo! Con 96 m² construidos, esta vivienda te ofrece un espacio ideal para disfrutar de la tranquilidad sin renunciar a la comodidad. Cuenta con tres dormitorios, un baño y armarios empotrados, todo en buen estado y listo para entrar a vivir. La casa se encuentra en una única planta, lo que facilita el acceso y la movilidad. Disfruta de un amplio terreno de 8.950 m² donde podrás dar rienda suelta a tus proyectos al aire libre, desde un jardín hasta un huerto personal. Además, incluye una plaza de garaje de 20 m² para tu comodidad. Situada en una zona tranquila pero cercana al núcleo urbano, tendrás lo mejor de ambos mundos: la paz del entorno rural y la conveniencia de los servicios urbanos a pocos minutos. Con una calificación energética B y emisiones de CO2 clase A, esta casa no solo es acogedora sino también eficiente. No pierdas la oportunidad de hacerla tuya y comenzar una nueva etapa rodeado de naturaleza. Para más información, visita Vadehogares. com y descubre todo lo que esta maravillosa propiedad tiene para ofrecerte.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3229.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casaDePueblo"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Casa de pueblo en La granja"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108106024",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3c/70/ed/1334002062.webp",
+      "externalReference": "00067",
+      "numPhotos": 31,
+      "price": 500000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 500000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 216.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Bezana",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Bezana",
+      "country": "es",
+      "latitude": 43.4419096,
+      "longitude": -3.8996904,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108106024/",
+      "distance": "4718",
+      "description": "� Chalet independiente en Santa Cruz de Bezana – Ubicación privilegiada cerca del mar Grupo Inmobiliario Tribeca presenta este espectacular chalet independiente situado en una de las mejores zonas residenciales de Santa Cruz de Bezana, un entorno que combina tranquilidad, calidad de vida y proximidad a las playas de la Costa Quebrada. � Principales características:  Parcela privada de 400 m2  4 dormitorios (uno de ellos en suite con baño privado y terraza)  2 baños completos + 1 aseo de cortesía  Luminoso salón-comedor con salida directa al jardín  Cocina independiente equipada  Garaje cerrado de gran tamaño (ideal para almacenamiento, gimnasio o sala de juegos)  Urbanización tranquila y exclusiva sin gastos de comunidad � Ubicación inmejorable: A solo 1 minuto andando de la estación de tren FEVE A escasos minutos de las playas de la Costa Quebrada Todos los servicios esenciales a menos de 2 minutos a pie: colegios, guarderías, instituto, bancos, supermercados, etc. � Ideal como residencia habitual o inversión Una vivienda amplia, luminosa y muy funcional, perfecta para familias que buscan espacio, privacidad y comodidad sin renunciar a una excelente conexión con Santander y su entorno natural. No dejes pasar esta oportunidad única. ¡Llámanos y agenda tu visita hoy mismo!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2315.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Bezana, Santa Cruz de Bezana",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108036606",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/03/31/46/1332075388.webp",
+      "externalReference": "2027",
+      "numPhotos": 25,
+      "price": 495000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 495000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 462.0,
+      "rooms": 4,
+      "bathrooms": 0,
+      "address": "Barrio de Abajo",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.4283401,
+      "longitude": -3.8814898,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108036606/",
+      "distance": "5724",
+      "description": "Excepcional terreno con vivienda, ubicado en una de las mejores zonas de Municipio de Igollo de Camargo. Terreno de 9.462m2, totalmente llano y orientado al sur, en el se encuentra ubicada una vivienda (totalmente para rehabilitar). De la totalidad de terreno 3.276m2 son agrarios el resto es urbano. La vivienda dispone de plata baja de 130m2, Planta primera con 113 m2, trastero de 41 m2 y garaje-almacén de 94m2. El tejado de la vivienda se rehabilito no hace mucho y esta en perfecto estado de conservación. Terreno y vivienda de fácil acceso. Potencial: Posibilidad de subdividir el terreno en cuatro parcelas edificables de 1.546, 50m2 cada una, lo que permite la ejecución de una promoción de cuatro viviendas unifamiliares, de 309,30 m2, cada parcela independiente de 1.546 m2 cada una. Hay realizado un estudio sobre la construcción de las 4 viviendas unifamiliares. En un entorno natural, la zona es tranquila y privada, rodeado con una paisaje totalmente verde, próximo a la autovía y muy fácil acceso a la finca. Este municipio se destaca por sus paisajes verdes, un ambiente comunitario acogedor, ideal para aquellos que buscan calidad de vida en un entorno natural y a 15 minutos de Santander. Solicite información, visítelo y descubra su potencial.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 1071.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente en Barrio de Abajo"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107936390",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/11/dd/86/1372908949.webp",
+      "externalReference": "CHALET 5",
+      "numPhotos": 8,
+      "price": 660000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 660000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 309.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "alto San Mateo s/n",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.424619,
+      "longitude": -3.9271206,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/107936390/",
+      "distance": "2017",
+      "description": "PROMOCIÓN DE CHALETS INDIVIDUALES EN BOO DE PIÉLAGOS - RESIDENCIAL LA TEJERA Descubre Residencial La Tejera, una exclusiva promoción de 17 chalets unifamiliares individuales situados en Boo de Piélagos, un entorno natural privilegiado que combina tranquilidad y cercanía. Ubicación Ideal: Situados en un punto estratégico, estos chalets ofrecen fácil acceso a la autovía A-67, a solo 10 minutos en coche de Santander y a 5 minutos del impresionante Parque Natural de las Dunas de Liencres. Cada chalet cuenta con una parcela individual de aproximadamente 1.200 metros cuadrados y una superficie construida de 308 metros cuadrados. En planta baja: vestíbulo, salón-comedor, cocina, 1 dormitorio y 1 baño que dará servicio a la planta. En planta primera: 3 dormitorios y 2 cuartos de baño, destacando que el dormitorio principal será tipo suite y dispondrá de terraza En planta sótano contaremos con un amplio garaje para varios vehículos con trastero y tendedero. En cuanto a las calidades de la obra resaltar que la fachada se terminará con aplacado de piedra. La carpintería exterior será de P. V. C. climalit. Los solados serán cerámicos en todas las plantas para una mayor eficiencia de la calefacción por suelo radiante con aerotermia. Alicatados en cerámica de primera calidad. Carpintería interior con puertas lacadas y armarios empotrados. Precio de Venta: Desde 595.000 € (impuestos no incluidos). Si deseas más información, no dudes en contactarnos. Estaremos encantados de atenderte, ya sea por teléfono o de manera presencial. ¡Tu nuevo hogar te espera en Residencial La Tejera!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2136.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Casa independiente en alto San Mateo s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107936389",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/03/e8/07/1372907352.webp",
+      "externalReference": "CHALET 4",
+      "numPhotos": 8,
+      "price": 645000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 645000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 309.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "alto San Mateo s/n",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.424619,
+      "longitude": -3.9271206,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/107936389/",
+      "distance": "2017",
+      "description": "PROMOCIÓN DE CHALETS INDIVIDUALES EN BOO DE PIÉLAGOS - RESIDENCIAL LA TEJERA Descubre Residencial La Tejera, una exclusiva promoción de 17 chalets unifamiliares individuales situados en Boo de Piélagos, un entorno natural privilegiado que combina tranquilidad y cercanía. Ubicación Ideal: Situados en un punto estratégico, estos chalets ofrecen fácil acceso a la autovía A-67, a solo 10 minutos en coche de Santander y a 5 minutos del impresionante Parque Natural de las Dunas de Liencres. Cada chalet cuenta con una parcela individual de aproximadamente 1.200 metros cuadrados y una superficie construida de 308 metros cuadrados. En planta baja: vestíbulo, salón-comedor, cocina, 1 dormitorio y 1 baño que dará servicio a la planta. En planta primera: 3 dormitorios y 2 cuartos de baño, destacando que el dormitorio principal será tipo suite y dispondrá de terraza En planta sótano contaremos con un amplio garaje para varios vehículos con trastero y tendedero. En cuanto a las calidades de la obra resaltar que la fachada se terminará con aplacado de piedra. La carpintería exterior será de P. V. C. climalit. Los solados serán cerámicos en todas las plantas para una mayor eficiencia de la calefacción por suelo radiante con aerotermia. Alicatados en cerámica de primera calidad. Carpintería interior con puertas lacadas y armarios empotrados. Precio de Venta: Desde 595.000 € (impuestos no incluidos). Si deseas más información, no dudes en contactarnos. Estaremos encantados de atenderte, ya sea por teléfono o de manera presencial. ¡Tu nuevo hogar te espera en Residencial La Tejera!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2087.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Casa independiente en alto San Mateo s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107936243",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/12/25/fd/1372906600.webp",
+      "externalReference": "CHALET 3 ",
+      "numPhotos": 8,
+      "price": 645000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 645000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 309.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "alto San Mateo s/n",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.424619,
+      "longitude": -3.9271206,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/107936243/",
+      "distance": "2017",
+      "description": "PROMOCIÓN DE CHALETS INDIVIDUALES EN BOO DE PIÉLAGOS - RESIDENCIAL LA TEJERA Descubre Residencial La Tejera, una exclusiva promoción de 17 chalets unifamiliares individuales situados en Boo de Piélagos, un entorno natural privilegiado que combina tranquilidad y cercanía. Ubicación Ideal: Situados en un punto estratégico, estos chalets ofrecen fácil acceso a la autovía A-67, a solo 10 minutos en coche de Santander y a 5 minutos del impresionante Parque Natural de las Dunas de Liencres. Cada chalet cuenta con una parcela individual de aproximadamente 1.200 metros cuadrados y una superficie construida de 308 metros cuadrados. En planta baja: vestíbulo, salón-comedor, cocina, 1 dormitorio y 1 baño que dará servicio a la planta. En planta primera: 3 dormitorios y 2 cuartos de baño, destacando que el dormitorio principal será tipo suite y dispondrá de terraza En planta sótano contaremos con un amplio garaje para varios vehículos con trastero y tendedero. En cuanto a las calidades de la obra resaltar que la fachada se terminará con aplacado de piedra. La carpintería exterior será de P. V. C. climalit. Los solados serán cerámicos en todas las plantas para una mayor eficiencia de la calefacción por suelo radiante con aerotermia. Alicatados en cerámica de primera calidad. Carpintería interior con puertas lacadas y armarios empotrados. Precio de Venta: Desde 595.000 € (impuestos no incluidos). Si deseas más información, no dudes en contactarnos. Estaremos encantados de atenderte, ya sea por teléfono o de manera presencial. ¡Tu nuevo hogar te espera en Residencial La Tejera!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2087.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Casa independiente en alto San Mateo s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107933276",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/58/b7/6d/1328738588.webp",
+      "externalReference": "Z1290",
+      "numPhotos": 34,
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 69.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Igollo",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.4370175,
+      "longitude": -3.8912678,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107933276/",
+      "distance": "5145",
+      "description": "¡Bienvenido a tu nuevo hogar en Igollo de Camargo! Esta encantadora casa unifamiliar de 69 m2 construidos sobre una parcela de 100 m2 combina a la perfección diseño, eficiencia y ubicación privilegiada. � Distribución funcional y acogedora Cocina americana abierta al salón-comedor, creando un espacio diáfano y luminoso. Dos dormitorios con armarios empotrados que ofrecen almacenamiento eficiente. Baño completo con plato de ducha. Bajo cubierta con posibilidad de habilitar un tercer dormitorio o una zona de ocio. � Luminosidad y orientación privilegiada La vivienda destaca por sus amplios ventanales que permiten la entrada de luz natural durante todo el día, gracias a su orientación en las cuatro direcciones cardinales. La propiedad también ofrece una terraza orientada al sur, perfecta para disfrutar del aire libre. � Eficiencia energética y confort Equipada con: Paneles solares que reducen significativamente el consumo eléctrico. Sistema de aerotermia para agua caliente sanitaria, una opción sostenible y eficiente. Aire acondicionado con bomba de calor y estufa de pellets, garantizando confort en todas las estaciones. � Entorno natural y excelente ubicación Situada en Igollo de Camargo, una localidad que combina la tranquilidad del entorno natural con la proximidad a Santander y sus playas, a solo unos minutos en coche. ¡No pierdas la oportunidad de visitar esta vivienda que aúna diseño, eficiencia y ubicación!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3623.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107917292",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2b/c4/b6/1328244525.webp",
+      "externalReference": "1709888",
+      "numPhotos": 40,
+      "price": 305000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 305000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 194.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Barrio la Portilla, 1",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Barcenilla - Quijano",
+      "country": "es",
+      "latitude": 43.3888842,
+      "longitude": -3.9567355,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107917292/",
+      "distance": "3812",
+      "description": "¡Oportunidad única en Barcenilla de Piélagos! Venta exclusiva con Inmobiliaria Blanco Te presentamos esta encantadora vivienda situada en la tranquila y demandada localidad de Barcenilla en el termino municipal de Piélagos, ideal para quienes buscan espacio, naturaleza y calidad de vida. La propiedad cuenta con una superficie construida de 190 m², distribuidos de forma funcional y luminosa, perfecta para una familia o como segunda residencia. Está ubicada sobre una impresionante parcela de 2.000 m² de terreno, que ofrece un entorno privado y natural, ideal para disfrutar al aire libre, instalar una piscina, zona de huerto o jardín, y todo lo que imagines. La vivienda se dispone de una habitación, salón, cocina y baño completo en la planta baja, y de 3 habitaciones y un baño completo. Todo se completa con un garaje cerrado de 46 m2. El entorno rural, a tan solo unos minutos de Torrelavega y Santander, permite disfrutar de la tranquilidad sin renunciar a las comodidades y servicios. Situada en una zona tranquila y bien comunicada es ideal para habitual o de vacaciones.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1572.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Barcenilla - Quijano, Piélagos",
+        "title": "Casa independiente en Barrio la Portilla, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107915537",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/43/8b/2a/1328199780.webp",
+      "externalReference": "W-02ZIW7",
+      "numPhotos": 68,
+      "price": 2350000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2350000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 651.0,
+      "rooms": 6,
+      "bathrooms": 5,
+      "address": "camino Mortera a Liencres",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Liencres",
+      "country": "es",
+      "latitude": 43.4593245,
+      "longitude": -3.9185724,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107915537/",
+      "distance": "4857",
+      "description": "Vivienda de lujo con vistas al mar en Liencres Engel Völkers presenta esta impresionante propiedad ubicada en el entorno natural de Piélagos, en el camino entre Mortera y Liencres. Una finca única en la costa cántabra, rodeada de tranquilidad, con vistas al mar y a los montes verdes, perfecta como residencia familiar o inversión turística de alta gama. La finca cuenta con 6.000 metros cuadrados de terreno ajardinado y una vivienda principal de 600 metros cuadrados, distribuida en cuatro plantas y con acabados de lujo. Se vende totalmente amueblada y equipada, tal y como se muestra en las fotos, lista para entrar a vivir. Nada más entrar nos recibe un elegante hall de entrada presidido por un maravilloso piano, que da paso a un gran salón con chimenea, con una decoración elegante y atemporal, perfecto para crear un ambiente cálido y acogedor, con salida directa a un maravilloso porche orientado estratégicamente al suroeste, en forma de ¨L¨, ideal para aprovecharla luz natural durante todo el día y disfrutar de espectaculares puestas de sol. Este diseño no solo aporta carácter arquitectónico, sino que crea zonas diferenciadas para el descaso.  La cocina, amplia, luminosa y totalmente equipada, destaca por su diseño y funcionalidad, y se conecta directamente con un porche cubierto con comedor exterior, ideal para disfrutar de comidas al aire libre. Destacamos en la planta superior, una terraza abuhardillada y techada que ofrece un rincón de calma y unas vistas espectaculares que rodean la propiedad.  Destacamos también todos los dormitorios, con baño en suite, diseñados y decorados con estilo y confort, y dos preciosas y acogedoras salas de estar.  En la azotea, la propiedad sorprende con una habitación de lujo con techos inclinados, ideal como dormitorio principal, despacho o espacio exclusivo. La vivienda se completa con lavadero independiente y garaje cerrado con capacidad para dos vehículos. Además, dispone de una zona recreativa pensada para el disfrute familiar, que incluye mesa de billar, futbolín, y una cama elástica, ideal para el entretenimiento de pequeños y mayores en un entorno seguro.  la vivienda dispone, de sistema de domótica, hilo musical en todas las estancias y aspiración centralizada, ofreciendo máximo confort y funcionalidad. Además, el jardín está cuidado al detalle gracias a tres robots automáticos cortacésped. En un enclave privilegiado, esta exclusiva finca de 6.000 metros cuadrados rodea esta elegante vivienda de lujo, ofreciendo un entorno de privacidad, naturaleza y confort inigualables. El terreno está poblado por arboles ya consolidados que aportan sombra y carácter al jardín, creando un oasis natural donde relajarse en plena armonía con el entorno. Desde cualquier punto de la finca se respira tranquilidad, con el azul del mar siempre presente en el horizonte. Como broche de oro la propiedad incorpora un jacuzzi exterior, ideal para disfrutar de un baño relajante mientras contempla las vistas al mar o un cielo estrellado. Un espacio pensado para el disfrute y el bienestar. una finca única para quienes valoran la belleza del paisaje, el lujo discreto y la conexión con la naturaleza. Una joya inmobiliaria en el corazón de la naturaleza cántabra, donde lujo, comodidad y entorno se combinan a la perfección. una propiedad irrepetible en un entorno privilegiado. Le invitamos a concertar una visita privada para descubrir todo lo que esta finca puede ofrecerle. Solo para quienes buscan algo verdaderamente excepcional. Ubicación privilegiada entre Mortera y Liencres- Naturaleza, tranquilidad y conexión perfecta. La propiedad se encuentra en una de las zonas más exclusivas y buscadas del municipio de Piélagos: el entorno natural que une Mortera y Liencres. Esta ubicación combina la serenidad del campo con la proximidad al mar y la comodidad de estar a pocos minutos de núcleos urbanos y playas como Valdearenas o Canallave, un refugio.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3610.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liencres, Piélagos",
+        "title": "Casa independiente en camino Mortera a Liencres"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107903002",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d5/4c/1d/1327858532.webp",
+      "externalReference": "W-02ZJER",
+      "numPhotos": 18,
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 54.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio la Esprilla",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.4348708,
+      "longitude": -3.8901291,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107903002/",
+      "distance": "5167",
+      "description": "Casa acogedora en Igollo de Camargo Engel & Völkers le ofrece la oportunidad de descubrir esta acogedora y encantadora vivienda, un verdadero refugio de tranquilidad, ubicada a solo unos minutos de Santander y algunas de sus mejores playas. Perfectamente conservada, esta vivienda ofrece una experiencia única de vida en un entorno natural privilegiado. Situada en una zona excepcional, rodeada de paisajes verdes esta propiedad destaca por su amplitud y luminosidad. La gran terraza, orientada al sur, será su espacio favorito para disfrutar de las vistas y el aire fresco en cualquier momento del día. Con 65 m² útiles, esta casa se distribuye de manera inteligente para aprovechar cada rincón. El salón-comedor es amplio y luminoso, lo que junto a los ventanales que inundan de luz cada habitación, crea una atmósfera cálida y acogedora. La cocina, completamente equipada, es ideal para quienes disfrutan de la gastronomía y buscan funcionalidad. La vivienda cuenta con dos cómodos dormitorios con armarios empotrados y un baño completo. Además, dispone de un altillo que puede convertirse en un área extra de descanso o almacenamiento según tus necesidades. Uno de los mayores atractivos de esta casa es su gran terraza de 40 m², que te ofrece un espacio perfecto para relajarse o compartir con familiares y amigos. Su orientación sur garantiza horas de sol, creando un lugar ideal para disfrutar de las vistas panorámicas y la serenidad del entorno. Ubicada en un entorno natural y tranquilo, esta vivienda es el lugar perfecto para quienes buscan alejarse del bullicio de la ciudad sin renunciar a la cercanía de todos los servicios. Las impresionantes vistas al mar Cantábrico y la naturaleza que rodea la propiedad ofrecen una calidad de vida incomparable. Igollo de Camargo: Un Encanto Natural en el Corazón de Cantabria Igollo de Camargo es una tranquila y pintoresca localidad situada en el municipio de Camargo, en la región de Cantabria. Esta pequeña aldea se caracteriza por su hermoso entorno natural, donde la montaña y la naturaleza se fusionan para ofrecer un lugar sereno y acogedor, ideal para quienes buscan escapar del ajetreo de las grandes ciudades. A tan solo unos minutos de la ciudad de Santander, Igollo de Camargo disfruta de una ubicación estratégica que permite a sus habitantes gozar de la paz del campo sin sacrificar la cercanía a los servicios urbanos. El acceso a través de carreteras bien conectadas facilita la movilidad, permitiendo llegar a la ciudad en pocos minutos, lo que convierte a Igollo de Camargo en una excelente opción para quienes buscan vivir en un entorno más tranquilo, pero con fácil acceso a las comodidades de la ciudad.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 4630.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente en Barrio la Esprilla"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107864862",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/aa/3f/30/1326619086.webp",
+      "externalReference": "MV372",
+      "numPhotos": 41,
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 69.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Igollo",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.4367515,
+      "longitude": -3.8882239,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107864862/",
+      "distance": "5371",
+      "description": "¡Descubre tu nuevo hogar en Igollo de Camargo con Mena Inmobiliaria! Esta acogedora vivienda en planta baja es perfecta para aquellos que buscan la tranquilidad del campo sin renunciar a las comodidades de la ciudad o disfrutar de los días de playa.    La propiedad cuenta con un luminoso salón con cocina americana, dos acogedores dormitorios y un baño completo. Además, dispone de un cabrete que ofrece múltiples posibilidades: puedes transformarlo en un tercer dormitorio, un espacio de almacenamiento o incluso una zona de trabajo.    Una de las grandes ventajas de esta vivienda es que cuenta con paneles solares, lo que te permitirá reducir al mínimo el consumo de electricidad, aire acondicionado, bomba de calor, estufa pellets grande, agua caliente con caldera aerotermia.    ¡No pierdas la oportunidad de visitar esta vivienda que te encantará! Contacta con nosotros para más información y para concertar una visita. ¡Tu nuevo hogar te está esperando!    MENA INMOBILIARIA    Telf.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3623.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 354,
+  "totalPages": 8,
+  "actualPage": 6,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar casas y pisos en Boo, Piélagos",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 250,
+  "upperRangePosition": 300,
+  "paginable": true
+}

@@ -1,0 +1,2075 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "93329680",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a2/b0/c1/940480478.webp",
+      "externalReference": "5923",
+      "numPhotos": 43,
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 260.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "El Callejo - La Pesquera - La Arenosa",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "El Callejo - La Pesquera - La Arenosa",
+      "country": "es",
+      "latitude": 43.4125186,
+      "longitude": -3.4090302,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/93329680/",
+      "distance": "685",
+      "description": "CASA INDEPENDIENTE LAREDO Si lo que buscas es vivir en una zona tranquila en la que poder dar un paseo cada noche, encontrar la calma, desconectar y encontrar el cobijo que siempre has deseado, tenemos tu hogar. Una propiedad que disfruta de unas increíbles vistas al mar y a la montaña, construida en dos plantas sobre una superficie de 735m2 aproximadamente. Dispone en planta baja cocina, aseo, salón, despensa y hall. En la planta primera encontramos cuatro habitaciones amplias, baño completo y terraza con vistas al mar. La vivienda necesita actualizar. Su zona exterior es perfecta para disfrutar en todo momento de la vida, compuesta por un jardín con muy fácil mantenimiento, terraza y porche cubierto para varios coches Porque la vida son momentos, vívelos en el hogar que siempre soñaste….",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1150.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Callejo - La Pesquera - La Arenosa, Laredo",
+        "title": "Casa independiente"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103769331",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/71/22/a9/1199561581.webp",
+      "externalReference": "202428",
+      "numPhotos": 16,
+      "floor": "bj",
+      "price": 390000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 390000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "sale",
+      "size": 275.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Limpias",
+      "province": "Cantabria",
+      "municipality": "Limpias",
+      "country": "es",
+      "latitude": 43.3657877,
+      "longitude": -3.4152263,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/103769331/",
+      "distance": "4805",
+      "description": "Se vende preciosa casa rústica en el centro de Limpias, Cantabria Esta preciosa casa rústica, datada del año 1900, está situada en el centro de Limpias, un pequeño y hermoso pueblo cerca del mar, a solo 9,5 km de Laredo. La casa tiene unas vistas inmejorables a la montaña y está reformada en su totalidad, incluyendo el tejado, las ventanas, las puertas, los suelos, etc. La casa tiene 3 plantas diáfanas, ideales para poder elegir la distribución a su gusto. La planta baja tiene 88 metros cuadrados, la primera planta tiene 92 metros cuadrados y la tercera planta abuhardillada tiene otros 92 metros cuadrados. La instalación eléctrica y el tipo de calefacción son a elegir por el comprador. También se aportan planos con una de las múltiples posibilidades que admite esta hermosa casa rural. Esta casa es ideal para: Una familia que quiera vivir en un entorno tranquilo y rodeado de naturaleza. Una pareja que quiera reformar la casa a su gusto. Un inversor que quiera convertirla en una casa rural o un alojamiento turístico. No dudes en concertar una visita. Garanty Home, tu inmobiliaria de confianza en Cantabria.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 1418.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "countryHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limpias",
+        "title": "Finca rústica"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103532108",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/02/e3/71/1192474933.webp",
+      "externalReference": "2023278",
+      "numPhotos": 3,
+      "price": 350000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 350000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 451.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Barcena de Cicero",
+      "province": "Cantabria",
+      "municipality": "Barcena de Cicero",
+      "country": "es",
+      "latitude": 43.4150534,
+      "longitude": -3.4897848,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/103532108/",
+      "distance": "5997",
+      "description": "OPORTUNIDAD ÚNICA PARA CONSTRUIR TU CHALET EN UN ENTORNO PRIVILEGIADO Este chalet de 400 m2 se encuentra en Cicero, Cantabria, un municipio situado en el corazón de la comarca de Trasmiera. La parcela, de 18000 m2, es rústica y cuenta con una gran variedad de árboles y vegetación. La casa está a medio construir, pero cuenta con una gran estructura de hormigón. Las paredes están levantadas y el tejado está terminado. El interior está listo para que lo personalices a tu gusto. El terreno es ideal para disfrutar de la naturaleza. Puedes construir una piscina, una barbacoa o cualquier otra cosa que imagines. Si estás buscando una oportunidad para construir tu chalet en un entorno privilegiado, este es el lugar perfecto para ti. Garanty Home, tu inmobiliaria de confianza en Cantabria. c/Emperador 1, Laredo.  ¡SIN COMISIONES! En nuestra web de garantyhome te ofrecemos la posibilidad de buscar y filtrar propiedades de manera personalizada según tus preferencias en características y precios, así como de crear alertas personalizadas para estar al día de las últimas novedades en propiedades que se ajusten de manera precisa a tus intereses.  Además, si buscas Agencias Inmobiliarias en Cantabria Oriental, Garanty Home es la inmobiliaria que puede ayudarte en la compra, venta o alquiler de tu vivienda, local o terreno. Con oficinas repartidas por todo el territorio nacional, nuestros agentes más cercanos te acompañarán de principio a fin en todo el proceso de compra-venta o alquiler.  Contamos con un departamento legal propio además de acuerdos con diferentes empresas que resolverán cualquier cuestión que necesites: hipotecas, herencias, garantías de alquiler, reformas….",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 776.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Barcena de Cicero",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108926993",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b3/9d/46/1245616811.webp",
+      "externalReference": "P1-ÁTICO A",
+      "numPhotos": 26,
+      "price": 429000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 429000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 84.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Menendez Pelayo, 13",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4124166,
+      "longitude": -3.4129282,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108926993/",
+      "distance": "453",
+      "description": "¡Últimas 3 viviendas!  Noray ofrece exclusivas viviendas de 2 y 3 dormitorioscon distribuciones pensadas para aprovechar al máximo cada espacio, diferenciando claramente la zona de día y la de noche para una mayor comodidad. Disfruta de amplias terrazas, donde el interior y el exterior se integran a la perfección, creando un entorno ideal para vivir todo el año.  Cada vivienda incluye un trastero en planta baja, perfecto para guardar accesorios de playa u otros objetos del día a día. Además, se pueden adquirir plazas de garajeen el sótano comunitario, con acceso directo a las plantas mediante ascensor.  La construcción se encuentra en su fase final, ¡entra a vivir muy pronto!  Precios desde 419.000 € Garajes desde 27.000 €  Viviendas de 2 y 3 dormitorios con 2 ó 3 baños, superficies útiles interiores desde 78,9 m² a 104 m², y terrazas desde 7 m² hasta 38 m².  La información presentada es orientativa y sujeta a posibles modificaciones de carácter técnico o jurídico. Las imágenes son una aproximación del resultado final del proyecto. El mobiliario mostrado no está incluido.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 25000.0
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 5107.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Ático en calle Menendez Pelayo, 13"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102963523",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f1/33/72/1343974793.webp",
+      "externalReference": "212",
+      "numPhotos": 52,
+      "price": 460000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 460000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 295.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Barrio Las Carcobas",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "El Callejo - La Pesquera - La Arenosa",
+      "country": "es",
+      "latitude": 43.4077998,
+      "longitude": -3.397164,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102963523/",
+      "distance": "1527",
+      "description": "CASA INDEPENDIENTE CON TERRENO EN LAREDO. RUBIO INMOBILIARIA presenta esta casa independiente con varias fincas a la venta, situada en el barrio de las Carcobas de Laredo.  La vivienda consta de 295 m2 y una parcela de 6700 m2. Repartida en dos plantas en un paraje inigualable y con unas fantásticas vistas al mar. Con un total de 6 dormitorios, 2 baños completos, un amplio salón comedor, cocina totalmente equipada, despensas y cuarto de lavado. Una gran terraza con vistas panorámicas de toda la playa Salvé de Laredo, y de un entorno de naturaleza. Cuenta con garaje. La finca dispone otra construcción independiente, a modo de txoco y garaje, completamente diáfana que dispone de una cocina, baño y un altillo. LLÁMANOS Tlf/ RUBIO INMOBILIARIA - La experiencia de toda una vida a tu lado. -.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1559.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Callejo - La Pesquera - La Arenosa, Laredo",
+        "title": "Casa independiente en Barrio Las Carcobas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103156061",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/40/e2/8e/1286485770.webp",
+      "externalReference": "CVV23528",
+      "numPhotos": 41,
+      "price": 599000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 599000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 649000.0,
+            "priceDropValue": 50000,
+            "priceDropPercentage": 8
+          }
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 379.0,
+      "rooms": 5,
+      "bathrooms": 4,
+      "address": "barrio hazas",
+      "province": "Cantabria",
+      "municipality": "Liendo",
+      "country": "es",
+      "latitude": 43.3934294,
+      "longitude": -3.3785358,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/103156061/",
+      "distance": "3486",
+      "description": "¡Descubre tu hogar soñado en el corazón de Liendo! � Imagina vivir en una casa de ensueño de 379 m², ubicada en un entorno privilegiado y rodeada de naturaleza, a escasos metros de todos los servicios esenciales. Esta magnífica vivienda, construida con materiales de primera calidad, te ofrece un espacio único y acogedor para disfrutar de la vida al máximo. Planta Primera: - Amplio recibidor con acceso a todas las estancias y salida a la terraza - 3 dormitorios tipo suite con ducha en los 3 baños - 1 habitación adicional y 1 baño con bañera - Oficina y cocina totalmente equipada con zona de comedor - Salón amplio y luminoso con salida a 2 balcones y zona de comedor anexo Planta Baja: - Hall de entrada con acceso a la planta primera y zona de estar - Acceso al jardín privado de más de 1.200 m² y zona exterior con porche - Almacén y txoko de 80 m² con cocina, zona de estar y baño con ducha Características destacadas: - Ubicación céntrica en Liendo, con todos los servicios a escasos metros - Entorno natural y tranquilo - Materiales de primera calidad y construcción resistente - Amplias zonas de esparcimiento y disfrute al aire libre ¡No te pierdas la oportunidad de hacer de esta casa tu hogar! Contáctanos para programar una visita y descubre por qué es una propiedad única en el mercado. ��.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1580.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liendo",
+        "title": "Casa independiente en barrio hazas"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97722857",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d6/6b/c7/988316954.webp",
+      "numPhotos": 68,
+      "price": 1400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1400000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "sale",
+      "size": 400.0,
+      "rooms": 8,
+      "bathrooms": 5,
+      "address": "carretera escalante s/n",
+      "province": "Cantabria",
+      "municipality": "Escalante",
+      "country": "es",
+      "latitude": 43.4367542,
+      "longitude": -3.4692194,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/97722857/",
+      "distance": "5291",
+      "description": "En un magnífico lugar enfrente de las marismas de Santoña. Con 20.000 metros cuadrados de terreno. Una ubicación única para lugar de descanso o como negocio hostelero. En la actualidad la finca la conforman dos casas grandes y un cobertizo. Una de las casas ( color verde) está completamente rehabilitada. Son cuatro apartamentos independientes; de dos dormitorios cada uno. La casa grande de piedra es individual. Está bien conservada, de estilo montañés. La finca tenía embarcadero que se podría recuperar. Una vistas espectaculares a las marismas y Santoña. A media hora de Santander.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3500.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casale"
+      },
+      "suggestedTexts": {
+        "subtitle": "Escalante",
+        "title": "Casa rural en carretera escalante s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102877952",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/96/a3/4f/1170385250.webp",
+      "externalReference": "7705",
+      "numPhotos": 16,
+      "floor": "bj",
+      "price": 155000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 155000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 48.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "avenida de la Libertad, 16",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Zona Playa",
+      "country": "es",
+      "latitude": 43.4098121,
+      "longitude": -3.4309447,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/102877952/",
+      "distance": "1210",
+      "description": "Planta baja de 40 m2 totalmente accesible en el Carlos V, una de las zonas mas demandadas de Laredo por su cercanía a la playa, al centro, con todos los servicios, cafeterías.. .  La vivienda está ubicada en una residencia privada con parking comunitario junto a la playa Salvé de Laredo.  Es muy luminosa al tener amplios ventanales y dispone de un amplio dormitorio, cocina americana equipada, salón comedor y un cuarto de baño con ducha. Además tiene acceso a la terraza comunitaria de mas de 200 m2 donde poder disfrutar de unas agradables vistas, tomar el sol, sentarse a leer.. . A tan solo dos minutos a pie de la playa Salvé.  No dude en venir a visitarlo!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3229.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zona Playa, Laredo",
+        "title": "Piso en avenida de la Libertad, 16"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102792800",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/53/d7/c6/1167494890.webp",
+      "externalReference": "0001",
+      "numPhotos": 7,
+      "price": 338000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 338000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 198.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Barrio La Peña, 5",
+      "province": "Cantabria",
+      "municipality": "Barcena de Cicero",
+      "country": "es",
+      "latitude": 43.3915907,
+      "longitude": -3.4685422,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/102792800/",
+      "distance": "4665",
+      "description": "UBICACIÓN INMEJORABLE, “Urbanización El Puente” en un enclave privilegiado con vistas panorámicas a la Ría de Treto, Colindres y la Bahía de Laredo. Estratégicamente ubicada con fácil acceso a las principales vías de comunicación y a la autovía Santander-Bilbao.  7 Chalets de estilo moderno, con un diseño contemporáneo y vanguardista que se integra perfectamente con el entorno natural te esperan para una vida exclusiva rodeado de naturaleza. Sus terrazas te ofrecen el entretenimiento al aire libre mientras admiras el paisaje natural que te rodea. Con espacios luminosos diseñados para aprovechar al máximo la luz natural, y para maximizar las vistas desde cada habitación. Descubre la vida en su máxima expresión con unas comodidades modernas. Cada uno de estos hogares cuenta con una distribución funcional con 3 espaciosos dormitorios, y 3 baños que aportan comodidad y un majestuoso garaje privado. Disfruta de la frescura del aire libre desde la terraza de la planta baja, perfecta para momentos de relax o entretenimiento al aire libre.  Diseñados para maximizar las vistas desde cada habitación, con grandes ventanales que permiten que la luz natural fluya, creando un ambiente increíblemente luminoso.  La amplitud de la terraza de la azotea, un rincón único donde disfrutar de las vistas panorámicas y crear tu propio espacio, en la privacidad de tu propio oasis. El diseño de la terraza permite la máxima versatilidad, sea cual sea tu visión es un espacio perfecto para crear recuerdos inigualables y relajarte mientras el sol se pone sobre la bahía de Laredo y la Ría Treto. Cada día serás testigo de amaneceres y atardeceres que parecen sacados de una postal.  Descubre lujo y respira naturaleza. No te pierdas la oportunidad de ser parte de este proyecto exclusivo y de vivir en un lugar que combina la modernidad y la funcionalidad. Disfruta de la tranquilidad de la naturaleza sin renunciar a la comodidad de la vida urbana. Las calidades y los acabados de las viviendas son los indicados en la Memoria de Calidades. I. VA. no incluido.  El mobiliario de las infografías y el equipamiento no está incluido.  Tu hogar de ensueño comienza aquí! Aquí lo tendrás todo; la naturaleza se respira increíblemente cerca.  Es la elección perfecta para ti! Contacta con nosotros para obtener más información, planos detallados y visitas al lugar.  Nuestro equipo estará encantado de atenderte.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1707.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Barcena de Cicero",
+        "title": "Chalet pareado en Barrio La Peña, 5"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102715695",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fe/dd/b4/1164904930.webp",
+      "externalReference": "002892",
+      "numPhotos": 17,
+      "floor": "bj",
+      "price": 169000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 169000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 75.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "avenida Enrique Mowinkel, 58",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Zona Playa",
+      "country": "es",
+      "latitude": 43.4165707,
+      "longitude": -3.439285,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/102715695/",
+      "distance": "2060",
+      "description": "Ven a conocer nuestros bajos de una, dos y hasta tres estancias, todos disponen de dos baños, a estrenar y con salida a terraza y/o a jardines de uso privado, en los que también puedes realizar tu actividad comercial, etc.. . Estos bajos a estrenar se encuentran dentro de una urbanización con materiales de primera calidad como son ladrillo caravista en edificio con ascensor, dispone además de una zona muy amplia con bonitos jardines, pista de paddle, y zona de juegos infantiles. Respecto a la ubicación se encuentran en una zona cerca de Carlos V, y a escasos metros de la playa, en segunda línea de playa. A que estas esperando, pídenos tu cita sin compromiso, consúltanos precio de los locales según metros, terraza o jardín. Llámanos al o bien puedes acudir a nuestras oficinas en calle López seña 13.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2253.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zona Playa, Laredo",
+        "title": "Piso en avenida Enrique Mowinkel, 58"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102555266",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e1/a9/7c/1159443527.webp",
+      "externalReference": "5245",
+      "numPhotos": 24,
+      "floor": "2",
+      "price": 495000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 495000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 260.0,
+      "exterior": true,
+      "rooms": 7,
+      "bathrooms": 2,
+      "address": "avenida de España",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4121005,
+      "longitude": -3.4142834,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102555266/",
+      "distance": "371",
+      "description": "Espectacular vivienda ubicada en un edificio del siglo XIX con una inmejorable ubicación en pleno centro de Laredo. El inmueble, pertenece a una construcción palaciega, altos techos de tres metros de altura dan paso a siete dormitorios, cocina, dos amplios salones y dos cuartos de baño. Además cuenta con dos entradas, una de ella a través de un jardín de paso orientado a la calle principal. Balcones alrededor de toda la vivienda. Altillo con acceso desde la vivienda con altura suficiente para moverse con facilidad de pie. Contando el altillo y el jardín los metros del conjunto son unos 340 aproximadamente. No dude en venir a visitarlo! . Venta y alquiler de pisos en Laredo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1904.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en avenida de España"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": true,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102077829",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/52/ac/82/1423180048.webp",
+      "externalReference": "CHA1500",
+      "numPhotos": 19,
+      "price": 450000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 450000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 135.0,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "calle Doctor Velasco",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4122243,
+      "longitude": -3.4126632,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102077829/",
+      "distance": "448",
+      "description": "Desde Inmobiliaria Uranga en Laredo os presentamos esta casa adosada situada en pleno centro, con todos los servicios a pie de calle y a pocos minutos de la playa Salvé. La vivienda, de unos 110 m² distribuidos en dos plantas más bajo cubierta, ofrece amplitud y múltiples posibilidades de personalización: - Planta baja: amplio salón, baño completo, y cocina independiente con salida directa a un patio privado de aprox. 70 m², que cuenta además con zona de lavadero. - Primera planta: cuatro dormitorios luminosos. - Última planta: espacio diáfano de trastero, ideal como almacén o incluso para acondicionar según necesidades. Una casa con gran potencial, perfecta como residencia habitual o segunda vivienda en Laredo, que permite disfrutar de la comodidad del centro y de la cercanía a la playa. No pierdas esta oportunidad. Llámanos y te daremos toda la información sin compromiso. [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3333.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Casa independiente en calle Doctor Velasco"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102075764",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b0/78/b6/1353980440.webp",
+      "externalReference": "12234",
+      "numPhotos": 23,
+      "price": 599000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 599000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 1213.0,
+      "rooms": 20,
+      "bathrooms": 5,
+      "address": "avenida Conde de Albox",
+      "province": "Cantabria",
+      "municipality": "Limpias",
+      "country": "es",
+      "latitude": 43.3632881,
+      "longitude": -3.4192289,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102075764/",
+      "distance": "5089",
+      "description": "FINCA URBANA FRENTE AL PARADOR NACIONAL DE LIMPIAS Preciosa finca urbana frente al Parador Nacional de Limpias, cerrada totalmente por un muro de piedra. Tiene una superficie de 4.430m2. Edificable. En el lado Oeste se ubica un edificio singular en forma de \"T\" de 290m2 de planta más dos alturas y bajo cubierta. Su clasificación urbanística y el tamaño de la finca permite un amplio abanico de utilización. La edificabilidad de la zona así como su nivel de ocupación y la altura máxima permitida dan pie al desarrollo de promociones urbanísticas de diverso índole.  Ideal para negocio (hotel, resort, viviendas en propiedad horizontal, urbanización nueva... ) y residencia. Limpias es un municipio situado en el curso bajo del valle del río Asón, el cual, antes de su desembocadura al mar se le denomina Ría de Limpias. Equidistante prácticamente a las ciudades de Santander y Bilbao por la autovía del Cantábrico (a 50 y 60km de distancia, respectivamente) y a 8km de las Playas de Laredo. Tradicionalmente Limpias fue un importante puerto comercial fluvial y cruce de caminos para acceder a la meseta por los Tornos y para conectar la parte oriental y occidental de Cantabria evitando las marismas de Colindres y el cruce en barcas de la Ría, utilizando el puente que desde el centro de la Villa atraviesa la Ría. * La superficie construida corresponde según catastro, elementos comunes incluidos. Exclusivas Inmobiliarias Mikeli, la mayor y más selecta cartera inmobiliaria de Cantabria, está a su disposición para ayudarle a encontrar su vivienda perfecta. Más inmuebles en la zona. Contacte con su asesor.",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 494.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limpias",
+        "title": "Casa independiente en avenida Conde de Albox"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "89936336",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/46/b5/94/779712847.webp",
+      "externalReference": "6598",
+      "numPhotos": 14,
+      "price": 450000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 450000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 131.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.410217,
+      "longitude": -3.4143647,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/89936336/",
+      "distance": "189",
+      "description": "CASA ADOSADA EN PLENO CENTRO LAREDO Distribuida en dos plantas de 55 m2 cada una y buhardilla. Muy soleada con mucha luz. La planta baja distribuida en un gran salón comedor, cocina con salida directa a una gran patio y una baño completo reformado y con plato de ducha. La segunda planta cuenta con cuatro amplias habitaciones.  Buhardilla está diáfana. Calefacción individual de gas natural. La vivienda se encuentra en buen estado de conservación, aunque si requiere actualización.  Déjese enamorar del entorno en el que se encuentra esta vivienda y disfrute de las calles con más encanto de Laredo, el corazón de la villa. ¡Descúbrelo con nosotros! Llámenos al y se lo enseñaremos encantados. Nos puede encontrar también en nuestra oficina de Laredo situada en la Calle López Seña n14. Asesoramiento Inmobiliario gratuito y profesional. Inmobiliaria JC de Laredo, vende tu casa sin preocupaciones. Encuentra más en.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 3435.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Chalet adosado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100513636",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/76/b7/cd/1235316902.webp",
+      "externalReference": "0046621930",
+      "numPhotos": 1,
+      "floor": "5",
+      "price": 62300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 62300.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Baldomero Villegas s/n",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.4458059,
+      "longitude": -3.4586673,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/100513636/",
+      "distance": "5349",
+      "description": "Piso en la provincia de cantabria, en el municipio de santoã±a, en la calle clbaldomero villegas. Con incidencias: inmueble alquilado - no visitable.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 779.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso en calle Baldomero Villegas s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "101303010",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ec/a3/b3/1117574629.webp",
+      "externalReference": "Chalet 5",
+      "numPhotos": 12,
+      "price": 455000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 455000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 206.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "avenida Derechos humanos, 3",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Zona Playa",
+      "country": "es",
+      "latitude": 43.4174997,
+      "longitude": -3.4444972,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/101303010/",
+      "distance": "2488",
+      "description": "Playa del Regatón es una espectacular promoción inmobiliaria de 12 chalets pareados en la hermosa localidad de Laredo, Cantabria. Con una ubicación privilegiada, cerca de la playa y rodeada de impresionantes paisajes naturales, esta promoción es el lugar ideal para aquellos que buscan un hogar rodeado de tranquilidad, naturaleza y belleza. Cada uno de los 12 chalets pareados cuenta con una superficie de más de 200 metros cuadrados, distribuidos en tres plantas más garaje, y están construidos con materiales de primera calidad que garantizan el mayor confort térmico y acústico. La promoción tiene sistema de aerotermia para garantizar el mayor ahorro energético posible así como el cuidado del medio ambiente. Las plantas de cada chalet se distribuyen de la siguiente forma: Planta de Sótano: Garaje privado / Trastero Planta Baja: Habitación, baño, salón-comedor, cocina, jardín y terraza con orientación al sur. Planta Primera: Tres dormitorios, dos baños y terraza con orientación al sur. Ático: Solárium con orientación al sur y sala de estar. Además, cada chalet dispone de amplias terrazas para disfrutar del sol, así como una habitación en planta baja. También incluyen hermosos jardines privados con orientación al sur para relajarse al aire libre. En la parte superior de los chalets, encontrarás un fabuloso solárium con orientación sur donde podrás disfrutar de la brisa marina y del sol en privado. La ubicación de Playa del Regatón es perfecta para aquellos que buscan una vida tranquila y relajada cerca del mar. Los chalets están situados a la altura de la zona Ever, por lo que dispone de hostelería y servicios a poca distancia. Además, está a 400 metros del Hospital de Laredo y cercano al Colegio Pablo Picasso. La localidad de Laredo es un destino turístico popular durante todo el año y cuenta con una amplia variedad de actividades para disfrutar. Si buscas un hogar en un entorno natural impresionante, cerca del mar y en una zona tranquila pero bien comunicada, Playa del Regatón es la elección perfecta para ti. ¡No pierdas la oportunidad de disfrutar de una vida llena de comodidades en uno de los lugares más hermosos de Cantabria! Contacta con nosotros para obtener más información sobre esta magnífica promoción.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2209.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zona Playa, Laredo",
+        "title": "Chalet adosado en avenida Derechos humanos, 3"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "101302976",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/59/82/2e/1117574645.webp",
+      "externalReference": "Chalet 2",
+      "numPhotos": 12,
+      "price": 455000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 455000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 207.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "avenida Derechos humanos, 3",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Zona Playa",
+      "country": "es",
+      "latitude": 43.4174997,
+      "longitude": -3.4444972,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/101302976/",
+      "distance": "2488",
+      "description": "Playa del Regatón es una espectacular promoción inmobiliaria de 12 chalets pareados en la hermosa localidad de Laredo, Cantabria. Con una ubicación privilegiada, cerca de la playa y rodeada de impresionantes paisajes naturales, esta promoción es el lugar ideal para aquellos que buscan un hogar rodeado de tranquilidad, naturaleza y belleza. Cada uno de los 12 chalets pareados cuenta con una superficie de más de 200 metros cuadrados, distribuidos en tres plantas más garaje, y están construidos con materiales de primera calidad que garantizan el mayor confort térmico y acústico. La promoción tiene sistema de aerotermia para garantizar el mayor ahorro energético posible así como el cuidado del medio ambiente. Las plantas de cada chalet se distribuyen de la siguiente forma: Planta de Sótano: Garaje privado / Trastero Planta Baja: Habitación, baño, salón-comedor, cocina, jardín y terraza con orientación al sur. Planta Primera: Tres dormitorios, dos baños y terraza con orientación al sur. Ático: Solárium con orientación al sur y sala de estar. Además, cada chalet dispone de amplias terrazas para disfrutar del sol, así como una habitación en planta baja. También incluyen hermosos jardines privados con orientación al sur para relajarse al aire libre. En la parte superior de los chalets, encontrarás un fabuloso solárium con orientación sur donde podrás disfrutar de la brisa marina y del sol en privado. La ubicación de Playa del Regatón es perfecta para aquellos que buscan una vida tranquila y relajada cerca del mar. Los chalets están situados a la altura de la zona Ever, por lo que dispone de hostelería y servicios a poca distancia. Además, está a 400 metros del Hospital de Laredo y cercano al Colegio Pablo Picasso. La localidad de Laredo es un destino turístico popular durante todo el año y cuenta con una amplia variedad de actividades para disfrutar. Si buscas un hogar en un entorno natural impresionante, cerca del mar y en una zona tranquila pero bien comunicada, Playa del Regatón es la elección perfecta para ti. ¡No pierdas la oportunidad de disfrutar de una vida llena de comodidades en uno de los lugares más hermosos de Cantabria! Contacta con nosotros para obtener más información sobre esta magnífica promoción.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2198.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zona Playa, Laredo",
+        "title": "Chalet adosado en avenida Derechos humanos, 3"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "99829515",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9d/28/47/1056132196.webp",
+      "externalReference": "002706",
+      "numPhotos": 25,
+      "price": 234840.0,
+      "priceInfo": {
+        "price": {
+          "amount": 234840.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 150.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio el",
+      "province": "Cantabria",
+      "municipality": "Ampuero",
+      "country": "es",
+      "latitude": 43.3534702,
+      "longitude": -3.4193457,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/99829515/",
+      "distance": "6180",
+      "description": "Casa adosada en Ampuero, ¡en plena zona rural y de naturaleza y a tan solo 10 mnt de la playa de Laredo! Con todas las comunidades cerca.  Esta vivienda esta distribuida de la siguiente forma; la primera planta o planta baja nos encontramos un recibidor donde accedes al espacioso salón con opción de colocar una mesa comedor, en la misma planta tenemos un aseo y una cocina espaciosa con mesa para comer y acceso a la terraza con jardín estupenda para cualquier época del año. La segunda planta consta de dos dormitorios muy amplios y luminosos y un baño con plato de ducha. Y por último tenemos la buhardilla agaterada, una parte de ella, perfecta de almacenaje o como mini gimnasio personal y un dormitorio muy espacioso con luz.  La casa cuenta con plaza para el coche en la entrada al jardín. Si no quieres perderte esta oportunidad de vivir en una urbanización en plena naturaleza con vistas increíbles verdes y quieres visitarla y tener más información no dudes en ponerte en contacto con nosotras en nuestro teléfono 942 79 41 25 o ven a visítanos a nuestra oficina en la Calle López Seña 13. Estaremos encantadas de atenderte!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1566.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ampuero",
+        "title": "Chalet pareado en Barrio el"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98651657",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0b/e0/89/1019325789.webp",
+      "externalReference": "7538",
+      "numPhotos": 24,
+      "price": 1300000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 500.0,
+      "rooms": 7,
+      "bathrooms": 7,
+      "address": "Liendo",
+      "province": "Cantabria",
+      "municipality": "Liendo",
+      "country": "es",
+      "latitude": 43.3952365,
+      "longitude": -3.3745556,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98651657/",
+      "distance": "3681",
+      "description": "LIENDO - CASA INDIANA - CONSTRUCCIÓN Y PUEBLO DE ENSUEÑO - PISCINA - TENIS - CASA DE INVITADOS Y MUCHO MAS - OPORTUNIDAD DE NEGOCIO -  Tenemos el placer de presentarles esta preciosa vivienda de 450 m2 con 7 habitaciones, 7 baños, enclavado en una parcela muy soleada, totalmente llana, estratégicamente ubicada en el idílico Valle de Liendo. Edificio de construcción indiana reformada hace unos años a medida, íntegramente, con piscina, pista de tenis, casa independiente empleada a día de hoy como garaje y otros servicios, parcela con jardín de 6.000m2. Situado a 5 minutos de Laredo y playas con todos los servicios y zonas de ocio a su disposición. A su vez, podrá disfrutar de un entorno tranquilo donde vivir, disfrutar de las vacaciones o incluso realizar un proyecto de negocio muy interesante. No dejes escapar esta exclusiva vivienda y ¡ven a visitarla sin compromiso! Llámenos al y se lo enseñaremos encantados. También puede encontrarnos en nuestra oficina de Laredo situada en la Calle López Seña nº14. Asesoramiento Inmobiliario gratuito y profesional. Inmobiliaria JC de Laredo, tu equipo de confianza desde 1997 Encuentra más en ASESORAMIENTO INMOBILIARIO, REFORMAS Y DECORACIÓN.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2600.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liendo",
+        "title": "Casa independiente"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98408050",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/52/84/b0/1011195649.webp",
+      "externalReference": "238",
+      "numPhotos": 9,
+      "price": 450000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 450000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 525.0,
+      "rooms": 7,
+      "bathrooms": 3,
+      "address": "calle Méndez Núñez",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.4417606,
+      "longitude": -3.4558976,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98408050/",
+      "distance": "4863",
+      "description": "ATENCION INVERSORES O PARTICULARES! ÉTICA INMOBILIARIA te ofrece esta espectacular casa en el centro de Santoña, preciosa localidad conocida por su tradición marinera, gastronómica, sus famosos carnavales y las Fiestas de la Virgen del Puerto. De estética colonial, la casa tiene una superficie de 525 metros cuadrados. La parte de abajo esta preparada para hostelería, el resto esta dividida en dos plantas. La primera planta tiene acceso a una enorme terraza. En un lateral tiene un terreno utilizado en su día para aparcar coches. Tanto si eres inversor o particular, no dejes de llamarnos y te daremos más información, así como si lo deseas haremos una visita.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 857.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Casa independiente en calle Méndez Núñez"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98144541",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/42/60/41/1002473929.webp",
+      "externalReference": "4882",
+      "numPhotos": 17,
+      "price": 400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 400000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 200.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "travesía de el Cantón",
+      "province": "Cantabria",
+      "municipality": "Limpias",
+      "country": "es",
+      "latitude": 43.3634639,
+      "longitude": -3.4152788,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98144541/",
+      "distance": "5063",
+      "description": "Chalet Independiente con 900 m2 de terreno en Limpias. En la planta baja se encuentra un salón comedor, cocina equipada, cuarto de baño con ducha y un garaje cerrado con capacidad para tres coches.  La planta superior cuenta con salón comedor, tres dormitorios, un cuarto de baño completo y cocina. Dispone de una gran terraza con vistas del entorno. Las dos plantas cuentan con accesos independientes. Amueblado. Calefacción. No dude en venir a visitarlo! . Venta y alquiler de pisos en Laredo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2000.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limpias",
+        "title": "Casa independiente en travesía de el Cantón"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98101984",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/270/id.pro.es.image.master/e2/8d/71/1001115090.webp",
+      "numPhotos": 27,
+      "price": 400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 400000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 240.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Limpias",
+      "province": "Cantabria",
+      "municipality": "Limpias",
+      "country": "es",
+      "latitude": 43.3619403,
+      "longitude": -3.4191937,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98101984/",
+      "distance": "5238",
+      "description": "Casa individual en Limpias. La planta baja consta de un garaje amplio para tres coches. Cocina equipada, un baño y salón. Planta primera con tres habitaciones, dos baños y una amplia terraza. La vivienda dispone de calefacción de gasoil, muy buen estado de conservación y con materiales de primera calidad. El jardín cuenta con un merendero para disfrutar del ocio.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1667.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limpias",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97145499",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2b/51/bc/1337262199.webp",
+      "externalReference": "002459",
+      "numPhotos": 24,
+      "price": 450000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 450000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 131.0,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "calle Doctor Velasco",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4128629,
+      "longitude": -3.4148636,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/97145499/",
+      "distance": "439",
+      "description": "Casa adosada en el centro de Laredo a pie de todos los servicios. Distribuida en dos plantas y buhardilla.  En la primera planta nos encontramos un luminoso salón, cocina con salida a un amplio patio y baño completo con plato de ducha. La segunda planta se distribuye en tres habitaciones, dos con salida a terraza y en la última planta nos encontramos con un desván diáfano.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 3435.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Chalet en calle Doctor Velasco"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "90607758",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a3/b6/aa/795615671.webp",
+      "externalReference": "6927",
+      "numPhotos": 20,
+      "floor": "4",
+      "price": 600000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 600000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 150.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.413234,
+      "longitude": -3.4123284,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/90607758/",
+      "distance": "556",
+      "description": "CASA DE DISEÑO EN LAREDO CENTRO - ESPECTACULAR TERRAZA Os presentamos esta vivienda única. Está situada en pleno corazón de Laredo, en una de las calles principales con aceras amplias espacios abiertos. Al lado del puerto deportivo, del paseo martítimo y de la excelentísima playa de Laredo.  Rodeada de todos los servicios (supermercados, cafeterías, tiendas, colegios, centro de salud, taxis, etc. ) y a su vez, al ser una planta alta, está apartada y sientes la sensación de estar aislado y desconectado de todo.  El edificio es de buena construcción, en muy buen estado y mantenimiento, y consta de ascensor. Además tiene parking comunitario.  La vivienda consta de un total de tres habitaciones y un baño completo con bañera de hidromasaje y plato de ducha amplio. El salón comedor está abierto en un espacio muy amplio con chimenea, amplios ventanales y vistas a la montaña y da salida a una espectacular terraza para disfrutar del exterior y sus vistas.  Toda la vivienda está al detalle con vigas de madera vistas, suelos de madera, los apliques de la luz son de diseño, paredes de piedra vistas, etc. Es auténtico y espectacular.  La vivienda tiene calefacción de Gas Natural.  Llámenos al y se lo explicaremos todo encantados.  También nos puede encontrar en nuestra oficina de Laredo situada en la Calle López Seña nº14. Asesoramiento Inmobiliario gratuito y profesional - Reformas - Decoración Inmobiliaria JC de Laredo, tu equipo de confianza desde 1997 Encuentra más en.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 4000.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "96261369",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/59/09/07/941995676.webp",
+      "externalReference": "7327",
+      "numPhotos": 24,
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 265.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "El Callejo - La Pesquera - La Arenosa",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "El Callejo - La Pesquera - La Arenosa",
+      "country": "es",
+      "latitude": 43.4116275,
+      "longitude": -3.4065261,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/96261369/",
+      "distance": "819",
+      "description": "CASA UNIFAMILIAR - LAREDO - TERRENO  Os presentamos esta casa en Laredo, entorno idóneo para el contacto con la naturaleza y muy cerca de las maravillosas playa salve de laredo. Además, gracias a su ubicación muy próximo el centro de la villa, cuenta con todos los servicios necesarios como supermercados, bancos, colegios,.. . La vivienda consta de dos plantas. Dispone en planta baja cocina, aseo, salón, despensa y hall. En la planta primera encontramos cuatro habitaciones amplias, baño completo y terraza con vistas al mar. La vivienda necesita actualizar. Dispone de una parcela total de 1264 m2 con una terraza y porche. ¡No dejes escapar esta oportunidad y ven a visitarlo! Para más información puede contactar con nosotros en el y en la Calle López Seña n14 de Laredo. Asesoramiento Inmobiliario profesional desde 1997 Confianza, servicio y experiencia Encuentra más en.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1128.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Callejo - La Pesquera - La Arenosa, Laredo",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "96068838",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cf/8c/79/1343563103.webp",
+      "externalReference": "8334",
+      "numPhotos": 41,
+      "price": 400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 400000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 200.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "travesía de el Cantón",
+      "province": "Cantabria",
+      "municipality": "Limpias",
+      "country": "es",
+      "latitude": 43.3641099,
+      "longitude": -3.4168274,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/96068838/",
+      "distance": "4991",
+      "description": "Chalet Independiente con finca de 1100 m2 de terreno, Limpias. Una casa con mucho espacio y diferentes posibilidades en cuanto a su distribución Cuenta con dos plantas con accesos independientes. En planta baja encontramos un amplio salón comedor, cocina y baño con plato de ducha. En esta planta también se encuentra el garaje, de gran capacidad ( para 3 o 4 coches). La planta superior cuenta con tres habitaciones, un baño completo, cocina y gran salón comedor. Dispone también de una fantástica terraza que bordea gran parte de la vivienda, con bonitas vistas del entorno. Esta propiedad se encuentra enclavada en una gran finca de 800 m2 de terreno, todo ello rodeado de naturaleza y tranquilidad.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2000.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limpias",
+        "title": "Casa independiente en travesía de el Cantón"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "92940944",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0c/d1/5b/1423177648.webp",
+      "externalReference": "CHA1143",
+      "numPhotos": 29,
+      "price": 590000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 590000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 805.0,
+      "rooms": 10,
+      "bathrooms": 5,
+      "address": "N-629a",
+      "province": "Cantabria",
+      "municipality": "Ampuero",
+      "country": "es",
+      "latitude": 43.3540217,
+      "longitude": -3.4199283,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/92940944/",
+      "distance": "6121",
+      "description": "Desde Inmobiliaria Uranga en Laredo os presentamos este magnífico palacete que destaca por su diseño arquitectónico infunde admiración y respeto por su solemnidad, elegancia y grandeza, tanto desde el exterior como desde cada una de las estancias que conforman esta propiedad. Es obra del mismo arquitecto que diseñó el Palacio de la Magdalena, uno de los edificios más emblemáticos de la ciudad de Santander. Lo encontramos situado en Ampuero, un municipio cántabro caracterizado por varios atractivos como la pesca, así como una exquisita gastronomía típica rural. Una finca con una superficie de parcela urbana de 2.672 metros cuadrados que rodea al palacete, lo que proporciona a su propietario la posibilidad de introducir nuevas construcciones. La edificación consta de 541 metros cuadrados. Junto al palacete encontramos un aparcamiento cubierto y otra edificación que puede ser destinada para múltiples usos.  El conjunto de las tres construcciones mencionadas supone una superficie total construida de 805 metros cuadrados pudiendo ser ampliada en mayor medida gracias a la extensión de parcela urbana. Certificado energético en trámite. Si desea ampliar la información expuesta o realizar una visita para valorar la propiedad en primera persona, nuestro equipo de profesionales le acompañará y asesorará en todo momento.  Ven a verlo, llámenos sin compromiso y le informamos. [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 733.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ampuero",
+        "title": "Casa independiente en N-629a"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "93478955",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/66/67/7a/1184775399.webp",
+      "externalReference": "355255",
+      "numPhotos": 6,
+      "floor": "1",
+      "price": 223000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 223000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 156.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Fuente Fresnedo, 2",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4113984,
+      "longitude": -3.4115099,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/93478955/",
+      "distance": "450",
+      "description": "Se venden dos pisos en pleno corazón de Laredo, en el casco antiguo de 145 m2 cada uno, con la posibilidad de hacer varios apartamentos.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1429.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en calle Fuente Fresnedo, 2"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "94343587",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c8/38/ab/1339639402.webp",
+      "externalReference": "279299",
+      "numPhotos": 9,
+      "floor": "1",
+      "price": 25000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 25000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 62.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4124528,
+      "longitude": -3.4101043,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/94343587/",
+      "distance": "611",
+      "description": ". Propiedad con daños ocasionados por terceros o con necesidad de reforma. Piso en la localidad de Laredo, provincia de Cantabria. Cuenta con una superficie de 62 m2, distribuidos en salón comedor, cocina, 3 dormitorios y 1 baño. Edificio bien ubicado, en el centro de Laredo y cerca de la playa, con todos los servicios al alcance de la mano.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 403.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "36517593",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/35/92/11/1343559758.webp",
+      "externalReference": "2828",
+      "numPhotos": 39,
+      "price": 350000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 350000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 300.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "plaza Campo de las Ferias",
+      "province": "Cantabria",
+      "municipality": "Colindres",
+      "country": "es",
+      "latitude": 43.3957461,
+      "longitude": -3.4504908,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/36517593/",
+      "distance": "3152",
+      "description": "Gran Casa de Piedra con terreno Urbanizable en Colindres.. . Ven a conocer esta espectacular Casona, enclava en una finca de terreno con mas de 500 m2 con posibilidad de construir. Ubicada en una zona céntrica del municipio de Colindres, con todos los servicios y comodidades a su alcance. Orientada para vivienda o bien para un negocio hotelero, es ideal para acoger a huéspedes ya que cuenta con una situación privilegiada. En su interior, la propiedad dispone de unos 300m2 útiles distribuidos en 3 plantas. En la planta baja contamos con un amplio y luminoso hall, una cocina totalmente equipada, una estupenda sala de estar con chimenea y un dormitorio. En la segunda planta, destinada al descanso, incluye cuatro magníficos dormitorios más, con un baño completo. Una de las habitaciones cuenta con vestidor propio. La planta superior, se encuentra totalmente diáfana, perfecta para acondicionar a gusto del comprador que podrá distribuirla y decorarla a su estilo. Además cuenta con un garaje cerrado de 40m2 en el que entran entre 2 y 3 coches. ¡No esperes más y ven a conocerla!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1167.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Colindres",
+        "title": "Casa independiente en plaza Campo de las Ferias"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "93976906",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e6/60/f4/1343562734.webp",
+      "externalReference": "8190",
+      "numPhotos": 33,
+      "price": 590000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 590000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 805.0,
+      "rooms": 10,
+      "bathrooms": 5,
+      "address": "calle del Progreso",
+      "province": "Cantabria",
+      "municipality": "Ampuero",
+      "country": "es",
+      "latitude": 43.3468687,
+      "longitude": -3.4147669,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/93976906/",
+      "distance": "6909",
+      "description": "Espectacular Casa Indiana con 2672 m2 de terreno en Ampuero ¿Alguna vez te has imaginado viviendo en una casa como esta?.. . Este majestuoso palacete es, sin duda. el sueño de muchos. ¡Un sueño que ahora podrás cumplir! Te invitamos a que recorras con nosotros esta emblemática Casa de Indianos, donde cada rincón y cada esquina guarda la esencia de poder que caracterizan a esta clase de propiedades.  Su estilo y diseño sorprende y enamora con tan solo un vistazo. Diseñada por uno de lo Arquitectos creadores del histórico Palacio de la Magdalena de Santander. Su interior conserva detalles muy especiales, con amplias estancias, altos techos, viguería en madera, miradores con grandes ventanales, chimenea.. . Alberga un total de 10 habitaciones, 2 salones, 5 cuartos de baño y gran cocina, en sus más de 540 m2 útiles. Se vende en conjunto con otras dos edificaciones y una caseta, acondicionada como \"Choco\", que en total suman una superficie construida de 805 m2. Todo ello enclavado en una maravillosa finca urbana con jardines de 2.672 m2, con posibilidad de construir. Si sitúa en Ampuero, una bonita localidad, regada a su paso por el rio Asón, rodeada de bellos parajes naturales y a solo 15 minutos de la costa y las playas de la zona.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 733.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ampuero",
+        "title": "Casa independiente en calle del Progreso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "90762060",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6c/2b/2f/1251140359.webp",
+      "externalReference": "CVV20372",
+      "numPhotos": 14,
+      "price": 220000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 220000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "sale",
+      "size": 320.0,
+      "rooms": 1,
+      "bathrooms": 0,
+      "address": "barrio rocillo",
+      "province": "Cantabria",
+      "municipality": "Liendo",
+      "country": "es",
+      "latitude": 43.3856584,
+      "longitude": -3.3729706,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/90762060/",
+      "distance": "4338",
+      "description": "Se vende casa de piedra de 320 m2 construidos en el bonito valle de Liendo, a 40 minutos de Bilbao y Santander, a 10 minutos de Laredo; y con todos los servicios al alcance (banco, farmacia, supermercado, restaurantes, parada de autobús). La casa se encuentra ubicada en un entorno privilegiado de gran belleza y rodeada de naturaleza. A 4 km de la playa de San Julián y a 5 km de las playas de Laredo. Esta en una calle tranquila y con poco tráfico. La casa tiene un total de 320 m2 dividido en 2 plantas, completamente diáfanas y ambas plantas necesitan una reforma completa. Tiene una estructura de vigas y pilares de madera natural. Al lado tiene otra cuadra adosada, a reformar completamente. La casa dispone de un terreno de 1.521 m2, con vistas al monte Solpico. Si quieres realizar una visita ponte en contacto con nosotros y te daremos todos los detalles.",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 688.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casaDePueblo"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liendo",
+        "title": "Casa de pueblo en barrio rocillo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "93410048",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0a/5a/9a/1250155567.webp",
+      "externalReference": "Venta chalet Laredo",
+      "numPhotos": 40,
+      "price": 1100000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 423.0,
+      "rooms": 15,
+      "bathrooms": 11,
+      "address": "Victimas del Terrorismo",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Carlos V",
+      "country": "es",
+      "latitude": 43.4108425,
+      "longitude": -3.4231574,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/93410048/",
+      "distance": "613",
+      "description": "GAVAC VENDE Chalet (EL COMPRADOR NO PAGA HONORARIOS) Chalé individual de 423 m2 construidos y una superficie de terreno urbano de 1.134 m2. Ubicado en el sitio más privilegiado de Laredo, a escasos metros de la Playa Salvé y a unos 10 minutos del centro del pueblo.  Debido a sus dimensiones proporciona la posibilidad de construir, 2 chalés pareados, más uno individual, un hotel…etc.  El inmueble se distribuye en 3 plantas. El aparcamiento con espacio para 2 coches, un dormitorio de servicio más un baño, el cuarto de caldera, una zona de lavado, un vestuario y un apartamento. Accedemos a la planta calle y nos encontramos un hall, un aseo, 2 salones unidos pero independientes, 1 comedor, una despensa, una cocina, 2 dormitorios de servicio y un baño. En la siguiente planta hay 6 dormitorios y 5 baños. Y en última planta tenemos 3 dormitorios y tres baños. En el jardín tienen un frontón y columpios.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2600.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Carlos V, Laredo",
+        "title": "Casa independiente en Victimas del Terrorismo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "88553188",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4c/33/82/1420911502.webp",
+      "externalReference": "c nates mano 63-42.23778-436.4-11",
+      "numPhotos": 25,
+      "price": 63000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 63000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "sale",
+      "size": 42.0,
+      "rooms": 1,
+      "bathrooms": 0,
+      "address": "cnm63",
+      "province": "Cantabria",
+      "municipality": "Voto",
+      "country": "es",
+      "latitude": 43.3806711,
+      "longitude": -3.491587,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/88553188/",
+      "distance": "6871",
+      "description": "VENTA de CABAÑA en NATES. VOTO. Cantabria •Cabaña: edificación de piedra. Dispone de escrituras. •Distribución: 42 m en una sola planta. •Estado: a reformar completamente. •Terreno: 23778 m de prado y árboles en la linde, con calificación de Rústico de Especial Protección. •Accesos: situada junto a carretera vecinal. •Agua: traída general. •Luz: no. •Comunicaciones: a 1 Km del pueblo y 10 km de la playa. La autopista del Cantábrico a 5 km, nos sitúa en Bilbao en 45 minutos y en 35 minutos en Santander. •Orografía: partes llanas, y con poco y bastante desnivel. •Servicios: Treto cuenta con todos los servicios. •Orientación: norte, en valle particular. •Transacción: compra-venta. •Para ti: Ideal para vivir, fines de semana en el campo… •Si quieres cabaña de piedra con un terreno para jardín y mucho más, en zona poco habitada y bien comunicada, ya puedes empezar a disfrutarla. •Dispones de otras opciones de similares características. Consúltanos. •La mejor relación calidad precio la obtendremos, con una Construcción Industrializada. •Cuenta con nuestro apoyo profesional para la financiación, construcción o restauración. •Certificado energético: Exenta por estar catalogada actualmente como industrial. Referencia: c nates mano 436.4-11.",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 1500.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "countryHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Voto",
+        "title": "Finca rústica en cnm63"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "27539943",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/af/8f/d8/1343558280.webp",
+      "externalReference": "1053",
+      "numPhotos": 27,
+      "floor": "4",
+      "price": 600000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 600000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 150.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Menéndez Pelayo",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4137012,
+      "longitude": -3.4149037,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/27539943/",
+      "distance": "530",
+      "description": "¡No pierdas la oportunidad de vivir en un gran Ático en pleno centro de Laredo! Este inmueble cuenta con estancias muy amplias y una terraza de 50m2 muy soleada para disfrutar de tus momentos de ocio. Además, dispone de tres habitaciones, siendo la principal de 22m2 y la secundaria de 25m2, y un baño con bañera de hidromasaje y ducha. La cocina está totalmente equipada y el salón tiene una superficie de 80m2, ¡perfecto para tus reuniones con familiares y amigos!  Este espacioso y luminoso Ático cuenta con todos los servicios al pie y está ubicado en el corazón de la villa, en una de las calles principales. Además, dispone de una plaza de garaje para tu comodidad.  Con una superficie construida de 150m2 y 140m2 útiles, este inmueble de segunda mano se encuentra en buen estado y está situado en la planta 4, siendo exterior y sin ascensor.  No dudes en ponerte en contacto con nosotros sin ningún tipo de compromiso para venir a conocer este maravilloso Ático en venta en Laredo. ¡Te esperamos!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4000.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Ático en calle Menéndez Pelayo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "90319221",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2e/81/65/788015463.webp",
+      "externalReference": "5255",
+      "numPhotos": 6,
+      "floor": "2",
+      "price": 223000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 223000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 141.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Fuente Fresnedo, 2",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4113984,
+      "longitude": -3.4115099,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/90319221/",
+      "distance": "450",
+      "description": "Edificio situado en pleno corazón de Laredo, en el casco antiguo, dos pisos a reformar, planta 1ª de 136 m2 y planta 2ª de 138 m2. Posibilidad de apartamentos turísticos, hotel, habitaciones.. . Zona comercial y turística, albergue, hotel, parking, ambulatorio.. . Venga a visitarlos sin compromiso!",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1582.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en Fuente Fresnedo, 2"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "90268312",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f2/38/d6/786775951.webp",
+      "externalReference": "355255",
+      "numPhotos": 11,
+      "floor": "2",
+      "price": 223000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 223000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 159.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Fuente Frenedo, 2",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4113984,
+      "longitude": -3.4115099,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/90268312/",
+      "distance": "450",
+      "description": "Ubicado en un entorno privilegiado, en el casco antiguo de Laredo, se encuentran estas dos viviendas de 145 m2 cada una, con muchas posiblidades de reforma. Sus 145 m2 con techos altos, su ubicación y su arquitectónica hacen que se trate de una vivienda especial y única. Perfecta como vivienda habitual o como inversión, con la posibilidad de hacer varios apartamentos. No deje escapar esta oportunidad, y venga a conocerla!",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1403.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en Fuente Frenedo, 2"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "26743245",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/11/19/23/139078588.webp",
+      "externalReference": "ZAMA SANT 1H BJ",
+      "numPhotos": 13,
+      "floor": "en",
+      "price": 160000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 160000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 55.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Juan Jose Ruano, 18",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.4415776,
+      "longitude": -3.4593984,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/26743245/",
+      "distance": "5040",
+      "description": "Apartamento bonito y acogedor de una habitación. Dispone de cocina, baño, salón y terraza, . Está ubicado en la entreplanta. Orientación Sur. Para estrenar.  La vivienda forma parte de un conjunto edificatorio de 6 portales, todos ellos con 4 plantas de altura y construido con materiales de primera calidad, destacando las fachadas por su aplacado de piedra que confiere al conjunto distinción y armonía. Dispone de dos plantas de garajes y trasteros. La ubicación es inmejorable puesto que se encuentra en los aledaños al puerto deportivo, supermercados, zonas de ocio, centro de salud, etc.. . Ven a disfrutar de las playas de Santoña, Berria y San Martín, así como del monte Buciero que alberga fortificaciones napoleónicas y unas panorámicas espectaculares a la bahía de Santoña.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2909.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso en calle Juan Jose Ruano, 18"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 488,
+  "totalPages": 10,
+  "actualPage": 10,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar casas y pisos en Centro, Laredo",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 488,
+  "lowerRangePosition": 450,
+  "paginable": true
+}
