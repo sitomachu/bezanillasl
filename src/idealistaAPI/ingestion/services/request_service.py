@@ -12,7 +12,6 @@ from typing import Any, Dict, List, Optional, Set, Tuple
 from src.idealistaAPI.config.idealista import DEFAULT_LOCATIONS, MAX_ITEMS, PROCESSED_BASE, RAW_BASE, SLEEP_S
 from src.idealistaAPI.ingestion.api_types import SearchResponse
 from src.idealistaAPI.ingestion.client import IdealistaAPIError, IdealistaClient
-from src.idealistaAPI.processing.clean_idealista import clean_json_run
 
 # Número de errores consecutivos en una ubicación antes de abandonarla y seguir con las demás.
 _MAX_CONSECUTIVE_ERRORS: int = 3
@@ -254,7 +253,7 @@ def _write_summary(
     used_requests: int,
     stopped_by_quota: bool,
     quota_error: Optional[str],
-    csv_path: Optional[Path],
+    suggested_output_csv: str,
     raw_dir: Path,
     states: List[CircleState],
     total_items: int,
@@ -266,7 +265,9 @@ def _write_summary(
         "quota_error": quota_error,
         "raw_dir": str(raw_dir),
         "processed_dir": str(processed_dir),
-        "csv_path": str(csv_path) if csv_path else None,
+        "csv_path": None,
+        "postprocess_status": "pending_manual_notebook",
+        "suggested_output_csv": suggested_output_csv,
         "location_states": [
             {
                 "name": st.location.name,
@@ -508,20 +509,17 @@ def run_new(
             f"proxima_pagina={st.next_page} requests_usadas={used}"
         )
 
-    csv_path: Optional[Path]
-    try:
-        csv_path = clean_json_run(input_dir=raw_dir, output_filename=output_csv_name)
-        _log(f"CSV generado correctamente: {csv_path}")
-    except Exception:
-        csv_path = None
-        _log("No se pudo generar el CSV (sin filas o error de procesamiento).")
+    _log(
+        "Procesamiento CSV omitido. "
+        f"Realiza la limpieza manual desde notebook para raw_dir={raw_dir}"
+    )
 
     _write_summary(
         processed_dir=processed_dir,
         used_requests=used,
         stopped_by_quota=stopped_by_quota,
         quota_error=quota_error,
-        csv_path=csv_path,
+        suggested_output_csv=output_csv_name,
         raw_dir=raw_dir,
         states=states,
         total_items=sum(st.total_items for st in states),
@@ -792,20 +790,17 @@ def run_resume_latest_rent(
             f"proxima_pagina={st.next_page} requests_usadas={used}"
         )
 
-    csv_path: Optional[Path]
-    try:
-        csv_path = clean_json_run(input_dir=raw_dir, output_filename=output_csv_name)
-        _log(f"CSV generado correctamente: {csv_path}")
-    except Exception:
-        csv_path = None
-        _log("No se pudo generar el CSV (sin filas o error de procesamiento).")
+    _log(
+        "Procesamiento CSV omitido. "
+        f"Realiza la limpieza manual desde notebook para raw_dir={raw_dir}"
+    )
 
     _write_summary(
         processed_dir=processed_dir,
         used_requests=used,
         stopped_by_quota=stopped_by_quota,
         quota_error=quota_error,
-        csv_path=csv_path,
+        suggested_output_csv=output_csv_name,
         raw_dir=raw_dir,
         states=states,
         total_items=sum(st.total_items for st in states),
