@@ -16,7 +16,7 @@ Las distancias se calculan en linea recta (Haversine) y se devuelven en kilometr
 - Dependencias del modulo:
 
 ```bash
-pip install -r src/geospatial_expansion/requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 - Dataset de entrada con coordenadas:
@@ -139,7 +139,7 @@ Validaciones:
 ## 6. Troubleshooting
 
 - `ImportError: No se pudo importar osmnx`
-  - Ejecuta: `pip install -r src/geospatial_expansion/requirements.txt`
+  - Ejecuta: `python -m pip install -r requirements.txt`
 
 - `No se pudieron detectar columnas de coordenadas`
   - El modulo devuelve `UserWarning` y retorna el DataFrame sin cambios.

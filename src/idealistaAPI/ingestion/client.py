@@ -3,6 +3,7 @@ from __future__ import annotations
 import os
 import time
 import typing as t
+import base64
 import requests
 
 from src.idealistaAPI.ingestion.api_types import SearchResponse
@@ -55,8 +56,8 @@ class IdealistaClient:
         user_agent: str = "tfm-idealista-client/1.0",
     ) -> None:
         # 1) Credenciales: primero parámetros explícitos, luego entorno.
-        self.client_id = client_id or os.environ.get("IDEALISTA_CLIENT_ID", "")
-        self.client_secret = client_secret or os.environ.get("IDEALISTA_CLIENT_SECRET", "")
+        self.client_id = (client_id or os.environ.get("IDEALISTA_CLIENT_ID", "")).strip()
+        self.client_secret = (client_secret or os.environ.get("IDEALISTA_CLIENT_SECRET", "")).strip()
 
         # Si no hay credenciales, fallamos rápido y claro.
         if not self.client_id or not self.client_secret:
@@ -66,8 +67,8 @@ class IdealistaClient:
             )
 
         # 2) URLs configurables por entorno (útil si Idealista te da otra base).
-        self.base_url = (base_url or os.environ.get("IDEALISTA_BASE_URL") or self.DEFAULT_BASE_URL).rstrip("/")
-        self.token_url = token_url or os.environ.get("IDEALISTA_TOKEN_URL") or self.DEFAULT_TOKEN_URL
+        self.base_url = (base_url or os.environ.get("IDEALISTA_BASE_URL") or self.DEFAULT_BASE_URL).strip().rstrip("/")
+        self.token_url = (token_url or os.environ.get("IDEALISTA_TOKEN_URL") or self.DEFAULT_TOKEN_URL).strip()
 
         # 3) Parámetros operativos
         self.timeout_s = timeout_s
@@ -97,21 +98,126 @@ class IdealistaClient:
 
         Ajusta este método si tu documentación de Idealista exige otro flujo/formato.
         """
-        data = {"grant_type": "client_credentials"}
+        token_attempts: list[tuple[dict[str, str], dict[str, str], tuple[str, str] | None, str]] = []
+        basic_token = base64.b64encode(f"{self.client_id}:{self.client_secret}".encode("utf-8")).decode("ascii")
 
-        r = self._session.post(
-            self.token_url,
-            data=data,
-            auth=(self.client_id, self.client_secret),  # Basic Auth
-            timeout=self.timeout_s,
+        # Attempt 1: OAuth2 client_credentials via HTTP Basic Auth.
+        token_attempts.append(
+            (
+                {
+                    "Accept": "application/json",
+                    "Content-Type": "application/x-www-form-urlencoded",
+                },
+                {"grant_type": "client_credentials"},
+                (self.client_id, self.client_secret),
+                "basic_auth",
+            )
         )
+
+        # Attempt 2: Same flow with explicit Authorization header.
+        token_attempts.append(
+            (
+                {
+                    "Accept": "application/json",
+                    "Content-Type": "application/x-www-form-urlencoded",
+                    "Authorization": f"Basic {basic_token}",
+                },
+                {"grant_type": "client_credentials"},
+                None,
+                "auth_header",
+            )
+        )
+
+        # Attempt 3: Some contracts require scope=read with Basic Auth.
+        token_attempts.append(
+            (
+                {
+                    "Accept": "application/json",
+                    "Content-Type": "application/x-www-form-urlencoded",
+                },
+                {
+                    "grant_type": "client_credentials",
+                    "scope": "read",
+                },
+                (self.client_id, self.client_secret),
+                "basic_auth_with_scope",
+            )
+        )
+
+        # Attempt 4: Some contracts require scope=read and credentials in body.
+        token_attempts.append(
+            (
+                {
+                    "Accept": "application/json",
+                    "Content-Type": "application/x-www-form-urlencoded",
+                },
+                {
+                    "grant_type": "client_credentials",
+                    "scope": "read",
+                    "client_id": self.client_id,
+                    "client_secret": self.client_secret,
+                },
+                None,
+                "body_credentials_with_scope",
+            )
+        )
+
+        # Attempt 5: Last resort with permissive Accept header.
+        token_attempts.append(
+            (
+                {
+                    "Accept": "*/*",
+                    "Content-Type": "application/x-www-form-urlencoded",
+                },
+                {"grant_type": "client_credentials", "scope": "read"},
+                (self.client_id, self.client_secret),
+                "basic_auth_with_scope_accept_any",
+            )
+        )
+
+        last_response: requests.Response | None = None
+        last_request_desc = ""
+        attempt_results: list[str] = []
+        for headers, data, auth, mode in token_attempts:
+            r = self._session.post(
+                self.token_url,
+                headers=headers,
+                data=data,
+                auth=auth,
+                timeout=self.timeout_s,
+            )
+            last_response = r
+            last_request_desc = f"mode={mode} content_type={headers['Content-Type']} accept={headers['Accept']}"
+            attempt_results.append(f"{mode}:{r.status_code}")
+            if r.ok:
+                break
+
+            if r.status_code in (401, 403):
+                raise IdealistaAuthError(f"Auth fallida ({r.status_code}): {r.text}")
+
+            # If the server rejects representation/contract for one attempt, try the next variant.
+            if r.status_code == 406:
+                continue
+
+            raise IdealistaAPIError(
+                f"Error token ({r.status_code}): {r.text}. "
+                f"url={self.token_url} {last_request_desc} attempts={','.join(attempt_results)}"
+            )
+
+        if last_response is None:
+            raise IdealistaAPIError(f"No se pudo ejecutar ninguna variante de token contra {self.token_url}")
+
+        r = last_response
 
         # Credenciales mal: no tiene sentido reintentar.
         if r.status_code in (401, 403):
             raise IdealistaAuthError(f"Auth fallida ({r.status_code}): {r.text}")
 
         if not r.ok:
-            raise IdealistaAPIError(f"Error token ({r.status_code}): {r.text}")
+            raise IdealistaAPIError(
+                f"Error token ({r.status_code}): {r.text}. "
+                f"url={self.token_url} {last_request_desc} attempts={','.join(attempt_results)}"
+            )
 
         payload = r.json()
         token = payload.get("access_token")
@@ -221,7 +327,10 @@ class IdealistaClient:
 
         # Token y header Authorization
         token = self.get_access_token()
-        headers = {"Authorization": f"Bearer {token}"}
+        headers = {
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/json",
+        }
 
         # Payload base requerido por la API
         payload: dict[str, t.Any] = {
@@ -250,7 +359,10 @@ class IdealistaClient:
         if r.status_code == 401:
             self._access_token = None
             token = self.get_access_token()
-            headers = {"Authorization": f"Bearer {token}"}
+            headers = {
+                "Authorization": f"Bearer {token}",
+                "Accept": "application/json",
+            }
             r = self._request_with_retries("POST", url, headers=headers, data=payload)
 
         if not r.ok:

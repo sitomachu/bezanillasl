@@ -1,0 +1,175 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110844454",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b2/1c/4c/1417293800.webp",
+      "externalReference": "A2604",
+      "numPhotos": 20,
+      "floor": "1",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 123.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Urbanizacion Domañanes, 4",
+      "province": "Cantabria",
+      "municipality": "Cabezón de la Sal",
+      "country": "es",
+      "latitude": 43.3022021,
+      "longitude": -4.2370925,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110844454/",
+      "distance": "559",
+      "description": "ALQUILER PARA FIJO. Ponemos en alquiler un piso amplio y luminoso en Cabezón de la Sal. Tiene vistas despejadas, y está situado en una urbanización muy cómoda para la vida diaria. El diseño del piso permite la entrada de luz natural a todas las estancias, proporcionando un ambiente cálido durante todo el día,  ya que todos los espacios cuentan con grandes ventanales y buena orientación. Con 3 habitaciones, dos baños completos (uno en suite), cocina con salida a una terraza, gran salón-comedor; y situado en una urbanización con todos los servicios cerca: farmacia, gimnasio, parque infantil, lavandería, centro de salud, guardia civil, institutos, etc A un paso del centro de Cabezón de la Sal, y bien comunicado. No tiene garaje pero se puede aparcar cerca del portal.   Admisión de mascotas. Ven a verlo sin compromiso!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cabezón de la Sal",
+        "title": "Piso en Urbanizacion Domañanes, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110763996",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d4/58/f7/1414834657.webp",
+      "externalReference": "CHA0058",
+      "numPhotos": 41,
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 216.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Barrio la Hayuela",
+      "province": "Cantabria",
+      "municipality": "Udias",
+      "country": "es",
+      "latitude": 43.3392983,
+      "longitude": -4.2640561,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110763996/",
+      "distance": "4291",
+      "description": "Se alquila magnífico chalet independiente en en La Hayuela, Udias, una vivienda que destaca por su amplitud, su calidad constructiva y su entorno natural privilegiado. Con 216 m² construidos, ofrece espacios generosos, bien distribuidos y muy luminosos, ideales para quienes buscan tranquilidad y confort. La planta principal alberga la zona de día, con un amplio salón-comedor con grandes ventanales que permiten disfrutar de las vistas abiertas y aportan una excelente luz natural durante todo el día. Tanto desde el salón como desde la cocina se accede directamente al jardín privado, que cuenta con aproximadamente 160 m², un espacio perfecto para disfrutar al aire libre, organizar reuniones o simplemente relajarse contemplando el paisaje. La cocina es independiente y está totalmente equipada, resultando práctica y funcional. En esta planta los suelos son de cerámica, resistentes y fáciles de mantener. En la planta superior se encuentra la zona de descanso, compuesta por tres amplios dormitorios y el baño principal, que dispone de bañera de hidromasaje, perfecta para disfrutar de momentos de relax. En esta planta los suelos son de madera, aportando calidez y un ambiente acogedor. La vivienda cuenta además con ventanas de PVC con doble acristalamiento, garantizando un excelente aislamiento térmico y acústico. En la planta inferior, situada por debajo de la planta principal, se encuentra el garaje con capacidad para dos coches, ofreciendo amplitud y comodidad de acceso. En esta misma zona se dispone de un baño adicional, lo que aporta un extra de funcionalidad. La propiedad también cuenta con trastero y sistema de aspiración central. Uno de los grandes valores añadidos de esta propiedad es su excelente ubicación. La Hayuela se encuentra a poca distancia de algunas de las mejores playas de la costa occidental de Cantabria. En aproximadamente 5-10 minutos en coche se puede acceder a la Playa de Comillas o a la Playa de Oyambre, conocidas por su belleza natural y sus amplios arenales. Esto permite disfrutar tanto de la tranquilidad del entorno rural como de escapadas rápidas al mar durante todo el año. Además, desde el propio jardín se pueden contemplar los majestuosos Picos de Europa, creando un entorno único donde se combinan montaña y costa en un mismo enclave. Esta cercanía tanto a la playa como a la montaña convierte la vivienda en una opción ideal para quienes valoran la naturaleza, el ocio al aire libre y la calidad de vida. Es para alquiler de larga duración. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Udias",
+        "title": "Casa independiente en Barrio la Hayuela"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110127154",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3a/8b/12/1396050891.webp",
+      "numPhotos": 72,
+      "price": 2500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "rent",
+      "size": 1430.0,
+      "rooms": 6,
+      "bathrooms": 6,
+      "address": "Diseminado Cos, 5",
+      "province": "Cantabria",
+      "municipality": "Mazcuerras",
+      "country": "es",
+      "latitude": 43.28505,
+      "longitude": -4.23428,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110127154/",
+      "distance": "2441",
+      "description": "¡Alquiler con opción a compra! Donde la historia se encuentra con la oportunidad perfecta: una propiedad única y lista para despegar. La propiedad reúne 975 m² distribuidos en tres plantas, además de un segundo edificio independiente para reformar con 493 m², ofreciendo múltiples posibilidades de uso. Principalmente como negocio de eventos y restauración, ya que su gran atractivo es que se encuentra prácticamente montado: cocina equipada, zonas de comedor, salones con chimenea… Solo requiere los últimos ajustes para empezar a funcionar. La finca cuenta con un jardín lateral de 325 m² y una extensa parcela arbolada de aproximadamente 4.000 m² situada detrás de la casa principal, donde se encuentra el edificio de casi 500m² ideal para rehabilitar y/o convertir en apartamentos turísticos o viviendas particulares. Distribución del inmueble principal: Planta de acceso: en el ingreso, recibidor / distribuidor de espacios. A la derecha, un salón con chimenea y un cuarto privado. En el frente, la zona de bar con cocina totalmente equipada. A la izquierda, un comedor con estancia reservada y baños. Primera planta: una amplia cocina auxiliar, baños, un dormitorio con chimenea y baño en suite, y un gran comedor con salida a una balconada con vistas abiertas al río y a los prados. Planta bajo cubierta: dividida en dos áreas independientes. La primera incluye salón con cocina americana, baño completo y tres dormitorios (uno en suite). La segunda es un espacio tipo loft de unos 100 m², ideal para nuevos usos o ampliaciones. Frente al inmueble hay más de 2.000 m² para utilizar como aparcamiento, un valor añadido si se plantea actividad turística o hostelera. Se trata de un inmueble sumamente singular: amplia casona tradicional montañesa a la orilla del río Saja, construida en el siglo XVIII con elementos característicos como el soportal de piedra y la solana con maderas nobles, todo ello a pocos minutos de Cabezón de la Sal, en el entorno natural del Valle de Cabuérniga, de nuestra Cantabria Infinita. En resumen: un lugar con alma, metros y potencial: solo falta que alguien lo convierta en su gran proyecto. Para optar a la opción a compra deberá abonarse el 10 % de entrada, 24 mensualidades de 2.500 € y el resto a la firma de escritura. El precio total de la propiedad son 849.000 €.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casale"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mazcuerras",
+        "title": "Casa rural en Diseminado Cos, 5"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 3,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Cabezón de la Sal, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 3,
+  "paginable": false
+}

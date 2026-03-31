@@ -72,6 +72,39 @@ def _dedupe_locations_keep_first(locations: List[Location]) -> List[Location]:
     return out
 
 
+def _rounded_distance_m(distance_m: int) -> int:
+    return int(round(distance_m / 500.0) * 500)
+
+
+def _build_backup_circles(circles: List[Circle]) -> List[Circle]:
+    out: List[Circle] = []
+    for factor in BACKUP_RADIUS_FACTORS:
+        for circle in circles:
+            scaled_distance = _rounded_distance_m(int(circle.distance_m * factor))
+            scaled_distance = max(MIN_BACKUP_DISTANCE_M, min(MAX_BACKUP_DISTANCE_M, scaled_distance))
+            if scaled_distance == circle.distance_m:
+                continue
+            suffix = f"{scaled_distance // 1000:02d}km"
+            out.append(
+                Circle(
+                    name=f"{circle.name}__alt_{suffix}",
+                    center=circle.center,
+                    distance_m=scaled_distance,
+                )
+            )
+    return _dedupe_circles_keep_first(out)
+
+
+def _raw_run_dirs_for_operation(operation: str) -> List[Path]:
+    return sorted(
+        [
+            p
+            for p in RAW_BASE.glob(f"{operation}_homes_run_*")
+            if p.is_dir()
+        ]
+    )
+
+
 def _is_location_id_valid(location_id: str) -> bool:
     """Returns False for placeholder IDs used in legacy manifests."""
     return bool(location_id) and not location_id.startswith("legacy:")
@@ -209,6 +242,12 @@ def _new_manifest(
     }
 
 
+def _sync_manifest_circles(manifest_path: Path, manifest: Dict[str, Any], states: List[CircleState]) -> None:
+    payload = dict(manifest)
+    payload["circles_effective"] = [st.circle.__dict__ for st in states]
+    _write_json(manifest_path, payload)
+
+
 def _write_summary(
     *,
     processed_dir: Path,
@@ -218,6 +257,8 @@ def _write_summary(
     csv_path: Optional[Path],
     raw_dir: Path,
     states: List[CircleState],
+    total_items: int,
+    unique_items: int,
 ) -> None:
     payload = {
         "used_requests": used_requests,
@@ -240,6 +281,97 @@ def _write_summary(
         ],
     }
     _write_json(processed_dir / "summary.json", payload)
+
+
+def _update_state_metrics(
+    st: CircleState,
+    resp: SearchResponse,
+    seen_property_keys: Set[str],
+) -> Tuple[int, int, int]:
+    page_keys = _extract_property_keys(resp)
+    page_total = len(page_keys)
+    new_count = 0
+    duplicate_count = 0
+    for key in page_keys:
+        if key in seen_property_keys:
+            duplicate_count += 1
+            continue
+        seen_property_keys.add(key)
+        new_count += 1
+
+    st.total_items += page_total
+    st.unique_items += new_count
+    st.duplicate_items += duplicate_count
+    st.last_item_count = page_total
+    st.last_new_items = new_count
+    st.last_duplicate_items = duplicate_count
+    st.last_new_ratio = (new_count / page_total) if page_total else 0.0
+    st.zero_new_streak = (st.zero_new_streak + 1) if page_total and new_count == 0 else 0
+    return page_total, new_count, duplicate_count
+
+
+def _derive_circle_priors_from_raw_dir(raw_dir: Path) -> Dict[str, Dict[str, float]]:
+    priors: Dict[str, Dict[str, float]] = {}
+    states: Dict[str, CircleState] = {}
+    seen_property_keys: Set[str] = set()
+    for fp in sorted(raw_dir.glob("req*.json")):
+        m = _REQ_PATTERN.match(fp.name)
+        if not m:
+            continue
+        try:
+            payload = json.loads(fp.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        circle_name = m.group(2)
+        st = states.get(circle_name)
+        if st is None:
+            st = CircleState(circle=Circle(name=circle_name, center="", distance_m=0))
+            states[circle_name] = st
+        st.requests += 1
+        _update_state_metrics(st, payload, seen_property_keys)
+
+    for circle_name, st in states.items():
+        total_items = st.total_items
+        priors[circle_name] = {
+            "prior_unique_per_request": st.unique_items / max(1, st.requests),
+            "prior_duplicate_rate": (st.duplicate_items / total_items) if total_items else 1.0,
+        }
+    return priors
+
+
+def _load_circle_priors(operation: str) -> Dict[str, Dict[str, float]]:
+    raw_dirs = _raw_run_dirs_for_operation(operation)
+    if not raw_dirs:
+        return {}
+    latest_raw_dir = raw_dirs[-1]
+    return _derive_circle_priors_from_raw_dir(latest_raw_dir)
+
+
+def _apply_circle_priors(states: List[CircleState], priors: Dict[str, Dict[str, float]]) -> None:
+    for st in states:
+        prior = priors.get(st.circle.name)
+        if not prior:
+            continue
+        st.prior_unique_per_request = float(prior.get("prior_unique_per_request", 0.0) or 0.0)
+        st.prior_duplicate_rate = float(prior.get("prior_duplicate_rate", 1.0) or 1.0)
+
+
+def _should_exhaust_circle(
+    *,
+    st: CircleState,
+    resp: SearchResponse,
+    no_adaptive_pages: bool,
+) -> Tuple[bool, str]:
+    if st.last_item_count == 0:
+        return True, "pagina_vacia"
+
+    if st.zero_new_streak >= 5:
+        return True, "cinco_paginas_sin_novedad"
+
+    if (not no_adaptive_pages) and (not _is_full_page(resp)):
+        return True, "pagina_incompleta"
+
+    return False, ""
 
 
 def run_new(
@@ -272,8 +404,12 @@ def run_new(
             locations=locations,
         ),
     )
+    manifest_path = raw_dir / "manifest.json"
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    backup_circles = _build_backup_circles(circles)
 
     used = 0
+    seen_property_keys: Set[str] = set()
     stopped_by_quota = False
     quota_error: Optional[str] = None
     _log(
@@ -388,6 +524,8 @@ def run_new(
         csv_path=csv_path,
         raw_dir=raw_dir,
         states=states,
+        total_items=sum(st.total_items for st in states),
+        unique_items=len(seen_property_keys),
     )
     _log(f"Ejecucion finalizada. requests_usadas={used} summary={processed_dir / 'summary.json'}")
     return processed_dir
@@ -459,8 +597,62 @@ def _load_resume_state(raw_dir: Path) -> Tuple[Dict[str, Any], List[CircleState]
     return manifest, list(by_name.values()), used
 
 
+def _summary_path_for_raw_dir(raw_dir: Path) -> Path:
+    return PROCESSED_BASE / raw_dir.name / "summary.json"
+
+
+def _load_exhausted_circle_names(raw_dir: Path) -> Set[str]:
+    summary_path = _summary_path_for_raw_dir(raw_dir)
+    if not summary_path.exists():
+        return set()
+    try:
+        payload = json.loads(summary_path.read_text(encoding="utf-8"))
+    except Exception:
+        return set()
+    return {
+        str(circle_state.get("name"))
+        for circle_state in (payload.get("circle_states") or [])
+        if circle_state.get("name") and bool(circle_state.get("exhausted"))
+    }
+
+
+def _merge_missing_circles(states: List[CircleState], circles: List[Circle]) -> List[CircleState]:
+    by_name = {st.circle.name for st in states}
+    merged = list(states)
+    for circle in circles:
+        if circle.name in by_name:
+            continue
+        merged.append(CircleState(circle=circle))
+        by_name.add(circle.name)
+    return merged
+
+
+def _expand_with_backup_circles(
+    *,
+    states: List[CircleState],
+    manifest: Dict[str, Any],
+    manifest_path: Path,
+    backup_circles: List[Circle],
+) -> Tuple[List[CircleState], int]:
+    existing_names = {st.circle.name for st in states}
+    existing_keys = {(st.circle.center.strip(), int(st.circle.distance_m)) for st in states}
+    merged = list(states)
+    added = 0
+    for circle in backup_circles:
+        key = (circle.center.strip(), int(circle.distance_m))
+        if circle.name in existing_names or key in existing_keys:
+            continue
+        merged.append(CircleState(circle=circle))
+        existing_names.add(circle.name)
+        existing_keys.add(key)
+        added += 1
+    if added:
+        _sync_manifest_circles(manifest_path, manifest, merged)
+    return merged, added
+
+
 def _find_latest_rent_raw_dir() -> Path:
-    candidates = sorted(RAW_BASE.glob("rent_homes_run_*"))
+    candidates = _raw_run_dirs_for_operation("rent")
     if not candidates:
         raise FileNotFoundError("No hay ejecuciones previas en data/raw/idealistaAPI/raw/rent_homes_run_*")
     return candidates[-1]
@@ -472,11 +664,12 @@ def run_resume_latest_rent(
     max_pages_per_circle_override: Optional[int] = None,
     output_csv_override: Optional[str] = None,
     no_adaptive_pages: bool = False,
-    force_max_requests: bool = True,
+    force_max_requests: bool = False,
 ) -> Path:
     client = IdealistaClient()
     raw_dir = _find_latest_rent_raw_dir()
     manifest, states, used = _load_resume_state(raw_dir)
+    manifest_path = raw_dir / "manifest.json"
     run_id = str(manifest.get("run_id") or raw_dir.name.replace("rent_homes_run_", ""))
 
     processed_dir = PROCESSED_BASE / f"rent_homes_run_{run_id}"
@@ -492,6 +685,22 @@ def run_resume_latest_rent(
 
     stopped_by_quota = False
     quota_error: Optional[str] = None
+    seen_property_keys: Set[str] = set()
+
+    for fp in sorted(raw_dir.glob("req*.json")):
+        m = _REQ_PATTERN.match(fp.name)
+        if not m:
+            continue
+        try:
+            payload = json.loads(fp.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        cname = m.group(2)
+        st = next((state for state in states if state.circle.name == cname), None)
+        if st is None:
+            continue
+        _update_state_metrics(st, payload, seen_property_keys)
+
     _log(
         f"Inicio de reanudacion: run_id={run_id} requests_ya_usadas={used} "
         f"objetivo_requests={max_requests} max_paginas_por_ubicacion={max_pages_per_location} "
@@ -599,6 +808,8 @@ def run_resume_latest_rent(
         csv_path=csv_path,
         raw_dir=raw_dir,
         states=states,
+        total_items=sum(st.total_items for st in states),
+        unique_items=len(seen_property_keys),
     )
     _log(f"Reanudacion finalizada. requests_usadas={used} summary={processed_dir / 'summary.json'}")
     return processed_dir
