@@ -116,8 +116,10 @@ Por cada run:
 
 Despues, desde notebook:
 
-- `data/raw/idealistaAPI/preprocess/total_<operation>_properties.csv`
-- `data/raw/idealistaAPI/preprocess/total_<operation>_properties_summary.json`
+- `data/raw/idealistaAPI/preprocess/total_rent_cantabria.csv`
+- `data/raw/idealistaAPI/preprocess/total_sales_cantabria.csv`
+- `data/raw/idealistaAPI/preprocess/total_rent_cantabria_summary.json`
+- `data/raw/idealistaAPI/preprocess/total_sales_cantabria_summary.json`
 
 ## 8. Regla de parada por cupo
 

@@ -37,7 +37,8 @@ El repositorio incluye un módulo específico para descargar y preparar datos de
 Flujos principales:
 1. Descarga de datos de venta o alquiler con autenticación OAuth.
 2. Almacenamiento de respuestas crudas en `data/raw/idealistaAPI/...`.
-3. Limpieza y conversión a CSV en `data/processed/idealistaAPI/...`.
+3. Limpieza manual desde notebook de `data/raw/idealistaAPI/raw/...` a `data/raw/idealistaAPI/preprocess/...`.
+4. Procesamiento analítico posterior en `data/processed/idealistaAPI/...`.
 
 Guías y uso:
 - Documentación del módulo: `src/idealistaAPI/README.md`
