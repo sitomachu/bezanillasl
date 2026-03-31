@@ -1,0 +1,27 @@
+{
+  "operation": "sale",
+  "raw_base": "/home/pablo/Documents/bezanillasl/data/raw/idealistaAPI/raw",
+  "runs_included": [
+    "sale_homes_run_20260331_174125",
+    "sale_homes_run_20260218_173035"
+  ],
+  "output_csv": "/home/pablo/Documents/bezanillasl/data/raw/idealistaAPI/preprocess/total_sales_cantabria.csv",
+  "rows_raw": 9497,
+  "rows_output": 2851,
+  "duplicates_removed": 6646,
+  "priority_rule": "latest_run_first",
+  "run_stats": [
+    {
+      "run_name": "sale_homes_run_20260331_174125",
+      "rows_total": 4547,
+      "rows_unique": 2469,
+      "rows_duplicated": 2078
+    },
+    {
+      "run_name": "sale_homes_run_20260218_173035",
+      "rows_total": 4950,
+      "rows_unique": 604,
+      "rows_duplicated": 4346
+    }
+  ]
+}
