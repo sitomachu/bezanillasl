@@ -1,0 +1,2811 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "109904218",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/88/9a/a9/1389142639.webp",
+      "externalReference": "2184",
+      "numPhotos": 10,
+      "floor": "4",
+      "price": 279900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 279900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Los Caserios",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3804275,
+      "longitude": -3.2238558,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109904218/",
+      "distance": "846",
+      "description": "Inmobiliaria VHL vende impecable piso en el centro de Castro Urdiales. Vivienda de 85m² que se distribuyen en; - salón comedor - cocina equipada - dos habitaciones - dos baños, uno de ellos en suite - balcón Edificio bien cuidado con piscina, padel y zonas verdes Ascensor cota cero Rodeado de todo tipo de servicios de primera necesidad Imprescindible visitar Inmobiliaria VHL c/ La Mar 18 Castro Urdiales.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3293.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Los Caserios"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109884757",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/65/c8/a5/1412620736.webp",
+      "externalReference": "CVV25663",
+      "numPhotos": 36,
+      "floor": "1",
+      "price": 275000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 275000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 280000.0,
+            "priceDropValue": 5000,
+            "priceDropPercentage": 2
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 89.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "CL SUBIDA CAMPIJO",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.3886299,
+      "longitude": -3.2310202,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109884757/",
+      "distance": "1511",
+      "description": "NORinmobiliaria vende, en Exclusiva, un piso de 90 m2 construidos, a la entrada de Castro Urdiales; cerca del núcleo urbano y de la playa de Ostende. Esta luminosa vivienda se distribuye en un hall de entrada, cocina independiente, con acceso a una terraza semicerrada. Un baño con ducha, un salon muy amplio y luminoso, perfecto para disfrutar de reuniones con familia y amigos; y con acesso a otra terraza de 2,62m de largo × 1,24m de ancho. 2 habitaciones; una de ellas con baño completo incorporado, tipo suite.  El piso está en una primera planta, dentro de una urbanización cerrada con piscina comunitaria, zona ajardinada, pistas de pádel y zona infantil para los peques de la casa.  Dentro del precio de venta de esta vivienda se incluye una plaza de garaje.  El edificio cuenta con ascensor directo hasta el garaje. Es una zona residencial tranquila y a la vez tienes una ubicación estratégica pues tiene excelente conexión con las principales vías de acceso. Además, a poca distancia, encontrarás supermercados, colegios, centros de salud y una variada oferta de tiendas y restaurantes. Si quieres realizar una visita ponte en contacto con nosotros y te daremos todos los detalles.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3090.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso en CL Subida Campijo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109874586",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/45/77/ba/1388269957.webp",
+      "externalReference": "457-PA.",
+      "numPhotos": 90,
+      "price": 430000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 430000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 225.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Barrio Sámano, 85 A",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Samano",
+      "country": "es",
+      "latitude": 43.3592548,
+      "longitude": -3.2307155,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109874586/",
+      "distance": "2965",
+      "description": "FLAT NMOBILIARIA VENDE EN EXCLUSIVA Chalet pareado en ZONA LLANA SÁMANO, Castro Urdiales. Situado en la zona más exclusiva de Sámano (Castro Urdiales), este inmueble ofrece una construcción de gran calidad y un entorno natural único, ideal para quienes buscan tranquilidad y belleza en un mismo lugar. Al acceder a la vivienda nos encontramos una amplia terraza-porche, un espacio ideal tanto para desconectar como para celebrar reuniones familiares al aire libre, además cuenta con un espacioso jardín. Planta Principal: Nos encontramos con un gran salón-comedor, amplio y muy acogedor, con ventanales de gran tamaño y doble acristalamiento que llenan el espacio de luz natural. La cocina, completamente amueblada y equipada, ofrece total comodidad. Esta planta también cuenta con una habitación y un baño completo, ideal para mayor funcionalidad. Segunda planta: Tres amplias habitaciones, una de ellas con vestidor y baño en suite. Todas cuentan con grandes armarios empotrados y acceso directo a la terraza, lo que aporta luz y amplitud. Además, en el pasillo se ubica un baño completo que da servicio al resto de la planta. Planta baja: Completa la vivienda con un fantástico Txoko equipado con cocina, ideal para celebraciones y reuniones, además de un espacio destinado a despensa. También dispone de un garaje para dos coches con puerta motorizada, Vivienda lista para entrar a vivir. ¡No dejes pasar la oportunidad de verla! Si te interesa, estaremos encantadas de atenderte: contáctanos para concertar una visita o para ampliar información. 457-PA.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1911.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Samano, Castro-Urdiales",
+        "title": "Chalet pareado en Barrio Sámano, 85 a"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109838933",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/40/fd/a7/1387186112.webp",
+      "externalReference": "9657",
+      "numPhotos": 71,
+      "price": 455000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 455000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 266.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "barrio montealegre",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Samano",
+      "country": "es",
+      "latitude": 43.3630974,
+      "longitude": -3.2512069,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109838933/",
+      "distance": "3733",
+      "description": "***EXCLUSIVA INMOBILIARIAS. COM *** Su inmobiliaria de confianza en Castro Urdiales, les ofrece este ESTUPENDO CHALET INDEPENDIENTE EN MONTEALEGRE CON AMPLIO JARDIN Y CON VISTAS A LA NATURALEZA. Se distribuye en: PLANTA PRINCIPAL: En esta planta nos encontramos con un amplio recibidor, salón comedor, cocina totalmente amueblada y equipada con electrodomésticos, comedor y aseo. Cuenta con un amplio con una preciosa caseta de madera. PLANTA PRIMERA: 4 dormitorios con amplios armarios, uno de ellos con baño que da servicio exclusivo a esa habitación, 1 habitación convertida en despacho y un baño que da servicio al resto de haitaciones. PLANTA BAJA: Aplio garaje para 3 coches conectado además con un amplio txoko, un increíble espacio para realizar reuniones con seres queridos. VIVIENDA MUY BIEN CUIDADA  CALEFACCIÓN INDIVIDUAL JARDÍN MUY SOLEADO  IMPRESIONANTE UBICACIÓN RODEADO DE NATURALEZA  TXOKO JARDINES EXTERIOR Y MUY LUMINOSO Maravillosa ubicación y vistas, con buen acceso a autopista A8 y 5 min de Castro, rodeada de naturaleza dónde podrás disfrutar de la piscina y pista de pádel con amigos y familiares. Un auténtico lujo en Cantabria. No dudes en pedir cita, estaremos encantados de mostrarte tu posible nuevo hogar. COD. - 9657-R.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1711.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Samano, Castro-Urdiales",
+        "title": "Casa independiente en barrio montealegre"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": true,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109822375",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/77/43/0b/1386686472.webp",
+      "externalReference": "2179",
+      "numPhotos": 23,
+      "price": 299999.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299999.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 201.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Barrio Ontón",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Baltezana-Ontón",
+      "country": "es",
+      "latitude": 43.352171,
+      "longitude": -3.1779371,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109822375/",
+      "distance": "4499",
+      "description": "Inmobiliaria VHL vende CASA DE PIEDRA en la zona de Ontón. Vivienda de 201m² que se distribuyen en: *PLANTA PRIMERA; Salón comedor, cocina con isla totalmente equipada, un baño completo con ducha, cuarto caldera y despensa. * PLANTA SEGUNDA; Amplio dormitorio principal, dormitorio secundario, y un amplio baño con posibilidad de añadir bañera. * PLANTA TERCERA; Dos espacios destinados como vestidor, baño y todo listo para terminar de adaptar ésta planta, que dispone también de salida a amplia terraza. TOTALMENTE REHABILIATADA CON MATERIALES DE ALTA CALIDAD TEJADO NUEVO VENTANAS PVC  CALEFACCION  Con el encanto de un pueblo tranquilo y a un paso de la playa, hace de esta vivienda una oportunidad única para entrar a vivir. Inmobiliaria VHL c/ La Mar 18 Castro Urdiales.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1493.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Baltezana-Ontón, Castro-Urdiales",
+        "title": "Chalet adosado en Barrio Ontón"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107442952",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e0/8e/3b/1312768235.webp",
+      "externalReference": "2851",
+      "numPhotos": 24,
+      "floor": "bj",
+      "price": 290000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 290000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Playa Ostende",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.3860981,
+      "longitude": -3.226688,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107442952/",
+      "distance": "1081",
+      "description": "EXCLUSIVA    Se vende planta baja en Urbanización de 2004.    Ostende calle Silvestre Ochoa.    Planta baja con garaje y trastero incluido en el precio    Consta de 2 habitaciones, salón, cocina y baño.    Balcón y terraza grande.    A un paso de Bilbao    Ascensor a cota 0, exterior con vistas.    NO COBRAMOS GASTOS DE GESTION AL COMPRADOR    \"Nortealde Promociones Inmobiliarias S. L. es una empresa familiar que lleva desde 1998 trabajado en Barakaldo, dedicándose a la gestión, compra - venta y asesoramiento en todo lo referente a la vivienda. Ofreciendo siempre un asesoramiento Jurídico - Legal a todos sus clientes. Si tiene cualquier tipo de inmueble confíe en nosotros para realizar su gestión inmobiliaria. La profesionalidad, el asesoramiento y la confianza es lo que nos caracteriza después de estos años trabajando en este sector. Póngase en contacto con nosotros para que su piso, lonja, terreno, etc. tenga el mejor escaparate publicitario que pueda encontrar, sin ningún coste adicional para usted. \"    C/ Bizkaia, 31 ( esquina Arrandi ) - C/ Elkano, 9 ( oficina Iberdrola ) Barakaldo. .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3867.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109768792",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/42/ca/1b/1384990364.webp",
+      "numPhotos": 48,
+      "floor": "1",
+      "price": 300000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 300000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 87.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle San Andrés",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.3723806,
+      "longitude": -3.2055226,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109768792/",
+      "distance": "1365",
+      "description": "¡Descubre tu nuevo hogar en Cotolino! Este espectacular dúplex de 87 m² construidos es ideal para quienes buscan comodidad y estilo. Situado junto al ambulatorio de la Seguridad Social, disfrutarás de una ubicación privilegiada con todos los servicios a tu alcance: supermercados, farmacia y estanco.  En la primera planta, te recibe un acogedor hall de entrada que da paso a un amplio salón comedor con grandes ventanales que llenan de luz el espacio. La cocina, totalmente equipada, cuenta con salida a una encantadora terraza perfecta para disfrutar del aire libre. Además, hay un práctico aseo de cortesía para tus visitas. La segunda planta alberga dos amplias habitaciones, una de ellas con acceso a otra terraza. Ambas cuentan con armarios empotrados, ofreciendo un amplio espacio de almacenamiento. Para mayor comodidad, encontrarás dos baños completos, uno con bañera y otro con plato de ducha.  Este dúplex, construido en el año 2000, se encuentra en un excelente estado y cuenta con calefacción por radiadores a gas natural. Además, incluye un garaje grande cerrado en el precio, lo que añade un valor extra a esta maravillosa propiedad. ¡No dejes pasar la oportunidad de vivir en este hogar lleno de posibilidades!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3448.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Dúplex en calle San Andrés"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109345624",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f0/06/87/1386636024.webp",
+      "numPhotos": 62,
+      "price": 610000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 610000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 240.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "calle Paco Labiano",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.3928342,
+      "longitude": -3.2301162,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109345624/",
+      "distance": "1700",
+      "description": "La casa de tus sueños en Castro Urdiales donde toda la casa disfruta de maravillosas VISTAS AL MAR, zona Ostende muy cerca de la playa y de todos sus servicios, polideportivo. paradas de Bus a Bilbao, zona de ocio etc. Urbanización privada con Piscina, y construcción con memorias de alta calidad. descripción del chalet: PLANTA PRINCIPAL: Entrada a gran Salón de 40 metros con salida a los dos jardines y terraza. Dormitorio con armarios empotrados. Baño completo. Cocina con salida a Jardín y terraza, con electrodomésticos integrados e impecable. PRIMERA PLANTA: Dos preciosos dormitorios, el principal con vestidor y salida a una gran terraza encantadora con vistas al mar, el otro con armarios empotrados. SEGUNDA PLANTA: Gran dormitorio diáfano con baño completo PLANTA TXOKO-GARAJE: 87metros de Txoko con cocina montada, Bodega y baño completo, con salida a espacio para aparcar hasta tres coches. EXPECTACULAR. TODA LA CASA ESTA RECIEN REFORMADA, PARA ENTRAR A VIVIR.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2542.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Chalet pareado en calle Paco Labiano"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109766540",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5a/45/58/1385020561.webp",
+      "externalReference": "1238",
+      "numPhotos": 62,
+      "floor": "1",
+      "price": 285000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 285000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle del Voluntariado, 6",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3826307,
+      "longitude": -3.2253065,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109766540/",
+      "distance": "914",
+      "description": "Hay casas que son más que metros cuadrados. Son un refugio, un modo de vida, un respiro. Este piso entre el centro y la zona de Ostende es exactamente eso.  A solo 300 metros de la playa de Ostende y frente al bosquecillo que da al túnel del Vizconde, esta vivienda respira tranquilidad y verde por cada ventana.  Todas las estancias miran al eucaliptal, garantizando intimidad, frescura y esa sensación de estar desconectado.. . pero en pleno Castro.  Ubicada en planta primera, tiene 80 m² construidos (69,19 m2 útiles reales + terraza de 3,35 m²) muy bien distribuidos:  •Vestíbulo con armario empotrado.  •Salón-comedor amplio y acogedor.  •Cocina independiente equipada con electrodomésticos nuevos y zona para comer, con salida a la terraza-tendedero.  •2 dormitorios: el segundo se ha adaptado como vestidor y zona de teletrabajo.  •1 baño con bañera (el segundo baño se anuló para ampliar la suite, pero se puede recuperar fácilmente: tiene las tomas tras el armario)  ¿Y lo mejor? Está en excelente estado: ventanas de PVC oscilobatientes, calefacción individual de gas natural, trasdosados en paredes para un aislamiento térmico y acústico sobresaliente.  Se entrega completamente amueblado y equipado. Solo tienes que traer tus maletas.  Además, incluye una parcela de garaje de 13 m² de fácil acceso y un trastero de 3,60 m², ambos con acceso directo desde el ascensor. El edificio cuenta con alarma interior, vigilancia y accesibilidad total.  Un piso pensado para quienes quieren vivir tranquilos, sin ruidos, con todos los servicios cerca.. . y el mar a solo tres minutos.  Si estáis interesados en visitarlo, no tardéis en llamarme. Yo estoy deseando enseñarlo.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3563.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle del Voluntariado, 6"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": true,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109763614",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/82/85/5e/1412346307.webp",
+      "externalReference": "5",
+      "numPhotos": 24,
+      "price": 475000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 475000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 138.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Calle BO SAMANO-HELGUERA, 205",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Samano",
+      "country": "es",
+      "latitude": 43.3536575,
+      "longitude": -3.2507461,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109763614/",
+      "distance": "4412",
+      "description": "Hay casas que se compran por metros. Y otras que se eligen por cómo te hacen sentir desde el primer momento. Esta nueva promoción en Helguera-Sámano está pensada para quienes buscan vivir con calma, con espacio y con luz, sin renunciar a la cercanía de Castro-Urdiales. En apenas 5 minutos en coche estás en la ciudad, pero aquí el entorno es distinto: más tranquilo, más abierto, más tuyo. Las viviendas son unifamiliares, de obra nueva, y se han diseñado con una idea clara: que el día a día sea cómodo y agradable. Espacios amplios, estancias bien conectadas y grandes ventanales que inundan la casa de luz natural durante todo el día. La calefacción por suelo radiante (bomba de frío y calor) aporta un confort discreto y eficiente, con una temperatura uniforme en toda la vivienda y sin radiadores a la vista, algo especialmente apreciable en los meses de invierno. La promoción ofrece dos tipologías de vivienda, adaptadas a distintas formas de vivir. Las viviendas de planta única ofrecen tres dormitorios, uno de ellos en suite con vestidor y baño, además de un segundo baño completo, un salón amplio y una cocina funcional con espacio auxiliar para despensa o tendedero. Todo en una única planta, pensado para disfrutar de la comodidad de vivir sin escaleras. Las viviendas de dos plantas cuentan con tres dormitorios, cada uno con su propio baño, uno en planta baja y dos en primera planta. Completan la distribución un aseo de cortesía para invitados y una zona de día muy abierta, con cocina y comedor volcados hacia el jardín gracias a sus grandes ventanales, creando una conexión natural entre el interior y el exterior. Todas las viviendas disponen de jardín privado y zona de aparcamiento, un espacio exterior para disfrutar del aire libre, compartir momentos en familia o simplemente desconectar al final del día. Las parcelas ofrecen un tamaño generoso, desde los 425 m² hasta 800 m², con viviendas de 138 m² construidos, bien aprovechados y pensados para vivirlos de verdad. El Jardín de Helguera no es solo una promoción de viviendas nuevas. Es una oportunidad para crear un nuevo hogar, en el que sentirse a gusto desde el primer día y seguir estándolo con el paso del tiempo. Si este tipo de vivienda encaja con lo que estás buscando, te invitamos a conocer el proyecto con calma, ver la ubicación y resolver cualquier duda, sin compromiso.",
+      "hasVideo": true,
+      "newDevelopment": true,
+      "newDevelopmentFinished": false,
+      "priceByArea": 3442.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Samano, Castro-Urdiales",
+        "title": "Casa independiente en Calle Bo Samano-helguera, 205"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109763367",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/75/f1/8c/1384818085.webp",
+      "externalReference": "PUE0005",
+      "numPhotos": 57,
+      "price": 280000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 280000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "sale",
+      "size": 180.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Mioño-Santullán",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Mioño-Santullán",
+      "country": "es",
+      "latitude": 43.3488759,
+      "longitude": -3.2097792,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109763367/",
+      "distance": "3809",
+      "description": "GESTIÓN INMOBILIARIA VICTORIA, VENDE EN EXCLUSIVA ¡Descubre esta encantadora casa de pueblo en venta, ideal para quienes buscan un hogar con carácter y múltiples posibilidades! Esta propiedad, construida en 1921, se divide en dos apartamentos independientes, cada uno con su propia entrada a través de un acogedor patio. La primera casa cuenta con una planta baja que alberga una amplia cocina-salón con chimenea, perfecta para disfrutar de momentos cálidos en familia. En la planta superior, encontrarás dos luminosas habitaciones y un baño, además de un mirador que ofrece vistas al entorno. La segunda casa, por su parte, dispone de un trastero en la planta baja y una planta superior que incluye una cocina equipada, un baño y otras dos habitaciones. Con un total de m² construidos 160 m², esta propiedad ofrece un sinfín de posibilidades, ya sea como vivienda familiar o como inversión para alquiler. El patio al aire libre es el lugar perfecto para disfrutar del buen tiempo y organizar reuniones con amigos y familiares. La orientación norte, sur, este y oeste garantiza luz natural durante todo el día. No dejes pasar la oportunidad de visitar esta joya en el corazón del pueblo. ¡Tu nuevo hogar te espera! [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1556.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casaDePueblo"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mioño-Santullán, Castro-Urdiales",
+        "title": "Casa de pueblo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109711115",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f7/d7/81/1383239932.webp",
+      "externalReference": "002",
+      "numPhotos": 40,
+      "price": 575000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 575000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 232.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "Cotolino",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.3685332,
+      "longitude": -3.2140272,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109711115/",
+      "distance": "1608",
+      "description": "Hay casas que tienen algo especial, quizás la calidez de la madera, la serenidad que trasmite la piedra o la sensación de hogar que se percibe nada más entrar. Ésta vivienda en BRAZOMAR guarda la esencia de los veranos tranquilos junto al mar, de los días familiares y las sobremesas sin prisa. Una casa creada con alma, pensada para disfrutar en familia. Construida en 1981 como segunda vivienda y un estilo nórdico único.  Cuenta con 232m2 construidos, sobre una parcela de 700m2 dividida en dos plantas y dos accesos. En la planta baja nos encontramos una gran cocina con despensa, un salón-comedor con chimenea, aseo de cortesía y una bodega con arco. En la planta superior, un segundo salón, una amplia habitación principal con baño en suite, además de cuatro dormitorios con armarios empotrados y un baño completo adicional.  Dispone de calefacción de gasoil, jardín privado con porche que rodea la vivienda y caseta de aperos.  Ref. 002.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2478.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109708455",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f8/b6/d6/1392186572.webp",
+      "externalReference": "3872",
+      "numPhotos": 37,
+      "price": 550000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 550000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 301.0,
+      "rooms": 3,
+      "bathrooms": 4,
+      "address": "Cotolino",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.3581344,
+      "longitude": -3.2133462,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109708455/",
+      "distance": "2765",
+      "description": "Espectacular chalet adosado con jardín, terraza y garaje en La Loma – Castro Urdiales INVERCASS Inmobiliaria presenta este fantástico chalet adosado ubicado en La Loma, una de las zonas residenciales más demandadas de Castro Urdiales. Una vivienda amplia, luminosa y lista para disfrutar, situada en una urbanización privada con piscina y zonas ajardinadas, ideal para familias que buscan tranquilidad sin renunciar a la comodidad. A tan solo 5 minutos del centro de Castro Urdiales y menos de 25 minutos de Bilbao, este hogar combina a la perfección el confort del entorno costero con la cercanía a la ciudad.  Distribución: Planta sótano: Txoko completamente equipado, perfecto para reuniones y momentos en familia. Aseo, trastero y garaje cerrado con capacidad para tres coches y una moto. Planta principal: Amplio y luminoso salón-comedor con grandes ventanales y orientación suroeste, con salida directa al jardín privado y terraza. Cocina totalmente equipada, también con salida a terraza. Aseo con plato de ducha. Planta bajo cubierta: Tres habitaciones y dos baños completos. Dos habitaciones con acceso a una terraza con vistas despejadas a la montaña. Dormitorio principal tipo suite, con baño privado.  Entorno y ubicación: Ubicado en una zona residencial tranquila y familiar, con fácil acceso a la A-8, parada de autobús cercana y colegio a pocos metros. La urbanización cuenta con piscina comunitaria, amplias zonas verdes y un ambiente acogedor durante todo el año. Vivir en La Loma es disfrutar de la tranquilidad del entorno natural de Castro Urdiales, con la comodidad de tener todo a mano y la conexión directa con Bilbao. Si buscas un hogar espacioso, cómodo y con todas las prestaciones, esta es tu oportunidad. Contacta con INVERCASS Inmobiliaria y ven a conocer tu próximo hogar en La Loma.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1827.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Chalet adosado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109699161",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f0/86/1c/1382833862.webp",
+      "externalReference": "5CAST05",
+      "numPhotos": 5,
+      "price": 270000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 270000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "sale",
+      "size": 423.0,
+      "rooms": 5,
+      "bathrooms": 2,
+      "address": "eL CALLEJO",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Baltezana-Ontón",
+      "country": "es",
+      "latitude": 43.3430365,
+      "longitude": -3.1718833,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109699161/",
+      "distance": "5597",
+      "description": "Palacios y Cabañas, presenta esta casa con terreno urbano que permite ampliar edificación. Interesante para inversores, y contratistas. Un casa con 3 plantas, que ocupa poco más de la mitad de los 264 m2 de planta de edificación que tiene aprobado este terreno, perteneciente a una urbanización con piscina comunitaria, en Baltezana, Ontón.  El edificio dispone de 2 accesos independientes, uno más apropiado para acceder en coche, y otro para el acceso peatonal, una planta por encima. Es de sólida construcción, y la terraza anexa que ves en las fotos, dispone debajo de unos 100 m2 edificados, y está diseñada para soportar dos plantas más encima si se desea.  La urbanización dispone de todos los servicios esenciales, agua, luz, saneamiento y telefonía. La parcela es bastante cuadrada, y tiene un poco de pendiente. Se llega actualmente en coche hasta la misma puerta. Las posibilidades son mucho mayores que la realidad actual, y es mejor verlo in situ para valorarlo. Si tienes algún planteamiento financiero original lo podemos hablar.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 638.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "countryHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Baltezana-Ontón, Castro-Urdiales",
+        "title": "Finca rústica en eL Callejo"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106036837",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/50/b9/8e/1270610097.webp",
+      "externalReference": "4754",
+      "numPhotos": 71,
+      "price": 740000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 740000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 400.0,
+      "rooms": 6,
+      "bathrooms": 4,
+      "address": "calle Aureliano Linares Rivas",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.375788,
+      "longitude": -3.2203464,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106036837/",
+      "distance": "951",
+      "description": "Inmobiliaria ERA presenta este impresionante chalet en el corazón de Castro Urdiales, una joya inmobiliaria que combina la tranquilidad de una zona residencial con la comodidad de estar a pocos pasos de todos los servicios esenciales. En esta ubicación, encontrarás farmacias, supermercados, tiendas de todo tipo, centros de salud, paradas de autobús con conexiones a Bilbao y Barakaldo, aparcamiento en Amestoy, colegios y áreas de entretenimiento infantil. Este chalet es la encarnación de la vida urbana en una zona exclusiva y tranquila. Ofrece una calidad de vida excepcional con la comodidad de tener todos los servicios esenciales a tu alcance. El inmueble se encuentra en perfecto estado y cuenta con las mejores calidades, incluyendo un sistema de aspiración centralizada. Está listo para recibirte y empezar una nueva etapa de vida. Su distribución está diseñada de la siguiente manera: Planta baja: Al ingresar, te recibe un elegante hall te conduce a un amplio salón comedor con cocina americana equipada, y a su vez, con salida a una gran terraza con vistas al mar. En esta planta encontramos una habitacion con su baño en suite y un cuarto de lavandería. Primera planta: En esta planta, encontramos dos habitaciones, todas ellas equipadas con amplios armarios empotrados. En esta planta encontramos otro amplio salón comedor con salida a un balcón con vistas al mar y un baño completo con bañera. Segunda planta: Tres habitaciones con armarios empotrados, la principal con baño en suite, además de otro baño en la zona de descanso. Bajocubierta: El espacio diáfano de la buhardilla ha sido acondicionado como una cómoda sala de estar, ofreciendo versatilidad a la vivienda. Planta sótano: garaje con capacidad para cuatro coches, un aseo y un espacio destinado a bodega. No pierdas la oportunidad de visitar esta propiedad única y experimentar el equilibrio perfecto entre la vida urbana y la tranquilidad de tu hogar. ¡Este chalet te espera para comenzar una nueva vida de lujo y comodidad en el centro de Castro Urdiales Tu inmobiliaria en Castro, de toda la vida.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1850.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Chalet pareado en calle Aureliano Linares Rivas"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": true,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109680364",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/51/ae/17/1382249643.webp",
+      "externalReference": "REMO-02305",
+      "numPhotos": 3,
+      "floor": "bj",
+      "price": 170176.0,
+      "priceInfo": {
+        "price": {
+          "amount": 170176.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 53.0,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "La Acera",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Mioño-Santullán",
+      "country": "es",
+      "latitude": 43.3596546,
+      "longitude": -3.2035148,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109680364/",
+      "distance": "2730",
+      "description": "Al tratarse de una Cesión de Remate derivada de una subasta judicial, el importe de la cesión deberá ser aprobada por el juzgado competente. El inmueble se transmite en el estado en cuanto a cargas, gravámenes según información que consta en el registro de la propiedad donde radica la finca. De existir cargas o gravámenes anteriores quedará subrogadas a ellas. Todos los gastos de la venta pública y los derivados de la cancelación de cargas, así como las deudas tales como, gastos de comunidad, IBI y otros serán de cuenta y cargo del cesionario. El inmueble no se puede visitar por desconocer su estado de ocupación, así como su distribución y estructura puede no ajustarse a la realidad, ya que su verificación no ha sido posible tomándose como referencia la distribución de activos de la zona. Para más información sobre las condiciones de la cesión llámenos. NO COBRAMOS COMISIÓN DE INTERMEDIACIÓN AL COMPRADOR Presentamos una magnífica oportunidad para inversores que buscan adquirir un activo con alto potencial de rentabilidad y revalorización. Este piso, se convierte en una excelente alternativa dentro del mercado inmobiliario actual, especialmente para quienes desean acceder a inmuebles con condiciones ventajosas. Ubicado en una zona consolidada de la localidad de Castro-Urdiales, el inmueble goza de una localización estratégica, próxima a servicios esenciales, comercios, transporte público y principales vías de comunicación. Este entorno combina tranquilidad residencial y accesibilidad urbana, factores que aumentan su atractivo tanto para uso futuro propio como para inversión destinada al alquiler o reventa. Hipoges es una plataforma inmobiliaria donde podrás acceder a miles de activos inmobiliarios de diferentes tipos como viviendas, locales comerciales, terrenos, nueva obra, tanto a nivel particular como para inversores. Hipoges cuenta con una amplia cartera de activos inmuebles tanto en España como en Portugal y Grecia. ¿Necesitas financiación? Te ofrecemos la posibilidad de financiaciones de hasta el 100% para la compra de este inmueble. Entra en Finanwin. com, haz tu simulación y obtén la mejor oferta para tu Hipoteca de la manera más ágil y sencilla.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3211.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mioño-Santullán, Castro-Urdiales",
+        "title": "Piso en La Acera"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109666395",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f6/fb/bf/1319835387.webp",
+      "externalReference": "03",
+      "numPhotos": 28,
+      "price": 630000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 630000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 260.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "via Barrio Brazomar, 36",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Brazomar",
+      "country": "es",
+      "latitude": 43.3650114,
+      "longitude": -3.2169179,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109666395/",
+      "distance": "2013",
+      "description": "Desde Inmobiliaria Norte le informamos inicio de comercialización de una nueva promoción de viviendas en Castro Urdiales. •Residencial Piedemonte se ubica en el corazón de monte cueto, un emplazamiento privilegiado, un lugar tranquilo en plena naturaleza y a un paso del centro urbano y la playa de Brazomar. •12 viviendas exclusivas 6 unifamiliares y 6 pareadas diseñadas con elegancia y funcionalidad. •Viviendas versátiles que se adaptan a tus necesidades. •Cada vivienda cuanta con dos plantas llenas de luz natural, un sótano con garaje y txoko, y una terraza ático donde el horizonte se convierte en parte de tu hogar. •Cocinas totalmente amuebladas y baños equipados con acabados modernos y funcionales. •Confort Premium, disfruta cada vivienda de un ascensor privado con 3 paradas, que te conectan con cada rincón de tu hogar. •Aislamiento térmico y acústico que garantiza tranquilidad y eficiencia energética. •Suelo radiante calefactor y refrigerante, para una temperatura ideal en cualquier época del año. •Sistema de aerotermia que cuida el medio ambiente y reduce tus consumos.  •Espacios de vivienda personalizados, nos adaptamos a sus necesidades dando la posibilidad de elegir diferentes distribuciones; tamaño de salones, cocinas abiertas o cerradas, número de habitaciones, vestidores, ………… Para mas información y concertar visita, estamos a su disposición. Esperando sea de su agrado, aprovecho la ocasión para saludarle.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2423.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Brazomar, Castro-Urdiales",
+        "title": "Chalet pareado en via Barrio Brazomar, 36"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109666168",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c9/31/86/1381827214.webp",
+      "numPhotos": 10,
+      "floor": "1",
+      "price": 300000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 300000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 110.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle San Andrés, 8",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.370405,
+      "longitude": -3.2054608,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109666168/",
+      "distance": "1561",
+      "description": "Sweven Homes vende fabuloso DUPLEX en zona llana de COTOLINO. Muy cerca de la playa de Brazomar. La propiedad tiene 110 m2, distribuidos en dos plantas.  En la planta principal cuenta con cocina completamente equipada, amplio salón comedor que da acceso a TERRAZA amplia y aseo muy funcional y practico. En la planta primera dispone de dos habitaciones amplias y muy luminosas, una de ellas con baño en suite y acceso a TERRAZA. Las habitaciones cuenta con armarios empotrados, lo que da un extra de amplitud a las estancias. La propiedad dispone de GARAJE CERRADO grande incluido en el precio. PARA MAS INFORMACIÓN NO DUDE EN CONTACTAR CON NOSOTROS. SWEVEN HOMES.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2727.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Dúplex en calle San Andrés, 8"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109660137",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1d/7c/00/1381617600.webp",
+      "externalReference": "1242",
+      "numPhotos": 28,
+      "floor": "2",
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.384064,
+      "longitude": -3.2234084,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109660137/",
+      "distance": "769",
+      "description": "TRECEHOME INMOBILIARIA (Ref. 1242) ¡DESCUBRE TU NUEVO HOGAR EN CASTRO URDIALES¡ ¡A POCOS METROS DE LA PLAYA! No dejes pasar la oportunidad de adquirir este magnífico piso en el centro de Castro Urdiales, a un paso de la playa. Con tres dormitorios amplios y un baño en perfecto estado, este acogedor hogar está listo para que lo hagas tuyo. Su cocina independiente, totalmente equipada y amueblada, es ideal para compartir momentos inolvidables preparando deliciosas comidas en familia.  ¡Un espacio diseñado para la comodidad y el bienestar! *UBICACIÓN PRIVILEGIADA Y TODO A TU ALCANCE: Vive rodeado de todo lo que necesitas: parques, piscina pública, gimnasio, restaurantes, bancos, colegios y mucho más. Con excelente acceso a carreteras y la playa a pocos minutos, este piso combina lo mejor de la vida urbana y costera. Perfecto para quienes buscan calidad de vida sin renunciar a la practicidad. ¡No dejes escapar esta oportunidad única! ¡Contáctanos hoy mismo para visitarlo y enamórate de tu futuro hogar! ¡No dejes pasar esta oportunidad única! Teléfono WhatsApp Instagram @trecehomeinmobiliaria.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3322.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109658084",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d6/89/16/1423192480.webp",
+      "externalReference": "PIS1782",
+      "numPhotos": 22,
+      "floor": "2",
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Bajada del Chorrillo",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3841079,
+      "longitude": -3.22373,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109658084/",
+      "distance": "795",
+      "description": "Desde Inmobiliaria Uranga presentamos esta estupenda vivienda en Castro Urdiales, ideal para quienes buscan comodidad, amplitud y una ubicación privilegiada que permita disfrutar del entorno costero y de todas las ventajas de vivir en una ciudad con encanto y tradición marinera. Situado en una segunda planta con ascensor, este piso destaca por su luminosidad natural y su distribución práctica, pensada para el día a día de familias o parejas que buscan funcionalidad sin renunciar al confort. El salón-comedor es amplio y acogedor, ofreciendo un espacio ideal tanto para reuniones familiares como para momentos de descanso, con una orientación que garantiza luz durante gran parte del día. La vivienda cuenta con tres dormitorios de generosas dimensiones, cada uno con la posibilidad de amueblarlos según las necesidades de la familia, y dos baños completos, lo que aporta independencia y comodidad en la zona de descanso. La cocina independiente está diseñada para aprovechar al máximo el espacio, ofreciendo lugar suficiente para preparar las comidas y, si se desea, disfrutar de un desayuno o comida rápida en su interior. Entre sus principales ventajas se encuentra su ubicación en una zona residencial tranquila, con todos los servicios esenciales a un paso: supermercados, comercios, colegios, transporte público y zonas verdes. Además, la proximidad al paseo marítimo permite disfrutar del encanto de Castro Urdiales, con sus playas, restaurantes y actividades al aire libre, combinando la tranquilidad de la vivienda con la vida activa del entorno costero. Se trata de una oportunidad perfecta para quienes buscan una vivienda lista para entrar a vivir, con confort, luz y funcionalidad, en una de las zonas más demandadas de Castro Urdiales. No deje pasar esta oportunidad. Llámenos y agende su visita sin compromiso. En Inmobiliaria Uranga le acompañaremos para conocer todos los detalles de su futuro hogar. [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3322.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Bajada del Chorrillo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "101074720",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ed/53/c9/1415541783.webp",
+      "externalReference": "8821-B",
+      "numPhotos": 91,
+      "price": 850000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 365.0,
+      "rooms": 5,
+      "bathrooms": 4,
+      "address": "AYUNTAMIENTOS DEMOCRATICOS",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.3709676,
+      "longitude": -3.2003869,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/101074720/",
+      "distance": "1732",
+      "description": "***INMOBILIARIAS. COM*** SU INMOBILIARIA DE CONFIANZA EN CASTRO URDIALES vende espectacular y moderno y lujoso CHALET INDIVIDUAL con VISTAS DESPEJADAS, de reciente construcción, MATERIALES DE 1ª CALIDAD, con GRAN TERRAZA, JARDIN y PISCINA privada en zona Cotolino de Castro Urdiales. Se distribuye en. - PLANTA PRINCIPAL -Recibidor. -Salón comedor muy amplio y luminoso, con gran ventanal y salida directa a la gran terraza y jardín con piscina. -Cocina nueva totalmente amueblada y equipada con electrodomésticos de primeras marcas. Tiene también salida a la gran terraza. -Habitación amplia con cama de matrimonio y gran armario vestidor. Dispone de salida a la terraza. -Baño completo exterior en suite con gran bañera de hidromasaje. PRIMERA PLANTA -4 amplias habitaciones muy luminosas con grandes armarios empotrados. Una de ellas destinada como gimnasio. -2 baños completos muy espaciosos. SÓTANO -Amplio txoko amueblado y equipado con electrodomésticos. -1 baño completo exterior. -Garaje espacioso. -Trastero. SOLEADO. GRAN TERRAZA. JARDÍN Y PISCINA PRIVADA. SUELOS DE MADERA. VENTANAS PVC CON DOBLE ACRISTALAMIENTO. CALEFACCIÓN A GAS NATURAL SUELO RADIANTE. PLACAS SOLARES. AIRE ACONDICIONADO. GARAJE. TRASTERO. MATERIALES DE 1ª CALIDAD. NUEVO DE RECIENTE CONSTRUCCIÓN. Rodeado de todo tipo de servicios, comercios, supermercados, centro de salud, zonas de ocio y a 5 minutos andando de la preciosa playa de Brazomar y a 1 minuto de la cala de cotolino donde poder disfrutar de las vistas y paseos por zonas verdes. LISTO PARA ENTRAR A VIVIR. NO DEJE PASAR ESTA OPORTUNIDAD, LLÁMENOS Y ESTAREMOS ENCANTADOS DE ENSEÑARSELA! IMPRESCINDIBLE VER. Cod. - 8821-B.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2329.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Casa independiente en Ayuntamientos Democraticos"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109647097",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bb/4a/fc/1383573204.webp",
+      "externalReference": "9686",
+      "numPhotos": 46,
+      "floor": "2",
+      "price": 350000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 350000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 87.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Padre Basabe",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.3899379,
+      "longitude": -3.2298885,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109647097/",
+      "distance": "1497",
+      "description": "INMOBILIARIAS. COM ¡Descubre tu nuevo hogar en la preciosa PLAYA DE OSTENDE! Este luminoso piso en venta, ubicado en una tranquila urbanización privada, ofrece un estilo de vida inigualable. Con 82 m² útiles, cuenta con 2 amplias habitaciones y un salón espacioso un encantador ventanal, ideal para disfrutar del sol y las vistas. La cocina, también con acceso a una zona de tendal, es perfecta para tus momentos culinarios. La ubicación es inmejorable: a solo 10 minutos a pie del centro y con fácil acceso a paradas de autobús hacia Bilbao. Además, estarás a 30 minutos de Bilbao y a 40 minutos de Santander, lo que te permitirá disfrutar de lo mejor de ambas ciudades. Todos los servicios están a tu alcance, desde supermercados hasta restaurantes. El piso está en excelente estado y dispone de armarios empotrados, calefacción por bomba de frío/calor y ascensor. Si necesitas un espacio adicional, puedes adquirir una plaza de garaje de 45m² (precio a consultar). No dejes pasar esta oportunidad única de vivir cerca del mar y con todas las comodidades que mereces. ¡Ven a visitarlo y enamórate! CODIGO 9686-R.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 70000.0
+      },
+      "priceByArea": 4023.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso en calle Padre Basabe"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109639204",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/dd/b6/b6/1380932496.webp",
+      "externalReference": "REMO-02461",
+      "numPhotos": 3,
+      "price": 170176.0,
+      "priceInfo": {
+        "price": {
+          "amount": 170176.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 71.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "La Acera",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Mioño-Santullán",
+      "country": "es",
+      "latitude": 43.3596168,
+      "longitude": -3.1998751,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109639204/",
+      "distance": "2839",
+      "description": "Al tratarse de una Cesión de Remate derivada de una subasta judicial, el importe de la cesión deberá ser aprobada por el juzgado competente. El inmueble se transmite en el estado en cuanto a cargas, gravámenes según información que consta en el registro de la propiedad donde radica la finca. De existir cargas o gravámenes anteriores quedará subrogadas a ellas. Todos los gastos de la venta pública y los derivados de la cancelación de cargas, así como las deudas tales como, gastos de comunidad, IBI y otros serán de cuenta y cargo del cesionario. El inmueble no se puede visitar por desconocer su estado de ocupación, así como su distribución y estructura puede no ajustarse a la realidad, ya que su verificación no ha sido posible tomándose como referencia la distribución de activos de la zona. Para más información sobre las condiciones de la cesión llámenos. NO COBRAMOS COMISIÓN DE INTERMEDIACIÓN AL COMPRADOR Presentamos una magnífica oportunidad para inversores que buscan adquirir un activo con alto potencial de rentabilidad y revalorización. Este piso, se convierte en una excelente alternativa dentro del mercado inmobiliario actual, especialmente para quienes desean acceder a inmuebles con condiciones ventajosas. Ubicado en una zona consolidada de la localidad de Castro-Urdiales, el inmueble goza de una localización estratégica, próxima a servicios esenciales, comercios, transporte público y principales vías de comunicación. Este entorno combina tranquilidad residencial y accesibilidad urbana, factores que aumentan su atractivo tanto para uso futuro propio como para inversión destinada al alquiler o reventa. Hipoges es una plataforma inmobiliaria donde podrás acceder a miles de activos inmobiliarios de diferentes tipos como viviendas, locales comerciales, terrenos, nueva obra, tanto a nivel particular como para inversores. Hipoges cuenta con una amplia cartera de activos inmuebles tanto en España como en Portugal y Grecia. ¿Necesitas financiación? Te ofrecemos la posibilidad de financiaciones de hasta el 100% para la compra de este inmueble. Entra en Finanwin. com, haz tu simulación y obtén la mejor oferta para tu Hipoteca de la manera más ágil y sencilla.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2397.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mioño-Santullán, Castro-Urdiales",
+        "title": "Piso en La Acera"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109635493",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a7/18/98/1380823789.webp",
+      "externalReference": "454-PA",
+      "numPhotos": 17,
+      "floor": "bj",
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio Brazomar, 54",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Brazomar",
+      "country": "es",
+      "latitude": 43.3657567,
+      "longitude": -3.2175196,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109635493/",
+      "distance": "1938",
+      "description": "Flat Inmobiliaria pone a la venta preciosa Planta Baja en la zona de Brazomar.  La vivienda esta ubicada en urbanización cerrada, con 3 piscinas, pistas de tenis, padel, parque infantil.. . Esta distribuido en: Salón - Comedor. Dos habitaciones. Cocina independiente equipada. Baño Completo y terraza de 60 m2 con altura. Cerca de todos los servicios, colegio, supermercados, autobuses, playa.. . ¡ Contáctenos para más información o para concertar una visita!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 4600.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Brazomar, Castro-Urdiales",
+        "title": "Piso en Barrio Brazomar, 54"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109599553",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3b/d3/36/1379696659.webp",
+      "numPhotos": 11,
+      "floor": "2",
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Bajada del Chorrillo",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3816135,
+      "longitude": -3.2209963,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109599553/",
+      "distance": "586",
+      "description": "Se vende este luminoso piso en el corazón de Castro Urdiales, ubicado en pleno centro de la ciudad. La vivienda, situada en la segunda planta, cuenta con una superficie total de 90 m² (85 m² útiles) y está lista para entrar a vivir. Dispone de tres habitaciones, un salón amplio y acogedor, una cocina espaciosa, dos baños completos y ventanales de PVC que llenan cada estancia de luz natural. Todo el inmueble es exterior y cuenta con calefacción de gas natural, lo que garantiza confort durante todo el año. El edificio, además, está equipado con dos ascensores, lo que aporta comodidad y accesibilidad. El estado de conservación es bueno, convirtiéndolo en una excelente oportunidad de compra. Además, su ubicación es inmejorable: en una zona con parada de autobús en la puerta, con conexiones directas a Bilbao y Santander, y rodeada de todos los servicios necesarios para el día a día. El distrito Centro destaca por su historia y dinamismo, con la iglesia de Santa María de la Asunción, el castillo de Santa Ana y el puerto pesquero como referentes culturales y turísticos. Se trata de un entorno animado y pintoresco, con comercios, alojamientos, zonas residenciales y un constante desarrollo en servicios. ¡Una oportunidad única para disfrutar de la vida en Castro Urdiales!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3322.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Bajada del Chorrillo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109586479",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0b/73/93/1384021946.webp",
+      "externalReference": "9656",
+      "numPhotos": 34,
+      "floor": "bj",
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio Brazomar",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Brazomar",
+      "country": "es",
+      "latitude": 43.36443,
+      "longitude": -3.2158024,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109586479/",
+      "distance": "2069",
+      "description": "INMOBILIARIAS. COM vende acogedor bajo en la zona de BRAZOMAR, esta vivienda se encuentra en una urbanización cerrada con pistas 3 piscinas, pistas de tenis y pistas de padel. Este bajo dispone de dos habitaciones, cocina, un baño, salón y una amplia terraza de 60m2 donde encontramos una preciosa caseta con precioso comedor. URBANIZACION CERRADA PISCINAS PISTAS DE PADEL Y DE TENIS. JARDINES. AMPLIA TERRAZA Esta urbanización se encuentra cerca servicios y de la playa. CODIGO 9656-S.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 4600.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Brazomar, Castro-Urdiales",
+        "title": "Piso en Barrio Brazomar"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109569345",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/de/a0/ce/1389505751.webp",
+      "numPhotos": 22,
+      "floor": "2",
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Bajada del Chorrillo",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3828812,
+      "longitude": -3.2209562,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109569345/",
+      "distance": "562",
+      "description": "CENTRO. INMOBILIARIA LOW COST CASTRO vende acogedor piso, con una ubicación estratégica; rodeado de todos los servicios necesarios para el día a día. Parada de autobuses, farmacias, supermercados, cafeterías, colegios, gasolinera.  A 100 metros de la playa de Ostende y a escasos 5 min de las subidas a la autovía A-8. El edificio por fuera cuenta con rampa de acceso y dentro del portal también una rampa y 2 ascensores, uno de ellos con gran capacidad. El piso esta compuesto por hall de entrada con un pasillo que distribuye a las estancias de la vivienda.  Cuenta con cocina independiente completa muy luminosa, un salón comedor muy amplio y soleado ya que cuenta con grandes ventanales que lo rodean y le dan calidez y luminosidad natural, 3 habitaciones (principal con cama de matrimonio y espacioso armario), la segunda habitación muy amplia con mueble armario empotrado con 2 camas individuales y la tercer habitación utilizada como despacho también con armario empotrado, baño con plato de ducha moderno y espacioso y un aseo. El piso fue remodelado completamente en el año 2004. IBI 300€ Comunidad 70€ mes.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3322.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Bajada del Chorrillo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109527366",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/78/a1/fb/1381120687.webp",
+      "externalReference": "9680",
+      "numPhotos": 79,
+      "price": 450000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 450000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 250.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "calle del Alto de la Cruz",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.3653381,
+      "longitude": -3.2005624,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109527366/",
+      "distance": "2244",
+      "description": "****EXCLUSIVA INMOBILIARIAS. COM**** SU INMOBILIARIA DE CONFIANZA EN CASTRO URDIALES vende espectacular chalet, luminoso y cuidado al detalle con 3 TERRAZAS, 2 PLAZAS de GARAJE, TRASTERO, TXOCO COMPLETO NUEVO, CHIMENEA CERRADA, PERSINAS ELÉCTRICAS, ÁTICO CON TERRAZA Y LAVADERO en Cotolino, Castro Urdiales.  Se distribuye en: PLANTA PRINCIPAL. -  -Salón comedor grande con chimenea cerrada, salida directa a terraza y grandes ventanales. -Cocina amplia completamente amueblada y equipada con electrodomésticos. -2 Terrazas amplias la delantera con toldo eléctrico. -Aseo con ventana. 1ª PLANTA. - -Habitación principal con vestidor, baño en suite con ventana, terraza. -2 habitaciones dobles. -Baño completo con ducha grande. ÁTICO. -  -Despacho. -Salita. -Lavadero. -Armarios empotrados. -Terraza amplia. PLANTA BAJA. - -Txoco completo con cocina nueva amueblada y equipada con electrodomésticos. -Aseo. -Garaje grande para 2 coches y motos, zona de almacenaje, zona taller ( o trastero ) SUELOS DE MADERA  CHIMENEA CERRADA CON SALIDA DE CALOR A PLANTA SUPERIOR PERSINAS ELÉCTRICAS RADIADORES NUEVOS REGULABLES Y CALEFACCIÓN DIVISIBLE POR PLANTAS LAVADERO EXTERIOR Y MUY LUMINOSO MUY BIEN CUIDADO  Inmejorable zona cerca de todos los servicios, colegios, instituto, comercios, zonas de ocio, parques infantiles, playa de Brazomar. COD. - 9680-B.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1800.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Chalet adosado en calle del Alto de la Cruz"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": true,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109526451",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/aa/42/77/1377360238.webp",
+      "externalReference": "PIS0112",
+      "numPhotos": 27,
+      "floor": "2",
+      "price": 350000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 350000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 98.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Playa Ostende",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.3881436,
+      "longitude": -3.2266003,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109526451/",
+      "distance": "1167",
+      "description": "¡Descubre tu nuevo hogar en primera línea de playa! Gestión inmobiliaria Victoria te ofrece este espectacular piso de 98 m² que te ofrece unas vistas impresionantes al mar y a la playa, creando un ambiente único y relajante. Imagina despertar cada mañana con la brisa marina y el sonido de las olas. La vivienda cuenta con una excelente distribución, destacando un amplio salón comedor ideal para disfrutar con familia y amigos. La cocina está completamente equipada y tiene acceso a una práctica zona de tendedero, donde podrás instalar tu lavadora. Además, dispone de dos dormitorios completos con armarios empotrados, perfectos para maximizar el espacio y mantener todo organizado. El baño es moderno y cuenta con bañera. Situado en una zona rodeada de todos los servicios necesarios, como colegios, supermercados y transporte público, este piso es perfecto para quienes buscan comodidad y calidad de vida. También podrás disfrutar de una refrescante piscina en el edificio.  Y si necesitas garaje, hay una opción de garaje cerrado de 45 m² (precio a consultar). ¡No dejes pasar esta oportunidad única de vivir frente al mar! [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3571.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109521417",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/12/77/9d/1377239188.webp",
+      "externalReference": "451-PA",
+      "numPhotos": 48,
+      "floor": "1",
+      "price": 295000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 295000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 93.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle el Hoyo, 5",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.3901366,
+      "longitude": -3.2331788,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109521417/",
+      "distance": "1741",
+      "description": "FLAT INMOBILIARIA PONE A LA VENTA PISO EN LA ZONA DE OSTENDE.  Vivienda exterior con mucha luz, cerca de todos los servicios, de la playa de Ostende y con salida a la Autovía A8. La vivienda se distribuye en Salón - Comedor con acceso a terraza. Cocina equipada con acceso a otra terraza. Tres amplias habitaciones. La habitación principal con baño incorporado con ducha. Otro baño completo y amplio con bañera para dar servicio a los otras habitaciones. Además la dispone de parcela de parking dentro de la urbanización para un vehículo.  Solicita más información o pónganse en contacto con nosotras para solicitar una visita.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3172.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso en calle el Hoyo, 5"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109516562",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1e/c8/c0/1377087415.webp",
+      "numPhotos": 35,
+      "floor": "1",
+      "price": 295000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 295000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 93.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle el Hoyo",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.3899532,
+      "longitude": -3.2350601,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109516562/",
+      "distance": "1869",
+      "description": "OSTENDE. INMOBILIARIA LOW COST CASTRO vende estupendo piso. A tan solo 5 min de la playa de Ostende galardonada con bandera azul; a 10 min andando del centro de Castro Urdiales y al lado de la salida a la autovía A8 Bilbao- Santander, junto a paradas de autobús, colegios y supermercados. Este maravilloso piso se encuentra en una urbanización privada, con ascensor a COTA 0.  El piso se distribuye con un hall de entrada, dando paso a un pasillo donde encontramos, 3 habitaciones amplias y luminosas con ventanas de madera Climalit, una de las habitaciones en suite. Cocina independiente totalmente equipada con salida a balconcillo. Gran y luminoso salón comedor con salida a otro balcón; y un segundo baño completo que da servicio a todo el piso. Además de PARKING COMUNITARIO asignado cada vivienda. IBI: 413€ Comunidad 80€ mensuales.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3172.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso en calle el Hoyo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109520581",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e7/fc/c9/1377220951.webp",
+      "numPhotos": 5,
+      "floor": "1",
+      "price": 295000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 295000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle el Hoyo",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.3891781,
+      "longitude": -3.2312301,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109520581/",
+      "distance": "1552",
+      "description": "¡Descubre tu nuevo hogar en Castro Urdiales, a solo unos pasos de la hermosa playa de Ostende! Este encantador piso de aproximadamente 90 m² te ofrece un espacio ideal para disfrutar de la vida costera. Con tres acogedoras habitaciones, la principal cuenta con un baño en suite, perfecto para tu comodidad y privacidad. La cocina, equipada y con un pequeño balcón, es el lugar ideal para preparar tus comidas favoritas mientras disfrutas de la brisa marina. El amplio y luminoso salón es perfecto para relajarte o recibir a tus amigos y familiares. Los suelos de parquet, bien cuidados y brillantes, aportan un toque de elegancia a cada rincón. Además, contarás con una plaza de garaje privada a cota cero, lo que facilita el acceso y te brinda tranquilidad. Ubicado en una zona tranquila pero con todos los servicios a tu alcance, como autobuses, supermercados, cafeterías y farmacias, este piso es una oportunidad que no querrás dejar pasar. ¡Ven a verlo y enamórate de tu nuevo hogar!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3278.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso en calle el Hoyo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109490045",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/51/76/b5/1423191968.webp",
+      "externalReference": "CHA1770",
+      "numPhotos": 27,
+      "price": 540000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 540000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 316.0,
+      "rooms": 5,
+      "bathrooms": 5,
+      "address": "Barrio Llantadilla",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Samano",
+      "country": "es",
+      "latitude": 43.3570213,
+      "longitude": -3.2301398,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109490045/",
+      "distance": "3169",
+      "description": "Inmobiliaria Uranga les presenta este espectacular chalet independiente, una vivienda amplia y luminosa que destaca por su comodidad, distribución y las múltiples posibilidades que ofrece. Ubicada en una parcela privada, en una zona tranquila y bien comunicada de Sámano, esta propiedad es ideal tanto como vivienda habitual como residencia de descanso. La casa se distribuye en tres plantas perfectamente organizadas: Planta sótano: Txoko, amplio salón comedor con cocina, una habitación y un baño completo con ducha. Un espacio perfecto para reuniones, celebraciones o como zona independiente para invitados. Planta baja: Hall de entrada espacioso, cocina independiente completamente equipada con salida al comedor y al porche, salón amplio y luminoso con acceso directo al jardín, y un aseo de cortesía. Primera planta: Zona de descanso con cuatro dormitorios. Dos de ellos cuentan con baño incorporado, uno con vestidor y salida a una bonita balconada. Además, dispone de un tercer baño completo que da servicio al resto de habitaciones. La vivienda ofrece un total de cinco dormitorios y cinco baños, distribuidos de forma práctica para aportar comodidad a toda la familia. En la rampa de acceso al sótano se pueden estacionar varios vehículos, sumando así comodidad al garaje cerrado de la vivienda. Un chalet pensado para disfrutar en cada rincón: espacios amplios, estancias luminosas y un entorno tranquilo con todos los servicios cerca. Solicite más información y venga a visitarlo con Inmobiliaria Uranga. Le encantará. [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1709.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Samano, Castro-Urdiales",
+        "title": "Casa independiente en Barrio Llantadilla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109467021",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/01/04/5c/1383514547.webp",
+      "externalReference": "9555",
+      "numPhotos": 48,
+      "floor": "1",
+      "price": 295000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 295000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle el Hoyo",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.3909163,
+      "longitude": -3.2346899,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109467021/",
+      "distance": "1889",
+      "description": "INMOBILIARIAS. COM vende luminoso piso en la zona de Ostende y gracias a su ubicación tenemos la playa a 5 min andando, 10 minutos al centro a pie, 30 minutos a Bilbao y 40 min a Santander. Esta vivienda esta proxima a paradas de autobus a bilbao y todos los servicios.  El piso se encuentra en una urbanizacion privada y esta distribuida en 3 amplias habitaciones una de ellas con baño muy luminoso, cocina con salida a una terraza, un salón muy amplio con acceso a una terraza y un baño completo. Tambien dispone de parcela de parking dentro de la urbanizacion para un vehiculo. PLAZA APARCAMIENTO VIVIENDA LUMINOSA. 3 AMPLIAS HABITACIONES. TERRAZA ACCESO DIRECTO A LA AUTOVIA DE BILBAO Y SANTANDER. Ven a visitarlo, te gustara! CODIGO 9555-S.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3278.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso en calle el Hoyo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109462560",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/02/e2/29/1375454308.webp",
+      "externalReference": "9669",
+      "numPhotos": 78,
+      "price": 949000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 949000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 448.0,
+      "rooms": 5,
+      "bathrooms": 5,
+      "address": "avenida de Chinchapapa",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.3694258,
+      "longitude": -3.2060492,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109462560/",
+      "distance": "1640",
+      "description": "****INMOBILIARIAS. COM**** Su inmobiliaria de confianza en Castro Urdiales, vende MAGNÍFICO CHALET EN ESQUINA, ubicado en urbanización privada dotada de: JARDINES Y PISCINA, en inmejorable zona a 2 min andando de la preciosa playa de Brazomar en Cotolino, se distribuye en: - PLANTA PRINCIPAL: GRAN TERRAZA CON JARDÍN ORIENTACIÓN SUR, PORCHE CON TOLDO, Gran salón-comedor con grandes ventanales, cocina totalmente equipada y amueblada con electrodomésticos, aseo.  - PLANTA SUPERIOR: cuatro habitaciones dobles con armarios una de ellas con baño completo en suite y un segundo baño completo en pasillo que da servicio al resto de la planta. -ÁTICO: totalmente diáfano.  PLANTA BAJA: ESPECTACULAR TXOCO totalmente amueblado con preciosa chimenea, aseo, y dos parcelas de garaje, uno con capacidad para dos coches y un segundo con capacidad para cuatro coches y amplio trastero. Ubicado en inmejorable situación, rodeado de todos los servicios y a 2 min andando la playa. COD. - 9669-B.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2118.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Chalet pareado en avenida de Chinchapapa"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109463178",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9f/26/f4/1376389237.webp",
+      "externalReference": "4891",
+      "numPhotos": 28,
+      "floor": "1",
+      "price": 295000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 295000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 88.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle el Hoyo, 5",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.3901366,
+      "longitude": -3.2331788,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109463178/",
+      "distance": "1741",
+      "description": "ERA CASTRO se transforma en E-CASTRO evolucionando con las nuevas tecnologías de IA y configurándose hoy como la Inmobiliaria líder en Castro-Urdiales. Se vende un magnífico piso en una de las urbanizaciones más atractivas de Castro Urdiales, a tan solo 5 minutos a pie de la playa de Ostende y muy próximo a la plaza de toros. Su ubicación es inmejorable: junto a paradas de autobús, colegios, supermercados y a escasos 10 minutos caminando del centro de la ciudad. La vivienda se encuentra en un residencial privado con acceso tanto peatonal como para vehículos. El piso cuenta con una distribución muy práctica y acogedora: un elegante hall de entrada que da paso a un amplio y luminoso salón comedor con salida a un balcón. La cocina, completamente equipada, también dispone de salida a otro balcón. Dispone de tres dormitorios de buen tamaño, todos muy luminosos y con ventanas de madera climalit; la habitación principal incluye baño en suite. Además, hay un segundo baño completo. PLAZA DE PARKING COMUNITARIO CUBIERTO ASIGNADA A CADA VIVIENDA. Tu inmobiliaria en Castro, de toda la vida.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3352.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso en calle el Hoyo, 5"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109462674",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e1/58/b3/1375376435.webp",
+      "externalReference": "2166",
+      "numPhotos": 25,
+      "floor": "1",
+      "price": 295000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 295000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle el Hoyo",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.3898025,
+      "longitude": -3.234547,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109462674/",
+      "distance": "1824",
+      "description": "Inmobiliaria VHL vende piso AMPLIO con GARAJE en la zona de Ostende. Vivienda de 90m² que se distribuyen en; - Salón comedor - Cocina totalmente equipada - Tres habitaciones - Dos baños, uno de ellos en suite. Incluye en el precio una parcela de aparcamiento de fácil acceso. Posibilidad de un TRASTERO por 7.000€ ZONA TRANQUILA TERRAZAS AMPLITUD ASCENSOR COTA CERO Inmobiliaria VHL c/ La Mar 18 Castro Urdiales.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3278.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Piso en calle el Hoyo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109460393",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/72/fe/6d/1375302594.webp",
+      "externalReference": "26",
+      "numPhotos": 48,
+      "floor": "2",
+      "price": 380000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 380000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 131.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle del Ocho de Marzo s/n",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.3703277,
+      "longitude": -3.2006227,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109460393/",
+      "distance": "1776",
+      "description": "Inmobiliaria La Sirena vende estupendo inmueble en la zona nueva de Cotolino La vivienda tiene 117 m² útiles distribuidos de la siguiente manera: Hall de entrada con armario empotrado, gran salón comedor, cocina completamente equipada, 3 habitaciones (principal con baño), 2 baños (1 de ellos con 2 ventanas) y terraza de unos 15 m² a la cual se accede desde el salón y la cocina. Todas las habitaciones tienen armarios empotrados. En el precio se incluyen 2 parcelas de garaje abiertas con 2 trasteros de unos 6 m² cada uno. La vivienda se encuentra en un maravilloso estado de conservación ya que está prácticamente a estrenar porque apenas se ha utilizado. El piso es totalmente exterior y muy luminoso con diferentes orientaciones. Es un 2º con altura de 4º. En la zona dispones de supermercados, farmacia, gimnasio e instituto. La salida a la autovía Bilbao-Santander se encuentra a 5 minutos en coche. ¡Interesante visitarlo!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2901.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Piso en calle del Ocho de Marzo s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": true,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109440356",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/53/6a/64/1374716273.webp",
+      "externalReference": "GBS 17E",
+      "numPhotos": 41,
+      "price": 695000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 695000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 382.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "Lugar Barrio Urdiales, 14 I",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Playa Ostende",
+      "country": "es",
+      "latitude": 43.39345,
+      "longitude": -3.2298,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109440356/",
+      "distance": "1726",
+      "description": "CHALET INDIVIDUAL DE OBRA NUEVA EN CASTRO URDIALES. Espectacular chalet independiente con 360mt de jardín y con vistas al mar Cantábrico y a la montaña.    El inmueble se distribuye en tres plantas: La planta semisótano dispone de un amplio garaje de unos 45mt con capacidad para tres vehículos, un espacio independiente de aproximadamente 35mt adaptado para txoko y otro distinto, de unos 35 mt, destinado a multiusos (bodega, gimnasio, trastero, etc). En la planta principal se encuentra el salón comedor de unos 50mt con salida al magnífico porche, amplia cocina independiente con salida a porche, dos dormitorios, uno de ellos con cuarto de baño con bañera y vestidor y también hay otro cuarto de baño completo con bañera. En la planta bajocubierta nos encontramos con 3 amplias habitaciones con luminosos ventanales tipo velux y un cuarto de baño con plato de ducha.    Destaca esta propiedad por su jardín privado, sus amplias y luminosas estancias, todas exteriores, gran calidad de materiales y construcción y, por supuesto, por su estratégica ubicación, entorno y vistas.    Si buscas una propiedad exclusiva, con vistas al mar, con acceso directo a la autopista A8 dirección Bilbao-Santander, al lado de parada de bus, playas y servicios, visita este inmueble con los profesionales de InmoGBS, te asesorarán en todo el proceso de compraventa.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1819.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Playa Ostende, Castro-Urdiales",
+        "title": "Casa independiente en Lugar Barrio Urdiales, 14 I"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109422991",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ea/73/65/1393393096.webp",
+      "externalReference": "AVDA -8865",
+      "numPhotos": 66,
+      "floor": "4",
+      "price": 279900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 279900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Los Caserios",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.38019,
+      "longitude": -3.2244491,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109422991/",
+      "distance": "900",
+      "description": "¡Bienvenidos a tu hogar en Castro Urdiales, Cantabria!    Soleado y muy luminoso con vistas panorámicas desde su balcón.    Con 85 metros cuadrados, salón comedor espacioso y gran ventanal    Dos habitaciones acogedoras, y dos baños completos para mayor comodidad.    Cocina amplia equipada con acceso a balcón     Cuarta planta de un edificio moderno, la vivienda ofrece fácil acceso gracias a su ascensor cota 0    La urbanización es tranquila, con piscina y jardines y pista de pádel para disfrutar al aire libre.    Vivienda lista para entrar a vivir, con todas las comodidades como agua caliente y calefacción de gas, ventanas de PVC     ¡Una oportunidad única para quienes buscan un hogar en un entorno privilegiado!    Nuestro objetivo es que tengas la tranquilidad de saber que tu patrimonio está en buenas manos, defendiendo siempre tus intereses y ofreciéndote un servicio cercano, honesto y eficaz.    En Inmobiliaria Avenida 155 sabemos que vender una vivienda no es solo una operación inmobiliaria: es gestionar uno de tus bienes más importantes, tu patrimonio. Por eso te acompañamos en todo el proceso con profesionalidad, cercanía y total transparencia.    Te ayudamos a vender tu vivienda al mejor precio y en el menor tiempo posible, realizando un estudio de mercado realista, definiendo una estrategia de venta personalizada y cuidando cada detalle de la presentación del inmueble.    Confía en Inmobiliaria Avenida 155 y deja la compraventa de tu vivienda en manos de profesionales que se implican contigo de principio a fin.    Estamos en Avda Lehendakari Aguirre 155 - San Ignacio    De lunes a viernes de 9:30h a 13:30 h y de 16:00h a 20:00h    Sábados de 10:00h a 13:30h.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3293.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Los Caserios"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106030390",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/eb/37/4b/1269439166.webp",
+      "numPhotos": 31,
+      "floor": "4",
+      "price": 660000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 660000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 96.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Los Caserios",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3818198,
+      "longitude": -3.2232518,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106030390/",
+      "distance": "759",
+      "description": "Castro- CENTRO. Inmobiliaria SANTA ANA pone a la venta EN EXCLUSIVA un magnífico y exclusivo ático con gran terraza y solarium en el centro de la ciudad en una urbanización privada dotada de piscina y pista de padel-tenis. VISTAS AL MAR Tres habitaciones, la principal con baño incluido dentro de la habitación y con salida directa a la gran terraza exterior. Salón muy luminoso y soleado con salida a la terraza. Cocina totalmente amueblada con salida a la gran terraza. Dos baños. Uno de ellos dentro de la habitación principal. Terraza de 90 metros cuadrados Solarium de 120 metros cuadrados Amplio Garaje y trastero con acceso directo desde la planta de la vivienda. La vivienda se entrega totalmente amueblada, con un mobiliario moderno y exclusivo de de diseño adaptado a cada rincón de la vivienda. Urbanización privada con piscina y pista de padel-tenis. La vivienda está en perfectos estado de mantenimiento. Situada en el centro de la ciudad en una zona residencial sin ruidos, ideal para el descanso y muy cerca de todos los servicios. Su magnífica terraza tiene unas preciosas vistas al mar. Una vivienda muy especial y diferente en un entorno muy cómodo..",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6875.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Ático en calle Los Caserios"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109302656",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4c/70/be/1370457574.webp",
+      "numPhotos": 10,
+      "floor": "3",
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Bajada del Chorrillo",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3823902,
+      "longitude": -3.2215335,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109302656/",
+      "distance": "612",
+      "description": "¡Descubre tu nuevo hogar en el corazón de Castro Urdiales! Este encantador piso de 90 m² construidos ofrece todo lo que necesitas para disfrutar de la vida junto al mar. Con tres acogedoras habitaciones, este espacio es ideal para familias o para quienes buscan un lugar cómodo y funcional. La amplia cocina te permitirá preparar deliciosas comidas, mientras que el salón es perfecto para relajarte después de un largo día. Ubicado a solo 100 metros de la playa de Ostende, podrás disfrutar del sonido de las olas y las vistas al mar desde la ventana de tu nuevo hogar. La ubicación es inmejorable, con todos los servicios a mano: supermercados, farmacias y paradas de autobús, todo a pocos pasos. Además, el edificio cuenta con ascensor y calefacción gas natural, garantizando tu confort. Este piso se encuentra en buen estado y listo para entrar a vivir. Con un baño completo y un aseo adicional, tendrás todo lo que necesitas para tu día a día. No pierdas la oportunidad de vivir en un lugar tan especial. ¡Contáctanos para más información y ven a verlo!  INMOBILIARIA NOHEMA  C/ La Plazuela n12.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3322.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Bajada del Chorrillo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109256224",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/63/cb/77/1368892079.webp",
+      "externalReference": "9659",
+      "numPhotos": 20,
+      "floor": "2",
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Bajada del Chorrillo",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3817879,
+      "longitude": -3.2206579,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109256224/",
+      "distance": "554",
+      "description": "***INMOBILIARIAS. COM*** SU INMOBILIARIA DE CONFIANZA EN CASTRO URDIALES vende excelente y amplia vivienda de 3 habitaciones en la zona centro de Castro Urdiales. Se encuentra en un edificio adaptado con rampa de acceso desde el portal y ascensor de gran capacidad.  Además cuenta con una ubicación inmejorable dado que se encuentra a dos pasos de la playa de Ostende y está rodeada de todos los servicios necesarios para el día a día a mano. La vivienda se distribuye en zona de hall, cocina independiente muy amplia y luminosa, amplio salón-comedor con un gran y precioso ventanal que lo rodea, baño completos y aseo, tres grandes habitaciones. NO PIERDA LA OPORTUNIDAD DE VENIR A CONOCERLA! COD-9659-B.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3322.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Bajada del Chorrillo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109225674",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/82/b2/2a/1392185953.webp",
+      "externalReference": "3855",
+      "numPhotos": 46,
+      "price": 615000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 615000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 244.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Cotolino",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Cotolino",
+      "country": "es",
+      "latitude": 43.3606638,
+      "longitude": -3.2162892,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109225674/",
+      "distance": "2490",
+      "description": "INMOBILIARIA INVERCASS vende fantástico chalet adosado COQUETO Y ACTUALIZADO CON MATERIALES DE ALTA GAMA con jardín privado, terraza y GARAJE en la Loma La vivienda se encuentra ubicada en una urbanización privada con piscina y zona ajardinada, en una zona residencial perfecto para familias. Se distribuye en tres plantas; EN LA PLANTA PRINCIPAL tenemos un salón comedor amplio y luminoso dado los ventanales que tiene ORIENTACIÓN SUR, cuenta con salida a la terraza y jardín de la casa, una cocina totalmente equipada de diseño muy actual, con materiales y electrodomésticos de alta gama Balay y un aseo. EN LA PLANTA BAJO CUBIERTA disponemos de tres habitaciones y dos baños, dos de las habitaciones con salida a una terraza con vistas a la montaña, un baño completo que da servicio a estas dos habitaciones y una tercera habitación, la principal, a modo suite con baño privado. EN LA PLANTA SOTANO tenemos zona diáfana para múltiples posibilidades actualmente habilitado como gimnasio y zona recreativa y un parcela de garaje cerrada con capacidad para dos coches. Cuenta con escalera abatible para aprovechar los espacios. Destacar que toda la vivienda posee iluminación LED (bajo consumo ) lo que hace que sean los espacios muy confortable. El chalet dispone de un precioso jardín de 320m2 soleado equipado con riego automático, toldo eléctrico con mando a distancia y alumbrado led exterior. Zona residencial, tranquila con acceso cercano a la A8 y para de autobús y colegio. ¿Quieres conocerlo? Llámanos y concreta tu visita INMOBILIARIA INVERCASS Ardigales 27, bajo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2520.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cotolino, Castro-Urdiales",
+        "title": "Chalet adosado"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109205460",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7f/cc/7d/1367437654.webp",
+      "numPhotos": 39,
+      "floor": "3",
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "BJ CHORRILLO",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3837202,
+      "longitude": -3.2204855,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109205460/",
+      "distance": "530",
+      "description": "**Piso en Venta en el Corazón del centro de Castro Urdiales** ¡Descubre tu nuevo hogar en el vibrante corazón de Ostende! Este luminoso piso exterior de 85 m² construidos te ofrece un espacio acogedor y funcional, perfecto para disfrutar de la vida en la costa. Con tres habitaciones, un amplio salón comedor y una cocina completamente equipada, baño y aseo, cada rincón de este inmueble está diseñado para brindarte comodidad y estilo. Situado a pocos pasos de la playa, podrás disfrutar de la brisa marina y del sol durante gran parte del día gracias a su excelente orientación. Además, la cercanía a todos los servicios hace que la vida diaria sea aún más cómoda. Las ventanas de PVC aseguran un buen aislamiento, manteniendo el hogar cálido en invierno y fresco en verano. Este inmueble de 1974 se encuentra en buen estado y cuenta con calefacción de gas natural, garantizando un ambiente agradable en todo momento. La comunidad es muy asequible, con solo 70 euros al mes, y el IBI anual es de 300 euros. Con ascensor disponible y una ubicación inmejorable, este piso es una oportunidad que no querrás dejar pasar. ¡Ven a visitarlo y enamórate de tu nuevo hogar!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3518.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en Bj Chorrillo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109202400",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d5/22/4a/1367346941.webp",
+      "externalReference": "5",
+      "numPhotos": 14,
+      "floor": "5",
+      "price": 320000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 320000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Maestro Barbieri",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3831424,
+      "longitude": -3.2230078,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109202400/",
+      "distance": "728",
+      "description": "PISO DE 3 HABITACIONES CON GARAJE OPCIONAL EN PLENO CENTRO DE CASTRO. Es un piso muy amplio de unos 100 metros cuadrados con 3 habitaciones, 1 baño completo y aseo, cocina independiente con terraza y salón amplio. Opcional garaje cerrado en el mismo edificio, pero sin acceso directo desde el ascensor. El piso cuenta con ascensor, calefacción de gas y vistas despejadas. Situado en pleno centro de Castro Urdiales, a pocos metros de Supermercados, Farmacias, Colegios y todo tipo de servicios.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 40000.0
+      },
+      "priceByArea": 3200.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Maestro Barbieri"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109166184",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/00/41/2d/1367288124.webp",
+      "numPhotos": 24,
+      "floor": "2",
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Bajada del Chorrillo",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3828567,
+      "longitude": -3.2229637,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109166184/",
+      "distance": "724",
+      "description": "Castro Urdiales Centro, amplio, muy luminoso y actualizado Piso en el centro, cerca de todos los servicios de primera necesidad y de La playa de Ostende Entranda a hall amplio y pasillo que distribuye la vivienda  Cocina completamente equipada, amplia, luminosa y actualizada  Salón comedor con grandes ventanales desde donde podemos apreciar el mar. Tres dormitorios con armarios de gran capacidad  Un aseo y un cuarto de baño completo con plato de ducha. El piso se amplió quitando las terrazas y dando esos metros a la vivienda  Con instalación de Gas Natural  Suelos de madera, ventanas de PVC  Paredes lisas Cocina y baños actualizados  Un piso muy cuidado, actualizado y listo para poder disfrutar de el Inmejorable ubicación para la gente que le gusta tener la comodidad de tener todos los servicios de primera necesidad y ocio a mano,  Edificio sin ninguna carga, con fachada y tejado rehabilitado de hace poco tiempo. Con rampas y barandillas en el portal para salvar un pequeño tramo de escalera que llevan a los ascensores. Un edificio rehabilitado y cómodo, sin barreras arquitectonicas Llámanos y ven a verlo!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3322.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Bajada del Chorrillo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109198343",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/63/d7/1c/1367204891.webp",
+      "externalReference": "438-PA",
+      "numPhotos": 21,
+      "floor": "3",
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Bajada del Chorrillo, 3",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3835027,
+      "longitude": -3.2213046,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109198343/",
+      "distance": "592",
+      "description": "Flat Inmobiliaria pone a la venta piso en el corazón de Castro Urdiales. Ubicado en el centro del pueblo, cerca de la playa de Ostende, con vistas laterales al mar y con todos los servicios a mano: comercios, colegios, centros médicos, supermercados y zonas de ocio y vistas laterales al mar. La vivienda consta de 3 habitaciones, gran salón – comedor con mucha luz gracias a sus amplios ventanales, cocina grande y equipada, baño completo con ducha y aseo. La vivienda es toda exterior, dispone de ventanas de P. V. C y calefacción de gas individual. Lista para habitar, donde el confort y las comodidades se unen para ofrecerte una experiencia de hogar sin esperas.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3518.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Bajada del Chorrillo, 3"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109193802",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ac/69/6d/1367050835.webp",
+      "externalReference": "16947-2045",
+      "numPhotos": 1,
+      "floor": "bj",
+      "price": 170000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 170000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 181000.0,
+            "priceDropValue": 11000,
+            "priceDropPercentage": 6
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 67.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Los Caserios",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3815616,
+      "longitude": -3.2280358,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109193802/",
+      "distance": "1145",
+      "description": "PISO OCUPADO POR PERSONA SIN JUSTO TÍTULOESTE INMUEBLE DEBIDO A SU ESTADO OCUPACIONAL NO ADMITE VISITASIDEAL PARA INVERSORESLA LOCALIZACIÓN DEL INMUEBLE ES APROXIMADAVivienda de 61 m², según Catastro, y 6 m² de elementos comunes a la venta en Castro-Urdiales, Cantabria. La vivienda se comercializa con una plaza de aparcamiento. Es una planta baja en un bloque con ascensor. Muy bien comunicado por carretera (A-8) y transporte público (próximo a las paradas de autobús Alsa). Próximo a todo tipo de servicios e infraestructuras como centros educativos (IES Ataúlfo Argenta), comercios, supermercados, farmacias, zonas verdes... SIN COMISIÓN. La localización del activo es aproximada.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2537.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle Los Caserios"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109188426",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c5/67/2a/1366898968.webp",
+      "externalReference": "772",
+      "numPhotos": 28,
+      "price": 259000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 259000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 177.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Baltezana-Ontón",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Baltezana-Ontón",
+      "country": "es",
+      "latitude": 43.3414512,
+      "longitude": -3.1730265,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109188426/",
+      "distance": "5684",
+      "description": "Vivienda con encanto en Baltezana (Cantabria) – 177 m2, dos plantas, terrazas y vistas a la montaña. Se vende preciosa vivienda situada en el tranquilo y pintoresco pueblo de Baltezana, en Cantabria. Con una superficie construida de 177 m2, esta propiedad se distribuye en dos cómodas plantas, ofreciendo un espacio ideal para quienes buscan confort, naturaleza y vistas despejadas en un entorno rural privilegiado. En la planta baja se encuentra una cocina completamente equipada, un amplio salón con chimenea, perfecto para disfrutar de un ambiente cálido y acogedor, y un aseo de cortesía. Esta planta también dispone de un porche cubierto y una gran terraza, ideales para relajarse al aire libre, celebrar reuniones familiares o simplemente disfrutar del entorno. La planta superior alberga dos luminosas habitaciones, un baño completo con ducha, y una terraza con inmejorables vistas a la montaña, perfecta para comenzar el día con tranquilidad o ver el atardecer en un entorno natural inigualable. Esta vivienda combina a la perfección el estilo rústico con las comodidades modernas, convirtiéndola en una excelente opción tanto como residencia habitual como para segunda vivienda o inversión turística. Si buscas un hogar en un entorno natural, tranquilo y bien comunicado, esta es tu oportunidad. Contacta con nosotros y organizamos una visita.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1463.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Baltezana-Ontón, Castro-Urdiales",
+        "title": "Chalet adosado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 376,
+  "totalPages": 8,
+  "actualPage": 5,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar casas y pisos en ",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 250,
+  "lowerRangePosition": 200,
+  "paginable": true
+}

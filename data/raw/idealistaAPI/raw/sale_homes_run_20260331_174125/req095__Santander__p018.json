@@ -1,0 +1,2769 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "94344986",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d5/33/54/1411390805.webp",
+      "externalReference": "279308",
+      "numPhotos": 9,
+      "price": 149000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 149000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 67.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Peñacastillo - Nuevamontaña",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4560051,
+      "longitude": -3.833484,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/94344986/",
+      "distance": "2028",
+      "description": "Altamira vende piso de 67 m2 en la zona Cuatro Caminos-Valdecilla de la ciudad de Santander, provincia de Cantabria. Se trata de una vivienda en planta 3ª de un estupendo antiguo edificio de viviendas. El piso cuenta con dos habitaciones, salón-comedor, cocina y un cuarto de baño. Precisa de reforma y ofrece numerosa posibilidades. Ubicación en pleno centro de Santander, con todos los servicios a pie de calle, tales como hospitales, colegios, paradas de autobuses, comercios, supermercados, tren, etc.. . Buena comunicación con autovía S-10. No dejes escapar la oportunidad. Contacta con nosotros y visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2224.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108384740",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/15/9a/5f/1421305287.webp",
+      "numPhotos": 27,
+      "floor": "6",
+      "price": 310000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 310000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 98.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Los Castros",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Los Castros",
+      "country": "es",
+      "latitude": 43.47068,
+      "longitude": -3.7933485,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108384740/",
+      "distance": "1628",
+      "description": "Estupendo piso en la zona de General Dávila cerca de Santa clotilde, todo exterior con vistas despejadas y orientado principalmente al sur. Necesita reforma. Muy amplio con 85 mt útiles muy bien distribuidos en hall de entrada, amplio y cuadrado salón con acceso a una terraza, 3 amplias habitaciones, cocina de buen tamaño, y una baño. Suelos de parquet, todas las ventanas de pvc, y puerta de entrada de seguridad. edificio de hormigón con portal en perfecto estado sin barreras arquitectónicas, fachada reformada. Gastos de comunidad 65 euros mensuales. zona con toda clase de comercio y servicios y muy bien comunicada por transporte público. Zona de fácil aparcamiento.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3163.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Castros, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108370536",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8c/31/59/1342090398.webp",
+      "numPhotos": 1,
+      "floor": "5",
+      "price": 255000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 255000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 66.0,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Cuatro Caminos",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cuatro Caminos",
+      "country": "es",
+      "latitude": 43.4610899,
+      "longitude": -3.8238384,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108370536/",
+      "distance": "1132",
+      "description": "Zona Floranes trasversal piso alto con ascensor, sin barreras arquitectónicas 2 habitaciones, salón comedor, cocina montada independiente, baño ventanas cambiadas, luminoso en perfecto estado, reformado zona llana y con todos los servicios cercanos, bus, Valdecilla.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3864.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuatro Caminos, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108372273",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b5/46/2f/1345600532.webp",
+      "externalReference": "RV143",
+      "numPhotos": 66,
+      "floor": "6",
+      "price": 310000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 310000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 93.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Fernando de los Ríos",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Los Castros",
+      "country": "es",
+      "latitude": 43.4676708,
+      "longitude": -3.80322,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108372273/",
+      "distance": "804",
+      "description": "Ática inmobiliaria pone a la venta fantástico piso en una ubicación privilegiada y muy demandada de la ciudad de Santander. Situado en una zona estratégica entre General Dávila y las universidades, cerca de todos los servicios necesarios en el día a día, supermercados, colegios, institutos, centros de salud y con buena comunicación a través de transporte público a todos los rincones de la ciudad y a las maravillosas playas del Sardinero. Este luminoso piso se encuentra en un 6º piso con ascensor, sus 93 m2 construidos están distribuidos en la actualidad en hall de entrada, amplio  salón-comedor orientado al sur con acceso a una terraza, 3 amplias habitaciones, cocina independiente y baño completo con plato ducha.  La fachada del edificio será rehabilitada este año con fachada de Sate, quedando pagada la derrama en su totalidad. Ponte en contacto con nosotros para cualquier información o concertar una visita nos adaptamos a tus horarios y necesidades, estaremos encantados de atenderte. ¡No pierdas esta gran oportunidad! “El precio de venta no incluye impuestos, ni los gastos de notaría, registro de la propiedad y otros gastos inherentes a la compraventa, que serán a cargo del comprador. ”.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3333.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Los Castros, Santander",
+        "title": "Piso en calle Fernando de los Ríos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108355926",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/83/fc/ec/1341655766.webp",
+      "externalReference": "0602",
+      "numPhotos": 25,
+      "floor": "3",
+      "price": 770000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 770000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 145.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Joaquín Costa",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "El Sardinero",
+      "country": "es",
+      "latitude": 43.4704786,
+      "longitude": -3.7852909,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108355926/",
+      "distance": "2184",
+      "description": "Exclusiva vivienda en el corazón del Sardinero – Calle Joaquín Costa, Santander En una de las zonas más cotizadas y tranquilas de Santander, a solo tres minutos a pie de la playa, se encuentra esta espaciosa vivienda con una ubicación inmejorable. Situada en una urbanización privada con amplios jardines, esta propiedad combina amplitud, comodidad y potencial de actualización para crear el hogar ideal junto al mar. El piso está distribuido en tres dormitorios, dos baños completos, un gran salón-comedor muy luminoso, y dos terrazas cerradas que ofrecen espacio extra para disfrutar todo el año. La orientación este-oeste garantiza luz natural durante todo el día. Dispone de ascensor, acceso sin barreras arquitectónicas y dos puertas de entrada, lo que permite una mayor funcionalidad y privacidad. En el precio se incluye una plaza de garaje cerrada en el propio edificio, un valor añadido en esta zona. La vivienda necesita una actualización, pero ofrece infinitas posibilidades para adaptar sus generosos espacios a tu gusto. Ubicada junto a la salida del nuevo túnel de Tetuán, el acceso al centro de Santander es rápido y cómodo, convirtiéndose en un corto paseo. Además, se encuentra a un paso de la emblemática zona de restaurantes del Sardinero, pero lo suficientemente apartada para evitar molestias. Una oportunidad única para vivir o invertir en una de las mejores zonas de la ciudad.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 5310.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Sardinero, Santander",
+        "title": "Piso en calle Joaquín Costa"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108337774",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2a/8f/47/1380806189.webp",
+      "externalReference": "ABI55",
+      "numPhotos": 45,
+      "floor": "7",
+      "price": 460000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 460000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 95.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "avenida del Stadium",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "El Sardinero",
+      "country": "es",
+      "latitude": 43.4756139,
+      "longitude": -3.7935049,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108337774/",
+      "distance": "1985",
+      "description": "ABITAREA VENDE PISO ESPECTACULAR CON VISTAS PRIVILEGIADAS AL MAR. AMPLIO Y MUY LUMINOSO. Situado en una urbanización privada y en una de las mejores zonas de la ciudad de Santander, A POCOS METROS DE LA PLAYA de El Sardinero, se vende esta espectacular vivienda de 84 m2. La fantástica situación del inmueble le otorga unas PRIVILEGIADAS VISTAS AL MAR desde cualquiera de las estancias (excepto el baño) y hacen de este inmueble un lugar de auténtico lujo para vivir. Se distribuye en amplio hall de entrada, salón LUMINOSO con salida a una AMPLIA TERRAZA acristalada con vistas al mar, dos amplias habitaciones con vistas, un BAÑO TOTALMENTE REFORMADO (a estrenar), ARMARIOS EMPOTRADOS en habitación principal y pasillo, COCINA REFORMADA y equipada. El EDIFICIO DISPONE DE TRES ASCENSORES, SERVICIO DE PORTERO Y ZONAS AJARDINADAS. OPCIÓN A GARAJE CERRADO de gran tamaño, con ESPACIO PARA DOS COCHES, con acceso directo por ascensor desde la planta. (Consultar precio) Si estás pensando en comprar una vivienda para vivir en un entorno tranquilo y confortable y rodeado de servicios, no dudes en visitar esta fantástica vivienda. Es una excelente OPORTUNIDAD de conseguir lo que estas buscando. Consulta con ABITAREA GESTIÓN INMOBILIARIA y te atenderemos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 4842.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Sardinero, Santander",
+        "title": "Piso en avenida del Stadium"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108330695",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/10/a7/13/1340891113.webp",
+      "externalReference": "0601",
+      "numPhotos": 60,
+      "price": 1580000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1580000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 1343.0,
+      "rooms": 6,
+      "bathrooms": 9,
+      "address": "calle la Llata",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Sancibrián",
+      "country": "es",
+      "latitude": 43.4616614,
+      "longitude": -3.8797962,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108330695/",
+      "distance": "5641",
+      "description": "Exclusiva propiedad con negocio de restauración en Soto de la Marina ¿Sueñas con vivir en una gran residencia mientras gestionas tu propio negocio en un enclave privilegiado de la costa cántabra? Esta impresionante propiedad en Soto de la Marina reúne lo mejor de ambos mundos: una majestuosa vivienda unifamiliar con todas las comodidades y un consolidado negocio de restauración, todo ello sobre una amplia y cuidada parcela de más de 2.000 m², rodeada de naturaleza, privacidad y luminosidad. Con una imponente superficie construida de más de 1.300 m², este inmueble se presenta como una oportunidad única tanto para quienes buscan una exclusiva residencia habitual, como para inversores o emprendedores del sector hostelero. Planta baja: negocio listo para funcionar Accedemos a la planta baja, donde encontramos el restaurante-bar completamente equipado y en funcionamiento. La estancia cuenta con amplios ventanales que inundan el espacio de luz natural. Dispone de una gran cocina industrial, funcional y moderna, lista para operar desde el primer día, además de baños adaptados al público y una distribución práctica y acogedora. En el exterior, la parcela ofrece una zona de aparcamiento amplia para clientes, perfectamente integrada en el entorno, garantizando comodidad y accesibilidad. Planta primera: gran salón para eventos Subiendo por la escalera o mediante el cómodo ascensor privado, accedemos a la primera planta. Aquí se encuentra un salón de casi 250 m², ideal para celebraciones, banquetes, congresos o incluso reconvertible en espacio multifuncional. Sus grandes ventanales permiten que la luz natural sea protagonista, dotando de amplitud y elegancia a todo el espacio. Esta planta cuenta también con baños adicionales y está concebida para acoger eventos de gran aforo en un entorno cuidado y sofisticado. Planta segunda: la vivienda privada La segunda planta alberga la vivienda principal, una residencia de lujo diseñada con criterio, amplitud y una excelente orientación. Se compone de un gran salón familiar, una cocina de generosas dimensiones, tres enormes dormitorios, cada uno con su propio baño en suite, además de un comedor espacioso y confortable. Todas las estancias destacan por su luminosidad,  Desde esta planta se accede directamente al jardín principal, un espacio verde perfectamente mantenido que rodea la gran piscina privada, el lugar ideal para disfrutar del verano en un entorno de privacidad y tranquilidad. Planta bajo cubierta:  En la planta superior, bajo cubierta, la propiedad ofrece un espacio diseñado para el descanso y el bienestar. Aquí se encuentra un gimnasio privado y una espectacular suite de 60 m² que incluye un jacuzzi en el dormitorio, vestidor, baño privado y sauna, Además, esta planta dispone de dos dormitorios adicionales, ambos con baño en suite, perfectos para alojar invitados o para uso familiar. La amplia terraza exterior completa esta planta, ofreciendo unas vistas excepcionales y un espacio íntimo al aire libre. Exteriores y extras La finca cuenta con un cuidado y generoso jardín, gran zona de aparcamiento privado para invitados y un garaje cerrado de gran capacidad, ideal tanto para vehículos como para almacenamiento adicional. Todo ello en un entorno discreto, con fácil acceso desde la carretera y a escasos minutos del centro de Santander y las playas de la costa cántabra.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1176.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Sancibrián, Santa Cruz de Bezana",
+        "title": "Casa independiente en calle la Llata"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108330001",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c9/20/38/1419970919.webp",
+      "externalReference": "419962",
+      "numPhotos": 13,
+      "price": 190000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 190000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 117.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Castilla - Hermida",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Castilla - Hermida",
+      "country": "es",
+      "latitude": 43.4545574,
+      "longitude": -3.8183919,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108330001/",
+      "distance": "1100",
+      "description": "Inmueble con cargas. Vivienda situada en la Calle Castilla (Santander), esta vivienda destaca por una distribución clara que separa de forma natural la zona de día y la de descanso. El espacio principal lo ocupa un amplio salón, versátil y con dimensión suficiente para crear diferentes ambientes, estar, comedor y zona de trabajo o lectura, integrado a este espacio principal, se encuentra también la cocina que está sin equipar lo que ofrece la posibilidad de diseñarla completamente a medida. La zona de noche dispone de tres dormitorios con configuraciones variadas y un baño completo, permitiendo múltiples opciones de uso según las necesidades del comprador. Se trata de un inmueble con una base sólida y un potencial excepcional, ideal para personalizar y convertir en un hogar funcional y contemporáneo. Su ubicación, próxima a servicios y en un entorno residencial consolidado, añade aún más valor a una vivienda que ofrece carácter propio y amplias posibilidades de actualización.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1624.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castilla - Hermida, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108307676",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/82/27/6c/1354349347.webp",
+      "externalReference": "Moctezuma 4",
+      "numPhotos": 15,
+      "floor": "1",
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "studio",
+      "operation": "sale",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 0,
+      "bathrooms": 1,
+      "address": "calle Moctezuma, 4",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4639099,
+      "longitude": -3.8015836,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108307676/",
+      "distance": "694",
+      "description": "Ubicado junto al Paseo de Pereda y la Plaza de Pombo, este apartamento de 60 m2 se encuentra en una de las zonas más encantadoras e históricas de la ciudad, a pocos metros de la Bahía de Santander y cerca de todos los servicios. Combina tranquilidad y funcionalidad, además de ser una zona muy solicitada. La proximidad al Centro Botín y los Jardines de Pereda proporciona un valor adicional, brindando fácil acceso a atracciones culturales e interesantes espacios verdes y recreativos. Además, el garaje ubicado a pocos metros del edificio facilita el estacionamiento. Hay un ascensor a nivel del suelo, que llega al mismo piso que el apartamento.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 4167.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "studio"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Estudio en calle Moctezuma, 4"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108268162",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cc/84/12/1340390215.webp",
+      "externalReference": "116035",
+      "numPhotos": 30,
+      "price": 635000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 635000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 235.0,
+      "rooms": 6,
+      "bathrooms": 3,
+      "address": "paseo Menéndez Pelayo, 39",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4663505,
+      "longitude": -3.7972059,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108268162/",
+      "distance": "1119",
+      "description": "Santanderhouse vende casa de 4 plantas en Menendez Pelayo en Santander. ! Gran Oportunidad¡ venta de una estupenda casa muy especial en una zona muy demandada de Santander Calle Menendez Pelayo, bien comunicado con el Sardinero y a pocos minutos de Castelar. Se distribuye en tres plantas y un bajo cubierta, la planta baja, hall, salón -comedor, cocina con salida a patio cubierto, zona de lavandería, aseo y un trastero, primera planta zona recibidor, cuatro estancias, un salón con una bonita galería con vistas a la bahía y Peña Cabarga, un baño y dos dormitorios, la segunda planta zona recibidor, cuatro estancias distribuido en un despacho, tres dormitorios, uno de ellos con salida a un balcón y un baño, tercera planta zona recibidor, un baño, cuatro dormitorios dos de ellos con salida a balcón y un bajo cubierta acceso a través de una trampilla con escalera. Calefacción de gas natural, suelos de cerámica y madera, bonita escalera que comunica toda la vivienda, carpintería de PVC, la vivienda está en correcto estado de conservación en la fachada principal tiene una bonita terraza para disfrutar al aire libre, en la parte trasera de la vivienda tiene un terreno de 60m2. La vivienda pertenece a una urbanización privada de tres chalet acceso escaleras. Su ubicación es privilegiada, disponen de servicios al lado de casa, transporte publico, supermercado, farmacia, cafeterías, colegios etc. La vivienda es única por su ubicación metros y orientación, ideal para familias que buscan espacios amplios en una de la mejores zonas de Santander.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2702.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Chalet pareado en paseo Menéndez Pelayo, 39"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108246412",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7e/bd/10/1338330595.webp",
+      "externalReference": "BAJO A",
+      "numPhotos": 14,
+      "floor": "bj",
+      "price": 580000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 580000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 134.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Ernest Lluch s/n",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4721013,
+      "longitude": -3.813661,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108246412/",
+      "distance": "1131",
+      "description": "Descubre tu nuevo hogar en una urbanización privada y cerrada, que ofrece exclusividad y tranquilidad en cada rincón. Nuestra promoción se compone de un único edificio con 17 viviendas diseñadas para adaptarse a tus necesidades, con opciones de 1, 2, 3 y 4 habitaciones. Situada en un entorno inigualable, frente a la mayor zona verde y de ocio de la ciudad, disfrutarás de 250.000 m² de espacios verdes ideales para la práctica deportiva, paseos relajantes y momentos de esparcimiento en el Parque Público de Las Llamas. No pierdas la oportunidad de vivir en un lugar que combina la serenidad del entorno natural con la comodidad de la vida urbana. Vivir aquí significa estar perfectamente conectado. Tendrás un rápido acceso a la Universidad de Cantabria, las playas del Sardinero, el campo de Sport del Racing de Santander, el Palacio de Exposiciones y Congresos, y el Palacio de Deportes. Además, contarás con una excelente comunicación tanto con el centro de la ciudad como con la autovía S-20, la principal arteria de entrada a Santander. + info en Todas las viviendas disponen de terraza y una excelente iluminación, con orientaciones al sur para los apartamentos de 1 habitación, y al sur y otros dos vientos para el resto. Las viviendas en planta baja (dos apartamentos y un piso de 4 habitaciones) cuentan con un jardín privado con orientación mayoritariamente al sur. Nuestras viviendas están diseñadas con un fuerte compromiso hacia la sostenibilidad y el ahorro energético. Este objetivo se alcanza a través de:   Altos Niveles de Aislamiento térmico-acústico en fachadas, techos, suelos y tabiques interiores. Aerotermia: Utilizamos sistemas de aerotermia comunitarios que aprovechan la energía del aire exterior para proporcionar calefacción y agua caliente sanitaria, todo con un bajo consumo energético. Energía Solar Fotovoltaica: Contamos con paneles solares fotovoltaicos que generan electricidad renovable, reduciendo la dependencia de fuentes de energía no renovables y disminuyendo los costos de la comunidad. Ventilación con Recuperación de Calor: Cada vivienda dispone de sistemas individuales de ventilación que recuperan el calor, mejorando la calidad del aire interior y reduciendo la pérdida de energía. Se entregan con la cocina amueblada y con una plaza de garaje y trastero incluido en el precio.   Para más información visita nuestra web construccionesaramilatapia. com. Los precios indicados no incluyen IVA.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4328.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en Ernest Lluch s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108242373",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/59/ec/97/1387044939.webp",
+      "externalReference": "VS858",
+      "numPhotos": 30,
+      "floor": "2",
+      "price": 205000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 205000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 47.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Somo",
+      "province": "Cantabria",
+      "municipality": "Ribamontan al Mar",
+      "district": "Somo",
+      "country": "es",
+      "latitude": 43.4526407,
+      "longitude": -3.746979,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108242373/",
+      "distance": "5190",
+      "description": "SOMO. Inmobiliaria SOMOPLAYA e INMOLOREDO venden un excelente apartamento ubicado junto al embarcadero y a menos de 100 metros de la playa.  La vivienda se distribuye en salón, cocina independiente, un dormitorio con armario empotrado y baño completo. Dispone de ventanas de PVC con doble acristalamiento, calefacción eléctrica radiante con preinstalación para gas natural y puerta de entrada de seguridad. Situado en una segunda planta sin ascensor.  Posibilidad de compra de una plaza de garaje y un trastero de 12 m2 en el mismo edificio del apartamento por 25.000 € mas. INMOBILIARIAS en Somo y Loredo desde 1999. Somos expertos en la zona y les ofrecemos los inmuebles que se ajustan a su búsqueda y necesidades. Especialistas en la venta, alquiler para larga estancia, alquiler temporal, vacacional.. . Realizamos todo tipo de gestiones y le ayudamos a encontrar su hipoteca. Nuestro radio de acción es Somo, Loredo, Langre, Galizano, Suesa, Carriazo, Castanedo, Ribamontán al Monte, Marina de Cudeyo y Bareyo. ¡Llámenos y juntos encontraremos lo que busca! Inmobiliaria SOMOPLAYA: en Somo - Avenida Trasmiera 5 (junto a heladería Regma) Inmobiliaria INMOLOREDO: en Loredo - Calle Bajada a la Playa 47 (junto a escuela de surf +QSurf) [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 4362.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Somo, Ribamontan al Mar",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107879245",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c0/35/bb/1327545399.webp",
+      "externalReference": "SV1362",
+      "numPhotos": 40,
+      "price": 890000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 890000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 261.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Alisal - Cazoña - San Román",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.46364,
+      "longitude": -3.8644239,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107879245/",
+      "distance": "4402",
+      "description": "¡Tu hogar ideal en Santander! Chalet independiente a un paso de las playas y la ciudad. Si buscas una vivienda bien comunicada, luminosa y accesible, este chalet en San Román de la Llanilla es lo que necesitas. Situado en el Ayuntamiento de Santander, esta propiedad de 266 m² distribuidos en dos plantas más un amplio garaje se encuentra sobre una parcela de 750 m², lo que te ofrece espacio, comodidad y privacidad. Características destacadas: Entorno ideal: A pocos minutos de las playas y perfectamente comunicado con el centro de Santander, ofreciendo la combinación perfecta entre tranquilidad y cercanía a todos los servicios. Calidades premium: Equipado con materiales de primera calidad y tecnología de última generación, como el sistema de aerotermia y suelo radiante, lo que te garantiza eficiencia energética y confort durante todo el año. Accesibilidad total: Puertas de gran tamaño y acceso al jardín adaptados para personas con movilidad reducida, al igual que los baños, pensados para ofrecer total comodidad. Amplia distribución: Gran cocina abierta de alta gama, salón luminoso, 4 habitaciones, vestidor, 3 baños, 3 terrazas y un amplio garaje con salón-comedor y espacio preparado para instalar una cocina. Este chalet está listo para entrar a vivir, y lo mejor de todo es que su diseño aprovecha al máximo la luz natural gracias a sus grandes ventanales. Una vivienda pensada para disfrutarla al máximo. ¡No dejes pasar esta oportunidad! Contáctanos para más información y visita esta maravillosa casa. ¡Te esperamos!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3410.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Casa independiente"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108199204",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f8/2d/fb/1389196833.webp",
+      "externalReference": "GTRE-02374",
+      "numPhotos": 5,
+      "floor": "3",
+      "price": 103000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 103000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 75.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Carmen Bravo-Villasante",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4423572,
+      "longitude": -3.8537808,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108199204/",
+      "distance": "4178",
+      "description": "Inmueble sin posesión y sin acceso al interior. Las fotografías del interior y las características del activo, pueden no ajustarse al estado actual. NO COBRAMOS COMISIÓN DE INTERMEDIACIÓN AL COMPRADOR ¡Oportunidad de inversión con alta rentabilidad potencial! Te presentamos un piso con situación a regularizar, ideal para inversores interesados en oportunidades con margen de revalorización. Este tipo de inmuebles se ha convertido en una opción estratégica dentro del mercado inmobiliario, ofreciendo la posibilidad de obtener ingresos estables o una futura revalorización una vez regularizada su situación. El piso forma parte de un edificio residencial ubicado en una zona consolidada y bien comunicada de Santander, dentro de un entorno que combina tranquilidad, servicios cercanos y buenas conexiones con el resto del municipio y las principales vías de acceso de la provincia.  A su alrededor, el entorno cuenta con colegios, supermercados, centros de salud y transporte público a escasos minutos, lo que facilita la vida cotidiana de los residentes. Además, la zona ofrece espacios verdes, comercios locales y opciones de ocio, convirtiéndose en un entorno cómodo y equilibrado. Hipoges es una plataforma inmobiliaria donde podrás acceder a miles de activos inmobiliarios de diferentes tipos como viviendas, locales comerciales, terrenos, nueva obra, tanto a nivel particular como para inversores. Hipoges cuenta con una amplia cartera de activos inmuebles tanto en España como en Portugal y Grecia. Esta propiedad está ocupada por terceros. No se puede visitar. No apta para compradores que requieran financiación hipotecaria. El comprador será responsable de los trámites y gastos relacionados con la desocupación del inmueble. La información proporcionada referente a la distribución y estructura puede no ajustarse a la realidad, ya que su verificación no ha sido posible. La distribución indicada se ha tomado en referencia a la distribución de activos de la zona. ¿Necesitas financiación? Te ofrecemos la posibilidad de financiaciones de hasta el 100% para la compra de este inmueble. Entra en Finanwin. com, haz tu simulación y obtén la mejor oferta para tu Hipoteca de la manera más ágil y sencilla.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1373.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en calle Carmen Bravo-Villasante"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108199155",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/52/35/34/1389196750.webp",
+      "externalReference": "GTRE-01288",
+      "numPhotos": 12,
+      "floor": "2",
+      "price": 97039.0,
+      "priceInfo": {
+        "price": {
+          "amount": 97039.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 104400.0,
+            "priceDropValue": 7361,
+            "priceDropPercentage": 7
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 81.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle José María de Cossío",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4578738,
+      "longitude": -3.8425745,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108199155/",
+      "distance": "2682",
+      "description": "NO COBRAMOS COMISIÓN DE INTERMEDIACIÓN AL COMPRADOR INMUEBLE EN RENTABILIDAD  ¡Inversión con rentabilidad inmediata! Si estás buscando una oportunidad de inversión estable, este piso actualmente alquilado representa una opción perfecta. Se trata de un piso, ideal para inversores que deseen obtener rentabilidad, lo convierte en un producto atractivo y seguro, con un perfil de riesgo bajo dentro del mercado inmobiliario. El piso forma parte de un edificio residencial ubicado en una zona consolidada y bien comunicada ubicado en la localidad de Santander, dentro de un entorno que combina comodidad, servicios cercanos y calidad de vida. Gracias a su localización estratégica, este piso cuenta con alta demanda de alquiler, tanto por familias como por jóvenes profesionales, garantizando así un ingreso sostenido y un flujo estable de ingresos para el propietario. En su entorno inmediato se encuentran colegios, supermercados, centros de salud, zonas verdes y una amplia red de transporte público, con paradas a escasos minutos que facilitan la conexión con el centro urbano y las localidades vecinas. Además, el barrio dispone de una variada oferta de comercios, restauración y ocio, lo que refuerza su atractivo tanto para vivir como para invertir. Por su ubicación, estabilidad y proyección de valor, esta propiedad constituye una inversión inteligente y segura dentro de un mercado en constante crecimiento. Una oportunidad única para quienes desean consolidar o diversificar su cartera inmobiliaria. Hipoges es una plataforma inmobiliaria donde podrás acceder a miles de activos inmobiliarios de diferentes tipos como viviendas, locales comerciales, terrenos, nueva obra, tanto a nivel particular como para inversores. Hipoges cuenta con una amplia cartera de activos inmuebles tanto en España como en Portugal y Grecia. ¿Necesitas financiación? Te ofrecemos la posibilidad de financiaciones de hasta el 100% para la compra de este inmueble. Entra en Finanwin. com, haz tu simulación y obtén la mejor oferta para tu Hipoteca de la manera más ágil y sencilla.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1198.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en calle José María de Cossío"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "87806048",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/02/fb/51/1228736735.webp",
+      "externalReference": "1345",
+      "numPhotos": 15,
+      "floor": "6",
+      "price": 340000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 340000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Isabel II",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.4621819,
+      "longitude": -3.8106487,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/87806048/",
+      "distance": "61",
+      "description": "EN LA CALLE ISABEL II – Luminoso piso con ascensor en pleno centro de Santander.  ¿Te gustaría vivir en el corazón de Santander en una vivienda con encanto, luz natural y una ubicación inmejorable? Esta es tu oportunidad.    Situado en la emblemática calle Isabel II, una de las zonas más representativas y solicitadas de la ciudad, este piso ofrece comodidad, amplitud y excelente orientación, en un entorno privilegiado a tan solo un minuto andando del Ayuntamiento y del reconocido Centro Botín.    La vivienda, ubicada en un edificio con ascensor, cuenta con una superficie de 80 m² distribuidos de manera práctica y funcional. Al acceder, un acogedor hall de entrada conecta con un salón-comedor muy luminoso, perfecto para disfrutar del día a día o para reuniones en familia.    Dispone de tres dormitorios, todos con abundante luz natural, lo que los convierte en espacios versátiles ideales para dormitorios principales, zonas de estudio, teletrabajo o vestidores.    La cocina destaca por su claridad, permitiendo disfrutar de un espacio luminoso durante todo el día. El baño, de generosas dimensiones y actualmente con bañera, ofrece comodidad y funcionalidad.    El piso cuenta con orientación este y oeste, lo que garantiza una excelente iluminación natural a lo largo del día y favorece la ventilación cruzada, creando un ambiente fresco, confortable y saludable en toda la vivienda.    El edificio se encuentra en buen estado y dispone de ascensor, un valor añadido que mejora la accesibilidad y el confort. Además, la propiedad tiene bajos gastos de comunidad, lo que representa un importante ahorro a largo plazo.    Esta es una vivienda ideal tanto como residencia habitual como para quienes desean hacer una inversión segura y rentable en una de las mejores zonas de Santander, con una alta demanda y un entorno lleno de vida y servicios.    Este inmueble se comercializa en exclusiva a través de Vidal de la Peña.    Te esperamos en nuestras oficinas de la calle Navas de Tolosa, nº 3 Llámanos al para más información o para concertar una visita personalizada.    ¡No dejes escapar la oportunidad de vivir en el centro de Santander, en un piso con todo lo que necesitas! ¡Contacta con nosotros y ven a conocerlo!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 4250.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Piso en calle Isabel II"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108180361",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bd/38/3a/1336277460.webp",
+      "externalReference": "85891",
+      "numPhotos": 26,
+      "floor": "1",
+      "price": 399000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 399000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 120.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle San Fernando",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Numancia - San Fernando",
+      "country": "es",
+      "latitude": 43.4615374,
+      "longitude": -3.82003,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108180361/",
+      "distance": "821",
+      "description": "¡Gran oportunidad en pleno corazón de Santander! Te presentamos este amplio piso de 120 m2, situado en la calle San Fernando, una de las arterias principales y más demandadas de la ciudad. Gracias a su excelente orientación sur, la vivienda disfruta de luz natural durante todo el día, creando espacios cálidos, luminosos y acogedores que invitan a vivir cómodamente. Ideal para familias, profesionales o como inversión, esta propiedad destaca por su amplitud y versatilidad. Su distribución permite adaptarla a tus necesidades: desde entrar a vivir inmediatamente hasta personalizar cada detalle para crear un hogar a tu medida. Cada estancia ofrece comodidad y funcionalidad, convirtiendo la vivienda en una base sólida y atractiva en una de las zonas más codiciadas de Santander. La ubicación es privilegiada, rodeada de colegios, supermercados, transporte público, comercios y a pocos minutos del centro histórico y la bahía, lo que garantiza un estilo de vida urbano con máxima conectividad y comodidad. Vivir en la calle San Fernando significa tener todo al alcance de la mano, disfrutando del dinamismo de la ciudad sin renunciar a tranquilidad y confort. Se trata de una vivienda con alma, en un entorno que combina lujo urbano, practicidad y estilo de vida. Una oportunidad única para quienes buscan espacio, luz y una ubicación inmejorable en Santander. Contacta con un agente de SanFernando Grupo Inmobiliario para más información o para agendar tu visita.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3325.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Numancia - San Fernando, Santander",
+        "title": "Piso en calle San Fernando"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108175741",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/38/e3/ac/1336122224.webp",
+      "externalReference": "116034",
+      "numPhotos": 26,
+      "floor": "3",
+      "price": 338000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 338000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 144.0,
+      "exterior": true,
+      "rooms": 5,
+      "bathrooms": 1,
+      "address": "calle Cubo, 1",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.4631307,
+      "longitude": -3.8092101,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108175741/",
+      "distance": "107",
+      "description": "Santanderhouse vende piso el centro de Santander. Magnifico piso en calle El Cubo 144 m2 construido, distribuido en hall, salón, cocina, un baño, cinco habitaciones piso luminoso, con dos galerías, orientadas al Sur, con bonitas vistas. El edificio está rehabilitado la fachada y estructura (ITE) febrero 2025, el edificio no tiene ascensor. Su ubicación es privilegiada en el centro de Santander al lado del ayuntamiento, alrededor tiene todo tipo de servicios, colegios, comercios, bancos y restaurantes. Estupenda oportunidad para inversores, edificio sin ascensor. Solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2347.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Piso en calle Cubo, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108168823",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/eb/20/61/1335913872.webp",
+      "numPhotos": 48,
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 100.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Igollo",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.4290519,
+      "longitude": -3.8796387,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108168823/",
+      "distance": "6735",
+      "description": "¡Descubre tu nuevo hogar en Igollo! Esta encantadora casa independiente, a solo un kilómetro de la playa, es el refugio perfecto para quienes buscan comodidad y estilo. Totalmente reformada y equipada con electrodomésticos de primeras marcas, esta vivienda ofrece un ambiente acogedor y moderno. Con 100 m² construidos y 70 m² útiles, cuenta con dos habitaciones y un altillo que se puede utilizar como dormitorio adicional.  El salón, con techos altos, es ideal para disfrutar de momentos en familia, mientras que la cocina bien equipada hará las delicias de los amantes de la gastronomía. Además, la estufa de pellets añade un toque decorativo y cálido a los espacios. La casa está equipada con placas solares, lo que garantiza un consumo de luz cero, y cuenta con bomba de frío/calor y aire acondicionado para mantener la temperatura perfecta durante todo el año. No te olvides de la terraza con vistas panorámicas, un lugar ideal para relajarte al final del día. Los armarios empotrados ofrecen un amplio espacio de almacenamiento, y el trastero es perfecto para guardar lo que necesites. El aparcamiento en la calle no será un problema, ya que hay espacio suficiente justo al lado de la casa. ¡No dejes pasar la oportunidad de vivir en este maravilloso hogar!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2500.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente en Igollo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108148087",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/55/53/5d/1335290363.webp",
+      "externalReference": "VTS2667",
+      "numPhotos": 33,
+      "price": 299000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 299000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 323.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "Barrio el Pontón, 178 A",
+      "province": "Cantabria",
+      "municipality": "Marina de Cudeyo",
+      "country": "es",
+      "latitude": 43.4083534,
+      "longitude": -3.8008355,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108148087/",
+      "distance": "6042",
+      "description": "Te presentamos esta magnífica propiedad de tres plantas, pensada para quienes buscan espacio, comodidad y una ubicación estratégica. En la planta baja, encontrarás un amplio garaje ideal para varios vehículos, además de un práctico apartamento independiente, perfecto para invitados, familiares o incluso como opción de alquiler. La primera planta alberga una vivienda principal luminosa y acogedora: tres dormitorios amplios, un baño completo, un aseo de cortesía, un salón generoso para las reuniones familiares y una cocina equipada que invita a disfrutar de cada comida en casa. Subiendo al ático, te esperan otros tres dormitorios y un baño adicional, brindando así aún más espacio para tu familia, tus hobbies o tu zona de teletrabajo. Todo ello rodeado de un bonito jardín, donde podrás relajarte al aire libre, organizar barbacoas o simplemente disfrutar de la tranquilidad que aporta la naturaleza en tu propio hogar. Vivir aquí significa estar cerca de todo: la vitalidad de Santander, el encanto de Astillero y la comodidad de tener servicios, colegios y transportes a pocos minutos. Una propiedad pensada para quienes valoran el espacio, la calidad de vida y la cercanía a las principales ciudades de Cantabria. ¡Haz de esta casa tu próximo hogar! Solicitanos una visita! Ref. : VTS2667.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 926.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Marina de Cudeyo",
+        "title": "Chalet pareado en Barrio el Pontón, 178 a"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102372674",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/47/c1/e8/1193161372.webp",
+      "externalReference": " SANTANDER (SERVICIO MEDICO) CANTABRIA 390440076",
+      "numPhotos": 24,
+      "floor": "2",
+      "price": 338700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 338700.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 173.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "C/ARRABAL, 25",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.4635804,
+      "longitude": -3.804239,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/102372674/",
+      "distance": "478",
+      "description": "Se vende amplio inmueble en pleno corazón de Santander Capital.  Con una superficie de 173 m² cuenta con 4 estancias, 2 baños, terraza y se encuentra situado en la planta 2 del edificio, que cuenta con ascensor. Este inmueble dispone de espaciosas estancias que ofrece la posibilidad de ser reformado al gusto del comprador. Su ubicación es inmejorable, a tan solo 4 minutos andando del Paseo Marítimo de Santander, a 3 minutos de los Jardines de Pereda y el Centro Botín, y a 5 minutos del Ayuntamiento.   A escasos metros de la Plaza El Río de la Pila, que nunca ha perdido ese brillo que le caracterizó siempre. Quizás supo mantener intocable el reflejo de ese arroyo que pasa por debajo de su empinada calle y que en el siglo XIX vertía sus aguas en la fuente del centro de la plaza, sin condición de barrio 'bohemio'. Además, se encuentra rodeado de numerosos restaurantes, tiendas, cafeterías, colegios y servicios. Está muy bien comunicado, con líneas de autobuses y trenes cercanas. *El precio NO INCLUYE IMPUESTOS. *Se adjunta link con información del catastro. *La información contenida en este anuncio no es contractual. Consulte con su Ayuntamiento para las opciones urbanísticas.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1958.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Piso en C/arrabal, 25"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": true,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108105413",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a6/a3/22/1333986675.webp",
+      "numPhotos": 62,
+      "price": 1500000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 535.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Barrio de La Riva s/n",
+      "province": "Cantabria",
+      "municipality": "Marina de Cudeyo",
+      "country": "es",
+      "latitude": 43.4106811,
+      "longitude": -3.777798,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108105413/",
+      "distance": "6297",
+      "description": "PEREDA 36 ofrece a sus clientes en exclusiva MAGNIFICA casa palacio en Marina de Cudeyo, a 15 minutos de Santander, a 10 minutos del campo de golf de Pedereña y muy cercano a las playas de Somo, El Puntal, Langre, Galizano, etc. Se trata de una antigua construcción militar reconvertida en casa palaciega rural renacentista en el siglo XVI y acometida una magistral reforma en el año 2013 respetando el valor original y adaptándola a una vivienda con gran confortabilidad con todas las comodidades: 535 m2 en 4 plantas, con ASCENSOR, con maravilloso y cuidado jardín con gran cantidad de helechos, hortensias, arboles frutales, etc. En la reforma se respetaron los muros de piedra de un metro de espesor, estructura de imponentes vigas de madera y parte del suelo de grandes losas y el resto de tablones de madera de distintos anchos. Participaron en ella, los mejores profesionales de los oficios: canteros, carpinteros, forja, etc. Algo UNICO, algo DIFERENTE, algo MAGICO. Se accede a la vivienda por la fachada Sur por amplio portón de madera con arco de medio punto que da acceso a un amplio zaguán con losas de piedra con zona que comunica con amplio salón con salida a una espectacular terraza con grandes losas de piedra y a la cocina que igualmente tiene salida directa al jardín. En la planta baja se instaló un discreto ascensor que comunica todas las plantas. Se instalaron preciosas estufas florentinas tanto en el zaguán como en el salón. En la planta primera tas un gran vestíbulo nos encontramos con una impresionante habitación principal con gran chimenea con salida directa a una gran terraza solarium de madera donde disfrutar de maravillosas vistas con vestidor y precioso baño en suite. Además en esta planta hay otra habitación con salida a la terraza y otro amplio baño con ducha. En la segunda planta tras una maravillosa zona de estar con chimenea, pasamos a dos habitaciones más y un generoso baño para ambos. En la tercera planta, planta diáfana que en la actualidad se utiliza de biblioteca, zona de estar,. y se comunica por una escalera con un lucernario donde se disfruta de maravillosas vistas. El edificio cuenta además con calefacción de gas natural. El cuarto de calderas está en una pequeña edificación en el jardín. PEREDA36 es una agencia inmobiliaria especializada en las mejores zonas de Santander y Provincia donde acompañamos a nuestros clientes en todo el proceso de venta ó adquisición de vivienda. También comercializamos viviendas en zonas Prime de Madrid. Ofrecemos garantía de trabajo bien hecho, transparencia y un trato totalmente personalizado.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2804.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Marina de Cudeyo",
+        "title": "Casa independiente en Barrio de La Riva s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108095533",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/92/80/2b/1333673440.webp",
+      "numPhotos": 21,
+      "floor": "6",
+      "price": 395000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 395000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 125.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Centro - Ayuntamiento",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.4602505,
+      "longitude": -3.8078013,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108095533/",
+      "distance": "283",
+      "description": "Estupendo piso en el centro de Santander cerca del centro Botin y del hotel Bahia, para reformar y dejarlo según gustos y necesidades de cada comprador. Con una mágnifica orientación al sur y al este, con 2 balcones uno de ellos al sur. Muy luminoso tanto por la orientación como por la altura, sexto piso sin ser el último. Huecos amplios especialmente el de la cocina. Superficie de 125 m2 construidos y unos 115 m2 útiles aproximadamente, distribuidos en hall de entrada, 4 habitaciones, salon comedor al sur y con salida al balcón, cocina de muy buen tamaño y 2 baños completos. Suelos de parquet, armario empotrado con altillo en el pasillo y en dos de las tres habitaciones, puertas de madera y puerta de entrada blindada. Edificio de hormigón con ascensor. Gastos de comunidad 80 euros mensuales. Zona muy llana, muy comercial y con todos los servicios médicos, colegios, bancos, supermercados y Ayuntamiento muy cerca.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3160.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "91801507",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/41/61/46/1184758911.webp",
+      "externalReference": "CL56",
+      "numPhotos": 41,
+      "price": 490000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 490000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 380.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "Barrio Monte-Corbanera",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4791736,
+      "longitude": -3.8262138,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/91801507/",
+      "distance": "2291",
+      "description": "Casa pareada reformada en el año 2000 de trescientos setenta metros útiles, construida en una parcela de ochocientos cincuenta metros cuadrados. Se divide en tres plantas. En la planta baja se sitúan, la cocina con zona de comedor, salón, un aseo, y uno de los garajes desde el que podemos acceder a través de una puerta situada en el hall de entrada. En la primera planta encontramos los cinco dormitorios, uno de ellos doble, con un amplio armario empotrado y vestidor. Otro de los dormitorios también dispone de vestidor más dos baños completos con bañera. Por último, la planta del ático, completamente diáfana y muy luminosa, desde la cual se puede disfrutar de fantásticas vistas al mar. El inmueble dispone de un segundo garaje independiente de la casa de cuarenta metros cuadrados con muchas posibilidades y ciento ochenta metros cuadrados de jardín.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1289.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Chalet en Barrio Monte-Corbanera"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108036606",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/03/31/46/1332075388.webp",
+      "externalReference": "2027",
+      "numPhotos": 25,
+      "price": 495000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 495000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 462.0,
+      "rooms": 4,
+      "bathrooms": 0,
+      "address": "Barrio de Abajo",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.4283401,
+      "longitude": -3.8814898,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108036606/",
+      "distance": "6903",
+      "description": "Excepcional terreno con vivienda, ubicado en una de las mejores zonas de Municipio de Igollo de Camargo. Terreno de 9.462m2, totalmente llano y orientado al sur, en el se encuentra ubicada una vivienda (totalmente para rehabilitar). De la totalidad de terreno 3.276m2 son agrarios el resto es urbano. La vivienda dispone de plata baja de 130m2, Planta primera con 113 m2, trastero de 41 m2 y garaje-almacén de 94m2. El tejado de la vivienda se rehabilito no hace mucho y esta en perfecto estado de conservación. Terreno y vivienda de fácil acceso. Potencial: Posibilidad de subdividir el terreno en cuatro parcelas edificables de 1.546, 50m2 cada una, lo que permite la ejecución de una promoción de cuatro viviendas unifamiliares, de 309,30 m2, cada parcela independiente de 1.546 m2 cada una. Hay realizado un estudio sobre la construcción de las 4 viviendas unifamiliares. En un entorno natural, la zona es tranquila y privada, rodeado con una paisaje totalmente verde, próximo a la autovía y muy fácil acceso a la finca. Este municipio se destaca por sus paisajes verdes, un ambiente comunitario acogedor, ideal para aquellos que buscan calidad de vida en un entorno natural y a 15 minutos de Santander. Solicite información, visítelo y descubra su potencial.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 1071.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente en Barrio de Abajo"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108050476",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b7/6f/48/1353183612.webp",
+      "externalReference": "MIES599",
+      "numPhotos": 22,
+      "floor": "4",
+      "price": 210000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 210000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 64.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle San Luis",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Numancia - San Fernando",
+      "country": "es",
+      "latitude": 43.4626856,
+      "longitude": -3.8173034,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108050476/",
+      "distance": "599",
+      "description": "Mies de Rial quiere presentaros un piso céntrico y muy luminoso, en edificio de hormigón pegado al edificio de bomberos de la Plaza Numancia.  La vivienda tiene una luminosidad excepcional, con 3 huecos orientados al Sur, exterior y cálida, dotada de calefacción eléctrica.  Se distribuye en 3 habitaciones, la principal de generosas dimensiones, salón, cocina moderna amueblada y equipada y baño con ducha. La cocina y el baño están prácticamente a estrenar ya que han sido objeto de una renovación completa.  Edificio con tejado y fachada nuevo, pocos gastos de comunidad y buena vecindad. Ideal para urbanitas, para segunda residencia de aquéllos que aman vivir en el corazón de la ciudad, para inversores que quieran alquilar. Impuestos, gastos de notaría y registro no incluidos en el precio.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3281.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Numancia - San Fernando, Santander",
+        "title": "Piso en calle San Luis"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108038056",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9e/43/58/1331945966.webp",
+      "externalReference": "3 3A",
+      "numPhotos": 12,
+      "floor": "3",
+      "price": 690000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 690000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 144.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Jorge Sepúlveda, 16",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4744339,
+      "longitude": -3.8135094,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108038056/",
+      "distance": "1380",
+      "description": "Residencial El Tejo – Obra nueva: 54 viviendas con eficiencia energética A cerca del mar Nueva promoción de obra nueva: Residencial El Tejo, una exclusiva urbanización de 54 viviendas de 2, 3 y 4 dormitorios, todas con plaza de garaje y trastero incluidos. Ubicada en una zona residencial tranquila, muy bien comunicada y a pocos minutos de las playas del Sardinero. Características destacadas: Calificación energética A Sistema de aerotermia con apoyo de energía fotovoltaica Suelo radiante en toda la vivienda Ventilación mecánica con recuperación de calor Cocina y baños equipados con materiales de primera calidad Piscina comunitaria y amplias zonas verdes Viviendas sostenibles, modernas y confortables  Excelente ubicación: Cerca de las playas del Sardinero, colegios, supermercados, centros de salud y transporte Excelentes conexiones Una promoción diseñada para ofrecer máximo confort, eficiencia y calidad de vida. Ideal tanto para residencia habitual como para segunda vivienda. Contacta con nosotros para más información, planos y visitas personalizadas.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4792.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en calle Jorge Sepúlveda, 16"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108038039",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c5/6d/9c/1331946099.webp",
+      "externalReference": "3 4A",
+      "numPhotos": 12,
+      "floor": "4",
+      "price": 545000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 545000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 107.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Jorge Sepúlveda, 16",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4744339,
+      "longitude": -3.8135094,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108038039/",
+      "distance": "1380",
+      "description": "Residencial El Tejo – Obra nueva: 54 viviendas con eficiencia energética A cerca del mar Nueva promoción de obra nueva: Residencial El Tejo, una exclusiva urbanización de 54 viviendas de 2, 3 y 4 dormitorios, todas con plaza de garaje y trastero incluidos. Ubicada en una zona residencial tranquila, muy bien comunicada y a pocos minutos de las playas del Sardinero. Características destacadas: Calificación energética A Sistema de aerotermia con apoyo de energía fotovoltaica Suelo radiante en toda la vivienda Ventilación mecánica con recuperación de calor Cocina y baños equipados con materiales de primera calidad Piscina comunitaria y amplias zonas verdes Viviendas sostenibles, modernas y confortables  Excelente ubicación: Cerca de las playas del Sardinero, colegios, supermercados, centros de salud y transporte Excelentes conexiones Una promoción diseñada para ofrecer máximo confort, eficiencia y calidad de vida. Ideal tanto para residencia habitual como para segunda vivienda. Contacta con nosotros para más información, planos y visitas personalizadas.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 5093.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en calle Jorge Sepúlveda, 16"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108038030",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/02/9e/50/1331946098.webp",
+      "externalReference": "3 2B",
+      "numPhotos": 12,
+      "floor": "2",
+      "price": 595000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 595000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 122.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Jorge Sepúlveda, 16",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4744339,
+      "longitude": -3.8135094,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108038030/",
+      "distance": "1380",
+      "description": "Residencial El Tejo – Obra nueva: 54 viviendas con eficiencia energética A cerca del mar Nueva promoción de obra nueva: Residencial El Tejo, una exclusiva urbanización de 54 viviendas de 2, 3 y 4 dormitorios, todas con plaza de garaje y trastero incluidos. Ubicada en una zona residencial tranquila, muy bien comunicada y a pocos minutos de las playas del Sardinero. Características destacadas: Calificación energética A Sistema de aerotermia con apoyo de energía fotovoltaica Suelo radiante en toda la vivienda Ventilación mecánica con recuperación de calor Cocina y baños equipados con materiales de primera calidad Piscina comunitaria y amplias zonas verdes Viviendas sostenibles, modernas y confortables  Excelente ubicación: Cerca de las playas del Sardinero, colegios, supermercados, centros de salud y transporte Excelentes conexiones Una promoción diseñada para ofrecer máximo confort, eficiencia y calidad de vida. Ideal tanto para residencia habitual como para segunda vivienda. Contacta con nosotros para más información, planos y visitas personalizadas.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4877.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en calle Jorge Sepúlveda, 16"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108038002",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/18/88/95/1331945969.webp",
+      "externalReference": "3 1B",
+      "numPhotos": 12,
+      "floor": "1",
+      "price": 450000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 450000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 88.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Jorge Sepúlveda, 16",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4744339,
+      "longitude": -3.8135094,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108038002/",
+      "distance": "1380",
+      "description": "Residencial El Tejo – Obra nueva: 54 viviendas con eficiencia energética A cerca del mar Nueva promoción de obra nueva: Residencial El Tejo, una exclusiva urbanización de 54 viviendas de 2, 3 y 4 dormitorios, todas con plaza de garaje y trastero incluidos. Ubicada en una zona residencial tranquila, muy bien comunicada y a pocos minutos de las playas del Sardinero. Características destacadas: Calificación energética A Sistema de aerotermia con apoyo de energía fotovoltaica Suelo radiante en toda la vivienda Ventilación mecánica con recuperación de calor Cocina y baños equipados con materiales de primera calidad Piscina comunitaria y amplias zonas verdes Viviendas sostenibles, modernas y confortables  Excelente ubicación: Cerca de las playas del Sardinero, colegios, supermercados, centros de salud y transporte Excelentes conexiones Una promoción diseñada para ofrecer máximo confort, eficiencia y calidad de vida. Ideal tanto para residencia habitual como para segunda vivienda. Contacta con nosotros para más información, planos y visitas personalizadas.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 5114.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en calle Jorge Sepúlveda, 16"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108038003",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/36/28/d5/1331945970.webp",
+      "externalReference": "3 1C",
+      "numPhotos": 12,
+      "floor": "1",
+      "price": 425000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 425000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Jorge Sepúlveda, 16",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4744339,
+      "longitude": -3.8135094,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108038003/",
+      "distance": "1380",
+      "description": "Residencial El Tejo – Obra nueva: 54 viviendas con eficiencia energética A cerca del mar Nueva promoción de obra nueva: Residencial El Tejo, una exclusiva urbanización de 54 viviendas de 2, 3 y 4 dormitorios, todas con plaza de garaje y trastero incluidos. Ubicada en una zona residencial tranquila, muy bien comunicada y a pocos minutos de las playas del Sardinero. Características destacadas: Calificación energética A Sistema de aerotermia con apoyo de energía fotovoltaica Suelo radiante en toda la vivienda Ventilación mecánica con recuperación de calor Cocina y baños equipados con materiales de primera calidad Piscina comunitaria y amplias zonas verdes Viviendas sostenibles, modernas y confortables  Excelente ubicación: Cerca de las playas del Sardinero, colegios, supermercados, centros de salud y transporte Excelentes conexiones Una promoción diseñada para ofrecer máximo confort, eficiencia y calidad de vida. Ideal tanto para residencia habitual como para segunda vivienda. Contacta con nosotros para más información, planos y visitas personalizadas.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4250.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en calle Jorge Sepúlveda, 16"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108037984",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/22/31/7c/1331946101.webp",
+      "externalReference": "4 1A",
+      "numPhotos": 12,
+      "floor": "1",
+      "price": 425000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 425000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Jorge Sepúlveda, 16",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4744339,
+      "longitude": -3.8135094,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108037984/",
+      "distance": "1380",
+      "description": "Residencial El Tejo – Obra nueva: 54 viviendas con eficiencia energética A cerca del mar Nueva promoción de obra nueva: Residencial El Tejo, una exclusiva urbanización de 54 viviendas de 2, 3 y 4 dormitorios, todas con plaza de garaje y trastero incluidos. Ubicada en una zona residencial tranquila, muy bien comunicada y a pocos minutos de las playas del Sardinero. Características destacadas: Calificación energética A Sistema de aerotermia con apoyo de energía fotovoltaica Suelo radiante en toda la vivienda Ventilación mecánica con recuperación de calor Cocina y baños equipados con materiales de primera calidad Piscina comunitaria y amplias zonas verdes Viviendas sostenibles, modernas y confortables  Excelente ubicación: Cerca de las playas del Sardinero, colegios, supermercados, centros de salud y transporte Excelentes conexiones Una promoción diseñada para ofrecer máximo confort, eficiencia y calidad de vida. Ideal tanto para residencia habitual como para segunda vivienda. Contacta con nosotros para más información, planos y visitas personalizadas.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4250.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en calle Jorge Sepúlveda, 16"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108037971",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3e/e0/ab/1331945967.webp",
+      "externalReference": "4 5A",
+      "numPhotos": 12,
+      "floor": "2",
+      "price": 595000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 595000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 122.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Jorge Sepúlveda, 16",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4744339,
+      "longitude": -3.8135094,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108037971/",
+      "distance": "1380",
+      "description": "Residencial El Tejo – Obra nueva: 54 viviendas con eficiencia energética A cerca del mar Nueva promoción de obra nueva: Residencial El Tejo, una exclusiva urbanización de 54 viviendas de 2, 3 y 4 dormitorios, todas con plaza de garaje y trastero incluidos. Ubicada en una zona residencial tranquila, muy bien comunicada y a pocos minutos de las playas del Sardinero. Características destacadas: Calificación energética A Sistema de aerotermia con apoyo de energía fotovoltaica Suelo radiante en toda la vivienda Ventilación mecánica con recuperación de calor Cocina y baños equipados con materiales de primera calidad Piscina comunitaria y amplias zonas verdes Viviendas sostenibles, modernas y confortables  Excelente ubicación: Cerca de las playas del Sardinero, colegios, supermercados, centros de salud y transporte Excelentes conexiones Una promoción diseñada para ofrecer máximo confort, eficiencia y calidad de vida. Ideal tanto para residencia habitual como para segunda vivienda. Contacta con nosotros para más información, planos y visitas personalizadas.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4877.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en calle Jorge Sepúlveda, 16"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108037995",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c5/6d/9c/1331946099.webp",
+      "externalReference": "4 5B",
+      "numPhotos": 12,
+      "floor": "2",
+      "price": 595000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 595000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 123.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Jorge Sepúlveda, 16",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4744339,
+      "longitude": -3.8135094,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108037995/",
+      "distance": "1380",
+      "description": "Residencial El Tejo – Obra nueva: 54 viviendas con eficiencia energética A cerca del mar Nueva promoción de obra nueva: Residencial El Tejo, una exclusiva urbanización de 54 viviendas de 2, 3 y 4 dormitorios, todas con plaza de garaje y trastero incluidos. Ubicada en una zona residencial tranquila, muy bien comunicada y a pocos minutos de las playas del Sardinero. Características destacadas: Calificación energética A Sistema de aerotermia con apoyo de energía fotovoltaica Suelo radiante en toda la vivienda Ventilación mecánica con recuperación de calor Cocina y baños equipados con materiales de primera calidad Piscina comunitaria y amplias zonas verdes Viviendas sostenibles, modernas y confortables  Excelente ubicación: Cerca de las playas del Sardinero, colegios, supermercados, centros de salud y transporte Excelentes conexiones Una promoción diseñada para ofrecer máximo confort, eficiencia y calidad de vida. Ideal tanto para residencia habitual como para segunda vivienda. Contacta con nosotros para más información, planos y visitas personalizadas.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4837.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en calle Jorge Sepúlveda, 16"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108037989",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/02/9e/50/1331946098.webp",
+      "externalReference": "3 PB B",
+      "numPhotos": 12,
+      "floor": "bj",
+      "price": 620000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 620000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 130.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Jorge Sepúlveda, 16",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4744339,
+      "longitude": -3.8135094,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108037989/",
+      "distance": "1380",
+      "description": "Residencial El Tejo – Obra nueva: 54 viviendas con eficiencia energética A cerca del mar Nueva promoción de obra nueva: Residencial El Tejo, una exclusiva urbanización de 54 viviendas de 2, 3 y 4 dormitorios, todas con plaza de garaje y trastero incluidos. Ubicada en una zona residencial tranquila, muy bien comunicada y a pocos minutos de las playas del Sardinero. Características destacadas: Calificación energética A Sistema de aerotermia con apoyo de energía fotovoltaica Suelo radiante en toda la vivienda Ventilación mecánica con recuperación de calor Cocina y baños equipados con materiales de primera calidad Piscina comunitaria y amplias zonas verdes Viviendas sostenibles, modernas y confortables  Excelente ubicación: Cerca de las playas del Sardinero, colegios, supermercados, centros de salud y transporte Excelentes conexiones Una promoción diseñada para ofrecer máximo confort, eficiencia y calidad de vida. Ideal tanto para residencia habitual como para segunda vivienda. Contacta con nosotros para más información, planos y visitas personalizadas.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4769.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en calle Jorge Sepúlveda, 16"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108037983",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c5/6d/9c/1331946099.webp",
+      "externalReference": "3 1A",
+      "numPhotos": 12,
+      "floor": "1",
+      "price": 475000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 475000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Jorge Sepúlveda, 16",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4744339,
+      "longitude": -3.8135094,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108037983/",
+      "distance": "1380",
+      "description": "Residencial El Tejo – Obra nueva: 54 viviendas con eficiencia energética A cerca del mar Nueva promoción de obra nueva: Residencial El Tejo, una exclusiva urbanización de 54 viviendas de 2, 3 y 4 dormitorios, todas con plaza de garaje y trastero incluidos. Ubicada en una zona residencial tranquila, muy bien comunicada y a pocos minutos de las playas del Sardinero. Características destacadas: Calificación energética A Sistema de aerotermia con apoyo de energía fotovoltaica Suelo radiante en toda la vivienda Ventilación mecánica con recuperación de calor Cocina y baños equipados con materiales de primera calidad Piscina comunitaria y amplias zonas verdes Viviendas sostenibles, modernas y confortables  Excelente ubicación: Cerca de las playas del Sardinero, colegios, supermercados, centros de salud y transporte Excelentes conexiones Una promoción diseñada para ofrecer máximo confort, eficiencia y calidad de vida. Ideal tanto para residencia habitual como para segunda vivienda. Contacta con nosotros para más información, planos y visitas personalizadas.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4750.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en calle Jorge Sepúlveda, 16"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108037966",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9e/43/58/1331945966.webp",
+      "externalReference": "3 PB A",
+      "numPhotos": 12,
+      "floor": "bj",
+      "price": 620000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 620000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 134.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Jorge Sepúlveda, 16",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4744339,
+      "longitude": -3.8135094,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/108037966/",
+      "distance": "1380",
+      "description": "Residencial El Tejo – Obra nueva: 54 viviendas con eficiencia energética A cerca del mar Nueva promoción de obra nueva: Residencial El Tejo, una exclusiva urbanización de 54 viviendas de 2, 3 y 4 dormitorios, todas con plaza de garaje y trastero incluidos. Ubicada en una zona residencial tranquila, muy bien comunicada y a pocos minutos de las playas del Sardinero. Características destacadas: Calificación energética A Sistema de aerotermia con apoyo de energía fotovoltaica Suelo radiante en toda la vivienda Ventilación mecánica con recuperación de calor Cocina y baños equipados con materiales de primera calidad Piscina comunitaria y amplias zonas verdes Viviendas sostenibles, modernas y confortables  Excelente ubicación: Cerca de las playas del Sardinero, colegios, supermercados, centros de salud y transporte Excelentes conexiones Una promoción diseñada para ofrecer máximo confort, eficiencia y calidad de vida. Ideal tanto para residencia habitual como para segunda vivienda. Contacta con nosotros para más información, planos y visitas personalizadas.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4627.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en calle Jorge Sepúlveda, 16"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108043980",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0b/fc/fe/1332135423.webp",
+      "externalReference": "25C021",
+      "numPhotos": 32,
+      "price": 750000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 400.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "Marina de Cudeyo",
+      "province": "Cantabria",
+      "municipality": "Marina de Cudeyo",
+      "country": "es",
+      "latitude": 43.4042641,
+      "longitude": -3.7913258,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108043980/",
+      "distance": "6624",
+      "description": "  ¿Busca usted una vivienda impresionante en una ubicación envidiable? Esta extraordinaria casa independiente en Pontejos podría ser la elección perfecta para su nuevo hogar. Situada en una tranquila y prestigiosa zona residencial, esta propiedad ofrece la combinación ideal de espacio, comodidad y estilo. La residencia, con una hermosa fachada que refleja el espíritu arquitectónico de la década de los 80, fue construida en 1987 y desde entonces ha sido cuidadosamente mantenida. Con un total de 400 metros cuadrados construidos, de los cuales 323 son metros útiles, esta casa proporciona un amplio espacio para la vida familiar y social. Uno de los aspectos más destacados de esta vivienda es sus cinco generosas habitaciones, ideales para acomodar a una familia numerosa o para recibir visitas. Cada habitación ha sido diseñada pensando en la comodidad y funcionalidad, con amplios espacios que permiten la entrada de luz natural durante todo el día. Los detalles importan, y esta casa no decepciona en cuanto a equipamiento y características adicionales. Totalmente amueblada y equipada con electrodomésticos de calidad, esta propiedad está lista para convertirse en su hogar desde el primer día. Nada más cruzar la puerta podrá apreciar ensaladas distribuciones y acabados de calidad. El hogar cuenta con un espacioso garaje, una característica esencial para aquellos que valoran la seguridad y comodidad del aparcamiento privado. Además, encontrará una amplia parcela que rodea la casa, ofreciendo un respiro de tranquilidad y una oportunidad perfecta para disfrutar de actividades al aire libre o simplemente relajarse en un entorno natural. El jardín de la propiedad es un espacio encantador que invita a relajarse y disfrutar del aire libre. Perfecto para los entusiastas de la horticultura, un espacio de esparcimiento para los más pequeños o un relajante escenario durante las tardes veraniegas. La conectividad nunca será un problema ya que la casa está perfectamente conectada con las principales vías de transporte público con una parada de autobús cercana, facilitando el acceso a los diversos puntos de interés de la ciudad. Además, el sistema de alcantarillado asegura una infraestructura moderna y eficiente. Todas estas características se unen para crear una residencia única que ofrece una calidad de vida excepcional. Un espacio donde cada miembro de la familia encontrará su propio rincón especial, donde cada detalle ha sido pensado para satisfacer las necesidades más exigentes. No pierda la oportunidad de visitar esta magnífica propiedad. La mezcla entre un diseño clásico y su adaptación a las comodidades modernas hacen de esta casa una verdadera rareza en el mercado. ¡Contáctenos hoy mismo para concertar una visita! Podrá experimentar de primera mano la tranquilidad, el lujo y el confort que este hogar tiene para ofrecer. Descubra por qué esta casa es mucho más que solo ladrillos y cemento; es un lugar para vivir, crecer y crear recuerdos inolvidables. Su sueño de encontrar la casa perfecta en Pontejos puede hacerse realidad con esta propiedad inigualable.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1875.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Marina de Cudeyo",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108039212",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/48/f5/0b/1333717458.webp",
+      "numPhotos": 26,
+      "price": 1290000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1290000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 744.0,
+      "rooms": 7,
+      "bathrooms": 4,
+      "address": "calle Udial, 7",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4766691,
+      "longitude": -3.8119702,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108039212/",
+      "distance": "1606",
+      "description": "Espectacular Chalet Independiente en Valdenoja, Santander - Lujo y Exclusividad Descubre esta magnífica propiedad en la prestigiosa zona de Valdenoja, Santander. Este chalet independiente, con una parcela de 3624 metros cuadrados y 744 metros construidos, ofrece un estilo de vida de lujo y confort inigualable. Imagina vivir en un hogar donde cada detalle ha sido cuidadosamente diseñado para ofrecer el máximo bienestar. Este chalet cuenta con 6 habitaciones, cada una con su propio baño independiente, garantizando privacidad y comodidad para todos los miembros de la familia. Los amplios salones, con terraza y balcón, son perfectos para el entretenimiento y el relax, y ofrecen impresionantes vistas que te dejarán sin aliento. La gran cocina americana es un espacio de diseño, ideal para los amantes de la gastronomía, mientras que el espacioso hall de entrada da la bienvenida a un hogar lleno de elegancia. Además, la propiedad cuenta con un garaje amplio con trastero, para mayor comodidad y almacenamiento. Para disfrutar del aire libre, el chalet dispone de una piscina y un amplio jardín, un verdadero oasis de tranquilidad y belleza. Construido con las mejores calidades y con una gran reforma realizada en 2008, este chalet es una oportunidad única para vivir en una de las zonas más exclusivas de Santander.  \"Valdenoja: Donde el lujo se encuentra con la serenidad. \" Ventajas principales: Lujo y exclusividad en una ubicación privilegiada. Amplitud y privacidad: 744 metros construidos y 3624 metros de parcela. Comodidad: 6 habitaciones, cada una con su baño independiente. Espacios para disfrutar: Amplios salones, terraza, balcón, piscina y jardín. Diseño y calidad: Cocina americana de diseño y reforma reciente (2008). No pierdas la oportunidad de visitar esta propiedad excepcional. ¡Contáctanos para más información y para concertar una visita! .  Llama al.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1734.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Casa independiente en calle Udial, 7"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108037801",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/dc/6a/e0/1403933840.webp",
+      "externalReference": "VPE146",
+      "numPhotos": 23,
+      "price": 215000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 215000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 58.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Marina de Cudeyo",
+      "province": "Cantabria",
+      "municipality": "Marina de Cudeyo",
+      "country": "es",
+      "latitude": 43.4407273,
+      "longitude": -3.7681503,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108037801/",
+      "distance": "4136",
+      "description": "PEDREÑA. Inmobiliaria SOMOPLAYA e INMOLOREDO venden apartamento en urbanización privada. Se trata de una vivienda en planta baja con un jardín de 50 m2 orientado al sur. Distribuida en salón comedor, cocina americana, 1 amplio dormitorio con armario empotrado y baño. Zona de aparcamiento exterior con plaza asignada para un coche. Zona residencial. Vivienda muy luminosa. Calefacción de gas natural. Caseta de madera y barbacoa en el jardín. INMOBILIARIAS en Somo y Loredo desde 1999. Somos expertos en la zona y les ofrecemos los inmuebles que se ajustan a su búsqueda y necesidades. Especialistas en la venta, alquiler para larga estancia, alquiler temporal, vacacional.. . Realizamos todo tipo de gestiones y le ayudamos a encontrar su hipoteca. Nuestro radio de acción es Somo, Loredo, Langre, Galizano, Suesa, Carriazo, Castanedo, Ribamontán al Monte, Marina de Cudeyo y Bareyo. ¡Llámenos y juntos encontraremos lo que busca! Inmobiliaria SOMOPLAYA: en Somo - Avenida Trasmiera 5 (junto a heladería Regma) Inmobiliaria INMOLOREDO: en Loredo - Calle Bajada a la Playa 47 (junto a escuela de surf +QSurf) [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3707.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Marina de Cudeyo",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107944756",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d8/e7/d6/1405772204.webp",
+      "externalReference": "CA 447",
+      "numPhotos": 64,
+      "price": 1200000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 492.0,
+      "rooms": 5,
+      "bathrooms": 6,
+      "address": "Barrio Pontejos",
+      "province": "Cantabria",
+      "municipality": "Marina de Cudeyo",
+      "country": "es",
+      "latitude": 43.4304061,
+      "longitude": -3.7493015,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107944756/",
+      "distance": "6042",
+      "description": "En una espectacular finca de 11.700 m² con arbolado de distintas especies, se encuentra esta sólida vivienda unifamiliar construida en 2010 con ladrillo caravista, destacando por su excelente calidad constructiva y su privilegiada ubicación junto a la ría, en una de las zonas más atractivas de Rubayo.     La casa se distribuye en tres plantas:     Planta principal Cuenta con un amplio salón-comedor con chimenea y salida al jardín, una cocina independiente, un dormitorio con armarios empotrados en suite con baño completo. , y un aseo para dar servicio a la planta. Planta primera Cuenta con 3 amplios dormitorios, uno de ellos tipo suite con baño, además de otro baño y un aseo que dan servicio al resto de dormitorios. Planta inferior (semisótano) Dispone de un gran garaje con capacidad para dos coches, y un espacio adicional con una zona de salón con chimenea y zona de descanso, y un baño completo.     La parcela, completamente privada, combina zona de piscina, zonas ajardinadas, árboles consolidados y un entorno natural único que garantiza tranquilidad y privacidad, a un paso de la costa y con excelente comunicación con Santander. Una propiedad singular que combina ubicación, calidad y amplitud en un entorno natural inmejorable.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2439.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Marina de Cudeyo",
+        "title": "Casa independiente en Barrio Pontejos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107927439",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d8/1a/a2/1328561609.webp",
+      "externalReference": "1417",
+      "numPhotos": 46,
+      "floor": "8",
+      "price": 520000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 520000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Centro - Ayuntamiento",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.4607003,
+      "longitude": -3.807879,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107927439/",
+      "distance": "241",
+      "description": "*AHORA NO DISPONIBLE*CASTILLA. Frente a las Estaciones. Edificio Gurmesindo Puente. Ático de 85m2 con preciosa terraza de 50m2, con vistas despejadas. Cocina. Salón-comedor. 2 dormitorios. Baño. La cocina y 1 dormitorio con vistas a la bahía. El salón-comedor (con dos amplios ventanales) y 1 dormitorio tienen salida a la terraza. Todo exterior, a excepción del baño. En la planta no hay otros vecinos y tiene 2 puertas de acceso. Cuenta con puerta de seguridad y cortafuegos en el rellano. Ventanas oscilobatientes y una de la terraza, corredera. Garaje con salida a la Plaza Progreso, con ascensor (el garaje cuenta con 2 ascensores y nunca se han quedado sin servicio) y acceso directo desde la vivienda. Es una oportunidad ÚNICA: piso en el centro, con amplía terraza, vistas y garaje. Honorarios a propietarios 2,5% y a compradores 0. Somos los más competitivos del mercado. VALORAMOS GRATUITAMENTE SU PROPIEDAD.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6118.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Ático"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107896348",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/97/1b/ef/1327620866.webp",
+      "externalReference": "3º A",
+      "numPhotos": 13,
+      "floor": "3",
+      "price": 470000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 470000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 77.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Ernest Lluch s/n",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4721013,
+      "longitude": -3.813661,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/107896348/",
+      "distance": "1131",
+      "description": "Descubre tu nuevo hogar en una urbanización privada y cerrada, que ofrece exclusividad y tranquilidad en cada rincón. Nuestra promoción se compone de un único edificio con 17 viviendas diseñadas para adaptarse a tus necesidades, con opciones de 1, 2, 3 y 4 habitaciones. Situada en un entorno inigualable, frente a la mayor zona verde y de ocio de la ciudad, disfrutarás de 250.000 m² de espacios verdes ideales para la práctica deportiva, paseos relajantes y momentos de esparcimiento en el Parque Público de Las Llamas. No pierdas la oportunidad de vivir en un lugar que combina la serenidad del entorno natural con la comodidad de la vida urbana. Vivir aquí significa estar perfectamente conectado. Tendrás un rápido acceso a la Universidad de Cantabria, las playas del Sardinero, el campo de Sport del Racing de Santander, el Palacio de Exposiciones y Congresos, y el Palacio de Deportes. Además, contarás con una excelente comunicación tanto con el centro de la ciudad como con la autovía S-20, la principal arteria de entrada a Santander. Todas las viviendas disponen de terraza y una excelente iluminación, con orientaciones al sur para los apartamentos de 1 habitación, y al sur y otros dos vientos para el resto. Las viviendas en planta baja (2 apartamentos y un piso de 4 habitaciones) cuentan con un terreno privado con orientación mayoritariamente al sur. Nuestras viviendas están diseñadas con un fuerte compromiso hacia la sostenibilidad y el ahorro energético. Este objetivo se alcanza a través de:  Altos Niveles de Aislamiento térmico-acústico en fachadas, techos, suelos y tabiques interiores.  Aerotermia: Utilizamos sistemas de aerotermia comunitarios que aprovechan la energía del aire exterior para proporcionar calefacción y agua caliente sanitaria, todo con un bajo consumo energético.  Energía Solar Fotovoltaica: Contamos con paneles solares fotovoltaicos que generan electricidad renovable, reduciendo la dependencia de fuentes de energía no renovables y disminuyendo los costos de la comunidad.  Ventilación con Recuperación de Calor: Cada vivienda dispone de sistemas individuales de ventilación que recuperan el calor, mejorando la calidad del aire interior y reduciendo la pérdida de energía. Se entregan con la cocina amueblada y con una plaza de garaje y trastero incluido en el precio.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 6104.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Piso en Ernest Lluch s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107873954",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f6/26/91/1326895958.webp",
+      "externalReference": "ACR-01888",
+      "numPhotos": 28,
+      "floor": "10",
+      "price": 345000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 345000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 103.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "paseo del General Dávila",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4664952,
+      "longitude": -3.8134614,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107873954/",
+      "distance": "547",
+      "description": "Amplio y Luminoso PISO con Vistas espectaculares en General Dávila con zona privada de aparcamiento y además una pequeña plaza de garaje. Imagínate vivir en una décima planta con vistas despejadas a la bahía al sur, y al parque de las Llamas.  Este piso, con mucha luz natural, cuenta con una amplia terraza cerrada orientada al Oeste y al sur, con posibilidad de abrirla. El piso, que necesita reforma, tiene muchas posibilidades por su amplitud y luminosidad. La distribución del piso, con amplias estancias, es la siguiente: -Zona de entrada -Una cocina independiente. -Un salón con amplias ventanas al Sur, llenando el espacio de luz y calidez. -Tres habitaciones espaciosas. -Un cuarto de baño completo (con posibilidad de hacer un segundo baño, ya que lo había originalmente). Además, la finca ofrece comodidades exclusivas: -Una zona de aparcamiento privada para los vecinos. -Una pequeña plaza de garaje en el sótano, ¡un extra muy valorado! Ubicado en la demandada zona de General Dávila, tendrás todos los servicios a tu alcance: comercios, supermercados, colegios, transporte público.. . ¡Y estarás a tan solo cinco minutos del Ayuntamiento! No dejes escapar esta oportunidad. Solicita información o una visita sin compromiso: -Respondiendo a este anuncio. -Llamándonos. -Acercándote a cualquiera de nuestras Oficinas en SANTANDER, calle Juan de Herrera 8 Entlo. (Cerca Ayto. ), o en SOTO DE LA MARINA, en Av. Marqués de Valdecilla 97. EL PRECIO NO INCLUYE GASTOS E IMPUESTOS. NO HAY HONORARIOS DE INTERMEDIACIÓN INMOBILIARIA PARA EL COMPRADOR. (A título orientativo, el impuesto aplicable para segundas transmisiones en Cantabria (ITP) es del 9 %, pudiendo ser menor, en función de las circunstancias personales del comprador u otras circunstancias previstas legalmente).",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3350.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Piso en paseo del General Dávila"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107569842",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d5/ae/b4/1395786418.webp",
+      "externalReference": "2681",
+      "numPhotos": 8,
+      "price": 141905.0,
+      "priceInfo": {
+        "price": {
+          "amount": 141905.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 127.0,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle la Gloria",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4629882,
+      "longitude": -3.8374654,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107569842/",
+      "distance": "2225",
+      "description": "� ¡EXCLUSIVA EN SANTANDER – INVERSIÓN CON RENTABILIDAD HASTA 2029! � Inquilinos con contrato en vigor hasta el 18/01/2029  Pagos al día � Inmueble no visitable. Fotografías orientativas. � No apto para financiación hipotecaria � Piso con garaje en edificio residencial en Santander ✨ Distribución práctica, salón-comedor luminoso y ambiente acogedor � Servicios esenciales cerca – � Excelente conexión por carretera � Rentabilidad asegurada desde el primer día El comprador se subroga al contrato de alquiler vigente � A la finalización del contrato, los inquilinos deberán abandonar la vivienda, salvo acuerdo entre las partes ❗ SIN comisión de intermediación al comprador � Contacta para más información Renta actual: 310 € / mes Fin del contrato: 18/01/2029.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1117.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en calle la Gloria"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107571761",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8a/63/16/1395787521.webp",
+      "externalReference": "2683",
+      "numPhotos": 4,
+      "price": 127000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 127000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 105.0,
+      "exterior": false,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "avenida del Deporte",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4597255,
+      "longitude": -3.8508968,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107571761/",
+      "distance": "3321",
+      "description": "Se ofrece inmueble en Santander, actualmente arrendado con contrato de alquiler en vigor, propiedad de fondo de inversión y orientado a perfiles inversores. La compraventa se realiza con subrogación obligatoria del contrato existente, manteniéndose las condiciones actuales del arrendamiento. ℹ️ Información clave para inversores � Inmueble alquilado – no es posible realizar visitas � No se dispone de fotografías del interior de la vivienda � No hay planos ni detalles de distribución disponibles � Activo perteneciente a fondo de inversión ❗ Sin comisión de intermediación al comprador ⚠️ Condiciones de la operación Compra condicionada a la subrogación del contrato de alquiler vigente ❌ No apto para uso como vivienda habitual ni disponibilidad inmediata ❌ No apto para financiación hipotecaria tradicional � Financiación Los interesados pueden consultar posibles opciones de financiación a través de Fin&Win, donde podrán estudiar alternativas adaptadas a este tipo de activos. � Ubicación El inmueble se encuentra en Santander, en una zona residencial con servicios cercanos, como comercios, centros educativos, centros de salud y buenas conexiones con el resto de la ciudad y de Cantabria. � Contacta con nosotros para ampliar información sobre esta oportunidad de inversión en Santander.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1210.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en avenida del Deporte"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107864862",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/aa/3f/30/1326619086.webp",
+      "externalReference": "MV372",
+      "numPhotos": 41,
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 69.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Igollo",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Igollo",
+      "country": "es",
+      "latitude": 43.4367515,
+      "longitude": -3.8882239,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107864862/",
+      "distance": "6931",
+      "description": "¡Descubre tu nuevo hogar en Igollo de Camargo con Mena Inmobiliaria! Esta acogedora vivienda en planta baja es perfecta para aquellos que buscan la tranquilidad del campo sin renunciar a las comodidades de la ciudad o disfrutar de los días de playa.    La propiedad cuenta con un luminoso salón con cocina americana, dos acogedores dormitorios y un baño completo. Además, dispone de un cabrete que ofrece múltiples posibilidades: puedes transformarlo en un tercer dormitorio, un espacio de almacenamiento o incluso una zona de trabajo.    Una de las grandes ventajas de esta vivienda es que cuenta con paneles solares, lo que te permitirá reducir al mínimo el consumo de electricidad, aire acondicionado, bomba de calor, estufa pellets grande, agua caliente con caldera aerotermia.    ¡No pierdas la oportunidad de visitar esta vivienda que te encantará! Contacta con nosotros para más información y para concertar una visita. ¡Tu nuevo hogar te está esperando!    MENA INMOBILIARIA    Telf.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3623.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Igollo, Camargo",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107715125",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/44/98/65/1320839698.webp",
+      "externalReference": "ES349",
+      "numPhotos": 52,
+      "price": 1395000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1395000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 337.0,
+      "rooms": 12,
+      "bathrooms": 5,
+      "address": "avenida de los Castros",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "El Sardinero",
+      "country": "es",
+      "latitude": 43.4747176,
+      "longitude": -3.7863148,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107715125/",
+      "distance": "2351",
+      "description": "Un auténtico privilegio define esta propiedad situada en pleno centro del Sardinero, una de las zonas más demandadas y exclusivas de Santander, a escasos minutos caminando por la Avenida de los Castros de las principales playas de la ciudad. Su excepcional ubicación, junto a la costa Cantábrica y muy próxima a los emblemáticos Jardines de Piquío, convierte este inmueble en una oportunidad única tanto para residencia habitual como para segunda residencia o inversión con alto potencial de rentabilidad. La vivienda se asienta sobre una parcela de más de 400 m2 y se distribuye en cuatro plantas, contando además con una construcción auxiliar en la zona delantera. Por su amplitud, versatilidad y características constructivas, ofrece múltiples posibilidades de uso, desde una gran residencia familiar hasta su reconversión en alojamiento turístico o establecimiento hotelero, uso que tuvo originalmente el edificio. Su enclave en la parte más señorial de la Avenida de los Castros, a pocos metros del mar y rodeado de todos los servicios, refuerza su atractivo como inversión inmobiliaria en Santander. Vivir en el Sardinero es sinónimo de calidad de vida, naturaleza y exclusividad, en un entorno privilegiado que abarca la franja costera entre la península de la Magdalena y Mataleñas, con acceso a algunas de las playas más valoradas del norte de España. Los Jardines de Piquío, auténtico balcón natural al Cantábrico, constituyen uno de los espacios más representativos y apreciados de la ciudad. Una oportunidad única en el mercado inmobiliario del Sardinero, donde la escasez de propiedades de estas características y su extraordinaria ubicación la convierten en una inversión segura y en una elección ideal para quienes buscan vivir o invertir junto al mar en una de las zonas más exclusivas de Santander.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 4139.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Sardinero, Santander",
+        "title": "Casa independiente en avenida de los Castros"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107697770",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/96/95/9c/1320127991.webp",
+      "externalReference": "AZ0784",
+      "numPhotos": 28,
+      "floor": "bj",
+      "price": 408000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 408000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Centro - Ayuntamiento",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.4602312,
+      "longitude": -3.8113094,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107697770/",
+      "distance": "256",
+      "description": "Os enseñamos dos maravillosos apartamentos convertidos en la planta baja del edificio, perfecto como oportunidad tanto para inversión como para convertirlos en una vivienda más amplia y cómoda. Ambos están en muy buen estado, completamente amueblados y listos para habitar. Cada apartamento tiene una habitación principal y su correspondiente baño con plato de ducha, además de una cocina totalmente equipada. El estado de las puertas, paredes, suelos y ventanas es bueno, garantizando un espacio acogedor y bien mantenido.    Además, su ubicación es ideal en pleno centro de Santander, con todos los servicios y comercios a pie de calle.    Si buscas un hogar acogedor o una inversión segura, esta es tu oportunidad. No dudes en contactarnos para más información o para concertar una visita.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 4533.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107639901",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/30/ab/1c/1406462791.webp",
+      "externalReference": "2699",
+      "numPhotos": 9,
+      "floor": "3",
+      "price": 148650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 148650.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 93.0,
+      "exterior": false,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Ballestas",
+      "province": "Cantabria",
+      "municipality": "Guarnizo",
+      "country": "es",
+      "latitude": 43.4036132,
+      "longitude": -3.8400674,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107639901/",
+      "distance": "6965",
+      "description": "� Piso con Garaje y Trastero en Venta en Rentabilidad en El Astillero Oportunidad para inversores que buscan incorporar un activo residencial con inquilino en El Astillero. Se trata de una vivienda en edificio residencial del año 2005 que se transmite con contrato de alquiler en vigor, incluyendo plaza de garaje y trastero. El comprador se subrogará en el contrato de arrendamiento existente, manteniéndose las condiciones actuales del alquiler. � Datos del alquiler � El comprador se subrogará al contrato de arrendamiento vigente � Características del inmueble ✔ Superficie construida: 93 m² ✔ Edificio residencial del año 2005 ✔ Vivienda con distribución funcional y estancias luminosas � Anexos incluidos � Plaza de garaje: 15 m² � Trastero: 8 m² � Gastos aproximados Comunidad de propietarios: 37 € vivienda 12 € anejo garaje  3 € anejo trastero ℹ️ Información importante � Inmueble actualmente alquilado – no es posible realizar visitas � No se dispone de fotografías del interior de la vivienda � No hay planos disponibles del inmueble � Financiación Los interesados pueden consultar posibles alternativas de financiación a través de Fin&Win, donde podrán estudiar las opciones disponibles según su perfil. � Ubicación La vivienda se encuentra en El Astillero, en una zona residencial tranquila con servicios cercanos como supermercados, centros educativos, comercios y centro de salud, además de buenas conexiones con Santander y otras localidades de la región. ❗ Sin comisión de intermediación al comprador. � Contacta con nosotros para recibir más información sobre esta oportunidad de inversión.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1598.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Guarnizo",
+        "title": "Piso en calle Ballestas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 1005,
+  "totalPages": 21,
+  "actualPage": 18,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar casas y pisos en Centro - Ayuntamiento, Santander",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 850,
+  "upperRangePosition": 900,
+  "paginable": true
+}

@@ -1,0 +1,2821 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110229770",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6a/18/2c/1399155051.webp",
+      "externalReference": "ORUNAP5",
+      "numPhotos": 11,
+      "floor": "1",
+      "price": 199900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 199900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 69.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "via Barrio el Canal, 14",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.3971729,
+      "longitude": -3.9543423,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110229770/",
+      "distance": "4333",
+      "description": "PROMOCIÓN DE 6 EXCLUSIVAS VIVIENDAS EN BARRIO LA CANAL DE ORUÑA. LAS VIÑAS DE ORUÑA-. Edificio de 6 viviendas, 3 de ellas bajos con jardín y 3 primeras plantas con terraza y azotea para disfrutar al aire libre.  Las viviendas en planta baja, fabulosamente distribuidas, cuentan con salón comedor y cocina americana, dos dormitorios y un baño. Estas viviendas de ensueño están dotadas de jardín y zona de porche para disfrutar al aire libre de la calma o las reuniones con amigos. Los pisos en planta primera son encantadores, cuentan con terraza y salida exterior a azotea privativa que les permitirá disfrutar al aire libre de un chill out de lo más cosmopolita. En planta sótano se encuentra el garaje incluido en el precio. Todas las viviendas cuentan con su acceso desde el exterior. Melrose Place en Cantabria.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": false,
+      "newDevelopmentFinished": false,
+      "priceByArea": 2897.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Ático en via Barrio el Canal, 14"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110229756",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3f/c8/93/1399155069.webp",
+      "externalReference": "ORUNABAJO1",
+      "numPhotos": 11,
+      "floor": "bj",
+      "price": 219900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 219900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 76.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "via Barrio el Canal, 14",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.3971729,
+      "longitude": -3.9543423,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110229756/",
+      "distance": "4333",
+      "description": "PROMOCIÓN DE 6 EXCLUSIVAS VIVIENDAS EN BARRIO LA CANAL DE ORUÑA. LAS VIÑAS DE ORUÑA-. Edificio de 6 viviendas, 3 de ellas bajos con jardín y 3 primeras plantas con terraza y azotea para disfrutar al aire libre.  Las viviendas en planta baja, fabulosamente distribuidas, cuentan con salón comedor y cocina americana, dos dormitorios y un baño. Estas viviendas de ensueño están dotadas de jardín y zona de porche para disfrutar al aire libre de la calma o las reuniones con amigos. Los pisos en planta primera son encantadores, cuentan con terraza y salida exterior a azotea privativa que les permitirá disfrutar al aire libre de un chill out de lo más cosmopolita. En planta sótano se encuentra el garaje incluido en el precio. Todas las viviendas cuentan con su acceso desde el exterior. Melrose Place en Cantabria.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": false,
+      "newDevelopmentFinished": false,
+      "priceByArea": 2893.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Piso en via Barrio el Canal, 14"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110229753",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/00/4b/8a/1399155078.webp",
+      "externalReference": "ORUNABAJO2",
+      "numPhotos": 11,
+      "floor": "bj",
+      "price": 209900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 209900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 74.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "via Barrio el Canal, 14",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.3971729,
+      "longitude": -3.9543423,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110229753/",
+      "distance": "4333",
+      "description": "PROMOCIÓN DE 6 EXCLUSIVAS VIVIENDAS EN BARRIO LA CANAL DE ORUÑA. LAS VIÑAS DE ORUÑA-. Edificio de 6 viviendas, 3 de ellas bajos con jardín y 3 primeras plantas con terraza y azotea para disfrutar al aire libre.  Las viviendas en planta baja, fabulosamente distribuidas, cuentan con salón comedor y cocina americana, dos dormitorios y un baño. Estas viviendas de ensueño están dotadas de jardín y zona de porche para disfrutar al aire libre de la calma o las reuniones con amigos. Los pisos en planta primera son encantadores, cuentan con terraza y salida exterior a azotea privativa que les permitirá disfrutar al aire libre de un chill out de lo más cosmopolita. En planta sótano se encuentra el garaje incluido en el precio. Todas las viviendas cuentan con su acceso desde el exterior. Melrose Place en Cantabria.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": false,
+      "newDevelopmentFinished": false,
+      "priceByArea": 2836.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Piso en via Barrio el Canal, 14"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110229724",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d5/30/d2/1399155068.webp",
+      "externalReference": "ORUNABAJO3",
+      "numPhotos": 11,
+      "floor": "bj",
+      "price": 224900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 224900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 76.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "via Barrio el Canal, 14",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.3971729,
+      "longitude": -3.9543423,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110229724/",
+      "distance": "4333",
+      "description": "PROMOCIÓN DE 6 EXCLUSIVAS VIVIENDAS EN BARRIO LA CANAL DE ORUÑA. LAS VIÑAS DE ORUÑA-. Edificio de 6 viviendas, 3 de ellas bajos con jardín y 3 primeras plantas con terraza y azotea para disfrutar al aire libre.  Las viviendas en planta baja, fabulosamente distribuidas, cuentan con salón comedor y cocina americana, dos dormitorios y un baño. Estas viviendas de ensueño están dotadas de jardín y zona de porche para disfrutar al aire libre de la calma o las reuniones con amigos. Los pisos en planta primera son encantadores, cuentan con terraza y salida exterior a azotea privativa que les permitirá disfrutar al aire libre de un chill out de lo más cosmopolita. En planta sótano se encuentra el garaje incluido en el precio. Todas las viviendas cuentan con su acceso desde el exterior. Melrose Place en Cantabria.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": false,
+      "newDevelopmentFinished": false,
+      "priceByArea": 2959.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Piso en via Barrio el Canal, 14"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110230949",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4f/4f/3c/1399186713.webp",
+      "externalReference": "009467",
+      "numPhotos": 14,
+      "price": 460000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 460000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 225.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Viña Vieja",
+      "province": "Cantabria",
+      "municipality": "Cuchia",
+      "country": "es",
+      "latitude": 43.4369587,
+      "longitude": -4.0198445,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110230949/",
+      "distance": "3228",
+      "description": "Se vende casa individual situada en el pueblo de Cuchia. Amplia casa dividida en tres plantas. 4 habitaciones, salón con chimenea, cocina equipada y 2 baños completos. Garaje de 19 m2. Parcela de 1.037 m2. La vivienda es de 1975 pero fue reformada en el 2006. Se encuentra en perfecto estado, para entrar a vivir. A 5 minutos de la playa.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2044.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuchia",
+        "title": "Chalet en calle Viña Vieja"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110228998",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9b/90/bf/1399136756.webp",
+      "externalReference": "REF-V-9-020126",
+      "numPhotos": 62,
+      "price": 849000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 849000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 885000.0,
+            "priceDropValue": 36000,
+            "priceDropPercentage": 4
+          }
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 249.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Urbanización la Mina",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Arce",
+      "country": "es",
+      "latitude": 43.4137843,
+      "longitude": -3.9439618,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110228998/",
+      "distance": "4948",
+      "description": "Espectacular casa con jardín en la exclusiva urbanización LA MINA de Puente Arce.  Tranquilidad y privacidad. Muchas luminosidad por su orientación sur. Alta Calidad de materiales constructivos. 2 Fabulosos porches acristalados y cerrados junto a cocina y salón. Terrazas junto a las habitaciones. Atractivo estudio - dormitorio en bajocubierta forrado en madera aprovechable como despacho, gimnasio o dormitorio. Amplio garaje para 2-3 vehículos. Buen estado, para entrar a vivir. Dotado de múltiples servicios en las inmediaciones: supermercado, farmacia, polideportivo, pista de tenis, Colegio. A tan solo 10 minutos de una de las mejores playas de Cantabria.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3410.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Arce, Piélagos",
+        "title": "Chalet adosado en Urbanización la Mina"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109908228",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f6/d1/1e/1389271389.webp",
+      "externalReference": "V2260",
+      "numPhotos": 31,
+      "floor": "3",
+      "price": 320000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 320000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 87.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Bajada al Puerto, 10",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4316786,
+      "longitude": -4.0391197,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109908228/",
+      "distance": "3661",
+      "description": "Descubre este encantador piso en el puerto de Suances, una de las zonas más demandadas del municipio por su cercanía al mar, su ambiente animado y su excelente calidad de vida.   Situado en una urbanización privada con aparcamiento para residentes, esta vivienda es ideal tanto como residencia habitual como para disfrutarla como segunda vivienda junto al mar. El piso cuenta con tres dormitorios amplios y luminosos, todos ellos equipados con armarios empotrados que ofrecen un excelente espacio de almacenamiento.   La cocina ha sido recientemente reformada e incluye una práctica despensa, ideal para mantener el orden y facilitar el día a día. El baño también ha sido actualizado y dispone de un moderno plato de ducha, con acabados funcionales y actuales. El corazón de la vivienda es su amplio salón comedor, un espacio acogedor y con gran entrada de luz natural gracias a su salida directa a una terraza desde la que podrás disfrutar de preciosas vistas a la ría de San Martín y al entorno del puerto. Un rincón perfecto para desayunar al aire libre o relajarte al atardecer observando el ir y venir de los barcos. La ubicación es, sin duda, uno de sus mayores atractivos: a pocos metros de la playa de La Riberuca y muy cerca de la playa de La Concha, además de contar con una variada oferta de bares, restaurantes y comercios en los alrededores. Todo ello sin renunciar a la tranquilidad que ofrece una urbanización cerrada. No dejes pasar esta oportunidad de adquirir un piso en el puerto de Suances, con todas las comodidades y unas vistas que enamoran. Inmobiliaria Barrio, la inmobiliaria de confianza que eliges en Cantabria.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3678.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Piso en calle Bajada al Puerto, 10"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110212630",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1a/ac/09/1398628197.webp",
+      "externalReference": "W-047RY8",
+      "numPhotos": 53,
+      "price": 790000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 790000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 365.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "carretera Ongayo",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4151635,
+      "longitude": -4.0643157,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110212630/",
+      "distance": "4825",
+      "description": "Casa acogedora con gran terreno en Ongayo Engel & Völkers presenta esta acogedora casa en Ongayo, construida en 1979, que ofrece un amplio espacio de 365 metros cuadrados de vivienda y 4422 metros cuadrados totales de parcela, segregables en tres de 1400 para una posible construcción de 2 viviendas más. Con cuatro habitaciones y dos baños, esta propiedad es un lienzo en espera de renovación para convertirse en la joya de la región. Al ingresar, descubrirá un hogar que promete un estilo de vida tranquilo y espacioso. La distribución actual permite imaginar un entorno de vida abierto y acogedor, con vistas impresionantes de las montañas y el verde que rodea la propiedad. Entre sus características, se destaca un encantador jardín que invita a disfrutar de momentos al aire libre. Además, la propiedad cuenta con un balcón ideal para contemplar las vistas y un sótano que añade un valioso espacio adicional. El garaje privado asegura comodidad y seguridad. Esta es una oportunidad única para transformar esta casa en el refugio perfecto, fusionando la elegancia clásica con el potencial de modernización. Descubra el lujo escondido en este rincón de Ongayo y haga de esta propiedad su hogar ideal. Ubicado en la pintoresca localidad de Ongayo, esta propiedad le ofrece un refugio exclusivo para quienes buscan tranquilidad y belleza natural. Ideal para amantes de la naturaleza y el lujo, la zona es conocida por su paisaje verde y su cercanía al mar Cantábrico. A solo 10 minutos en coche de Suances, los residentes pueden disfrutar de playas impresionantes y una vibrante vida costera. La infraestructura en Ongayo es excelente, con fácil acceso a la autovía A-67, conectando rápidamente con Santander, a solo 25 minutos en coche. La proximidad al aeropuerto de Santander, a 30 minutos, facilita viajes nacionales e internacionales. Además, la región cuenta con servicios de alta calidad, incluyendo restaurantes gourmet y tiendas exclusivas. Para el ocio, los residentes pueden explorar el Parque Natural de las Dunas de Liencres o disfrutar de deportes acuáticos en las cercanas playas de Suances. La región también ofrece rutas de senderismo y ciclismo para los aventureros. Esta ubicación destaca por su tranquilidad y exclusividad, brindando un entorno sereno y sofisticado. En Ongayo, los compradores de esta propiedad encontrarán un rincón de paz y lujo en un entorno natural incomparable, perfecto para disfrutar de una vida de ensueño.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2164.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Casa independiente en carretera Ongayo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": true,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110150361",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cb/83/85/1404515820.webp",
+      "numPhotos": 6,
+      "price": 325000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 325000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 104.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio Polanco",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3867486,
+      "longitude": -4.0155398,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110150361/",
+      "distance": "2721",
+      "description": "Chalet Independiente en Polanco – 2 Plantas | 3 Habitaciones | Parcela 277 m² Magnífico chalet independiente de dos plantas situado en una zona residencial tranquila y consolidada de Polanco, ideal para familias que buscan espacio, comodidad y cercanía a todos los servicios. La vivienda se asienta sobre una parcela privada de 277 m², con jardín soleado, perfecto para disfrutar del aire libre, organizar reuniones o crear una zona de descanso. En su interior ofrece una distribución moderna y funcional: Distribución: 3 dormitorios amplios y luminosos 2 baños completos Salón-comedor con cocina americana, creando un espacio abierto, cómodo y actual Cocina integrada y bien comunicada con la zona de estar Confort y eficiencia: Calefacción por aerotermia, un sistema eficiente y de bajo consumo que garantiza confort durante todo el año Ubicación: Situado en Polanco, en un entorno residencial tranquilo y bien comunicado A pocos minutos de Torrelavega y con fácil acceso a Santander Cercano a las playas de la costa cántabra Próximo a colegios, supermercados, zonas deportivas y servicios esenciales.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3125.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Casa independiente en Barrio Polanco"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110142227",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b0/b1/07/1396536972.webp",
+      "externalReference": "THSSESCAN0151",
+      "numPhotos": 35,
+      "price": 1300000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 765.0,
+      "rooms": 5,
+      "bathrooms": 5,
+      "address": "Suances",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4176724,
+      "longitude": -4.0399158,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110142227/",
+      "distance": "2946",
+      "description": "Arquitectura local con espacios para el bienestar en Suances Ubicada en Suances, esta espectacular villa es un auténtico refugio para quienes buscan vivir rodeados de exclusividad, privacidad y calidad de vida. Una propiedad con carácter, donde la arquitectura tradicional se combina con amplios espacios pensados para disfrutar. Con una superficie total de 767 m², esta propiedad ofrece una distribución cómoda y funcional. En la planta primera se concentran sus 5 dormitorios y 5 baños, garantizando intimidad y bienestar para toda la familia o invitados. Cada estancia ha sido concebida para maximizar la luz natural y la sensación de amplitud. Los espacios exteriores, cuidados al detalle, invitan a disfrutar del entorno en cualquier época del año, convirtiendo la casa en un verdadero oasis de calma y sofisticación. Una propiedad ideal tanto como residencia habitual como segunda vivienda, a escasos minutos del mar y del centro de Suances. Distribución: Esta propiedad cuenta con cinco dormitorios, todos ellos con baño en suite, concebidos como auténticas suites privadas que garantizan intimidad. Espacios amplios y luminosos, pensados para el descanso y la desconexión. La cocina, completamente equipada con electrodomésticos de alta gama, se convierte en uno de los corazones de la casa. Un espacio generoso y funcional, donde el diseño y la practicidad conviven en perfecto equilibrio. El salón comedor, con vistas directas a la terraza, destaca por su amplitud y su conexión fluida con el exterior. Un ambiente acogedor y elegante, bañado por la luz natural, perfecto para disfrutar de largas sobremesas y reuniones familiares. Pensada para el ocio y el bienestar, la propiedad dispone de una sala de cine privada equipada con tecnología de última generación, ideal para vivir una experiencia cinematográfica sin salir de casa. A ello se suma un completo spa, que incluye sauna, jacuzzi y una cuidada zona de relajación, creando un auténtico santuario dedicado al cuidado personal. En el exterior, la casa despliega todo su potencial con una amplia terraza solárium, desde la que se disfrutan vistas abiertas y panorámicas, convirtiéndose en el escenario perfecto para relajarse y disfrutar. La experiencia se completa con una piscina cubierta climatizada, pensada para disfrutarse durante todo el año y una zona de juegos y entretenimiento que aporta un plus de versatilidad a la propiedad. Situada en la costa occidental de Cantabria, Suances es una de esas localidades que combina a la perfección el encanto del norte con un estilo de vida relajado y sofisticado. Rodeada de playas abiertas al Cantábrico, acantilados, rías y zonas verdes, ofrece un equilibrio ideal entre naturaleza, gastronomía y vida social. Su ambiente tranquilo, especialmente fuera de la temporada alta, convive con una animada escena veraniega, convirtiéndola en un destino perfecto tanto para quienes buscan una residencia habitual como para quienes desean disfrutar de escapadas junto al mar sin renunciar a servicios, buena conexión y calidad de vida. La orientación de la casa está expuesta a todas las orientaciones según las diferentes partes de la casa, siendo la más característica la de mediodía y poniente, siendo estas dos, las que en Santander son más cálidas y más solicitadas, tanto por el periodo de luz de exposición como su intensidad según las estaciones del año. Casa única en su estilo, integrada en el selecto conjunto de las denominadas Casas Solariegas de Cantabria, no solo por su ubicación privilegiada, sino por una estructura arquitectónica sólida, noble y versátil, capaz de adaptarse a distintos estilos de vida y usos sin perder su esencia.  La conservación de los edificios es impecable, y su mantenimiento es sobresaliente aunque se le tiene que dar una vuelta en decoración, para ponerla al gusto de la persona que la adquiera.  Rentabilidad: Esta exclusiva propiedad es una inversión segura, por la escasa oferta",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1699.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110130182",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4a/a8/94/1418015280.webp",
+      "externalReference": "23174",
+      "numPhotos": 44,
+      "price": 390000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 390000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 207.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "puente Barrio el, 17",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.402508,
+      "longitude": -3.9494818,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110130182/",
+      "distance": "4561",
+      "description": "¡EL HOGAR PERFECTO PARA DESCONECTAR, ENTRE LA COSTA Y LA MONTAÑA! (ver vídeo) UBICACIÓN Esta propiedad goza de una ubicación privilegiada, situada a escasos minutos de las reconocidas playas de Liencres y Miengo. Permite disfrutar del mar sin renunciar al encanto de los paisajes de interior, para tus escapadas de fin de semana. Rodeada de un entorno de gran belleza, marcado por el paso del río Pas a su desembocadura en la ría de Mogro, la vivienda se integra en un paraje que invita al descanso, a la desconexión y a agradables paseos por la ribera del río, desde la propia puerta de casa. También cuenta con conexión directa a la autovía que permite llegar en tan solo 15 minutos a Santander y Torrelavega, y en 20 minutos a Suances.  DISTRIBUCIÓN Este chalet adosado se sitúa en una urbanización privada con piscina y parque infantil comunitarios, listos para disfrutar en familia. La vivienda destaca por su diseño elegante y funcional y sus amplios espacios llenos de luz natural. Dispone, en planta, de un amplio salón con acceso directo a la parcela exterior, que ha sido revestida con baldosa para un cómodo mantenimiento, una moderna cocina equipada de concepto abierto y un aseo. La zona de descanso cuenta con tres acogedores dormitorios, uno en suite con salida a una gran terraza y otro con un balcón al oeste. Dispone de calefacción y aire acondicionado por bomba de calor y así garantizar el máximo confort durante todo el año. Como valor añadido, dispone de un garaje con capacidad para dos coches, zona adicional de almacenaje y de lavandería, y espacio suficiente para habilitar una zona de juegos o un gimnasio.  Para aquellos que buscan la serenidad del entorno natural sin renunciar a la proximidad y las comodidades de lo urbano. ¡Llámanos para concertar una visita! Gastos de notaría, registro e impuestos no incluidos.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1884.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Chalet adosado en puente Barrio el, 17"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110069282",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ce/25/77/1394325701.webp",
+      "externalReference": "CHALETCORTIGUERA",
+      "numPhotos": 24,
+      "price": 350000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 350000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 145.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "El Monte",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4269206,
+      "longitude": -4.0437037,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110069282/",
+      "distance": "3648",
+      "description": "***Tu hogar en la villa marinera de Suances: chalet de 4 habitaciones con garaje y jardín*** En la tranquila y bucólica zona de Cortiguera, muy cerca de las playas y servicios de Suances, nos encontramos con este chalet pareado.  La vivienda, distribuida en dos plantas, destaca por su amplitud y comodidad, ideal para familias que buscan calidad de vida en la costa cántabra o amantes de los espacios amplios y versátiles. Cuenta con amplio salón con chimenea y salida directa al porche y jardín, para disfrutar de las 4 estaciones. Cocina independiente pero con apertura lateral hacia el acceso al salón para mayor comodidad. Dispone de cuatro habitaciones, una de ellas con baño en suite, más otros dos baños completos, garaje privado y una parcela independiente perfecta para disfrutar del jardín, ocio o reuniones al aire libre.  Su distribución funcional y la luminosidad de sus estancias hacen de este chalet una oportunidad única. La ubicación es inmejorable: en un entorno residencial tranquilo, con acceso rápido a comercios, colegios y zonas de ocio, y a tan solo unos minutos de las playas de Suances. Un hogar que combina espacio, confort y cercanía al mar, en un municipio donde todo el mundo quiere vivir o pasar temporadas, disfrutando de sus playas y paisajes de ensueño; por no hablar de su fabulosa gastronomía, los mejores pescados y mariscos del cantábrico, o los indescriptibles croissants de mantequilla y el hojaldre.. . Un hogar para disfrutar con todos los sentidos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2414.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Chalet pareado en El Monte"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110064368",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/92/58/eb/1394129982.webp",
+      "externalReference": "ASJ4160",
+      "numPhotos": 12,
+      "price": 240000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 240000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 216.0,
+      "rooms": 5,
+      "bathrooms": 1,
+      "address": "BO SAN PEDRO",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3922669,
+      "longitude": -4.0096237,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110064368/",
+      "distance": "2006",
+      "description": "¿Buscas un proyecto de rehabilitación en un entorno tranquilo, bien comunicado y cerca del mar? Esta casa de piedra tradicional, ubicada en el corazón de Polanco, es la ocasión perfecta para crear la vivienda de tus sueños en un enclave natural excepcional. Con 216 m² construidos, actualmente distribuidos en dos plantas, la propiedad ofrece una estructura sólida y múltiples posibilidades de transformación. En su estado actual, cuenta con 65 m² acondicionados como vivienda, mientras que el resto del espacio funciona como zona de almacén, ideal para ampliar y diseñar una casa a medida, ya sea una amplia residencia familiar, una casa rural o incluso varias estancias independientes. La vivienda necesita una rehabilitación completa, lo que la convierte en el proyecto ideal para quienes desean invertir y personalizar cada detalle. Su fachada de piedra y su estilo tradicional aportan un carácter único, perfecto para ser revalorizado con una reforma moderna y funcional. La propiedad se sitúa en una parcela urbana de 1.413 m², un amplio terreno que ofrece multitud de opciones: jardín privado, área de ocio, huerto, zona de aparcamiento, piscina o cualquier espacio exterior que imagines.  Su ubicación es otro de sus grandes atractivos. Polanco es un municipio muy demandado por su proximidad a Torrelavega, con todos los servicios a mano, y por estar a tan solo 6 km de las mejores playas de la zona, permitiendo disfrutar del mar sin renunciar a la comodidad de un entorno rural. Características principales 216 m² construidos en dos plantas 65 m² acondicionados como vivienda Resto del espacio actualmente destinado a almacén Vivienda de piedra con gran encanto Necesita rehabilitación integral Parcela urbana de 1.413 m² Ubicación tranquila y natural A 6 km de la costa Próxima a Torrelavega y excelentes comunicaciones Si buscas una propiedad con encanto, espacio y enormes posibilidades de personalización, esta casa de piedra en Polanco es tu mejor opción. Una oportunidad que combina entorno natural, amplitud y cercanía al mar, ideal tanto para uso particular como inversión. ¡Contacta para más información o para concertar una visita y descubre el potencial de esta magnífica propiedad! AVISO LEGAL: Los datos recogidos en este anuncio son meramente informativos y no constituyen un compromiso contractual.  Las superficies indicadas son aproximadas y se ofrecen únicamente con fines descriptivos.  El precio de venta indicado no incluye impuestos tales como el Impuesto de Transmisiones Patrimoniales, el Impuesto sobre el Valor Añadido (I.V.A.) o el Acto Jurídico Documentado (A.J.D.), de igual manera tampoco se contemplan otros gastos derivados de la compraventa, entre los que se incluyen, honorarios de notaría, registro de la propiedad, gastos financieros y otros costos asociados.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 1111.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Casa independiente en Bo San Pedro"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110052288",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9c/ac/5d/1393928660.webp",
+      "externalReference": "Z1442",
+      "numPhotos": 31,
+      "floor": "2",
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 102.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Cuchia",
+      "province": "Cantabria",
+      "municipality": "Cuchia",
+      "country": "es",
+      "latitude": 43.4447506,
+      "longitude": -4.0151239,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110052288/",
+      "distance": "3949",
+      "description": "Descubre este encantador ático en Cudón, un enclave tranquilo y acogedor que combina la calma de un entorno residencial con la cercanía al mar. Situado a escasos 3 km de las playas de Usgo y Cuchía, podrás disfrutar en pocos minutos de algunos de los rincones más hermosos de la costa cántabra: calas de aguas claras, arenas finas y paseos donde desconectar respirando la brisa del Cantábrico. La vivienda, situada en un edificio con ascensor, ofrece una distribución cómoda y funcional. Al acceder, un acogedor distribuidor da paso a una cocina independiente, práctica y bien aprovechada, y a un amplio salón-comedor donde la luz natural se cuela durante todo el día gracias a su orientación norte-sur, proporcionando un ambiente sereno y agradable. El ático dispone de tres dormitorios, todos ellos equipados con armarios empotrados, lo que facilita el orden y el almacenamiento sin renunciar al espacio. Completa la vivienda un baño completo, confortable y bien conservado. Está listo para entrar a vivir, ideal tanto como residencia habitual como para quienes buscan un refugio junto al mar. Además, cuenta con plaza de garaje y trastero, dos elementos imprescindibles para disfrutar de un día a día más cómodo. Cudón es una zona muy bien comunicada, perfecta para quienes buscan tranquilidad sin alejarse de servicios, comercios o accesos a las principales vías. Su proximidad a hermosas playas, senderos naturales y pueblos con encanto lo convierte en un lugar privilegiado para vivir o veranear. Una oportunidad única para disfrutar de la calidad de vida que ofrece la costa cántabra en un hogar cálido, funcional y lleno de posibilidades. Contacta con nosotros y descubre todo lo que este ático puede ofrecerte.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2451.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cuchia",
+        "title": "Ático"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110036095",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b2/73/ed/1393344091.webp",
+      "numPhotos": 5,
+      "floor": "2",
+      "price": 159000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 159000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 88.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "PR CARRAL",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.425789,
+      "longitude": -4.047474,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110036095/",
+      "distance": "3853",
+      "description": "SUANCES. Activo para inversores en Suances. Inmueble sin posesión, por lo que no se puede visitar ni hipotecar. Se desconoce el estado de conservación interior de la vivienda. Se trata de un ático dúplex con ascensor, 3 habitaciones y 2 baños, en un edificio del año 2.000.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1807.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Dúplex en Pr Carral"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110033580",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0c/88/f9/1393927769.webp",
+      "externalReference": "65074073",
+      "numPhotos": 47,
+      "price": 698000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 698000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 244.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "calle El Millajo, 1469",
+      "province": "Cantabria",
+      "municipality": "Miengo",
+      "country": "es",
+      "latitude": 43.4182694,
+      "longitude": -3.9943964,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110033580/",
+      "distance": "1256",
+      "description": "� Tu Refugio Perfecto en Miengo — Casa Independiente con Gran Finca, Piscina y Vistas de Ensueño Si buscas una vivienda que lo tenga todo, esta casa en Miengo te enamorará desde el primer vistazo. Un entorno natural privilegiado, espacios amplios, luz a raudales y una finca pensada para disfrutar cada día… un verdadero oasis a minutos de Santander y Torrelavega. � Características que marcan la diferencia ✔ 3 plantas cómodas y bien distribuidas ✔ �️ 5 dormitorios amplios, luminosos y con encanto propio ✔ � 3 baños completos perfectamente equipados ✔ �️ Salón acogedor con grandes ventanales y vistas despejadas ✔ �️ Cocina funcional con espacio para comer en familia ✔ � Estancias soleadas, ventiladas y con una sensación de amplitud increíble � Un exterior pensado para disfrutar: � Piscina privada rodeada de zonas verdes — tu rincón favorito en verano � Finca amplia y aprovechable: jardín, huerto, zona de juegos, ocio… lo que imagines � Vistas abiertas que aportan privacidad, tranquilidad y una sensación única de libertad � Perfecta para quienes buscan espacio para mascotas y vida al aire libre � Vivir en Miengo: naturaleza, mar y calidad de vida Un enclave ideal si buscas desconectar sin renunciar a la comodidad: � Servicios y supermercados a pocos minutos � Conexión rápida con Santander y Torrelavega �️ Playas tan especiales como Usgo, Mogro, Los Caballos o Cuchia ⛳ Pista de golf a 10 min en coche � Entorno espectacular para senderistas, deportistas y amantes de la vida tranquila � Ideal para… ���� Familias que quieren espacio, jardín y naturaleza � Quienes buscan segunda residencia para desconectar � Amantes de la privacidad, las vistas abiertas y el aire libre � ¡No dejes pasar esta oportunidad! Una vivienda única en un entorno inmejorable: finca, piscina privada y calidad de vida garantizada. Contáctanos y descubre todo lo que esta casa puede ofrecerte. ¡Te encantará!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2861.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Miengo",
+        "title": "Casa independiente en calle El Millajo, 1469"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110002773",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cc/6f/68/1392325912.webp",
+      "numPhotos": 39,
+      "floor": "bj",
+      "price": 259000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 259000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 265000.0,
+            "priceDropValue": 6000,
+            "priceDropPercentage": 2
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 87.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "puente el, 15",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.3996318,
+      "longitude": -3.9507022,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110002773/",
+      "distance": "4535",
+      "description": "Se vende bajo con jardín y dos plazas de garaje en Arce, Cantabria. La vivienda dispone de dos habitaciones con armario, un baño completo, amplio salón, cocina equipada con tendedero cerrado donde se encuentra la caldera individual de gas y zona de lavadero con lavadora y secadora. Tanto el salón como la cocina tienen acceso directo al jardín privado de la propiedad. Cuenta con dos plazas de garaje incluidas en el precio  Forma parte de una urbanización privada con piscina y area de juego infantil. Se vende completamente amueblado, listo para entrar a vivir en un entorno tranquilo a tan solo quince minutos de Santander.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2977.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Piso en puente el, 15"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109981104",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d9/3d/be/1391594769.webp",
+      "externalReference": "HG0183",
+      "numPhotos": 1,
+      "floor": "1",
+      "price": 111500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 111500.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 49.0,
+      "exterior": false,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Barrio Requejada",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3908604,
+      "longitude": -4.027139,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109981104/",
+      "distance": "2779",
+      "description": "SOLO INVERSORES - INMUEBLE ALQUILADO Propiedad con inquilino construida en 2009 en Cantabria, Polanco, es un piso que cuenta con 42,60m2 útiles. Se desconoce el estado de conservación de la vivienda. No disponemos de los gastos del piso. Inviertis es la web de inversión inmobiliaria nº1 en España. En inviertispro. com puedes ver y comparar inmuebles en rentabilidad en todo el país. Todos los activos publicados son en EXCLUSIVA y están alquilados y al día de pago. Si entras en la web tendrás acceso al contrato de alquiler vigente, renta mensual, rentabilidad y un completo análisis financiero del comportamiento de ese inmueble a lo largo del tiempo. Se trata de inmuebles procedentes de propietarios y grandes fondos que no encontrarás en ningún otro sitio porque Inviertis solo trabaja con: Inmuebles en exclusiva Pisos y casas con contrato de alquiler vigente Inquilinos al día de pago Rentabilidades por encima del 5% En Inviertis nos encargamos de todo, para que el inversor solo tenga que comprar y rentar. Así de fácil.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2276.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Piso en Barrio Requejada"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102842148",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/81/5d/43/1313504476.webp",
+      "externalReference": "CK-05223-0001",
+      "numPhotos": 1,
+      "price": 211000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 211000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 126.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida Jose Antonio",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4195875,
+      "longitude": -4.0410642,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102842148/",
+      "distance": "3101",
+      "description": "Vivienda en el municipio de Suances, provincia de Cantabria. El inmueble se encuentra en una zona tranquila, rodeado por viviendas residenciales de similares características. Cuenta con fácil acceso a la carretera y otros nudos de comunicación. Cercano a establecimientos y comercios de la zona. - El inmueble ha sido adquirido a través de un procedimiento judicial (concursal o hipotecario) por el vendedor, el cual no ha tomado todavía posesión del mismo. El Inmueble se transmite sin conocerse por parte del Vendedor el estado de conservación actual, ni su situación ocupacional, arrendaticia, de servicios y de suministros. El Inmueble se transmitirá: (i) como cuerpo cierto y a tanto alzado (ii) como un todo, inseparable (iii) en el estado registral y catastral en el que se encuentre (iv) en el estado físico, calidades, jurídico, urbanístico, administrativo, de licencias, de protección, de conservación y limpieza en el que se encuentre (v) al corriente de gastos e impuestos que por Ley corresponda al Vendedor y (vi) sin dotación de servicios y suministros.El Adquirente asumirá: (i) la situación física y estado de conservación (ii) la situación urbanística (iii) las discrepancias entre la realidad física y la realidad registral y catastral o en la cabida del Inmueble (iv) la adecuación registral y catastral del Inmueble y (v) los tramites que conlleven la obtención de la Posesión Judicial del Inmueble.La Propiedad no responderá de/l: (i) estado de conservación (ii) los vicios vistos y aparentes (iii) la regularización registral o catastral (iv) las discrepancias de cabida, que pudieran existir (v) responsabilidad alguna en la obtención de la cédula de habitabilidad del Inmueble, salvo que en la Comunidad Autónoma donde se ubique el Inmueble sea obligatoria su entrega y (vi) cualesquiera costes, gastos, honorarios, aranceles o tributos que se deriven de lo anterior.El estado de ocupación y/o los impedimentos para que el inmueble pueda ser visitado libremente por los técnicos impedirían: i) su tasación oficial conforme exige la Orden ECO/805/2003, de 27 de marzo, por lo que el inmueble, mientras perdure la situación ocupacional, no podría ser hipotecado, en consecuencia, no podría constituirse financiación hipotecaria sobre este tipo de fincas, cuya adquisición requerirá el otorgamiento de otro tipo de garantías en caso de solicitarse financiación y ii) la obtención por parte de la propiedad del certificado de eficiencia energética.El precio de venta de este Inmueble se ha determinado en base a las anteriores circunstancias, que han supuesto un menor valor del mismo, y que deberán ser expresamente aceptadas por el adquirente en la formalización de la transmisión del Inmueble. Se recomienda que el comprador obtenga asesoramiento profesional y legal antes de adoptar la decisión de compra.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1675.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Casa independiente en avenida Jose Antonio"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109955037",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/16/42/aa/1391100473.webp",
+      "externalReference": "6",
+      "numPhotos": 27,
+      "floor": "1",
+      "price": 205900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 205900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 71.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio La Canal, 15",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.3971773,
+      "longitude": -3.9547201,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109955037/",
+      "distance": "4304",
+      "description": "Últimas viviendas disponibles — segunda fase de la Urbanización Las Viñas Proyecto financiado por CaixaBank. Urbanización privada con piscina y amplias zonas verdes. Las Viñas: tu nuevo hogar en Oruña De Piélagos Llega la segunda fase de Las Viñas, una urbanización de solo 6 viviendas: 3 bajos con jardín privado y 3 primeros con terraza y azotea-solárium. Pisos de dos dormitorios dobles, baño completo y salón con cocina concepto abierto. Un conjunto residencial moderno, con una distribución pensada para la comodidad, acabados de calidad y amplios espacios exteriores para disfrutar todo el año. Cada vivienda incluye plaza de garaje dentro del precio, además de contar con piscina, grandes zonas verdes y un entorno cerrado que aporta privacidad y seguridad. Entorno privilegiado a un paso del mar y de SANTANDER Oruña de Piélagos es un pueblo lleno de vida, con todos los servicios a pie y un entorno natural espectacular: ✔ A 12 minutos de Santander ✔ A 4 minutos de las playas de Usgo, Liencres y Mogro ✔ Junto al río Pas, ideal para piragüismo, paddle surf y paseos ✔ Restaurantes, cafeterías, tiendas, centro de pilates, supermercado… ✔ Conexión rápida a la A67 y A8. Diseño, espacio y naturaleza Las viviendas destacan por su luminosidad, su estilo actual y sus espacios exteriores: – Jardines privados en los bajos – Amplias terrazas y azotea-solárium en los primeros – Piscina comunitaria – Urbanización cerrada – Plaza de garaje incluida Un entorno verde y agradable que invita a disfrutar del aire libre, el descanso y el bienestar. Si buscas un lugar bonito, tranquilo, bien comunicado y con auténtica calidad de vida… Las Viñas te está esperando.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2900.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Piso en Barrio La Canal, 15"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109955003",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9a/5f/af/1391100472.webp",
+      "externalReference": "5",
+      "numPhotos": 27,
+      "floor": "1",
+      "price": 199900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 199900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 69.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio La Canal, 15",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.3971773,
+      "longitude": -3.9547201,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109955003/",
+      "distance": "4304",
+      "description": "Últimas viviendas disponibles — segunda fase de la Urbanización Las Viñas Proyecto financiado por CaixaBank. Urbanización privada con piscina y amplias zonas verdes. Las Viñas: tu nuevo hogar en Oruña De Piélagos Llega la segunda fase de Las Viñas, una urbanización de solo 6 viviendas: 3 bajos con jardín privado y 3 primeros con terraza y azotea-solárium. Pisos de dos dormitorios dobles, baño completo y salón con cocina concepto abierto. Un conjunto residencial moderno, con una distribución pensada para la comodidad, acabados de calidad y amplios espacios exteriores para disfrutar todo el año. Cada vivienda incluye plaza de garaje dentro del precio, además de contar con piscina, grandes zonas verdes y un entorno cerrado que aporta privacidad y seguridad. Entorno privilegiado a un paso del mar y de SANTANDER Oruña de Piélagos es un pueblo lleno de vida, con todos los servicios a pie y un entorno natural espectacular: ✔ A 12 minutos de Santander ✔ A 4 minutos de las playas de Usgo, Liencres y Mogro ✔ Junto al río Pas, ideal para piragüismo, paddle surf y paseos ✔ Restaurantes, cafeterías, tiendas, centro de pilates, supermercado… ✔ Conexión rápida a la A67 y A8. Diseño, espacio y naturaleza Las viviendas destacan por su luminosidad, su estilo actual y sus espacios exteriores: – Jardines privados en los bajos – Amplias terrazas y azotea-solárium en los primeros – Piscina comunitaria – Urbanización cerrada – Plaza de garaje incluida Un entorno verde y agradable que invita a disfrutar del aire libre, el descanso y el bienestar. Si buscas un lugar bonito, tranquilo, bien comunicado y con auténtica calidad de vida… Las Viñas te está esperando.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2897.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Piso en Barrio La Canal, 15"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109954944",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/81/16/c3/1391100470.webp",
+      "externalReference": "3",
+      "numPhotos": 27,
+      "floor": "bj",
+      "price": 224900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 224900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 76.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio La Canal, 15",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.3971773,
+      "longitude": -3.9547201,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109954944/",
+      "distance": "4304",
+      "description": "Últimas viviendas disponibles — segunda fase de la Urbanización Las Viñas Proyecto financiado por CaixaBank. Urbanización privada con piscina y amplias zonas verdes. Las Viñas: tu nuevo hogar en Oruña De Piélagos Llega la segunda fase de Las Viñas, una urbanización de solo 6 viviendas: 3 bajos con jardín privado y 3 primeros con terraza y azotea-solárium. Pisos de dos dormitorios dobles, baño completo y salón con cocina concepto abierto. Un conjunto residencial moderno, con una distribución pensada para la comodidad, acabados de calidad y amplios espacios exteriores para disfrutar todo el año. Cada vivienda incluye plaza de garaje dentro del precio, además de contar con piscina, grandes zonas verdes y un entorno cerrado que aporta privacidad y seguridad. Entorno privilegiado a un paso del mar y de SANTANDER Oruña de Piélagos es un pueblo lleno de vida, con todos los servicios a pie y un entorno natural espectacular: ✔ A 12 minutos de Santander ✔ A 4 minutos de las playas de Usgo, Liencres y Mogro ✔ Junto al río Pas, ideal para piragüismo, paddle surf y paseos ✔ Restaurantes, cafeterías, tiendas, centro de pilates, supermercado… ✔ Conexión rápida a la A67 y A8. Diseño, espacio y naturaleza Las viviendas destacan por su luminosidad, su estilo actual y sus espacios exteriores: – Jardines privados en los bajos – Amplias terrazas y azotea-solárium en los primeros – Piscina comunitaria – Urbanización cerrada – Plaza de garaje incluida Un entorno verde y agradable que invita a disfrutar del aire libre, el descanso y el bienestar. Si buscas un lugar bonito, tranquilo, bien comunicado y con auténtica calidad de vida… Las Viñas te está esperando.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2959.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Piso en Barrio La Canal, 15"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109954943",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1d/ea/07/1391100469.webp",
+      "externalReference": "2",
+      "numPhotos": 27,
+      "floor": "bj",
+      "price": 209900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 209900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 74.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio La Canal, 15",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.3971773,
+      "longitude": -3.9547201,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109954943/",
+      "distance": "4304",
+      "description": "Últimas viviendas disponibles — segunda fase de la Urbanización Las Viñas Proyecto financiado por CaixaBank. Urbanización privada con piscina y amplias zonas verdes. Las Viñas: tu nuevo hogar en Oruña De Piélagos Llega la segunda fase de Las Viñas, una urbanización de solo 6 viviendas: 3 bajos con jardín privado y 3 primeros con terraza y azotea-solárium. Pisos de dos dormitorios dobles, baño completo y salón con cocina concepto abierto. Un conjunto residencial moderno, con una distribución pensada para la comodidad, acabados de calidad y amplios espacios exteriores para disfrutar todo el año. Cada vivienda incluye plaza de garaje dentro del precio, además de contar con piscina, grandes zonas verdes y un entorno cerrado que aporta privacidad y seguridad. Entorno privilegiado a un paso del mar y de SANTANDER Oruña de Piélagos es un pueblo lleno de vida, con todos los servicios a pie y un entorno natural espectacular: ✔ A 12 minutos de Santander ✔ A 4 minutos de las playas de Usgo, Liencres y Mogro ✔ Junto al río Pas, ideal para piragüismo, paddle surf y paseos ✔ Restaurantes, cafeterías, tiendas, centro de pilates, supermercado… ✔ Conexión rápida a la A67 y A8. Diseño, espacio y naturaleza Las viviendas destacan por su luminosidad, su estilo actual y sus espacios exteriores: – Jardines privados en los bajos – Amplias terrazas y azotea-solárium en los primeros – Piscina comunitaria – Urbanización cerrada – Plaza de garaje incluida Un entorno verde y agradable que invita a disfrutar del aire libre, el descanso y el bienestar. Si buscas un lugar bonito, tranquilo, bien comunicado y con auténtica calidad de vida… Las Viñas te está esperando.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2836.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Piso en Barrio La Canal, 15"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109954938",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/16/cd/88/1391100294.webp",
+      "externalReference": "1",
+      "numPhotos": 27,
+      "floor": "bj",
+      "price": 219900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 219900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 76.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio La Canal, 15",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.3971773,
+      "longitude": -3.9547201,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109954938/",
+      "distance": "4304",
+      "description": "Últimas viviendas disponibles — segunda fase de la Urbanización Las Viñas Proyecto financiado por CaixaBank. Urbanización privada con piscina y amplias zonas verdes. Las Viñas: tu nuevo hogar en Oruña De Piélagos Llega la segunda fase de Las Viñas, una urbanización de solo 6 viviendas: 3 bajos con jardín privado y 3 primeros con terraza y azotea-solárium. Pisos de dos dormitorios dobles, baño completo y salón con cocina concepto abierto. Un conjunto residencial moderno, con una distribución pensada para la comodidad, acabados de calidad y amplios espacios exteriores para disfrutar todo el año. Cada vivienda incluye plaza de garaje dentro del precio, además de contar con piscina, grandes zonas verdes y un entorno cerrado que aporta privacidad y seguridad. Entorno privilegiado a un paso del mar y de SANTANDER Oruña de Piélagos es un pueblo lleno de vida, con todos los servicios a pie y un entorno natural espectacular: ✔ A 12 minutos de Santander ✔ A 4 minutos de las playas de Usgo, Liencres y Mogro ✔ Junto al río Pas, ideal para piragüismo, paddle surf y paseos ✔ Restaurantes, cafeterías, tiendas, centro de pilates, supermercado… ✔ Conexión rápida a la A67 y A8. Diseño, espacio y naturaleza Las viviendas destacan por su luminosidad, su estilo actual y sus espacios exteriores: – Jardines privados en los bajos – Amplias terrazas y azotea-solárium en los primeros – Piscina comunitaria – Urbanización cerrada – Plaza de garaje incluida Un entorno verde y agradable que invita a disfrutar del aire libre, el descanso y el bienestar. Si buscas un lugar bonito, tranquilo, bien comunicado y con auténtica calidad de vida… Las Viñas te está esperando.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2893.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Piso en Barrio La Canal, 15"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109941820",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/09/25/e5/1410474461.webp",
+      "externalReference": "R466",
+      "numPhotos": 22,
+      "price": 310000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 310000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 302.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Arce",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Arce",
+      "country": "es",
+      "latitude": 43.4031588,
+      "longitude": -3.944571,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109941820/",
+      "distance": "4940",
+      "description": "CASA INDEPENDIENTE EN PUENTE ARCE   Vivienda independiente en una de las zonas más privilegiadas  de Cantabria.  En Puente Arce, rodeada de naturaleza y, a un paso de la  capital, se encuentra esta casa unifamiliar enclavada en una  finca de más de 5.000 m².   La propiedad consta en planta baja de salón, cocina, dos  dormitorios, dos baños, garaje y zona de aparcamiento.  El bajo cubierta actualmente alberga dos dormitorios y un  cuarto trastero,  pero podrás distribuirlo a tu gusto y darle el  uso necesario según tu estilo de vida.   La casa necesita reforma, pero el tejado está en buen estado y  tiene instalada la calefacción. Una vivienda sin duda, con  muchas posibilidades.   El terreno es en parte urbano y permite la construcción de  otro chalet, lo que lo convierte en una oportunidad única de  inversión.   A tan solo 12 minutos de Santander, cerca de playas como Usil (Mogro), el Parque Natural de las Dunas de Liencres y el  campo de golf Abra del Pas. Una zona ideal para quienes  buscan naturaleza, deporte y calidad de vida.   No lo dudes y ven a ver el que, sin duda, será tu nuevo  hogar. Al comprador se le cobrará  un 1% de gastos de gestión más el IVA correspondiente del precio final de venta.   Los precios mostrados no incluyen impuestos, gastos de compraventa ni financiación.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1026.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Arce, Piélagos",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109918842",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/75/3d/6b/1389627977.webp",
+      "numPhotos": 54,
+      "price": 449000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 449000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 371.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "el nogal, 104",
+      "province": "Cantabria",
+      "municipality": "Miengo",
+      "country": "es",
+      "latitude": 43.4268266,
+      "longitude": -3.9935832,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109918842/",
+      "distance": "2085",
+      "description": "¡Oportunidad! Finca urbana con vivienda + finca rústica incluida ¡en la mejor zona de Miengo! Son dos fincas contiguas que se venden en conjunto: 1. Finca urbana con vivienda y anexos. 2. Parcela rústica de casi 3.000 m². Este combo es ideal para quien busque espacios amplios, con opciones de reforma y asimismo posibilidades de generar varias viviendas. Una opción súper interesante tanto para vivir como para invertir. La vivienda consta de una superficie construida total de 371 m² (según Catastro), todo ello sobre una parcela de 858 m².  Se distribuye en 198m² construidos de vivienda y 173m² repartidos entre garaje, buhardilla, cuadra, almacén, etc.  La cocina está reformada recientemente. El resto del inmueble está operativo aunque conserva el estilo de época: perfecto para quien busque potencial de actualización, mantener elementos originales o redistribuir los espacios según proyecto propio. En la parcela urbana encontramos jardín, zona de aparcamiento y una cuadra con un almacén adosado, todo en buen estado.  Luego, la parcela rústica contigua de 2887m² es diáfana y soleada, con acceso privado y perfecta para uso agrícola, recreativo o como complemento ideal de la finca urbana (piscina, terrazas, huerta, etc. ) En resumen, se trata de un conjunto ideal para una familia que busque una vivienda amplia con un gran terreno en una ubicación inmejorable: zona tranquila, rodeada de verde y con buenos accesos a la autovía en dirección a Santander o Torrelavega.  Y lo mejor de todo: el Campo de Golf de Mogro se encuentra a sólo 2km. de distancia, y además ¡podrás ir andando a las bellas playas de Usgo y Cuchía! Nota: Las superficies indicadas proceden de Catastro, al no constar superficie en el Registro de la Propiedad.",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1210.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Miengo",
+        "title": "Chalet pareado en el nogal, 104"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": true,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109914449",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/dd/67/40/1389492570.webp",
+      "numPhotos": 33,
+      "price": 525000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 525000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 381.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "avenida Solvay",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Inmobiliaria - Barreda",
+      "country": "es",
+      "latitude": 43.3731088,
+      "longitude": -4.0392589,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109914449/",
+      "distance": "4948",
+      "description": "Este chalet independiente, exclusivo, con su gran escalera de entrada y de 381 m² construidos se encuentra sobre una impresionante parcela de 2115 m², con amplio jardín privado que rodea la casa. El jardín cuenta con césped bien cuidado, caminos pavimentados que invitan a pasear, disfrutar del aire libre en familia y amigos, ofrece amplia variedad de plantas, árboles y flores que proporcionan privacidad a la vivienda. Hay espacio suficiente para segregar la finca( para su posterior venta si así desea, construcción de piscina, pista de pádel, tenis, una pequeña zona con huerto, entre otros) y / o dividir la vivienda en dos para tener cerca a los seres más queridos: a los mayores, a los hijos pero sin perder la independencia.  La fachada exterior de construcción sólida de piedra, ladrillo de buena calidad ha sido restaurada y cuidada pero mantiene su esencia original.  El salón es espacioso, con chimenea de piedra, amplias ventanas que permiten una excelente entrada de luz natural y vistas al jardín, puertas de madera maciza, suelos de madera y parquet y techos altos.  La vivienda tiene varias habitaciones, algunas de ellas con balcón privado y vistas al jardín, armarios empotrados, ideal para familias numerosas, crear espacios como un estudio o biblioteca, despacho, gimnasio, zona de lavandería, vestidores, entre otros.  Válida no sólo como vivienda principal y/o segunda residencia al estar cerca de Torrelavega y a muy pocos km de la playa de Suances, sino también como un negocio en la primera planta y vivienda arriba ( guardería, despacho de abogados, etc.. . dedicar a alquiler residencial y/o vacacional) A 20km del aeropuerto de Santander, a unos pocos km de Santillana del Mar y no muy lejos de varios campos de Golf, Barcena Mayor. No dude en contactar con nosotros para visitar la vivienda de estas maravillosas características: grande, bonita, con esencia, carácter, historia y todo ello rodeado de un jardín impresionante.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1378.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Inmobiliaria - Barreda, Torrelavega",
+        "title": "Casa independiente en avenida Solvay"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109909721",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f9/32/2e/1389325794.webp",
+      "numPhotos": 25,
+      "price": 310000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 310000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 95.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "la granja, 1273",
+      "province": "Cantabria",
+      "municipality": "Miengo",
+      "country": "es",
+      "latitude": 43.410763,
+      "longitude": -3.9970916,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109909721/",
+      "distance": "644",
+      "description": "Oportunidad Única en Bárcena de Cudón: Casa Independiente con Parcela de 8.500 m² – Calle La Granja 1273 ¿Buscas espacio, privacidad y naturaleza? Esta propiedad lo tiene TODO. Una casa independiente de aprox. 100 m², con 3 habitaciones y una impresionante parcela de 8.500 m² totalmente aprovechable. � La vivienda 100 m² aproximadamente, con distribución cómoda y funcional. 3 dormitorios amplios y luminosos. Salón acogedor con múltiples posibilidades. Cocina independiente. Baño completo. Vivienda con muchas opciones de mejora y personalización. � La parcela… el gran tesoro: 8.500 m² Un terreno enorme, perfecto para: Jardines, huerto, zona de ocio o piscina. Construcciones auxiliares, aparcamiento o ampliaciones. Vivir con total privacidad y sin vecinos pegados. Disfrutar de la naturaleza todos los días. Un espacio único en la zona, ideal para quienes desean libertad, vistas y tranquilidad… ¡algo cada vez más difícil de encontrar! � Ubicación privilegiada Situada en Calle La Granja 1273, Bárcena de Cudón, en un entorno tranquilo y verde, a muy poca distancia de: Las playas de Cudón y Miengo. Conexión rápida con la autovía. Santander a pocos minutos. Comercios, servicios y colegios cercanos. Una propiedad con un potencial enorme Perfecta para familias, amantes del campo, segunda residencia o incluso como inversión. Una finca así no aparece todos los días.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3263.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Miengo",
+        "title": "Casa independiente en la granja, 1273"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109902910",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/be/d4/af/1389095850.webp",
+      "externalReference": "W-0473MY",
+      "numPhotos": 76,
+      "price": 950000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 286.0,
+      "rooms": 8,
+      "bathrooms": 6,
+      "address": "Abra del Pas",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4378169,
+      "longitude": -3.9663452,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109902910/",
+      "distance": "4394",
+      "description": "Exclusiva casa en Mogro: espacio, piscina privada y vistas al mar Engel & Völkers presenta esta magnífica casa de 8 habitaciones y 7 baños situada en Mogro. Con una superficie construida de 286 metros cuadrados y 777 de parcela, ofrece impresionantes vistas al mar. En la primera planta junto al jardín con piscina y porche, se encuentra la terraza cerrada, amplia y luminosa, la cocina con vistas al jardín y el aseo de invitados. Cuenta con un dormitorio en suite y otro individual, que dan paso al salón con chimenea y un gran ventanal a la playa de Usil. La segunda planta abuhardillada tiene cuatro dormitorios (uno en suite) y baño completo. En la planta baja se encuentra el cuarto de lavado, garaje cerrado y un apartamento independiente con cocina abierta, dos dormitorios en suite y cuarto trastero. La gran versatilidad de esta casa hace que sea ideal para familias que buscan un hogar y también es una excelente opción para quienes busquen una oportunidad de negocio turístico. Descubra un estilo de vida inigualable en Mogro, en la costa norte de España. Este enclave es ideal para aquellos que buscan un equilibrio perfecto entre la ciudad y la naturaleza. A solo 15 minutos en coche de Santander, la capital de Cantabria, y a una hora del aeropuerto de Bilbao, Mogro ofrece comodidad y accesibilidad. La infraestructura de la zona es excelente, con acceso a servicios de alta calidad, incluyendo centros comerciales a solo diez minutos en coche además de una oferta gastronómica destacada que abarca desde la cocina tradicional cántabra hasta opciones gourmet. Para los amantes del ocio, Mogro es un paraíso. Practique golf en el cercano campo de golf de Abra del Pas, disfrute de actividades acuáticas en las playas de arena dorada o practique equitación en los centros cercanos. La Reserva Natural de las Dunas de Liencres, a solo 10 minutos, es perfecta para senderismo y observación de aves.  Este lugar es un refugio de paz con vistas espectaculares al mar y a la montaña.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3322.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Casa independiente en Abra del Pas"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109873176",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ee/de/06/1388229245.webp",
+      "externalReference": "SV1410",
+      "numPhotos": 44,
+      "price": 259000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 259000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 290000.0,
+            "priceDropValue": 31000,
+            "priceDropPercentage": 11
+          }
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 372.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio la Venta",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3959219,
+      "longitude": -4.0023923,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109873176/",
+      "distance": "1579",
+      "description": "¿Buscas un lugar donde respirar tranquilidad sin renunciar a estar cerca de todo? Esta casa de dos plantas en Polanco puede ser justo lo que tenías en mente. Construida en 1996, es perfecta para quienes quieren hacer una reforma a su gusto y crear un hogar con personalidad propia. Uno de sus grandes tesoros es su almacén de 120 m²: un espacio enorme y versátil que puede convertirse en garaje para varios coches, taller, zona de hobbies, estudio o incluso transformarlo por completo. Aquí la imaginación manda. La finca, con 1.990 m², es simplemente espectacular: amplia, soleada, bien orientada y con mil posibilidades para jardín, huerto, piscina o lo que tú quieras. Todo ello en un entorno tranquilo, pero con la ventaja de estar súper bien comunicado: a unos 20 minutos de Santander y escasos 10 minutos de Torrelavega, con accesos rápidos y cómodos. Si buscas espacio, sol y un lugar donde crear tu propio proyecto de vida, esta propiedad en Polanco te está esperando. ¡Ven a descubrirla!",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 696.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Chalet en Barrio la Venta"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109841297",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0f/45/7f/1387260743.webp",
+      "externalReference": "ISV1017",
+      "numPhotos": 40,
+      "price": 448000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 448000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 475.0,
+      "rooms": 5,
+      "bathrooms": 1,
+      "address": "CL PONDEROSA (LA)",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4096984,
+      "longitude": -4.0418014,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109841297/",
+      "distance": "2972",
+      "description": "Tu proyecto ideal te espera en Cortiguera, Suances: una finca urbana con infinitas posibilidades ¿Te imaginas transformar una finca con historia y encanto en el hogar o el proyecto de tus sueños? En Cortiguera, Suances, te espera una propiedad única para reformar íntegramente, que combina una amplia casa tradicional con una finca urbana de más de 4.200 m², en un entorno tranquilo, rodeado de naturaleza y a solo unos minutos de las playas más hermosas de la costa cántabra. La vivienda principal, con tres plantas de unos 180 m² cada una y un bajo cubierta diáfano de 115 m², ofrece una base sólida para crear un espacio completamente a tu gusto. Dispone de varias estancias amplias, cinco habitaciones y una antigua cuadra de unos 80 m² con cabrete, perfecta para ampliar la casa, añadir una zona de invitados o crear un espacio de ocio. Además, cuenta con una zona de recreo con piscina, barbacoa cubierta y aseo exterior, ideal para disfrutar del aire libre una vez reformada. La finca es completamente urbana, con alcantarillado, luz y agua, lo que aporta un valor añadido y una versatilidad extraordinaria. Gracias a su calificación, permite la construcción de más viviendas, ofreciendo la posibilidad de desarrollar un conjunto residencial, crear apartamentos turísticos o levantar una espectacular vivienda unifamiliar con gran jardín. Su ubicación es inmejorable: en plena naturaleza, con vistas despejadas y muy cerca del centro de Suances y de sus playas. Con más de 4.200 m² de terreno urbano, todos los servicios disponibles y un entorno natural incomparable, esta propiedad es una oportunidad única tanto para quienes buscan reformar y vivir como para quienes desean invertir o emprender en la costa cántabra. Ven a descubrir su potencial y convierte esta finca urbana en Cortiguera en el proyecto con el que siempre has soñado. El precio de venta no incluye impuestos propios de la transmisión, gastos de Notaría, Registro, ni cualquier otro que según Ley pueda corresponder al comprador.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 943.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Casa independiente en CL Ponderosa (la)"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109803022",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cd/6d/7f/1386107355.webp",
+      "externalReference": "VTS2726",
+      "numPhotos": 55,
+      "price": 420000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 420000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 390.0,
+      "rooms": 8,
+      "bathrooms": 3,
+      "address": "CL CASAR-CUDON, 78",
+      "province": "Cantabria",
+      "municipality": "Cudon",
+      "country": "es",
+      "latitude": 43.4150745,
+      "longitude": -4.0124689,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109803022/",
+      "distance": "826",
+      "description": "En el corazón de Cudón, a un suspiro de las playas y a pocos minutos de Torrelavega y Santander, se alza esta casa de piedra que combina la esencia de Cantabria con un estilo actual y refinado. La vivienda recibe al visitante a través de un fantástico jardín de 400 m², un espacio verde y cuidado que anticipa el encanto y la serenidad que se respira en el interior. Con más de 400 m² construidos, ofrece seis habitaciones amplias, siendo la principal una suite con baño privado, y cuenta además con un amplio balcón, perfecto para disfrutar de las vistas y del aire puro del norte. Rehabilitada con mimo y materiales nobles —maderas de castaño, piedra natural y acabados de alta gama—, esta casa logra el equilibrio perfecto entre tradición y modernidad. No es solo una casa: es una declaración de estilo cántabro, hecha para quienes buscan vivir con calma, carácter y belleza. No dudes en ir a visitarla. Ref. : VTS2726.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1077.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cudon",
+        "title": "Chalet pareado en CL Casar-cudon, 78"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109781346",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/91/a3/74/1407138088.webp",
+      "externalReference": "65074068",
+      "numPhotos": 29,
+      "price": 500000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 500000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 114.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Higarino, 443",
+      "province": "Cantabria",
+      "municipality": "Miengo",
+      "country": "es",
+      "latitude": 43.4301,
+      "longitude": -3.98015,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109781346/",
+      "distance": "3003",
+      "description": "� ¡Tu nuevo hogar frente al mar te espera! Espacio, tranquilidad y naturaleza en un solo lugar �� Descubre esta exclusiva casa independiente ubicada en la costa quebrada, con impresionantes vistas al mar y a la ría de Mogro, sobre una parcela de 3.500 m2 en terreno protegido. Un refugio perfecto para quienes buscan privacidad, contacto con la naturaleza y desconexión, sin renunciar a la comodidad y el estilo de vida que mereces. ✨ Características principales de la vivienda 3 habitaciones amplias y luminosas, diseñadas para ofrecer máximo confort y bienestar. Cada estancia recibe luz natural durante todo el día, creando un ambiente acogedor y relajante. Amplio salón-comedor, ideal para disfrutar de reuniones familiares o con amigos, con grandes ventanales que conectan visualmente con el jardín y el paisaje natural. Cocina equipada y funcional, pensada para facilitar la vida diaria y disfrutar de la preparación de comidas con vistas al exterior. Choco de 40 m2 con cocina equipada y zona de barbacoa, perfecto para reuniones al aire libre o disfrutar de un espacio de ocio independiente. � Exteriores y parcela Parcela de 3.500 m2, de los cuales 2.000 m2 son totalmente privados, ofreciendo espacio suficiente para jardín, piscina, huerto, zona de juegos o cualquier proyecto que desees emprender. Espacios versátiles que permiten crear un entorno a medida, ya sea para relajarte, practicar deporte, cultivar un huerto ecológico o disfrutar de reuniones con amigos y familiares. Entorno natural protegido, con senderos y acceso directo a la costa, ideal para paseos tranquilos y actividades al aire libre. Proximidad a las playas de Mogro, Liencres y Cuchía, incluyendo una cala semiprivada a solo 500 m, perfecta para disfrutar del mar con total intimidad. � Perfecta para ti Esta vivienda es ideal como: Residencia familiar, gracias a sus espacios amplios y distribución funcional. Casa de campo o segunda residencia, para desconectar del ritmo urbano y disfrutar de la naturaleza y el mar. Vivienda versátil, con zonas de ocio y posibilidad de adaptarse a tus necesidades, ya sea para el descanso, el teletrabajo o reuniones con amigos y familiares. � Por qué te enamorará Privacidad total y entorno natural protegido. Espacios amplios y luminosos, pensados para el confort diario. Posibilidad de disfrutar de playa, mar y jardín a pocos pasos de casa. Oportunidad de tener tu refugio familiar en un lugar privilegiado y exclusivo de Cantabria. � No dejes escapar esta oportunidad única.  Contáctanos hoy mismo y ven a descubrir la casa de tus sueños, donde cada día será una experiencia frente al mar.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4386.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Miengo",
+        "title": "Casa independiente en calle Higarino, 443"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109696680",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f7/b9/d8/1393979067.webp",
+      "externalReference": "V2258",
+      "numPhotos": 67,
+      "price": 850000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 950000.0,
+            "priceDropValue": 100000,
+            "priceDropPercentage": 11
+          }
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 456.0,
+      "rooms": 6,
+      "bathrooms": 4,
+      "address": "calle La Tabierna, 47",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4246354,
+      "longitude": -4.0434069,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109696680/",
+      "distance": "3502",
+      "description": "Casa independiente en el centro de Suances · 456 m² construidos, parcela privada y potencial para personalizar a tu gusto Si estás buscando una vivienda con espacio, luz, ubicación privilegiada y posibilidad de personalización, esta casa independiente en el centro de Suances es para ti. Situada a solo 5 minutos caminando de las playas y justo al lado de la zona comercial del pueblo (supermercados, tiendas, farmacias, bancos y restauración), esta propiedad reúne todas las condiciones para convertirse en un hogar excepcional. Se trata de una casa en fase avanzada de obra, con 456 m² construidos distribuidos en tres plantas y asentada sobre una parcela urbana de 1.272 m² totalmente cerrada. En la planta baja encontrarás una cocina tipo office con salida a terraza, un amplio y luminoso salón, un baño completo, garaje cerrado para dos coches y un cuarto de calderas. En la primera planta destacan sus seis dormitorios (todos con armarios empotrados y salida a terraza) y tres baños, uno de ellos en suite. La planta bajo cubierta, completamente diáfana, te permitirá diseñar un espacio de ocio, estudio, gimnasio o ampliar la zona de descanso según tus necesidades. Entre sus calidades: persianas eléctricas, ventanas de PVC efecto madera, hilo musical, focos halógenos y caldera de gasoil ya instalada. Una oportunidad única para quienes desean una casa independiente en el centro de Suances, lista para terminar al gusto del comprador y disfrutar de amplitud, jardín, garaje y ubicación privilegiada junto al mar.   Las imágenes decoradas son una recreación virtual para mostrarte como podría lucir tu futuro hogar.   Inmobiliaria Barrio, la inmobiliaria de confianza que eliges en Cantabria.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1864.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Casa independiente en calle La Tabierna, 47"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109764325",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/25/19/31/1412601696.webp",
+      "externalReference": "19803",
+      "numPhotos": 26,
+      "floor": "1",
+      "price": 290000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 290000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 51.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Abra del Pas",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4286754,
+      "longitude": -3.978211,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109764325/",
+      "distance": "2998",
+      "description": "DÚPLEX CON VISTAS, TERRAZA Y 3 GARAJES Imagina despertar cada mañana con la calma del mar y el verde de Cantabria al fondo. En Abra del Pas, en una de las zonas más agradables de Mogro, se encuentra este acogedor dúplex que combina comodidad, amplitud y unas vistas que invitan a relajarse cada día. En la planta baja encontrarás una cocina práctica y luminosa, un aseo y un amplio salón-comedor con salida directa a una terraza con unas fantásticas vistas abiertas a la ría y a las zonas verdes. Un rincón perfecto para disfrutar de un desayuno al sol, una cena al atardecer o simplemente para desconectar. A través de la escalera subirás a la primera planta donde encontrarás la zona de descanso, con dos dormitorios bien distribuidos y un baño moderno y funcional, pensado para ofrecer espacio y comodidad a diario. Y como extra muy práctico, justo encima dispones de un amplio trastero, actualmente acondicionado como tercer dormitorio. Además, se incluye tres plazas de garaje, dos de ellas cerradas, algo realmente poco común y muy valorado en la zona. Todo ello se ubica dentro de un entorno tranquilo, con fácil acceso a la autovía y a pocos minutos de la playa de Mogro, el Campo de Golf de Abra del Pas y las principales conexiones hacia Santander y Torrelavega.  Si estás buscando una vivienda cerca del mar o quieres una segunda residencia para disfrutar de la playa, del paisaje, y de la calidad de vida, llámanos para visitarlo porque te encantará.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 5686.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Piso en calle Abra del Pas"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109695591",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/40/1c/5a/1421232398.webp",
+      "numPhotos": 68,
+      "price": 248000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 248000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 170.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio Requejada, 33",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3881461,
+      "longitude": -4.0249326,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109695591/",
+      "distance": "2915",
+      "description": "Se vende chalet en Requejada (Polanco) Magnífico chalet unifamiliar de tres habitaciones y dos baños, ubicado en una tranquila urbanización de solo 8 vecinos, con amplias zonas verdes comunitarias ideales para el descanso y el disfrute familiar. La vivienda se distribuye en dos plantas: •�️ Planta superior: tres habitaciones y un baño completo con bañera. •�️ Planta baja: luminoso salón comedor cocina con acceso al jardín y un segundo baño con ducha. Dispone además de un garaje cerrado de 80 m², con capacidad para tres coches y puerta individual, ofreciendo gran espacio de almacenamiento o posibilidad de uso como taller, zona de ocio o bodega. Ubicado en una zona residencial tranquila, muy bien comunicada con Torrelavega y Santander, y próxima a todos los servicios (colegios, supermercados, transporte público, piscinas y polideportivo municipal). � Precios desde 248.000 €, según tamaño del jardín.  � Jardines de hasta 200 m². Una excelente oportunidad para vivir en un entorno natural sin renunciar a la comodidad y cercanía urbana. Memoria de calidades: ventanas de PVC y cristales climalit, suelos y rodapiés cerámicos porcelanico imitación madera, puertas lacadas en blanco, puerta de entrada blindada, calefacción individual de gas, radiadores de aluminio, aerotermo individual, inodoro y plato de ducha de loza sanitaria, bañera acrílica, azulejos de cocina y baños cerámicos, escalera de hierro y madera principal y de mármol la escalera de bajada al garaje, 2 puertas metálicas en vestíbulo hacia garaje, puerta individual de entrada a garaje metálica sistema Roper, Terrazas exteriores en hormigón impreso y cierre de parcela con malla Hércules. � Contacta para más información o concertar visita.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 1459.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Chalet adosado en Barrio Requejada, 33"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109684701",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/68/f3/22/1382385449.webp",
+      "externalReference": "1953",
+      "numPhotos": 15,
+      "price": 270000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 270000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 100.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Suances",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4066048,
+      "longitude": -4.0403556,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109684701/",
+      "distance": "2880",
+      "description": "¡Oportunidad única! CHALET PAREADO A LA VENTA EN CORTIGUERA DISPONE DE PARCELA INDIVIDUAL CON SALIDA DIRECTA A PISCINA Situado en la Cortiguera y a solo 2 km de Suances y a pocos minutos de la emblemática Playa de los Locos. Este espectacular pareado, de primeras calidades, te ofrece todo lo que necesitas para vivir con lujo y confort en un entorno natural incomparable. Distribución: 2 amplias habitaciones, perfectas para toda la familia. 2 cuartos de baño. Gran terraza privada para disfrutar de las vistas y el aire libre. Relájate en la piscina rodeado de tranquilidad y naturaleza. Espacios amplios, luminosos y con acabados de calidad superior. Disfruta del equilibrio perfecto entre el encanto de la costa y la comodidad de una vivienda moderna. Un lugar ideal para vivir o vacacionar.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2700.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Chalet pareado"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109684594",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6d/85/3d/1382385522.webp",
+      "externalReference": "2913",
+      "numPhotos": 37,
+      "floor": "1",
+      "price": 235000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 235000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 245000.0,
+            "priceDropValue": 10000,
+            "priceDropPercentage": 4
+          }
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 80.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Abra del Pas",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4271491,
+      "longitude": -3.9753299,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109684594/",
+      "distance": "3062",
+      "description": "Duplex de 3 dormitorios con impresionantes vistas al mar y al abra del Pas, ubicado en una zona tranquila y bien comunicada, con todos los servicios a su alcance. La vivienda dispone de 80,11m2+8m2 adicionales se distribuye en un amplio salón-comedor muy luminoso con gran ventanal con vistas al mar, ideal para disfrutar en familia, una cocina totalmente equipada con acceso a una terraza con vistas, 3 dormitorios, baño completo y aseo de cortesía. Garaje y trastero incluidos. Situado cerca de la autovía A-67, con fácil acceso a Santander, Torrelavega y cualquier zona de Cantabria, esta propiedad combina la tranquilidad de la costa, y la gran belleza del entorno natural, y con la comodidad de tener todo cerca. La zona dispone de servicios, y se encuentra próxima a un campo de golf, perfecta para quienes buscan calidad de vida junto al mar. Solicite información.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2938.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Dúplex en calle Abra del Pas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109676790",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0a/08/84/1397855389.webp",
+      "externalReference": "2553VX",
+      "numPhotos": 24,
+      "price": 350000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 350000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 112.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle la Aldea, 51",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4055133,
+      "longitude": -4.036908,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109676790/",
+      "distance": "2625",
+      "description": "Magnolia Homes presenta en Suances un chalet independiente de 112 m² construidos con vistas a la ría de San Martín, situado en una urbanización residencial tranquila y con piscina comunitaria y jardín privado de 277 m², ideal como segunda residencia o vivienda habitual con alta calidad de vida.   La oferta actual de vivienda en Suances sigue siendo competitiva, pero la combinación de espacios exteriores, piscina y proximidad a las playas lo convierte en una oportunidad destacada en el mercado costero. Características principales: Superficie construida: 112 m² / útiles: 104 m² 3 habitaciones y 3 baños, distribuidas para confort y funcionalidad. Piscina comunitaria, ideal para temporada de verano y vida familiar. Jardín privado de 277 m², con espacio para ocio, barbacoa o ampliación. Vistas a la ría de San Martín, aportando un entorno visual relajante. Urbanización con ambiente residencial y accesos fáciles a servicios locales. A pocos minutos de las playas y del centro de Suances, favoreciendo uso como segunda residencia o alquiler vacacional. Este inmueble está gestionado por Magnolia Homes, una firma inmobiliaria en Cantabria que acompaña cada proceso de compraventa con cercanía, claridad y un profundo respeto por las personas y sus decisiones. Trabajamos con quienes valoran la tranquilidad, la información bien explicada y un acompañamiento profesional de principio a fin. Contacta con Magnolia Homes para ampliar información o concertar una visita.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3125.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Chalet en calle la Aldea, 51"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109659304",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4d/72/d8/1390770602.webp",
+      "externalReference": "147",
+      "numPhotos": 24,
+      "price": 540000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 540000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 271.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Barrio el Soito",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Oruña",
+      "country": "es",
+      "latitude": 43.3999833,
+      "longitude": -3.9482441,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109659304/",
+      "distance": "4718",
+      "description": "Maravilloso chalet individual en el pueblo de Oruña de Piélagos. Dentro de una urbanización privada de otros 6 chalets pareados. La vivienda consta de 270 m² aprox, distribuida en: Planta baja: Hall de entrada. Gran y luminoso salón - comedor. Enorme cocina con salida al jardín y un aseo.  Planta primera: Dispone de 3 dormitorios, uno de ellos con baño en suite y vestidor. Otro baño completo en la misma planta.  Planta semi-sótano: Nos encontramos una bodega completamente equipada para disfrutar en familia o con amigos. Garaje, otra zona de despensa/taller y un cuarto de lavandería.  La vivienda dispone de aspiración centralizada. En su precioso jardín de unos 350 m² aprox dispone de preciosos rincones y una piscina privada para hacer las delicias de pequeños y mayores. Una casa a 5 minutos de la autovía. Perfecta para disfrutar..",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1993.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oruña, Piélagos",
+        "title": "Casa independiente en Barrio el Soito"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109647315",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fe/c4/e8/1381216664.webp",
+      "externalReference": "379",
+      "numPhotos": 23,
+      "price": 395000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 395000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 260.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Cudon",
+      "province": "Cantabria",
+      "municipality": "Cudon",
+      "country": "es",
+      "latitude": 43.4183588,
+      "longitude": -4.0218956,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109647315/",
+      "distance": "1651",
+      "description": "CUDÓN CANTABRIA, inmejorable zona donde predomina la tranquilidad, con impresionantes vistas en todo su alrededor, disfrutando de un terreno rustico de aproximadamente 4.800 m2. La casa de dos plantas, dispone de tres zonas, una habitable de tres dormitorios, salón, cocina y baño y otra de aprox. 33 m2 de planta actualmente de trastero en dos plantas. Ambas zonas se pueden rehabilitar y unir para un mayor confort y amplitud. La otra zona de aproximadamente de 62 m2 de garaje en una planta. De fácil acceso, a un paso de las playas de la zona, a media hora de Santander, y muy cerca sus conexiones con la autovía Bilbao-Palencia-Oviedo. SE PUEDE VISITAR. ABIERTOS A CUALQUIER TIPO DE ESTUDIO. Ref. : 0379.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1519.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cudon",
+        "title": "Chalet"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109152627",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d9/e5/6f/1424149440.webp",
+      "externalReference": "56624",
+      "numPhotos": 29,
+      "floor": "5",
+      "price": 590000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 590000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 112.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Bajada al Puerto",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4342406,
+      "longitude": -4.0388067,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109152627/",
+      "distance": "3836",
+      "description": "¿Te imaginas despertar cada mañana con el sonido de las olas y el horizonte infinito frente a ti? Esta es tu oportunidad, un ático único en Suances, la villa costera más deseada de Cantabria, lleno de luz y sol durante todo el día, pensado para disfrutarlo todo el año. El edificio moderno y actual alberga una vivienda que destaca por su gran terraza panorámica, desde donde contemplarás vistas espectaculares de la playa y el mar, un escenario perfecto para tus momentos de relax o reuniones con familiares y amigos. El ático se distribuye en tres dormitorios luminosos, dos baños completos, cocina moderna y funcional y un amplio salón inundado de luz natural, creando un espacio acogedor y confortable en cada rincón. Cuenta con calefacción, ascensor y plaza de garaje, garantizando comodidad y practicidad en tu día a día. Y lo mejor de todo: ¡menos de cinco minutos caminando hasta la arena! , para disfrutar del mar siempre que quieras. Un hogar que combina ubicación, vistas y estilo de vida en una de las zonas más codiciadas de Cantabria. No dejes que se escape esta oportunidad. Contacta con Inmobiliaria SanFernando y agenda tu visita para descubrir tu futuro ático frente al mar.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 5268.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Piso en calle Bajada al Puerto"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109629820",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/34/44/81/1414485036.webp",
+      "externalReference": "MOGRO",
+      "numPhotos": 30,
+      "floor": "1",
+      "price": 229500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 229500.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Playa de Usil",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4369823,
+      "longitude": -3.973594,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109629820/",
+      "distance": "3928",
+      "description": "EXCELENTE OPORTUNIDAD. Piso en venta a 50 mts. de la playa de Mogro. Amplio y luminoso salón y 2 habitaciones, cocina equipada independiente, baño completo. Calentador eléctrico y calefacción mediante suelo radiante (se puede meter gas). Amplio garaje cerrado para 2 coches. Urbanización con piscina y zona de ocio. Ideal para vivir o como inversión (alta rentabilidad). Con una magnífica ubicación y en zona de alta revalorización. Ideal para realizar deportes náuticos y cerca de campo de golf. Dentro de un entorno natural y muy buenas comunicaciones por autovía con otras playas, Santander y Torrelavega. INFORMESE SIN COMPROMISO Y CONCERTE UNA VISITA.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3531.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Piso en calle Playa de Usil"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109066269",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f0/a8/a6/1378468623.webp",
+      "externalReference": "19771",
+      "numPhotos": 25,
+      "price": 850000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 647.0,
+      "rooms": 5,
+      "bathrooms": 4,
+      "address": "calle las Cuestas",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4256413,
+      "longitude": -3.9679239,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109066269/",
+      "distance": "3462",
+      "description": "TU REFUGIO PRIVADO ENTRE NATURALEZA Y MAR Ésta no es solo una casa, es un lugar donde se escriben historias. Esta vivienda en Miengo es de las que se sienten desde el primer momento. Rodeada de naturaleza, con espacio, luz y tranquilidad, es el refugio perfecto para quienes buscan algo más que un techo: buscan hogar. Ubicada en una espectacular parcela de casi 4.000 m2, esta propiedad ofrece el espacio, la privacidad y el confort que muchas familias desean y pocas encuentran. Rodeada de zonas verdes, con una bonita huerta, árboles y rincones tranquilos para desconectar, aquí podrás reconectar contigo mismo y con los tuyos. Esta vivienda, de más de 400 m2 construidos, está muy bien cuidada y se distribuye en dos cómodas plantas. Al entrar, te recibe un amplio y luminoso salón comedor, perfecto para celebraciones o tardes tranquilas junto al calor de la chimenea. La cocina, moderna, espaciosa y funcional, invita a compartir recetas, charlas y momentos especiales. Encontramos también un baño completo y un aseo, además de un despacho y una cómoda sala de estar, que pueden destinarse a dormitorios si lo necesitas. Asimismo, en esta planta verás un práctico cuarto para la lavandería, así como una magnífica bodega. En la planta superior, encontrarás 4 dormitorios y dos baños. Todo con orientación norte-sur, para aprovechar la luz natural durante todo el día. Pero lo que realmente enamora es el exterior: una fantástica piscina cubierta y privada donde refrescarte, zona de barbacoa, terraza en la parte posterior, garaje para varios coches y zonas ajardinadas donde cada estación tiene su propio encanto. Desde la entrada además tendrás unas maravillosas vistas despejadas a la ría de Mogro. Su ubicación es ideal ya que está a un paso del campo de golf y la playa. Una combinación única para quienes buscan calidad de vida, sin renunciar a los servicios ni a la conexión con la ciudad. Ya sea como vivienda habitual o segunda residencia, esta casa te ofrece todo lo que necesitas para vivir mejor. Y lo mejor es que está lista para entrar a vivir. Ven a conocerla y déjate conquistar. Porque cuando una casa te hace sentir en paz desde el primer paso… sabes que has llegado al lugar correcto.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1314.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Casa independiente en calle las Cuestas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109622514",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/68/9e/b6/1423942583.webp",
+      "externalReference": "RV0408",
+      "numPhotos": 37,
+      "price": 219900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 219900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 53.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Carral",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4283041,
+      "longitude": -4.0455521,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109622514/",
+      "distance": "3855",
+      "description": "Descubre este acogedor bajo con jardín y espectaculares vistas al mar, situado en la Prolongación Carral, en la zona alta de Suances. Un entorno tranquilo, soleado y con una ubicación que pronto estará aún mejor conectada gracias al futuro funicular que unirá esta parte del pueblo con la zona baja y la playa. La vivienda, con una superficie de 53 m2, destaca por su gran luminosidad y por su jardín esquinero en forma de L, orientado al sur, que ofrece múltiples posibilidades. Este espacio exterior, amplio y resguardado del viento, es perfecto para crear una zona chill-out, disfrutar de comidas al aire libre con barbacoa, o incluso montar un pequeño huerto. Todo ello, mientras contemplas las impresionantes vistas al mar que acompañan al inmueble. En el interior, la casa se distribuye en dos habitaciones con armarios empotrados, un baño completo y amplio, y un salón comedor con cocina incorporada, completamente equipada y de muy buenas dimensiones. Todas las estancias cuentan con ventanas al exterior, lo que aporta una sensación constante de luz y bienestar. El piso se encuentra en muy buen estado, con un ambiente cálido y acogedor que invita a disfrutarlo durante todo el año. Además, dispone de plaza de garaje y trastero incluidos en el precio, lo que añade un plus de comodidad. En resumen, una vivienda luminosa, funcional y con un gran espacio exterior que combina tranquilidad, vistas y comodidad. Ideal tanto como residencia habitual como para disfrutar de Suances en cualquier época del año.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4149.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Piso en calle Carral"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109598885",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6e/1c/e9/1379674369.webp",
+      "externalReference": "3211",
+      "numPhotos": 32,
+      "floor": "1",
+      "price": 270000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 270000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 77.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "CL MAZAS(LAS)-CUDON, 13",
+      "province": "Cantabria",
+      "municipality": "Cudon",
+      "country": "es",
+      "latitude": 43.4157567,
+      "longitude": -4.0119299,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109598885/",
+      "distance": "850",
+      "description": "En el corazón de la costa cántabra, dentro del tranquilo núcleo de Cudón (Miengo), se encuentra este ático singular, concebido como un verdadero refugio para quienes desean disfrutar de la calma y la naturaleza sin renunciar a la comodidad ni a las conexiones rápidas con Santander y Torrelavega. La vivienda destaca por su diseño contemporáneo y sus espectaculares espacios exteriores, algo cada vez más demandado por quienes buscan una segunda residencia donde relajarse, recibir invitados o teletrabajar con vistas despejadas. Distribución interior: Dos dormitorios, siendo el principal en suite con baño integrado para mayor privacidad y confort. Un segundo baño completo que da servicio a la vivienda. Salón de concepto abierto con cocina integrada, muy luminoso y con acceso directo a la terraza. Dos plazas de aparcamiento exterior y trastero incluidos en la propiedad. Espacios exteriores, el auténtico lujo: Una terraza principal de 117 m² orientada al paisaje, ideal para comidas al aire libre, zonas chill-out o incluso instalar un jacuzzi. En la planta superior, una segunda terraza aún más impactante, con vistas abiertas que invitan a disfrutar de los atardeceres del Cantábrico y que se convierte en un auténtico mirador privado. La zona: Cudón – Miengo Cudón pertenece al municipio de Miengo, una de las áreas residenciales y turísticas más valoradas de Cantabria. Aquí conviven tranquilidad y cercanía al mar: A pocos minutos, playas tan emblemáticas como Usgo, Robayera, Mogro o Cuchía, con arenas doradas y aguas limpias, perfectas para familias y amantes de los deportes acuáticos. Entorno natural privilegiado, con marismas, senderos y la histórica Cueva de Cudón, un patrimonio arqueológico de primer nivel. Conexiones rápidas gracias a la autovía A-67 y la línea de cercanías FEVE: Santander y Torrelavega a tan solo 15 minutos. Servicios básicos en el propio municipio (tiendas, restaurantes, colegios, centro médico), que garantizan comodidad incluso en estancias prolongadas. Una segunda residencia con valor añadido Este ático no solo es una vivienda; es una inversión en calidad de vida. Ofrece el equilibrio perfecto para quienes buscan: Un lugar de descanso cerca del mar. Espacios exteriores privados para compartir con familia y amigos. Conectividad excelente para escapadas de fin de semana o estancias más largas. Seguridad en la inversión, al tratarse de una zona en continuo crecimiento y con alta demanda de viviendas exclusivas. En definitiva, una propiedad única, diseñada para disfrutar del ocio y el confort, que convierte cada visita a Cantabria en una experiencia inolvidable.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3506.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cudon",
+        "title": "Ático en CL Mazas(las)-cudon, 13"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109557583",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fb/26/02/1378350662.webp",
+      "externalReference": "756493",
+      "numPhotos": 42,
+      "floor": "3",
+      "price": 480000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 480000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 73.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Suances",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4325089,
+      "longitude": -4.0447276,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109557583/",
+      "distance": "4069",
+      "description": "Descubre la belleza de la costa quebrada, convirtiendo este inmueble en tu hogar o en tu vivienda vacacional  este luminoso piso ubicado a 100m de la playa de la concha en una de las zonas mas tranquilas del pueblo, sin el bullicio de la zona de restaurantes y tiendas. Urbanización privada. Piso de tres dormitorios, salón con salida a la terraza, cocina reformada y baño. Incluye local acondicionado como apartamento( sala, baño, altillo y hueco para pequeña cocina) en la misma urbanización; fantastico para alquilar, o como refugio para los jóvenes de la familia.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6575.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109522826",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/44/5b/54/1417626228.webp",
+      "externalReference": "6902/3552",
+      "numPhotos": 44,
+      "price": 320000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 320000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 114.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Polanco",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3899915,
+      "longitude": -4.0291445,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109522826/",
+      "distance": "2958",
+      "description": "REF. 6902/3552. Se vende en Requejada una buena casa para actualizar con negocio y parcela de 500 m2. Casa independiente para adaptarla a gusto propio y a la vez continuar con un negocio que tiene licencia de bar-restaurante y está ubicado en una zona excepcional ya que es lugar de paso para viajeros, turistas, camino de Santiago, salida a Santillana del Mar y Suances. rodeada de colegio, polideportivo, pista depadel, farmacia y muy cerca de 3 polígonos industriales. La planta baja de la casa cuenta con zona de bar, comedor, cocina, 2 aseos, una terraza cerrada y la bonita parcela de 500 m2 donde también hay 2 garajes cerrados. La planta principal de la casa está para actualizar con 3 dormitorios, baño y una gran sala y cocina. Tiene balcón. La vivienda también cuenta con parking privado.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2807.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109513971",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/94/ed/aa/1377001444.webp",
+      "externalReference": "2512",
+      "numPhotos": 83,
+      "price": 165000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 165000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 151.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "CA-233, 5",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Barcenilla - Quijano",
+      "country": "es",
+      "latitude": 43.3853989,
+      "longitude": -3.9669166,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109513971/",
+      "distance": "4116",
+      "description": "Si te decimos que esta casa necesita una reforma completa es por que es cierto, somos conscientes, pero sabemos que tiene mucho potencial por su estupenda ubicación, parcela y metros cuadrados bien distribuidos. Actualmente tiene entradas independientes a la planta inferior y a la superior, teniendo abajo cocina, baño completo, salón, salita, dos dormitorios y el garaje. En la parte superior cuenta con 4 dormitorios y un aseo. La vivienda es ideal para redistribuirla y poder tener, en la planta de inferior un amplio salón comedor, espaciosa cocina, cuarto de baño completo y un dormitorio, y en la planta superior poder tener otros tres dormitorios y otro baño completo. De esta manera la casa contaría con cocina, salón comedor, 4 dormitorios, 2 cuartos de baño y garaje. Todo ello con un terreno perfecto de 660 metros cuadrados.   Si quieres venir a comprobar en persona esta vivienda no dudes en ponerte en contacto con nosotros y estaremos encantados de agendar una visita, y hasta que lo puedas ver en persona puedes ver el tour virtual para simular como sería estar allí. Las medidas indicadas en los planos añadidos en el anuncio son orientativas y podrían variar con las medidas reales, por lo que no constituye documento contractual. Honorarios de inmobiliaria asumidos por la parte vendedora. Notaría, registro e impuestos no incluido en el precio.",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1093.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Barcenilla - Quijano, Piélagos",
+        "title": "Casa independiente en Ca-233, 5"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109513584",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2f/d7/b4/1377008337.webp",
+      "externalReference": "Z1396",
+      "numPhotos": 57,
+      "price": 470000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 470000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 495000.0,
+            "priceDropValue": 25000,
+            "priceDropPercentage": 5
+          }
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 210.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Polanco",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3904675,
+      "longitude": -4.0259017,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109513584/",
+      "distance": "2751",
+      "description": "Se vende conjunto de dos edificaciones con referencias catastrales independientes, situadas en una tranquila zona residencial de Requejada. La propiedad ocupa una parcela de más de 1.500 m2, un bonito terreno ajardinado con palmeras y diferentes especies de árboles, que aportan privacidad, frescor y un entorno muy agradable para disfrutar al aire libre. La primera vivienda, de aproximadamente 200 m2 construidos, se encuentra en muy buen estado de conservación, aunque admite pequeñas mejoras. Su planta baja es totalmente diáfana y está actualmente destinada a garaje y trastero, aunque ofrece múltiples posibilidades de aprovechamiento gracias a su amplitud y accesibilidad. Desde esta zona se puede acceder directamente a la cocina mediante una escalera interior, sin necesidad de salir al exterior. El acceso principal a la vivienda se realiza a través de una escalera exterior, que conduce a la planta principal, donde se distribuyen un recibidor, una amplia cocina independiente, un salón-comedor con chimenea, tres dormitorios (uno de ellos con salida a balcón) y un baño completo. La segunda casa, con una superficie aproximada de 147 m2, requiere una reforma integral, ofreciendo una excelente oportunidad para adaptar el espacio a las necesidades o gustos del nuevo propietario —ideal como segunda vivienda, alojamiento turístico o casa de invitados. Ambas edificaciones se encuentran en un entorno cómodo y bien comunicado, con farmacia, estación de tren, dependencias municipales, polideportivo, residencia, guardería, piscina municipal, pista de pádel y circuito de pump track a pocos pasos. Además, el acceso a la Autovía del Cantábrico (A-8) está a tan solo 400 metros, las playas más cercanas y el puerto deportivo se sitúan a 6km. Su ubicación estratégica permite disfrutar de la tranquilidad del entorno natural sin renunciar a la cercanía de los principales núcleos urbanos: Torrelavega a 6 km y Santander a 21 km. Dos viviendas, un entorno privilegiado y un terreno que respira vida. En Requejada, esta propiedad reúne lo mejor de la tranquilidad, la naturaleza y la conexión con todo lo que necesitas. Un lugar para disfrutar, para invertir o para comenzar una nueva etapa con espacio, encanto y posibilidades infinitas. Porque hay casas que se habitan… y otras que se viven. MILA  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2238.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Casa independiente"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 225,
+  "totalPages": 5,
+  "actualPage": 3,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar casas y pisos en Miengo, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 150,
+  "lowerRangePosition": 100,
+  "paginable": true
+}

@@ -1,0 +1,2793 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "111068688",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/80/b4/31/1424368902.webp",
+      "externalReference": "8146",
+      "numPhotos": 18,
+      "floor": "3",
+      "price": 338000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 338000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4129962,
+      "longitude": -3.4178274,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111068688/",
+      "distance": "468",
+      "description": "� EXCLUSIVA VIVIENDA EN EL CENTRO DE LAREDO A UNOS PASOS DE LA PLAYA � Se vende magnífico piso en pleno centro de Laredo, con una ubicación inmejorable, a escasos metros de la playa y rodeado de todos los servicios. La vivienda destaca por su luminosidad y excelente distribución: 2 habitaciones con armarios empotrados.  Salón espacioso y muy soleado Cocina independiente Baño completo y aseo Terrazas ideales para disfrutar del aire libre y las vistas ☀️ Muy soleado durante todo el día �️ Vistas agradables y entorno privilegiado El edificio cuenta con ascensor aprobado y totalmente pagado, lo que aporta un valor añadido inmediato. � Incluye parking privado, un gran plus en la zona. Una oportunidad perfecta tanto como vivienda habitual, segunda residencia o inversión en una de las zonas más demandadas de la costa. � Precio: 338.000 € � Para más información o concertar una visita, no dudes en contactar.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 5200.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110829997",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/77/ed/35/1423211387.webp",
+      "externalReference": "PIS1842",
+      "numPhotos": 35,
+      "floor": "bj",
+      "price": 230000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 230000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Emperador",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4111467,
+      "longitude": -3.4077574,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110829997/",
+      "distance": "707",
+      "description": "Inmobiliaria Uranga presenta en exclusiva esta magnífica vivienda situada en el corazón de Laredo, una ubicación privilegiada que permite disfrutar del día a día con todos los servicios a un paso y la comodidad de vivir en una de las zonas más demandadas del municipio. La propiedad cuenta con 100 m² construidos, ofreciendo una distribución amplia, cómoda y muy funcional, ideal tanto como residencia habitual como para quienes buscan una vivienda espaciosa en el centro. Se encuentra en un edificio con ascensor, un valor añadido imprescindible que aporta accesibilidad y confort. La vivienda se entrega totalmente amueblada, lista para entrar a vivir, y se distribuye en tres dormitorios de buen tamaño, todos ellos con un ambiente acogedor y bien aprovechado, y dos baños completos, lo que garantiza comodidad para familias o para quienes desean disponer de espacios bien diferenciados. El salón es amplio y confortable, perfecto para crear una agradable zona de descanso y reunión, mientras que la cocina, totalmente equipada, ofrece funcionalidad y capacidad de almacenamiento. Desde una de las estancias se accede a una terraza interior, un espacio íntimo y tranquilo que aporta un plus a la vivienda. Vivir en el centro de Laredo supone tener a escasos metros supermercados, comercios locales, centros educativos, servicios sanitarios, estación de autobuses, zonas de ocio y restauración, además de encontrarse a pocos minutos caminando de la playa y del puerto. Todo ello sin necesidad de utilizar el vehículo, disfrutando de una vida cómoda y práctica. Una vivienda que destaca por su amplitud, ubicación céntrica, ascensor y estado de conservación, convirtiéndose en una oportunidad única dentro del mercado actual. No deje pasar esta ocasión. Contacte con Inmobiliaria Uranga y venga a conocer este piso exclusivo que reúne espacio, ubicación y calidad de vida en pleno Laredo. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2300.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en calle Emperador"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111063382",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/67/52/85/1424193643.webp",
+      "externalReference": "8129",
+      "numPhotos": 17,
+      "floor": "1",
+      "price": 139000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 139000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "avenida Conde de Albox",
+      "province": "Cantabria",
+      "municipality": "Limpias",
+      "country": "es",
+      "latitude": 43.362534,
+      "longitude": -3.418131,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111063382/",
+      "distance": "5169",
+      "description": "� PISO CON TERRAZAS EN LIMPIAS – AMPLITUD, LUZ Y GRAN POTENCIAL Ponemos a la venta esta interesante vivienda en Limpias, ubicada en un entorno natural privilegiado y cada vez más demandado. Situada en primera planta sin ascensor, el edificio cuenta con posibilidad de instalación futura, lo que añade un importante valor de revalorización. La vivienda destaca por sus huecos amplios y excelente distribución, ideal para crear un hogar cómodo y a medida: ✨ 3 dormitorios de buen tamaño �️ Salón amplio y confortable �️ Cocina independiente espaciosa � Baño completo � Dispone de 2 terrazas de aproximadamente 6 m² cada una, uno de sus grandes atractivos. Una de ellas especialmente soleada, con vistas despejadas a la naturaleza. � Vivienda muy luminosa gracias a sus amplios ventanales, con estancias que aportan sensación de amplitud y confort. � Necesita actualizaciones, lo que la convierte en una excelente oportunidad para personalizarla y aumentar su valor. � Calefacción de gas natural. � Parking comunitario, aportando un plus de comodidad. � Ubicado junto a la Ría del Asón, en una zona tranquila con todos los servicios y buenas comunicaciones. � Ideal como vivienda habitual, segunda residencia o inversión con alta capacidad de revalorización. ⚡ Una oportunidad para crear la vivienda que deseas en un entorno natural único. � Solicite más información o concertar visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1544.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limpias",
+        "title": "Piso en avenida Conde de Albox"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111060470",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ff/96/50/1424100896.webp",
+      "externalReference": "9849",
+      "numPhotos": 79,
+      "price": 750000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 222.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Manzanedo, 27",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.444815,
+      "longitude": -3.4560571,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111060470/",
+      "distance": "5130",
+      "description": "¡Atención a todos los amantes del buen vivir en el paraíso costero a 3 minutos de la playa de Berria andando! ¡Esta oferta es para ti! Presentamos este magnífico chalet en Santoña, una joya arquitectónica de 222 m² construidos distribuidos en 2 plantas, que te ofrecen un espacio amplio y acogedor para disfrutar en familia o con amigos Planta baja cuenta con una distribución funcional que incluye cocina independiente, baño completo, amplio salón comedor con bodega ideal para reuniones con amigos, y acceso directo al garaje privado proporcionando comodidad y practicidad en el día a día.  En planta alta encontramos un acogedor salón con chimenea, perfecto para disfrutar de momentos en familia, desde el cual podemos acceder a una agradable terraza donde relajarse y aprovechar el entorno, además de 4 habitaciones luminosas y un baño completo.  Santoña, con su encanto costero y su ambiente tranquilo, es el lugar perfecto para disfrutar de la naturaleza, la buena gastronomía y las playas más espectaculares de la zona. ¡No pierdas la oportunidad de ser dueño de este maravilloso chalet y comienza a disfrutar de la vida que siempre has soñado en este paraíso terrenal! ¡Contáctanos ahora y haz realidad tus sueños de tener la casa perfecta en un entorno inigualable!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3378.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Casa independiente en calle Manzanedo, 27"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109736354",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6d/56/cf/1384014655.webp",
+      "externalReference": "PIS1790",
+      "numPhotos": 30,
+      "floor": "1",
+      "price": 380000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 380000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 95.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "avenida de Francia",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Zona Playa",
+      "country": "es",
+      "latitude": 43.4208451,
+      "longitude": -3.4433433,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109736354/",
+      "distance": "2571",
+      "description": "Desde Inmobiliaria Uranga te presentamos esta estupenda vivienda situada en una de las zonas más demandadas de Laredo, la zona Carlos V, a pocos minutos de la playa y rodeada de todos los servicios necesarios para tu día a día. La vivienda cuenta con 95 m² construidos y se encuentra en la primera planta de un edificio con ascensor y jardín comunitario perfectamente cuidado. Se distribuye en un amplio y luminoso salón-comedor con salida a terraza, ideal para disfrutar de momentos de relax al aire libre; cocina independiente totalmente equipada, dos dormitorios con armarios empotrados y dos baños completos. Dispone de calefacción eléctrica, ventanales amplios que aportan mucha luz natural y una excelente distribución que ofrece comodidad y funcionalidad en todas sus estancias. El edificio se encuentra dentro de una urbanización privada con zonas verdes, en un entorno tranquilo y bien comunicado. Además, existe la posibilidad de adquirir un garaje cerrado con acceso directo desde el edificio, por 40.000 € adicionales, una ventaja indiscutible en esta zona. Una vivienda ideal tanto para residencia habitual como para disfrutar de tus estancias vacacionales junto al mar. Ven a visitarla sin compromiso. En Inmobiliaria Uranga estaremos encantados de enseñártela y ayudarte a encontrar tu nuevo hogar en Laredo. [IW].",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 4000.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zona Playa, Laredo",
+        "title": "Piso en avenida de Francia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111025510",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d1/0a/0b/1423069110.webp",
+      "externalReference": "santoña",
+      "numPhotos": 36,
+      "floor": "3",
+      "price": 145000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 145000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 83.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Baldomero Villegas",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.4475035,
+      "longitude": -3.4549569,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111025510/",
+      "distance": "5312",
+      "description": "¡Descubre este luminoso y acogedor piso en Santoña, con una superficie aproximada de 83 metros cuadrados que te ofrece comodidad y funcionalidad en cada rincón! Interior parcialmente reformado, incluye baño reformado con plato de ducha, suelo de todo el piso, pintura y dos ventanas de PVC (en salón y un dormitorio). Con salón con terraza al sur, cocina con zona de lavandería, tres dormitorios y un baño completo, esta vivienda es perfecta para familias o quienes buscan un hogar con amplitud. Situado en una zona exterior, disfrutarás de abundante luz natural que realzará cada estancia. Además, cuenta con un ascensor que facilita el acceso a la vivienda. La fachada y el tejado del edificio han sido renovados recientemente. Ubicado en una zona con todas las comodidades, a un paso de supermercados, zona de ocio y restauración y estación de autobuses. A 10 minutos andando de la playa de Santoña y a 2 kilometros de la playa de Berria. A 50 minutos de Bilbao y a 40 minutos de Santander. No pierdas la oportunidad de vivir en un piso que combina confort, luminosidad y una excelente ubicación. En Costa 7 trabajamos para ofrecer a nuestros clientes los mejores inmuebles desde hace más de 25 años. Cubrimos todas las necesidades inmobiliarias: viviendas, oficinas, locales comerciales, solares, fincas rústicas, terrenos para construir… Disponemos de un equipo especializado al servicio de clientes nacionales e internacionales, que cuentan con asesoramiento necesario para garantizar su seguridad, eficacia jurídica y la mejor rentabilidad financiero-fiscal. Visita nuestra web y encontraras muchas oportunidades más. Costa 7 dispone de excelentes oportunidades de inversión en rentabilidad. Consúltanos.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1747.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso en calle Baldomero Villegas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111021930",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ee/79/63/1422862299.webp",
+      "externalReference": "PIS1856",
+      "numPhotos": 40,
+      "floor": "3",
+      "price": 338000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 338000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Bernardino de Escalante",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4112397,
+      "longitude": -3.4151486,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111021930/",
+      "distance": "258",
+      "description": "Inmobiliaria Uranga presenta este estupendo piso situado en pleno centro de Laredo, a escasos metros de la playa y del paseo marítimo, en una de las zonas más demandadas de la villa por su excelente ubicación y su cercanía a todos los servicios. Una oportunidad ideal tanto como vivienda habitual como segunda residencia junto al mar. La vivienda cuenta con aproximadamente 70 m² construidos, distribuidos de manera funcional para aprovechar al máximo cada espacio, ofreciendo comodidad y practicidad en el día a día. Dispone de dos habitaciones, ambas con armarios empotrados, lo que aporta una excelente capacidad de almacenamiento. Cuenta además con un baño completo y un aseo adicional, una característica muy valorada que aporta mayor comodidad, especialmente en épocas de mayor ocupación. El salón resulta acogedor y luminoso, con acceso a una agradable terraza, perfecta para disfrutar del aire libre, relajarse o compartir momentos en familia. La cocina es independiente, lo que garantiza mayor privacidad y funcionalidad, y se encuentra equipada para su uso diario. La vivienda se entrega semiamueblada, lo que permite adaptarla fácilmente al gusto del nuevo propietario sin necesidad de grandes inversiones iniciales. Como valor añadido, el inmueble dispone de parking comunitario, una gran ventaja en una zona céntrica y cercana a la playa, donde el aparcamiento es especialmente demandado, sobre todo en temporada alta. Además, el edificio cuenta con el ascensor en proyecto, lo que incrementará notablemente su comodidad y valor a medio plazo. Su ubicación es, sin duda, uno de sus mayores atractivos. Situado en el centro de Laredo, tendrás a tu alcance supermercados, comercios, centros educativos, centro de salud, zonas de ocio y todos los servicios necesarios sin necesidad de utilizar el coche. Además, su cercanía a la playa permite disfrutar del entorno costero en cualquier momento. Laredo, uno de los destinos más reconocidos de Cantabria, destaca por su calidad de vida, su ambiente y su excelente conexión con Bilbao y Santander, ambos a menos de una hora en coche, lo que facilita tanto desplazamientos laborales como escapadas. Una vivienda cómoda, bien ubicada y lista para disfrutar, perfecta para quienes buscan vivir junto al mar con todos los servicios a su alcance. Para más información o para concertar una visita, Inmobiliaria Uranga estará encantada de atenderle y acompañarle en todo el proceso de compra. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 4829.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en calle Bernardino de Escalante"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111052472",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f1/fc/a6/1423839506.webp",
+      "externalReference": "Mirapiso253",
+      "numPhotos": 27,
+      "floor": "bj",
+      "price": 195000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 195000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 50.0,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Alfonso XII s/n",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.4417643,
+      "longitude": -3.4537473,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111052472/",
+      "distance": "4750",
+      "description": "Diseño y calidez marinera: Tu refugio renovado en el corazón de Santoña ¿Buscas algo diferente? Olvida los pisos convencionales. Te presentamos una vivienda en planta baja que combina la comodidad de una reforma integral con el carácter rústico de sus techos de madera.  - Planta Principal: Un espacio abierto y luminoso donde el salón y la cocina se integran para crear el corazón del hogar. Cuenta con un baño completo, ideal para el día a día o para las visitas.  - Zona de Descanso: Subiendo por su elegante escalera de caracol, accedemos a la planta superior. Aquí, la madera es la protagonista: dos habitaciones acogedoras con estructuras de madera vista que aportan una calidez inigualable.  Un segundo baño da servicio a esta planta, garantizando total privacidad. Lo mejor: Estás en el centro de Santoña, a un paso de todo, pero con la tranquilidad de una vivienda moderna y renovada. ¡Lista para entrar a vivir con las maletas! Ubicación Estratégica Santoña no necesita presentación, pero vivir aquí es tenerlo todo: el magnetismo de la Playa de Berria, la épica de sus rutas de montaña y la comodidad de vivir en el epicentro cultural y administrativo de la villa.   ESTE ANUNCIO CONTIENE UN TOUR VIRTUAL Y PLANO No dejes pasar esta oportunidad de mercado antes de que la instalación del ascensor eleve su precio. ¡Ven a visitarlo!  Comunicaciones:   - 60 km. Bilbao por autovía  - 45 km. Santander por autovía.  - 40 km. Aeropuerto de Santander  - 45 km. Hospital de Valdecilla AL COMPRAR CON MIRAPISO TODO SON GARANTÍAS: - Con todas las garantías legales: antes de adquirir el mandato de un piso, nuestros técnicos, realizan un estudio técnico para asegurarnos de que todo está en perfecto estado. Revisamos la vivienda, el estado de conservación del edificio y zonas comunes. Analizamos el resultado de la ITE (Inspección técnica de edificios) y si hay posibles trabajos previstos para el edificio. TRABAJAMOS POR Y PARA TU TRANQULIDAD - Sin sorpresas técnicas: además de una revisión técnica, todos nuestros pisos se someten a una revisión por parte de nuestro departamento legal para garantizar que la vivienda no tiene ninguna carga que pueda transmitirse al comprador. Nuestras casas están siempre al corriente en el pago del IBI y las cuotas de comunidad, y cuentan con certificado energético. INFORMACION: Precio Actual SIN Impuestos: ( I. T. P. Impuesto de transmisión patrimonial)  Este precio si incluye gastos de honorario de inmobiliaria.  No incluye notaría y registrales.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3900.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso en calle Alfonso XII s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111052317",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/68/67/de/1423835313.webp",
+      "externalReference": "0355262",
+      "numPhotos": 41,
+      "floor": "5",
+      "price": 490000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 490000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 139.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida de Francia, 55",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Zona Playa",
+      "country": "es",
+      "latitude": 43.4172457,
+      "longitude": -3.441568,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111052317/",
+      "distance": "2259",
+      "description": "En multiexclusiva, presentamos esta excelente vivienda en la zona Ever de Laredo, una de las más demandadas por su tranquilidad y cercanía a la playa.    A pocos metros del mar y con vistas desde su amplia terraza en esquina, se ubica en una urbanización privada con jardines, piscina y pista de tenis, en edificio con ascensor a cota cero. Totalmente reformada y lista para entrar a vivir, destaca por su orientación norte-sur y gran luminosidad.    Dispone de salón-comedor con salida a terraza, cocina independiente, tres dormitorios con acceso exterior, dos baños completos, calefacción y garaje cerrado.    Una oportunidad ideal como residencia habitual o segunda vivienda junto al mar. Contáctenos para visitarla.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3525.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zona Playa, Laredo",
+        "title": "Piso en avenida de Francia, 55"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111052309",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/9c/7d/04/1423835228.webp",
+      "externalReference": "039291",
+      "numPhotos": 10,
+      "floor": "4",
+      "price": 288000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 288000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 99.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Doctor Federico de la Lastra, 6",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4138556,
+      "longitude": -3.4135989,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111052309/",
+      "distance": "573",
+      "description": "UNA VIVIENDA AL PIE DEL PUERTO DEPORTIVO CON TERRAZA CON VISTAS ABIERTAS Amplia vivienda situada en la zona del puerto de Laredo, una de las ubicaciones más atractivas de la villa, ideal para disfrutar del ambiente marinero y de agradables paseos junto al mar. La vivienda que distribuye en dos dormitorios, un baño completo, una cocina amplia y muy funcional y un salón espacioso y luminoso con acceso a la terraza el gran atractivo de la vivienda, que aportan luminosidad y espacios exteriores muy valorados:  Amplia terraza con salida directa desde el salón, con agradables vistas al puerto y al mar.    Segunda terraza con acceso desde la cocina, ideal como espacio exterior adicional. Su ubicación permite disfrutar de todos los servicios que ofrece Laredo a pie de portal.   Una vivienda ideal tanto como residencia habitual, segunda vivienda junto al mar o inversión, en una de las zonas más demandadas de Laredo. Además, el edificio iniciará próximamente la renovación completa de la fachada, una mejora importante que ya se encuentra abonada, lo que supone un valor añadido y una futura revalorización del inmueble sin coste para el nuevo propietario. ¡La oportunidad perfecta ahora a tu alcance!   Gastos de gestión a cargo del comprador de 5.760 EUROS más IVA no incluidos en el precio de venta.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2909.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en calle Doctor Federico de la Lastra, 6"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111052281",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6a/32/36/1423834059.webp",
+      "externalReference": "PV_OE_1083",
+      "numPhotos": 41,
+      "floor": "2",
+      "price": 465000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 465000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 213.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Monte, 3",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.4406864,
+      "longitude": -3.4503615,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111052281/",
+      "distance": "4484",
+      "description": "En edificio con sólo 3 viviendas, ofrecemos ese exclusivo duplex que cuenta con 3 dormitorios, 2 baños, 1 aseo,  salón, cocina y terraza El duplex tiene las plantas comunicadas además de por escaleras, por un ascensor.   Además cuenta de manera compartida (con los otros dos vecinos) de: Jardín con un porche y en la planta baja del edificio un. amplio salón-comedor y cocina, así como zona de barbacoa con almacén. También cuenta con un portal con ascensor, un aseo en plata baja que da servicio al salón-comedor y sala de máquinas (caldera).",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 35000.0
+      },
+      "priceByArea": 2183.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Dúplex en calle Monte, 3"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111049145",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f5/bc/54/1423756819.webp",
+      "numPhotos": 8,
+      "floor": "1",
+      "price": 115000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 115000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 46.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Barcena de Cicero",
+      "province": "Cantabria",
+      "municipality": "Barcena de Cicero",
+      "country": "es",
+      "latitude": 43.4144448,
+      "longitude": -3.4915238,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111049145/",
+      "distance": "6130",
+      "description": "Piso de 1 habitación en el centro de Cicero, con todos los servicios a un paso. La urbanización dispone de amplias zonas verdes y zona de aparcamiento. Dispone de cocina equipada, salón, baño completo con ventana y 1 habitación. El piso dispone de una amplia terraza donde poder disfrutar al aire libre. Ventanas de pvc, suelos de gres. Llámenos y se lo enseñamos sin compromiso!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2500.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Barcena de Cicero",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111044433",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/68/27/87/1423621103.webp",
+      "externalReference": "PV_OE_1082",
+      "numPhotos": 35,
+      "floor": "2",
+      "price": 375000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 375000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 128.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Monte, 3",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.4406864,
+      "longitude": -3.4503615,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111044433/",
+      "distance": "4484",
+      "description": "En edificio con sólo 3 viviendas, ofrecemos este exclusivo piso que cuenta con 2 dormitorios, dos baños, salón y cocina.   Además cuenta de manera compartida (con los otros dos vecinos) de: Jardín con un porche y en la planta baja del edificio un. amplio salón-comedor y cocina, así como zona de barbacoa con almacén. También cuenta con un portal con ascensor, un aseo en plata baja que da servicio al salón-comedor y sala de máquinas (caldera).  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 35000.0
+      },
+      "priceByArea": 2930.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso en calle Monte, 3"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111043839",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/39/b0/32/1423598649.webp",
+      "numPhotos": 22,
+      "floor": "4",
+      "price": 288000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 288000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 99.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Doctor Federico de la Lastra, 4",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4138998,
+      "longitude": -3.4132672,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111043839/",
+      "distance": "587",
+      "description": "UNA VIVIENDA AL PIE DEL PUERTO DEPORTIVO CON TERRAZA CON VISTAS ABIERTAS Amplia vivienda situada en la zona del puerto de Laredo, una de las ubicaciones más atractivas de la villa, ideal para disfrutar del ambiente marinero y de agradables paseos junto al mar. La vivienda que distribuye en dos dormitorios, un baño completo, una cocina amplia y muy funcional y un salón espacioso y luminoso con acceso a la terraza el gran atractivo de la vivienda, que aportan luminosidad y espacios exteriores muy valorados: • Amplia terraza con salida directa desde el salón, con agradables vistas al puerto y al mar.  • Segunda terraza con acceso desde la cocina, ideal como espacio exterior adicional. Su ubicación permite disfrutar de todos los servicios que ofrece Laredo a pie de portal.  Una vivienda ideal tanto como residencia habitual, segunda vivienda junto al mar o inversión, en una de las zonas más demandadas de Laredo. Además, el edificio iniciará próximamente la renovación completa de la fachada, una mejora importante que ya se encuentra abonada, lo que supone un valor añadido y una futura revalorización del inmueble sin coste para el nuevo propietario. ¡La oportunidad perfecta ahora a tu alcance! Contactanos! Inmobiliaria Diego le guiará en todo el proceso y le asesorará para concertar su visita. Gastos de gestión a cargo del comprador de 5.760 EUROS más IVA no incluidos en el precio de venta.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2909.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en calle Doctor Federico de la Lastra, 4"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100879960",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/14/b6/b9/1102274008.webp",
+      "externalReference": "002772",
+      "numPhotos": 31,
+      "floor": "1",
+      "price": 180000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 180000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 70.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barcena de Cicero",
+      "province": "Cantabria",
+      "municipality": "Barcena de Cicero",
+      "country": "es",
+      "latitude": 43.3941252,
+      "longitude": -3.4740557,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/100879960/",
+      "distance": "4973",
+      "description": "Altura piso 1º, piso superficie total 70 m², superficie útil 65 m², habitaciones dobles: 2, 1 baño, ascensor, calefacción (gas natural), cocina, estado conservación: buen estado, parking, jardín (comunitario), amueblado, orientación suroeste, portero auto. , puerta blind. , soleado, teléfono, terraza, vidrios dobles.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2571.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Barcena de Cicero",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110485967",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/54/b5/a9/1406361734.webp",
+      "externalReference": "884",
+      "numPhotos": 50,
+      "floor": "bj",
+      "price": 149000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 149000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 91.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "travesía Conde de Albox, 29",
+      "province": "Cantabria",
+      "municipality": "Limpias",
+      "country": "es",
+      "latitude": 43.361556,
+      "longitude": -3.4219625,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110485967/",
+      "distance": "5297",
+      "description": "Inmobiliaria Begoña os presenta EN EXCLUSIVA, este precioso bajo para entrar a vivir seminuevo del año 2008. Se ubica en urbanización privada con zona de videovigilancia, fachada caravista, ascensor a cota cero.. . en la Avenida Conde Albox de Limpias. La ubicación de este inmueble es perfecta, ya que, se encuentra en un pueblo cercano a la Autopista A8, ubicación estratégica si quieres visitar Santander y Bilbao. Cuenta con una distribución muy cómoda y funcional, ya que al acceder a la vivienda encontramos un amplio salón comedor con enormes ventanales y salida a terraza, una cocina totalmente equipada con salida a otra terraza de unos 10 m2 ideal para comer en verano, 2 dormitorios (uno de ellos con armario empotrado), baño y aseo. Está semiamueblado así que tienes la opción de poner el salón y las habitaciones a tu gusto.  Se encuentra cerca de todos los servicios, supermercado, bares, consultorio medico... , lo que hace más fácil tu día a día sin necesidad de desplazamientos. Realmente una vivienda de la que te enamorarás desde el momento que la visites. PROPIEDAD EXCLUSIVA, ASESORAMIENTO PERSONALIZADO.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1637.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limpias",
+        "title": "Piso en travesía Conde de Albox, 29"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111039403",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/67/e1/ae/1423442665.webp",
+      "externalReference": "890",
+      "numPhotos": 45,
+      "floor": "3",
+      "price": 145000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 145000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 93.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "travesía de la Bien Aparecida, 1",
+      "province": "Cantabria",
+      "municipality": "Colindres",
+      "country": "es",
+      "latitude": 43.3994188,
+      "longitude": -3.4513462,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111039403/",
+      "distance": "3047",
+      "description": "Les presentamos esta fantástica vivienda en pleno centro de Colindres, una ubicación inmejorable con todos los servicios al alcance: comercios, colegios, transporte y zonas de ocio. Situada en un tercera planta sin ascensor, esta vivienda de aproximadamente 90 m2 destaca por haber sido totalmente reformada, ofreciendo un espacio actualizado, acogedor y listo para entrar a vivir. Además, cuenta con ventanas climalit que garantizan un excelente aislamiento térmico y acústico. La propiedad es completamente exterior, lo que le proporciona una luminosidad excepcional durante todo el día, junto con unas vistas muy despejadas. Dispone de una terraza orientada al sureste, ideal para disfrutar de la luz natural desde primera hora de la mañana.  El piso se distribuye en un salón, tres dormitorios de buen tamaño, una cocina funcional y un baño completo, todo ello con una distribución cómoda y bien aprovechada. Incluye un parking privado en la urbanización. Una excelente oportunidad tanto como vivienda habitual como inversión, en una de las zonas más demandadas de Colindres. *CONCIONES ESPECIALES DE VENTA (rentabilidad 550€ mensuales).",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1559.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Colindres",
+        "title": "Piso en travesía de la Bien Aparecida, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110985511",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/17/48/53/1421713139.webp",
+      "externalReference": "1506",
+      "numPhotos": 51,
+      "floor": "1",
+      "price": 135000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 135000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Barcena de Cicero",
+      "province": "Cantabria",
+      "municipality": "Barcena de Cicero",
+      "country": "es",
+      "latitude": 43.3943386,
+      "longitude": -3.4732791,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110985511/",
+      "distance": "4906",
+      "description": "Se vende este apartamento amueblado en la localidad de Treto, una opción ideal para una persona o pareja que busque una vivienda funcional y lista para entrar a vivir sin complicaciones. El inmueble se encuentra en un edificio construido en 2007 que cuenta con ascensor a cota cero, garantizando una estructura moderna y cómoda. La vivienda aprovecha muy bien sus 43 m² útiles (50 m² construidos), distribuyéndose en una habitación,  salón y una cocina totalmente equipada con electrodomésticos. Al entregarse amueblado, permite una mudanza inmediata, lo que supone un ahorro importante de tiempo y dinero para el comprador. Uno de los puntos fuertes de la propiedad son sus extras, ya que incluye  garaje cerrado con acceso directo desde la propiedadalgo fundamental en la zona y un trastero para almacenamiento adicional. El residencial ofrece un entorno cuidado con dos piscinas (una para adultos y otra infantil), zona de juegos infantiles y extensos jardines, ideales para disfrutar en familia o relajarse en un ambiente tranquilo. Una opción perfecta para quienes buscan vivir cerca de la costa, en un entorno sereno y bien comunicado con Colindres y Laredo. En cuanto a su ubicación, el piso destaca por estar estratégicamente conectado. Se encuentra a pocos minutos a pie de la estación de tren y de varias paradas de autobús, lo que facilita los desplazamientos diarios.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2700.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Barcena de Cicero",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108657977",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7f/4f/fb/1423311516.webp",
+      "externalReference": "2887",
+      "numPhotos": 10,
+      "price": 129000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 129000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 78.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "travesía Aro",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.4429003,
+      "longitude": -3.4568368,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108657977/",
+      "distance": "5008",
+      "description": "Piso + Oficina en Venta en Santoña | Centro Ciudad Oportunidad en Travesía Aro: vivienda + espacio profesional en una de las mejores zonas  � Ubicación excelente: Travesía Aro, Santoña (Cantabria). En pleno centro, a un paso de comercios, servicios, hostelería y muy cerca del puerto y las principales zonas de paseo. Una de las ubicaciones más demandadas de la villa.  � Piso + oficina:     ✔ Piso de 71 m² muy luminoso.     ✔ Incluye una oficina de 22 m², ideal como despacho profesional, pequeño estudio o para alquiler independiente (según normativa). � Distribución de la vivienda:     ✔ 3 habitaciones, perfectas para familias o para alquiler por habitaciones.     ✔ Estancias luminosas y funcionales, con buena sensación de amplitud.   Claves de esta oportunidad:     � Inmueble libre y visitable: puedes comprobar en persona su estado y distribución.     � Ubicación privilegiada en el centro de Santoña, con gran atractivo tanto residencial como para alquiler.     � Activo muy versátil: vivienda propia, vivienda + despacho o alquiler.  � Vivir e invertir en Santoña:  Santoña es una de las localidades costeras más cotizadas de Cantabria, conocida por su bahía, sus playas, su puerto y su intensa actividad durante todo el año. Su ubicación, servicios y ambiente hacen que la demanda de vivienda y alquiler sea muy alta, convirtiéndola en un enclave ideal para combinar disfrute personal y rentabilidad.  � ¿Buscas una inversión segura o tu hogar en pleno centro de Santoña? Contáctanos para concertar tu visita y conocer todos los detalles.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 1654.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso en travesía Aro"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111034724",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/69/18/cc/1423277716.webp",
+      "externalReference": "F297",
+      "numPhotos": 15,
+      "floor": "4",
+      "price": 115000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 115000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 45.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Limpias",
+      "province": "Cantabria",
+      "municipality": "Limpias",
+      "country": "es",
+      "latitude": 43.36275,
+      "longitude": -3.4147033,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111034724/",
+      "distance": "5143",
+      "description": "Ático con encanto, vistas despejadasm máxima traquilidad? Buscas un refugio de paz sin renunciar a la comudidad? Este acogedor ático es la joya que estabas esperando. Ubicado en una zona priviliegiada rodeado de zonas verdes, disfrutarás de la calma absoluta y una luz inmejorable. Lo mejor de esta vivienda:  +Calidez y confort: suelos de madera natural y calefacción de gas para sentirte como en casa desde el primer dia. +Aislameniento perfecto: ventanas de aluminio oscilobatientes de alta calidad que garantizan el silencio y la eficiencia térmica. +Listo para entrer: con cocina equipada y baño completo con bañera ideal para tu dia a dia o momentos de relax. El edificio es de construcción moderna (año 2007), cuenta con ascensor directo hasta la plaza de garaje, la cual está incluida en el precio. Olvidaté de buscar aparcamiento y mojarte para acceder a casa cuando llueve, empieza a disfrutar de tu nuevo hogar!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2556.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limpias",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111034401",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4f/a9/d2/1423270713.webp",
+      "externalReference": "Mirapiso251",
+      "numPhotos": 43,
+      "price": 370000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 370000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 190.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "calle Santolaja s/n",
+      "province": "Cantabria",
+      "municipality": "Colindres",
+      "country": "es",
+      "latitude": 43.3913745,
+      "longitude": -3.4391399,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111034401/",
+      "distance": "2708",
+      "description": "Mirapiso presenta en exclusiva la casa ideal en Colindres Imagina despertar cada mañana con el azul del mar en el horizonte y la tranquilidad de un jardín de 1.600 m² solo para ti. Este chalé independiente es el lienzo perfecto para quienes valoran el espacio y la versatilidad. Distribución flexible: Con dos viviendas completas e independientes bajo el mismo techo, esta propiedad es ideal para familias que desean mantener su privacidad (hijos independientes, invitados o teletrabajo) o para disfrutar de una gran mansión unificada. Esta propiedad no es solo una casa; son dos conceptos de vida independientes, diseñados para ofrecer confort absoluto bajo los más altos estándares de calidad, incluyendo calefacción de gas natural y cerramientos de PVC oscilobatientes que garantizan un aislamiento térmico y acústico impecable. El Ático: Esencia Rústica y Vistas Elevadas (97 m²) Se accede a través de una distinguida escalinata que nos anticipa la personalidad de este nivel. Aquí, el carácter rústico se abraza con el lujo contemporáneo: - Zona Social: Un concepto de planta abierta donde la cocina se integra magistralmente con el salón, creando un espacio fluido, ideal para veladas frente al paisaje. - Descanso e Higiene: Un baño de diseño moderno que contrasta con la calidez de la vivienda y dos habitaciones bañadas por la luz natural, diseñadas como santuarios de descanso y silencio. La Residencia de Jardín: Conexión y Sofisticación (89 m²) A pie de parcela, esta vivienda destaca por su fluidez entre el interior y el exuberante exterior de 1.600 metros: - Espacios de Vida: El salón da la bienvenida con una elegancia serena, conectando con una cocina funcional que se abre directamente a la terraza privada. Es el escenario perfecto para desayunos al aire libre con el aroma del mar. - Suite Principal: De sus dos dormitorios, destaca la habitación principal, que cuenta con un exclusivo vestidor privado, un detalle de distinción para quienes aprecian el orden y el estilo. Ubicación estratégica:  - Paz absoluta: Rodeado de naturaleza y aire puro.  - Conectividad total: A tan solo 5 minutos del acceso a la autovía.  - Potencial infinito: Terreno urbano apto para ampliar servicios o crear rincones de ensueño. Si siempre has deseado vivir en un entorno muy natural, en un pueblo, pero a la vez con todo tipo de servicios, además de tener la playa a un paso y ganar en calidad de vida, ésta es tu oportunidad. IMPORTANTE: ACCEDA AL TOUR VIRTUAL Y AL PLANO ADJUNTO PARA MAS DETALLES Comunicaciones:   - 4 km. A Laredo  - 60 km. A Bilbao  - 9 Km A Santoña Dispone de todos los servicios necesarios para vivir y de todas las comodidades, en un entorno tranquilo y a la vez cerca de la salida de la Autovía del Cantábrico - A8, a 5 minutos de Laredo y 40 minutos de Santander o Bilbao. AL COMPRAR CON MIRAPISO TODO SON GARANTÍAS - Con todas las garantías legales: antes de adquirir el mandato de un piso, nuestros técnicos, realizan un estudio técnico para asegurarnos de que todo está en perfecto estado. Revisamos la vivienda, el estado de conservación del edificio y zonas comunes. Analizamos el resultado de la ITE (Inspección técnica de edificios) y si hay posibles trabajos previstos para el edificio. - Sin sorpresas técnicas: además de una revisión técnica, todos nuestros pisos se someten a una revisión por parte de nuestro departamento legal para garantizar que la vivienda no tiene ninguna carga que pueda transmitirse al comprador. TRABAJAMOS POR Y PARA TU TRANQUILIDAD - Nuestro departamento legal, hace una revisión para garantizar que la vivienda no tiene cargas. Nuestras casas están siempre al corriente en el pago del IBI y las cuotas de comunidad, y cuentan con certificado energético. INFORMACION: Precio Actual SIN Impuestos: ( I. T. P. Impuesto de transmisión patrimonial)  Este precio si incluye gastos de honorario de inmo.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1947.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Colindres",
+        "title": "Casa independiente en calle Santolaja s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111032474",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/61/10/81/1423211249.webp",
+      "externalReference": "039291",
+      "numPhotos": 10,
+      "floor": "4",
+      "price": 288000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 288000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 99.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Doctor Federico de la Lastra, 4",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4138998,
+      "longitude": -3.4132672,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111032474/",
+      "distance": "587",
+      "description": "Piso de 2 dormitorios junto al Puerto Deportivo de Laredo, con vistas al mar y con todos los servicios a pie de portal. Sus más de 90 m se distribuyen en 2 dormitorios, un cuarto de baño completo, cocina independiente totalmente equipada y con acceso a una de las terrazas, completa la propiedad el amplio salón muy luminoso, desde el que se accede a la segunda terraza de la vivienda con vistas al puerto y la playa. En breve se va a comenzar la rehabilitación de la fachada, cuyo coste ya está abonado por el propietario actual. Gastos de gestión a cargo del comprador del 2% más IVA, no incluídos en el precio de venta.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2909.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en calle Doctor Federico de la Lastra, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111031915",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/30/6b/ca/1423201627.webp",
+      "numPhotos": 9,
+      "floor": "2",
+      "price": 289000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 289000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 105.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Colindres",
+      "province": "Cantabria",
+      "municipality": "Colindres",
+      "country": "es",
+      "latitude": 43.3964634,
+      "longitude": -3.4507838,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111031915/",
+      "distance": "3136",
+      "description": "Vivienda segunda planta en Colindres, en el centro del pueblo, a tan sólo 5 min de la playa Salvé de Laredo. Se distribuye en 3 amplios dormitorios con armarios empotrados, salón comedor con grandes ventanales y salida a una terraza. Cocina independiente totalmente equipada, con acceso a un balcón tendedero y 2 baños completos. El edificio tiene menos de 25 años de antigüedad, dispone de ascensor y se entrega completamente amueblado, listo para entrar a vivir. Cuenta con una plaza de garaje de 18m2. Situado con todos los servicios al alcance, comercios y excelentes comunicaciones. No dejes pasar esta oportunidad.  Llámenos y se lo enseñamos sin compromiso!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2752.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Colindres",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111029600",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/91/e6/8e/1423118818.webp",
+      "externalReference": "8142",
+      "numPhotos": 26,
+      "price": 375000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 375000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 120.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Las Cajigas, 13",
+      "province": "Cantabria",
+      "municipality": "Barcena de Cicero",
+      "country": "es",
+      "latitude": 43.4091355,
+      "longitude": -3.4892338,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/111029600/",
+      "distance": "5915",
+      "description": "CASA PASIVA EN UNA SOLA PLANTA LLAVE EN MANO – CONFORT, DISEÑO Y EFICIENCIA** Ubicación tranquila y bien comunicada | Excelente orientación | Entorno natural Descubre una oportunidad única: **parcela de 401 m² con vivienda tipo Pasiva incluida**, diseñada en **una sola planta** para ofrecer la máxima comodidad, accesibilidad y eficiencia energética. Olvídate de gestionar obras y sobrecostes: **recibe tu casa totalmente terminada, lista para entrar a vivir**. **La vivienda (incluida en el precio)** * Vivienda en **una única planta** (sin escaleras, mayor comodidad y accesibilidad) * Totalmente exterior. * Proyecto y construcción completa “llave en mano” (No incluye cocina, iluminación ni mobiliario) * Diseño moderno, funcional y solido. * Aislamiento térmico de alta eficiencia (estándar Pasiva) * Carpinterías de altas prestaciones * Sistema aerotermia agua caliente * Máximo confort térmico y acústico durante todo el año * Acceso vehículo y dos plazas de aparcamiento **Ventajas de una casa pasiva** * Consumo energético muy bajo * Ahorro significativo en suministros * Temperatura estable en invierno y verano * Alta calidad del aire interior * Vivienda sostenible y respetuosa con el entorno **La parcela y entorno** * Superficie de 401 m² total. * Jardín, terraza y aparcamiento. * Excelente orientación para aprovechar la luz natural * Ubicación en zona residencial tranquila * 2 porches cubiertos de 18 y 14m2. **Equipamientos cercanos: ** * Pistas de pádel * Parque infantil * Skate park * Zonas verdes y de ocio * Entorno ideal para familias y estilo de vida activo **Información adicional** Las imágenes mostradas de la vivienda de dos alturas, corresponden a una vivienda ya construida con características similares. Existe la posibilidad de visitar este modelo bajo cita previa para comprobar calidades, diseño y nivel de confort. * Piscina no incluida en el precio, consultar. **Solicita más información o agenda tu visita sin compromiso**.",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3125.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Barcena de Cicero",
+        "title": "Casa independiente en calle Las Cajigas, 13"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111026180",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b1/36/63/1423000269.webp",
+      "externalReference": "W-02Y1AW",
+      "numPhotos": 75,
+      "price": 3200000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 3200000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 1116.0,
+      "rooms": 18,
+      "bathrooms": 11,
+      "address": "avenida de España",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4087968,
+      "longitude": -3.4128569,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111026180/",
+      "distance": "254",
+      "description": "Gran casona palaciega del siglo XIX Engel & Völkers presenta una de las propiedades históricas más singulares de la costa cántabra: la Casa Gereda, una majestuosa casona de finales del siglo XIX donde arquitectura, escala y ubicación se combinan de manera excepcional. Situada en una de las avenidas principales de Laredo, esta residencia de 1.116 m² construidos sobre una extraordinaria parcela urbana de 2.094 m² constituye una oportunidad única tanto para cliente particular de alto patrimonio como para inversores que busquen un activo diferencial. Su imponente fachada de estilo ecléctico, equilibrada y elegante, destaca por los balcones de hierro forjado, los vanos en arco con molduras clásicas y una distinguida galería acristalada en esquina que aporta luminosidad y personalidad a las plantas principales. La simetría arquitectónica y la nobleza de sus proporciones le otorgan una presencia que trasciende el tiempo. Tras la verja de hierro forjado se abre un jardín privado poco habitual en pleno centro urbano: amplias zonas de césped, palmeras de gran porte, arbolado escultórico y una pérgola que invita a imaginar recepciones al aire libre, eventos exclusivos o momentos de absoluta tranquilidad. En el interior, la propiedad conserva la esencia de las grandes residencias señoriales: techos altos con molduras ornamentadas, rosetones originales, suelos de madera noble y una espectacular escalera central en madera maciza con luz cenital que articula la distribución vertical del edificio. Los salones principales, amplios y luminosos, transmiten una atmósfera de distinción y representan espacios ideales tanto para una gran residencia familiar como para un proyecto de representación institucional o hotelero de alto nivel. Las numerosas estancias distribuidas en varias plantas permiten múltiples configuraciones: vivienda privada de gran escala, residencia multigeneracional, sede corporativa, proyecto boutique o inversión patrimonial con potencial de revalorización. La planta bajo cubierta, con techos abuhardillados, aporta un carácter más íntimo y versátil, ideal como zona privada, estudio creativo o suites adicionales. La cochera independiente y los accesos diferenciados incrementan la funcionalidad del conjunto. La propiedad requiere actualización, lo que abre la puerta a un reposicionamiento integral respetuoso con su carácter histórico, permitiendo adaptarla a estándares contemporáneos de confort y eficiencia. En un mercado donde los activos verdaderamente singulares son cada vez más escasos, esta casona representa una combinación poco frecuente de ubicación estratégica, volumen, parcela privada y valor arquitectónico. Un inmueble con identidad, historia y proyección. Una oportunidad para quien busca algo verdaderamente irrepetible. Laredo es una de las villas más emblemáticas de la Costa Oriental de Cantabria, un enclave privilegiado entre el mar y la montaña que combina historia, calidad de vida y un creciente dinamismo urbano. Presidida por la extensa playa de La Salvé, uno de los arenales más amplios del norte de España con más de cuatro kilómetros de longitud, la ciudad disfruta de un entorno natural excepcional y de una orientación abierta a la bahía que le confiere una luminosidad y amplitud poco comunes. Su casco histórico, conocido como la Puebla Vieja, conserva el trazado medieval y monumentos de gran valor como la iglesia de Santa María de la Asunción, mientras que el ensanche decimonónico y las avenidas principales reflejan el esplendor burgués de finales del siglo XIX y principios del XX. Esta dualidad entre tradición marinera y elegancia arquitectónica define el carácter singular de la villa. Laredo ofrece una infraestructura consolidada durante todo el año: puerto deportivo, amplia oferta gastronómica, servicios sanitarios, colegios, comercio y una intensa agenda cultural. Eventos como la Batalla de Flores —Fiesta de Interés Turístico Nacional—.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2867.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Casa independiente en avenida de España"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106274368",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4b/42/42/1423311747.webp",
+      "externalReference": "GTRE-00921",
+      "numPhotos": 25,
+      "floor": "1",
+      "price": 129000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 129000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 71.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "travesía Aro",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.4428448,
+      "longitude": -3.4567507,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106274368/",
+      "distance": "4999",
+      "description": "NO COBRAMOS COMISIÓN DE INTERMEDIACIÓN AL COMPRADOR ¡Vive junto al mar en una de las localidades más encantadoras! Te presentamos este piso en edificio residencial, ubicado en la localidad de Santoña, provincia de Cantabria, una excelente oportunidad para quienes buscan una vivienda cómoda y funcional en un entorno privilegiado. El piso destaca por su distribución equilibrada y su luminosidad, ofreciendo estancias pensadas para el confort diario. El piso dispone de un salón-comedor amplio y acogedor, que se convierte en el espacio principal del hogar, con buena entrada de luz natural que aporta calidez y bienestar, la cocina independiente está diseñada para un uso práctico, con espacio suficiente para almacenamiento. Cuenta con un dormitorio principal espacioso, perfecto para el descanso, y dormitorios adicionales versátiles, que pueden adaptarse como dormitorios infantiles, despacho o cuarto de invitados; además, cuenta con baño completo, funcional y con opción de actualización, y en función de la distribución, puede incluir un aseo adicional, aportando mayor comodidad al día a día. Se completa con espacios auxiliares como recibidor y pasillo distribuidor, que facilitan una organización eficiente del hogar. Santoña, conocida por su tradición marinera y su cercanía a playas como Berria, ofrece un entorno natural único, con todos los servicios necesarios: supermercados, centros educativos, centros de salud, comercios y una variada oferta gastronómica. Además, cuenta con buenas comunicaciones con otras localidades de Cantabria. Hipoges es una plataforma inmobiliaria donde podrás acceder a miles de activos inmobiliarios de diferentes tipos como viviendas, locales comerciales, terrenos, nueva obra, tanto a nivel particular como para inversores. Hipoges cuenta con una amplia cartera de activos inmuebles tanto en España como en Portugal y Grecia. ¿Necesitas financiación? Te ofrecemos la posibilidad de financiaciones de hasta el 100% para la compra de este inmueble. Entra en Finanwin. com, haz tu simulación y obtén la mejor oferta para tu Hipoteca de la manera más ágil y sencilla.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1817.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso en travesía Aro"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111024438",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/41/56/63/1422937695.webp",
+      "externalReference": "039292",
+      "numPhotos": 11,
+      "floor": "bj",
+      "price": 98000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 98000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 37.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Peña El Juncu, 2",
+      "province": "Cantabria",
+      "municipality": "Colindres",
+      "country": "es",
+      "latitude": 43.3996296,
+      "longitude": -3.4490294,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111024438/",
+      "distance": "2864",
+      "description": "Esta propiedad recién reformada situada en una zona tranquila y en un edificio de reciente construcción está lista para entrar a vivir.   Con una cocina equipada y abierta al salón, creando un espacio moderno, cómodo y muy funcional que aporta amplitud y luminosidad. Con un dormitorio independiente y  baño completo con plato de ducha y ventana, lo que permite una buena ventilación y entrada de luz natural. Entre sus calidades destacan ventanas de PVC con doble cristal, que proporcionan un excelente aislamiento térmico y acústico, con sistema de aerotérmia y caldera eficiente para mayor ahorro energético.  El  suelo de toda la propiedad es en gres cerámico, resistente y fácil de mantener. Toda la propiedad es totalmente accesible.   Una propiedad ideal como primera vivienda, segunda residencia o inversión, situada en un entorno tranquilo y con todos los servicios cercanos. Una propiedad  cómoda y funcional, ubicada en un entorno tranquilo pero con todos los servicios cercanos, perfecta para quienes buscan calidad de vida o una buena oportunidad de inversión. Gastos de gestión a cargo del comprador de 2.500 EUROS más IVA no incluidos en el precio de venta    .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2649.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Colindres",
+        "title": "Piso en calle Peña El Juncu, 2"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111022337",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c6/84/71/1422873732.webp",
+      "externalReference": "10348",
+      "numPhotos": 39,
+      "price": 535000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 535000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 114.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "avenida Derechos Humanos",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Zona Playa",
+      "country": "es",
+      "latitude": 43.4078052,
+      "longitude": -3.4306035,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111022337/",
+      "distance": "1187",
+      "description": "Chalet Independiente en planta única junto a la Playa de Laredo ¿Buscas la comodidad de vivir sin escaleras en una de las mejores zonas de Laredo?  Desde inmobiliaria Mi Villa os presentamos en EXCLUSIVA esta magnífica casa independiente en una sola planta ubicada en la codiciada zona de Carlos V, a un paso de la Playa de Salvé y rodeada de todos los servicios (colegios, supermercados y transporte). La vivienda se distribuye en 4 habitaciones, ideales tanto para familias como para quienes necesiten espacio adicional para despacho o invitados. El salón-comedor es amplio y acogedor, perfecto para reuniones familiares o momentos de descanso. Dispone de 2 baños completos, uno equipado con bañera y otro con plato de ducha, lo que aporta mayor funcionalidad en el día a día. La cocina es muy espaciosa, con gran capacidad de almacenaje y zona de trabajo, y cuenta además con una entrada independiente que comunica directamente con el jardín, facilitando el acceso y aportando comodidad, especialmente en el uso diario o en reuniones al aire libre. En el exterior, la propiedad cuenta con una amplia parcela de terreno, ideal para disfrutar del buen tiempo, crear una zona ajardinada, instalar una terraza, zona de barbacoa o incluso una piscina. Un espacio versátil con muchas posibilidades para adaptarlo a diferentes necesidades. En definitiva, una vivienda cómoda, luminosa y muy bien ubicada, ideal tanto como residencia habitual como para disfrutarla en periodos vacacionales. ¡Venga a verlo!, le esperamos en C/Lopez Seña n. 24, Laredo o en el teléfono.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 4693.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zona Playa, Laredo",
+        "title": "Casa independiente en avenida Derechos Humanos"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111019728",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a3/21/85/1422786440.webp",
+      "externalReference": "VIVIENDA LIMPIAS",
+      "numPhotos": 54,
+      "floor": "bj",
+      "price": 96000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 96000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 63.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "CL SOCAMINO, 1",
+      "province": "Cantabria",
+      "municipality": "Limpias",
+      "country": "es",
+      "latitude": 43.3636439,
+      "longitude": -3.4263892,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111019728/",
+      "distance": "5112",
+      "description": "SUBASTA ONLINE los días 1 y 2 de JUNIO! VIVIENDA ALQUILADA HASTA EL 30/06/2028, NO SE PUEDE VISITAR! Subasta OnLine de Vivienda de 63 m² en Limpias, con Garaje y Trastero incluidos, en Moderna Urbanización con Piscina y Zonas Verdes comunitarias. Vivienda exterior de 63 m² catastrales en el Nº3 de la calle Socamino del municipio cántabro de Limpias, Bajo B, distribuido en salón con cocina americana, 2 habitaciones, baño, aseo y amplia terraza. Piso situado en zona residencial de Limpias, frente a la ría, a 400 metros del Ayuntamiento del municipio y a 7 km de la Playa de Laredo. Ascensor con parada en sótano para garaje y trastero. Plaza de Garaje Nº22 de 16 m² catastrales y registrales en el sótano del edificio. Trastero Nº19 de 6 m² catastrales y 7,79 m² registrales, a pocos metros del garaje y junto a la entrada del ascensor. Vivienda actualmente arrendada con Inicio Contrato 01 de julio de 2023, con una renta de 450 €/mes (se revisa anualmente conforme al índice ARCA). El arrendatario renuncia expresamente al derecho de adquisición preferente (tanteo y retracto). Gastos de Comunidad de Propietarios e IBI a cargo de la Propiedad. Toda la información e instrucciones de CÓMO PARTICIPAR en pacelma. es, Subasta VIVIENDA 63 m² con PISCINA + GARAJE y TRASTERO.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1524.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limpias",
+        "title": "Piso en CL Socamino, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107425899",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/af/8c/d8/1314680945.webp",
+      "externalReference": "V 11",
+      "numPhotos": 32,
+      "floor": "1",
+      "price": 150000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 150000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 58.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "General, 181",
+      "province": "Cantabria",
+      "municipality": "Barcena de Cicero",
+      "country": "es",
+      "latitude": 43.3935834,
+      "longitude": -3.4693506,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/107425899/",
+      "distance": "4638",
+      "description": "¡Descubre tu nuevo hogar en Treto! Estas viviendas, en construcción, son la oportunidad perfecta para quienes buscan calidad y confort. En urbanización privada, con opciones de 1 y 2 habitaciones, cada espacio está diseñado para aprovechar al máximo la luz natural y ofrecer bonitas vistas al puerto de Colindres y las marismas de Santoña. Imagina disfrutar de un soleado jardín en los bajos, ideal para momentos de relax. Las altas calidades y la alta eficiencia energética, garantizan un ambiente acogedor durante todo el año.  Esta vivienda de 2 dormitorios y 2 baños, tiene 58m² construidos y 51m² útiles. Estos pisos combinan funcionalidad y estilo. La orientación de la urbanización, asegura luminosidad durante todo el día. Además, tienes la opción de adquirir garajes y trasteros para mayor comodidad. Todo esto en una ubicación excelente y a un precio inferior al de un alquiler. No pierdas la oportunidad de invertir en calidad de vida. ¡Contáctanos para más información!",
+      "hasVideo": false,
+      "newDevelopment": true,
+      "hasLift": true,
+      "newDevelopmentFinished": false,
+      "priceByArea": 2586.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Barcena de Cicero",
+        "title": "Piso en General, 181"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111016633",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/25/cf/3f/1422687191.webp",
+      "externalReference": "039292",
+      "numPhotos": 11,
+      "floor": "bj",
+      "price": 98000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 98000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "studio",
+      "operation": "sale",
+      "size": 37.0,
+      "exterior": true,
+      "rooms": 0,
+      "bathrooms": 1,
+      "address": "calle el Carmen, 14 A",
+      "province": "Cantabria",
+      "municipality": "Colindres",
+      "country": "es",
+      "latitude": 43.3966641,
+      "longitude": -3.4548251,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111016633/",
+      "distance": "3423",
+      "description": "Planta baja totalmente reformada en edificio de reciente construcción de Colindres, con todos los servicios cercanos y a 5 minutos de la playa de Laredo. Cuenta con una distribución moderna y funcional con un salón comedor abierto a la cocina americana, un amplio dormitorio y un cuarto de baño completo con plato de ducha. Las ventanas de PVC con doble cristal lo que dota de un buen aislamiento a la vivienda, la caldera eficiente para un mayor ahorro energético y los suelos de gres cerámico muy resistente y de fácil mantenimiento. Vivienda ideal como inversión o bien, como residencia habitual o para pasar temporadas vacacionales. Gastos de gestión a cargo del comprador de 2.500 € más IVA, no incluídos en el precio de venta.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2649.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "studio"
+      },
+      "suggestedTexts": {
+        "subtitle": "Colindres",
+        "title": "Estudio en calle el Carmen, 14 a"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111010740",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/53/12/1d/1422992001.webp",
+      "externalReference": "DAV807",
+      "numPhotos": 18,
+      "price": 525000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 525000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 436.0,
+      "rooms": 5,
+      "bathrooms": 5,
+      "address": "calle Pedroso, 13",
+      "province": "Cantabria",
+      "municipality": "Barcena de Cicero",
+      "country": "es",
+      "latitude": 43.3818515,
+      "longitude": -3.4801148,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111010740/",
+      "distance": "5995",
+      "description": "� Chalet independiente con piscina junto a la Ría del Asón – Treto. Vivienda en venta en Treto, ubicada en una zona tranquila junto a la Ría del Asón, ideal para quienes buscan disfrutar de un entorno natural sin renunciar a la cercanía de todos los servicios. La propiedad cuenta con, 436 m2 construidos sobre una parcela de 835 m2, distribuidos en tres plantas, con espacios amplios, bien aprovechados y una excelente distribución que aporta comodidad en el día a día. � Distribución Planta baja (garaje y zona de ocio): Amplio garaje con zona tipo choco, equipada con cocina y chimenea, un espacio versátil y funcional, perfecto para reuniones familiares, celebraciones o zona de ocio independiente. Planta principal: * Amplio salón de aproximadamente 50 m2 con chimenea, con una gran sensación de espacio y luminosidad * Cocina completamente equipada, práctica y funcional * Aseo  * 1 habitación con baño adaptado para personas con movilidad reducida * Acceso directo a uno de los porches, facilitando la conexión con el exterior Planta superior: * 4 habitaciones amplias * Todas ellas con terraza cerrada, lo que permite aprovechar el espacio durante todo el año * Dormitorio principal con vestidor y baño en suite, aportando mayor comodidad e independencia � Exterior * Parcela de 835 m2, con espacio suficiente para múltiples usos * Piscina privada vallada, ideal para uso seguro y familiar * Dos porches, perfectos para disfrutar del exterior en cualquier época del año * Zonas ajardinadas que rodean la vivienda, aportando privacidad y un entorno agradable. Contacta con nosotros para más información o para concertar una visita y déjate sorprender por todo lo que este chalet puede ofrecerte.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1204.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Barcena de Cicero",
+        "title": "Casa independiente en calle Pedroso, 13"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111012049",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4d/20/75/1422541690.webp",
+      "numPhotos": 23,
+      "floor": "bj",
+      "price": 180000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 180000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 74.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio Treto s/n",
+      "province": "Cantabria",
+      "municipality": "Barcena de Cicero",
+      "country": "es",
+      "latitude": 43.3936361,
+      "longitude": -3.4760362,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111012049/",
+      "distance": "5142",
+      "description": "Desde Sampedro Propiedades te presentamos en exclusiva este bajo con terraza en Treto, una vivienda completamente reformada y lista para entrar a vivir, pensada para disfrutar tanto del interior como del exterior. La propiedad cuenta con tres habitaciones, dos baños completos, un luminoso salón y una cocina funcional con salida directa a una segunda terraza.  Uno de los grandes atractivos de la vivienda es su amplia terraza principal, un espacio perfectamente acondicionado y embaldosado que puede utilizarse como jardín, zona de relax o comedor exterior, ideal para disfrutar de comidas al aire libre, reuniones o momentos de tranquilidad. Además, la vivienda dispone de acceso tanto por el portal como directamente desde la terraza, aportando comodidad y versatilidad. El edificio es accesible y está adaptado para personas con movilidad reducida, lo que la convierte en una opción práctica para todo tipo de perfiles. Se han realizado numerosas mejoras que aumentan notablemente el valor y el confort de la vivienda, entre ellas: renovación del suelo de la terraza, instalación de plato de ducha y mamparas, iluminación, cerramientos exteriores, mobiliario a medida, armarios, pintura interior y equipamiento completo con electrodomésticos. Ubicada en Treto, en una zona tranquila y bien comunicada, a escasos minutos de Colindres y con fácil acceso a todos los servicios, esta vivienda es perfecta tanto como residencia habitual como inversión.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2432.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Barcena de Cicero",
+        "title": "Piso en Barrio Treto s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111008871",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/92/ac/a9/1422440322.webp",
+      "externalReference": "9858",
+      "numPhotos": 14,
+      "floor": "2",
+      "price": 179000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 179000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 47.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Santoña",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.4422881,
+      "longitude": -3.4497365,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111008871/",
+      "distance": "4595",
+      "description": "APARTAMENTO EN SANTOÑA (CANTABRIA). Apartamento con garaje y trastero incluido en el precio, es lo que ofrece este pack perfecto.   Este coqueto apartamento de cincuenta metros cuadrados, distribuye su espacio con gran elegancia y acierto ofreciendo una práctica cocina, salón con acceso a un pequeño balcón, un acogedor dormitorio y baño completo con ducha de hidro masaje.  El edificio data del del 2013, dispone de placas solares y ascensor con acceso directo desde el garaje para máxima comodidad. No dejes escapar esta magnífica oportunidad de adquirir todo lo que necesitas en una sola compra y empieza a disfrutar de Santoña desde ya.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3809.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111009776",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8f/26/46/1422467084.webp",
+      "externalReference": "01369",
+      "numPhotos": 22,
+      "floor": "1",
+      "price": 185000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 185000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 77.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Santoña",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.443559,
+      "longitude": -3.4569706,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111009776/",
+      "distance": "5070",
+      "description": "Presentamos este fantástico piso en Santoña, una vivienda que destaca por su excelente estado, sus calidades y la comodidad que ofrece desde el primer día. Ideal para quienes buscan un hogar listo para entrar a vivir, sin obras ni complicaciones. ✨ Características destacadas: Garaje cerrado incluido, un auténtico plus en la zona, perfecto para coche, almacenaje o ambas cosas. Ascensor a cota cero, acceso totalmente cómodo y sin barreras arquitectónicas. Materiales de primera calidad en toda la vivienda, pensados para ofrecer confort y durabilidad. Ventanas de PVC con gran aislamiento térmico y acústico. Piso totalmente amueblado, con mobiliario actual y en perfecto estado. Listo para entrar a vivir, sin necesidad de inversión adicional. Una vivienda perfecta tanto como residencia habitual como para disfrutar de Santoña en vacaciones. Su estado impecable, su equipamiento y el garaje cerrado lo convierten en una oportunidad difícil de encontrar en el mercado.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2403.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111005455",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d2/69/28/1422330680.webp",
+      "externalReference": "9839",
+      "numPhotos": 53,
+      "floor": "3",
+      "price": 181000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 181000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 86.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Santoña",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.4444751,
+      "longitude": -3.4597462,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111005455/",
+      "distance": "5295",
+      "description": "¡Atención a todos los amantes de la tranquilidad y la belleza natural! Se ha desvelado una joya inmobiliaria en la encantadora localidad de Santoña que no podrás dejar pasar. Este espectacular piso te brinda el espacio y confort que tanto has estado buscando. Con 2 acogedoras habitaciones y 1 baño completo, este hogar es perfecto para quienes desean vivir en un entorno sereno y agradable. La presencia de un ascensor facilita el acceso a todas las áreas de la vivienda, brindándote comodidad en tu día a día. Una de las principales ventajas de este inmueble es su sistema de calefacción, que te permitirá mantener una temperatura agradable en cualquier época del año. Olvídate de preocupaciones y disfruta de un ambiente acogedor y cálido en todo momento. ¡La comodidad está garantizada en este maravilloso piso en Santoña! Ubicado en una zona tranquila y a escasos minutos de todos los servicios y a 2,5km de la playa de Berria.  No pierdas la oportunidad de convertirte en el orgulloso propietario de este hermoso hogar. ¿Qué estás esperando? Contacta con nosotros para más información y descubre por qué este piso es la elección perfecta para ti. ¡Haz de Santoña tu lugar de residencia y vive una vida llena de comodidades y bienestar! ¡Te esperamos para mostrarte tu futuro hogar!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2105.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111007515",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0b/df/68/1422395696.webp",
+      "externalReference": "8144",
+      "numPhotos": 18,
+      "floor": "3",
+      "price": 209000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 209000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 66.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Zona Playa",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Zona Playa",
+      "country": "es",
+      "latitude": 43.411294,
+      "longitude": -3.4346305,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111007515/",
+      "distance": "1526",
+      "description": "Te presentamos este encantador piso situado en una de las zonas más demandadas, a tan solo 3 minutos caminando de la playa. Imagina disfrutar de largos paseos junto al mar, del sonido de las olas y de la brisa marina cada día. � La vivienda goza de una ubicación inmejorable: cerca de todos los servicios, del centro del pueblo y con excelente conexión a la autovía Santander-Bilbao, ideal tanto para vivir todo el año como para escapadas de fin de semana. � El piso se distribuye en: �️ 2 acogedoras habitaciones � 1 baño completo �️ Cocina independiente �️ Luminoso salón con salida directa a una amplia terraza ☀️� ✨ Equipada con ventanas de PVC y calefacción de gas natural, garantizando confort y eficiencia durante todo el año. La terraza es el lugar perfecto para desayunar al sol, relajarte o compartir momentos inolvidables con familia y amigos. � El edificio dispone de ascensor � Parking privado comunitario con plaza asignada Una oportunidad única para disfrutar de la costa cántabra con todas las comodidades. ¡Ven a visitarlo y enamórate! Nota: La información proporcionada es de carácter orientativo y podría contener errores o imprecisiones involuntarias.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3167.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zona Playa, Laredo",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": true,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111006956",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fe/1c/9f/1422378809.webp",
+      "numPhotos": 36,
+      "floor": "2",
+      "price": 159900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 159900.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 69.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Limpias",
+      "province": "Cantabria",
+      "municipality": "Limpias",
+      "country": "es",
+      "latitude": 43.3606079,
+      "longitude": -3.4243893,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111006956/",
+      "distance": "5423",
+      "description": "EXCLUSIVA. Coqueto piso de 2 habitaciones y 2 baños en Limpias, a tan solo 10 min de la playa de Laredo y al lado del paseo de la ría. Dispone de cocina totalmente equipada con electrodomésticos, salón amplio con amplios ventanales desde donde poder contemplar preciosas vistas a la montaña, 2 habitaciones y 2 baños (1 incorporado a la habitación principal). Plaza de garaje y trastero incluido en el precio. Seminuevo. Muy cuidado. Con todos los servicios ( ambulatorio, banco, supermercado... ) Llámenos y se lo enseñamos sin compromiso!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2317.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limpias",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111004304",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a9/fd/d6/1422485818.webp",
+      "externalReference": "10347",
+      "numPhotos": 61,
+      "price": 385000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 385000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 200.0,
+      "rooms": 5,
+      "bathrooms": 2,
+      "address": "avenida de la Libertad",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Zona Playa",
+      "country": "es",
+      "latitude": 43.4124682,
+      "longitude": -3.439594,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111004304/",
+      "distance": "1944",
+      "description": "Espectacular Chalet a un paso del mar con terrazas panorámicas y txoko equipado. Desde inmobiliaria Mi Villa os presentamos en EXCLUSIVA este impresionante chalet adosado en urbanización privada a tan solo unos metros de la playa. Planta Principal: Un salón-comedor inundado de luz gracias a sus grandes ventanales con persianas eléctricas, que conecta directamente con una gran terraza orientada al suroeste, perfecta para disfrutar del sol durante todo el día. Cocina funcional y baño completo con plato de ducha. Zona de Descanso: En la primera planta, 4 amplias habitaciones, todas exteriores, y un segundo baño completo. Espacio Versátil: La planta superior alberga una estancia multifuncional (quinta habitación, despacho o zona de juegos) con acceso a otra espectacular terraza dual (noreste/suroeste), garantizando luz a cualquier hora. El Corazón de las Reuniones: En la planta subterránea descubrirás un txoko totalmente equipado con cocina completa, ideal para celebraciones y momentos en familia, que comunica con un garaje de gran capacidad. Vive con la seguridad de una urbanización privada y la brisa marina como vecina.  ¡Venga a verlo!, le esperamos en C/Lopez Seña n. 24, Laredo o en el teléfono.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1925.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zona Playa, Laredo",
+        "title": "Chalet adosado en avenida de la Libertad"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111002463",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ed/52/c4/1422227687.webp",
+      "externalReference": "PIS1854",
+      "numPhotos": 21,
+      "floor": "2",
+      "price": 105000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 105000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Revellón",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4123274,
+      "longitude": -3.4126016,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111002463/",
+      "distance": "460",
+      "description": "Inmobiliaria Uranga presenta este acogedor piso situado en pleno centro de Laredo, una de las zonas más demandadas por su comodidad, cercanía a todos los servicios y su excelente conexión con el resto de la localidad. Una ubicación ideal tanto para residencia habitual como para segunda vivienda, a escasos minutos de la playa y del paseo marítimo. La vivienda cuenta con aproximadamente 70 m² construidos, distribuidos de manera funcional para aprovechar al máximo cada espacio, ofreciendo comodidad y practicidad en el día a día. Es un piso antiguo, que necesita reforma En su interior dispone de tres habitaciones, todas ellas con buena luminosidad y versatilidad, perfectas tanto para familias como para quienes necesiten un espacio adicional como despacho o zona de invitados. Cuenta además con un baño completo y un aseo, lo que aporta un extra de comodidad, especialmente en el uso diario. El salón resulta acogedor y luminoso, con salida a un agradable balcón soleado, un espacio perfecto para disfrutar del aire libre, tomar un café o relajarse en cualquier momento del día. La cocina, completamente equipada, ofrece un entorno funcional y listo para su uso desde el primer momento. La vivienda se entrega amueblada, lo que permite entrar a vivir sin necesidad de realizar inversiones adicionales, convirtiéndose en una opción muy interesante tanto para quienes buscan comodidad inmediata como para inversores. Ubicado en una segunda planta, el inmueble se encuentra en una zona privilegiada de Laredo, con todos los servicios a pie de calle: supermercados, comercios, centros educativos, centro de salud, transporte público y zonas de ocio. Además, su cercanía a la playa permite disfrutar del entorno costero en pocos minutos, uno de los grandes atractivos de la villa. Laredo destaca por su calidad de vida, su ambiente y su excelente ubicación, con buenas comunicaciones hacia Santander y Bilbao, ambos a menos de una hora en coche, lo que facilita tanto los desplazamientos como el acceso a diferentes opciones de trabajo y ocio. Una vivienda cómoda, bien ubicada, perfecta para disfrutar de Laredo durante todo el año. Para más información o para concertar una visita, Inmobiliaria Uranga estará encantada de atenderle y acompañarle en todo el proceso de compra. [IW].",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1500.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en calle Revellón"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": true,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110999005",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a4/5b/85/1422137152.webp",
+      "externalReference": "v nates toli 195-545.2300-3319.5+437.60",
+      "numPhotos": 31,
+      "price": 195000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 195000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "sale",
+      "size": 545.0,
+      "rooms": 0,
+      "bathrooms": 0,
+      "address": "vnt195",
+      "province": "Cantabria",
+      "municipality": "Voto",
+      "country": "es",
+      "latitude": 43.3791419,
+      "longitude": -3.4908989,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110999005/",
+      "distance": "6902",
+      "description": "VENTA de TÍPICA CASA CANTABRA de PIEDRA en NATES, VOTO, CANTABRIA. ¿Necesitas una vivienda en la zona de VOTO? ¡Aquí tienes una oportunidad! Preciosa casa típica cántabra ADOSADA, de 545 m2, construida en piedra, en el pequeño núcleo urbano de NATES.  Consta de 2 plantas distribuidas así:  Planta baja: dos espacios diáfanos. Planta primera: dos espacios diáfanos y gran terraza. Construida sobre un terreno de 2323 m2. RESTAURADO TEJADO DOBLEMENTE AISLADO, TE PERMITE EL ESTADO DE LA OBRA, DISTRIBUIRLA A TU GUSTO. ¿Es la tuya? Está ubicada en el núcleo urbano de NATES, balcón en la desembocadura del Asón, con preciosas vistas. TIENE LAS VISTAS QUE TODOS QUEREMOS: AL MAR POR EL NORTE Y A LAS MARISMAS POR EL SURESTE. NEGOCIO SEGURO COMO CASA RURAL. TRETO, dispone de todos los servicios. Tiene acceso por vía urbana, orientada al este, norte y sur. Está situada en un entorno tranquilo, encima de las marismas y del mar. Cercana a playas, autopista, aeropuertos, LAREDO, SANTOÑA, Santander y Bilbao. ¿Es esto es lo que buscas? ¡Enhorabuena! Aquí está tu hogar, tu sueño. Este es tu trocito de Cantabria. Disfruta del contacto con la naturaleza, aunando montaña, mar, y sosiego.  Cuenta con nuestro apoyo profesional para la financiación, restauración o construcción.  Te acompañamos hasta el final, no importa que estés lejos. Referencia: v nates toli 1 3319.5+437.60.",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 358.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casaDePueblo"
+      },
+      "suggestedTexts": {
+        "subtitle": "Voto",
+        "title": "Casa de pueblo en vnt195"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110994193",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cd/b5/31/1423272356.webp",
+      "externalReference": "3950",
+      "numPhotos": 62,
+      "floor": "2",
+      "price": 179000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 179000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 46.0,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Virgen del Carmen, 9",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.442759,
+      "longitude": -3.4509784,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110994193/",
+      "distance": "4697",
+      "description": "Ref. 03950 NORTEPISOS GRUPO INMOBILIARIO S. L. ofrece este espectacular piso en Santoña junto a todos los servicios y a un paso de la playa y del espectacular pasaje.  Una construcción nueva, en perfecto estado, impecable para llegar con la maleta e instalarse.  Se trata de un inmueble completo, casi a estrenar con un amplio salón-comedor, un dormitorio, cocina, baño completo y una terraza. Además dispone de plaza de garaje, trastero y una zona comunitaria que sirve para guardar bicicletas.. . Su orientación inmejorable hacen de este un hogar cálido y confortable, se encuentra situado en una de las mejores zonas del municipio en una zona tranquila y sin ruidos, y con todos los servicios necesarios para el día a día (colegio, bancos, comercios, restaurantes, farmacia... ).  Sin barreras arquitectónicas, con ascensor, muy bien cuidado.. . Es ideal para vivir durante todo el año o disfrutar de unas bonitas vacaciones junto al mar.  ¡NO DUDE EN VISITARLO!  Nota: Además si el problema es la financiación no lo piense más, le ponemos en contacto con la financiera la cual le puede proporcionar el 100% del importe de compra. Póngase en contacto con tu agente de confianza llamando a NORTEPISOS GRUPO INMOBILIARIO S. L. en el teléfono de contacto y conocer personalmente la propiedad.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3891.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso en calle Virgen del Carmen, 9"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110990778",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/62/cb/47/1421863962.webp",
+      "externalReference": "10346",
+      "numPhotos": 29,
+      "floor": "2",
+      "price": 105000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 105000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Revellón",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.410197,
+      "longitude": -3.4100845,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110990778/",
+      "distance": "496",
+      "description": "Piso en el centro de Laredo. Desde inmobiliaria Mi Villa os presentamos este piso con mucho potencial, ubicado en una segunda planta sin ascensor, a escasos minutos del centro y con todos los servicios al alcance. La vivienda se distribuye en tres habitaciones, un amplio salón, cocina independiente, un baño completo con plato de ducha, un aseo adicional y un agradable balcón que aporta abundante luz natural a los espacios. Este inmueble es ideal para quienes buscan un hogar con carácter y grandes posibilidades de personalización. La propiedad requiere una reforma integral y actualmente no dispone de sistema de calefacción, lo que supone una excelente oportunidad para diseñar y adaptar cada estancia a tu gusto, incrementando su valor desde el primer momento. Gracias a su ubicación y a su potencial, se presenta como una opción perfecta tanto para inversión como para crear un hogar único en una zona cómoda y bien comunicada. No deje escapar esta oportunidad y contacte con nosotros en el o visítenos en C/ López Seña 24, Laredo.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1500.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en calle Revellón"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110989882",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/54/ed/95/1421831411.webp",
+      "externalReference": "CHA1852",
+      "numPhotos": 86,
+      "price": 420000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 420000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 300.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "Limpias",
+      "province": "Cantabria",
+      "municipality": "Limpias",
+      "country": "es",
+      "latitude": 43.3936572,
+      "longitude": -3.4201264,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110989882/",
+      "distance": "1738",
+      "description": "Inmobiliaria Uranga presenta en EXCLUSIVA este magnífico chalet pareado solo por el garaje situado en lo Alto de Laredo, una ubicación privilegiada que combina la tranquilidad de un entorno residencial con la cercanía a todos los servicios y a las principales comunicaciones de la zona oriental de Cantabria. Una vivienda pensada para quienes buscan amplitud, privacidad y calidad de vida, a tan solo unos minutos de Laredo y sus playas, y perfectamente conectada con Santander y Bilbao, a menos de una hora en coche. La propiedad cuenta con aproximadamente 300 m² construidos (unos 290 m² útiles), distribuidos en tres plantas, sobre una parcela de alrededor de 500 m², ofreciendo espacios amplios, luminosos y perfectamente organizados para el confort diario de toda la familia. En la planta sótano encontramos un amplio garaje con capacidad para varios vehículos, además de un baño completo, una habitación adicional y un acogedor txoko con cocina y chimenea, un espacio ideal para reuniones, celebraciones o disfrutar en cualquier época del año. La planta principal tiene un luminoso salón, concebido como el corazón del hogar, perfecto para el descanso y la vida en familia. La cocina, amplia y funcional, ofrece un entorno cómodo para el día a día. En esta misma planta se encuentran dos habitaciones y un baño completo, aportando versatilidad y comodidad, especialmente para quienes desean evitar escaleras en su día a día. Desde esta planta se accede a una agradable terraza con porche de aproximadamente 30 m², un espacio perfecto para disfrutar del exterior, organizar comidas al aire libre o relajarse con vistas totalmente despejadas. En la planta superior se ubican dos amplias habitaciones adicionales, junto a un baño completo compartido, configurando una zona de descanso tranquila y bien distribuida. La vivienda se encuentra en una urbanización privada, un entorno cuidado y seguro que próximamente contará con piscina y pista de pádel, aportando un valor añadido tanto para el ocio como para la calidad de vida de sus residentes. Uno de los grandes atractivos de la propiedad son sus vistas despejadas y su entorno natural, que garantizan tranquilidad y una agradable sensación de amplitud, sin renunciar a la cercanía de todos los servicios. En las inmediaciones encontrarás supermercados, comercios, centros educativos, centro de salud y todo lo necesario para el día a día, además de un rápido acceso a las playas de Laredo y a las principales vías de comunicación. Una vivienda única por sus dimensiones, su distribución y su ubicación, ideal tanto como residencia habitual como para quienes buscan una segunda vivienda amplia, cómoda y en un entorno privilegiado. Para más información o para concertar una visita, Inmobiliaria Uranga estará encantada de atenderle y acompañarle en todo el proceso de compra. [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1400.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Limpias",
+        "title": "Chalet pareado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110982739",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4c/cf/a0/1421648349.webp",
+      "externalReference": "000347",
+      "numPhotos": 36,
+      "floor": "2",
+      "price": 295000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 295000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 87.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle República de Paraguay",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "El Puntal",
+      "country": "es",
+      "latitude": 43.4254422,
+      "longitude": -3.4486673,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110982739/",
+      "distance": "3209",
+      "description": "REF. 000347: NOJASOL INMOBILIARIA vende en LAREDO. PISO DE 2 HABITACIONES CON VISTAS LATERALES AL MAR Y 2 AMPLIAS TERRAZAS.  UUBANIZACION ubicada en primera línea de la Playa de Laredo, en el segundo piso sin ascensor, con vistas laterales al mar desde una de las terrazas y una habitación.  El salón es cálido y confortable, cuenta con chimenea en funcionamiento y acceso a las terrazas, creando un espacio perfecto para relajarte y disfrutar del entorno marítimo. Además, tiene ventanas de aluminio que garantizan luminosidad, buen aislamiento.  La vivienda dispone de dos terrazas, una con vistas laterales al mar y otra con orientación sur con toldo manual, ideal para aprovechar el sol durante todo el día. Ambas habitaciones están actualmente equipadas con dos camas de 90 cm, aunque cuentan con espacio suficiente para camas de matrimonio y disponen de armarios empotrados, ofreciendo gran capacidad de almacenamiento y habitación muy cuadradas. La propiedad cuenta con un baño completo y un aseo. Cocina independiente con espacio para mesa y dos sillas, horno, nevera, fuegos de gas y ventana con entrada de luz - ventilación propia. No dispone de garaje pero tiene un aparcamiento comunitario con una capacidad para mas de 20 aparcamientos.  Si quieres un inmueble con grandes terrazas, vistas laterales al mar y a 20 segundos andando de la playa! ESTA ES TU VIVIENDA! LLAMANOS! DISPONE DE VIDEOS. INMOBILIARIA NOJASOL, con mas de 20 años de experiencia en el sector. En nuestra página web inmonojasol. com te ofrecemos la posibilidad de buscar propiedades de manera eficiente a través de nuestra avanzada herramienta de búsqueda, la cual incluye filtros personalizables como la elección entre pisos / chalets / terrenos, el rango de precios (entre un importe u otro), disponibilidad de piscina, ascensor, garaje y muchos criterios más. Esto te permite obtener una selección de propiedades que se ajusten de manera precisa a tus preferencias e intereses.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3391.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Puntal, Laredo",
+        "title": "Piso en calle República de Paraguay"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110801047",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/85/ef/a8/1415944521.webp",
+      "externalReference": "SAN367",
+      "numPhotos": 20,
+      "floor": "1",
+      "price": 98000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 98000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 67.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Baldomero Villegas",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.44462,
+      "longitude": -3.4581244,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110801047/",
+      "distance": "5220",
+      "description": "Presentamos esta excelente oportunidad en la encantadora villa marinera de Santoña, a escasos minutos de la estación de autobuses y rodeada de todos los servicios imprescindibles para el día a día, como comercios, centros educativos y zonas de ocio. La vivienda se distribuye en una cocina independiente con gran potencial de actualización, un luminoso salón con acceso directo al balcón, tres habitaciones —una doble y dos individuales—, y un baño completo.  Gracias a su excelente ubicación y a sus interesantes posibilidades de reforma, esta propiedad se convierte en una opción ideal para quienes desean diseñar un hogar totalmente personalizado, así como para inversores que desean obtener una atractiva rentabilidad desde el primer momento.  Estaremos encantados de ampliarte toda la información y acompañarte en la visita. No dejes pasar esta oportunidad y contacta con nosotros sin compromiso.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1463.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso en calle Baldomero Villegas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110703977",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/20/f4/0c/1412930296.webp",
+      "externalReference": "038230",
+      "numPhotos": 33,
+      "floor": "bj",
+      "price": 190000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 190000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 54.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "travesía los Derechos Humanos, 13",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Carlos V",
+      "country": "es",
+      "latitude": 43.4080919,
+      "longitude": -3.4306788,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110703977/",
+      "distance": "1189",
+      "description": "Te presentamos este precioso apartamento en pleno carlos v junto a la playa totalmente reformado para entrar a vivir. Su situacion hacer que sea inmejorable para vivir todo el año ya que esta junto a una colegio y servicios y a la vez nos encontramos a escasos 10 minutos del centro paseando. Tambien  como segunda residencia o simplemente como inversion. Consta de 2 habitaciones, salon, cocina totalmente equipada y baño completo. La vivienda se reformo totalmente y es totalmente exterior con una gran luminosidad. Ubicado en una residencia privada, en zona con facil aparcamiento y a la vez dispone de un cuarto comunitario para bicicletas. La residencia tiene pocos gastos de comunidad. A pesar de ser bajo mantiene toda la privacidad ya que tiene unos jardines comunitarios que nos dan toda tranquilidad necesaria. Gastos de gestion por parte de los compradores 2% mas iva no incluido en el precio de venta. Estamos a unos meses del buen tiempo y disfrtutarlo. Ven a visitarlo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3519.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Carlos V, Laredo",
+        "title": "Piso en travesía los Derechos Humanos, 13"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110979242",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ba/74/fc/1421546398.webp",
+      "externalReference": "003515",
+      "numPhotos": 30,
+      "floor": "3",
+      "price": 338000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 338000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Bernardino de Escalante",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4109268,
+      "longitude": -3.4176523,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110979242/",
+      "distance": "252",
+      "description": "En pleno centro de Laredo a pocos pasos de la playa Salvé se encuentra esta vivienda lista para entrar a vivir.  Se trata de una tercera planta con vistas al mar y muy luminosa. Accedemos a la vivienda a través de un acogedor hall que da paso a un amplio salón comedor desde el que disfrutar de unas magnificas vistas de la playa. La cocina está completamente equipada con amplios ventanales que inundan de luz la estancia. Cuenta además con dos cómodos dormitorios con armarios empotrados y ambos con salida a terrazas independientes. Además tiene un baño completo y un aseo. Y para terminar de completar de la vivienda el edificio cuenta con parking comunitario lo que la hace perfecta para disfrutar del centro de Laredo. Destacamos su fantástica ubicación al lado de todo tipo de servicios y junto a todas las comodidades necesarias para el día a día. Si buscas una vivienda lista para entrar a vivir en Pisos Laredo la tenemos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 4829.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en calle Bernardino de Escalante"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110977929",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d0/47/e5/1421506558.webp",
+      "externalReference": "202624",
+      "numPhotos": 32,
+      "floor": "2",
+      "price": 139000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 139000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 142000.0,
+            "priceDropValue": 3000,
+            "priceDropPercentage": 2
+          }
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 62.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barcena de Cicero",
+      "province": "Cantabria",
+      "municipality": "Barcena de Cicero",
+      "country": "es",
+      "latitude": 43.3952,
+      "longitude": -3.4700934,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110977929/",
+      "distance": "4631",
+      "description": "Se vende ático dúplex en Treto. Una oportunidad que os presentamos en EXCLUSIVA a escasos kilómetros de los servicios de Colindres o de la playa de Laredo.  El piso de 62 metros se distribuye en 2 plantas:  -En la planta baja nos encontramos la cocina completamente equipada, amplio y luminoso salón-comedor; y un dormitorio para quienes no quieren subir escaleras.  -En la planta superior se encuentran la segunda habitación y el baño completo con bañera y ventana que permite la entrada de luz y facilita la ventilación, ambas con tipo vélux. En el precio se incluye una plaza de garaje (con posibilidad de hacer trastero en la parte de atrás) y se vende completamente amueblado para que puedas empezar a disfrutar de él o sacarle rentabilidad desde el primer momento. El inmueble se encuentra en una urbanización privada con piscina comunitaria, zonas ajardinadas, pista de tenis y aparcamientos comunitarios para visitas o para quienes tienen 2 coches. Ideal tanto para quienes buscan su primera residencia o como vivienda vacacional o como inversión en un entorno privilegiado, tranquilo y con hermosas vistas pero cerca de todos los servicios. Reserva ya tu visita, ¡estaremos encantados de enseñártelo! Para más información: Garanty Home Cantabria c/Emperador 1, Laredo. ¡SIN COMISIONES! Información conforme al art. 20 de la Ley General para la Defensa de los Consumidores y Usuarios, modificado por la Ley 10/2025 de transparencia en la información al consumidor: El precio indicado no incluye impuestos ni gastos derivados de la compraventa, tales como notaría o registro de la propiedad, que serán asumidos por la parte compradora conforme a la legislación vigente. El comprador estará libre de pago de honorarios en la compra de este inmueble. Este anuncio tiene carácter meramente informativo y no constituye oferta contractual, pudiendo contener errores. En nuestra web de garantyhome te ofrecemos la posibilidad de buscar y filtrar propiedades de manera personalizada según tus preferencias en características y precios, así como de crear alertas personalizadas para estar al día de las últimas novedades en propiedades que se ajusten de manera precisa a tus intereses.  Además, si buscas Agencias Inmobiliarias en Cantabria Oriental, Garanty Home es la inmobiliaria que puede ayudarte en la compra, venta o alquiler de tu vivienda, local o terreno. Con oficinas repartidas por todo el territorio nacional, nuestros agentes más cercanos te acompañarán de principio a fin en todo el proceso de compra-venta o alquiler.  Contamos con un departamento legal propio además de acuerdos con diferentes empresas que resolverán cualquier cuestión que necesites: hipotecas, herencias, garantías de alquiler, reformas….",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2242.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Barcena de Cicero",
+        "title": "Dúplex"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110977718",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4b/d4/8c/1421500233.webp",
+      "externalReference": "Bloque 2 1ºC",
+      "numPhotos": 53,
+      "floor": "1",
+      "price": 186000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 186000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Manzanedo, 35",
+      "province": "Cantabria",
+      "municipality": "Santoña",
+      "country": "es",
+      "latitude": 43.4466563,
+      "longitude": -3.4558654,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110977718/",
+      "distance": "5281",
+      "description": "! 70% VENDIDO! OBRA COMENZADA ¡ TRECEHOME INMOBILIARIA ofrece esta promoción de 90 viviendas, garajes y trasteros en el centro de Santoña, a pocos metros de todos los servicios y de las playas de Berria y Santoña. Una urbanización moderna representando una oportunidad única para disfrutar de la tranquilidad y belleza natural de Santoña, con puerto pesquero y deportivo, una Villa Marinera con una actividad cultural y gastronómica para disfrutar durante todo el año. Esta promoción cuenta con materiales de alta calidad y acabados modernos, asegurando un estilo de vida incomparable. Construimos para obtener la mayor calificación energética (A). Posibilidad de adquirir garajes y trastero. Las superficies reflejadas en los planos de las viviendas son informativas pudiendo experimentar mínimas modificaciones durante el desarrollo de la ejecución de la obra.",
+      "hasVideo": false,
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 26000.0
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3100.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santoña",
+        "title": "Piso en calle Manzanedo, 35"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 488,
+  "totalPages": 10,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar casas y pisos en Centro, Laredo",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 50,
+  "paginable": true
+}

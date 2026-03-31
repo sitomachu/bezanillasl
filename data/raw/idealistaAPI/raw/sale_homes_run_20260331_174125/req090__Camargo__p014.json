@@ -1,0 +1,77 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "32275914",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/10/97/e9/168021696.webp",
+      "externalReference": "W-024FIW",
+      "numPhotos": 38,
+      "price": 735000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 735000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 400.0,
+      "rooms": 4,
+      "bathrooms": 6,
+      "address": "barrio la mina, 7",
+      "province": "Cantabria",
+      "municipality": "Marina de Cudeyo",
+      "country": "es",
+      "latitude": 43.4102299,
+      "longitude": -3.7809318,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/32275914/",
+      "distance": "5925",
+      "description": "Ideal para residencia habitual o vacacional, este moderno unifamiliar de diseño contemporáneo, dispone de un programa arquitectónico muy exigente y de una excelente calidad. Equipado con sauna, rayos UVA y gimnasio en la planta inferior, que también acoge el espacioso garaje para cuatro coches y moto, distribuye en la planta baja la habitación principal en suite y un espacioso salón comedor con acceso directo desde la cocina y a los espacios exteriores del jardín minimalista, con vistas a la ría. En el exterior también podemos encontrar el asador-cenador totalmente equipado para los que gustan de cenas informales entorno a una buena parrilla. La planta alta acoge el resto de dormitorios y baños, y una amplia terraza mirador 360º. Situado en la localidad Gajano, en una tranquila urbanización muy próxima a Santander, está muy cerca de todos los puntos de interés del otro lado de la bahía: club de golf, playas y toda la oferta turística y gastronómica de una zona incomparable.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1838.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Marina de Cudeyo",
+        "title": "Casa independiente en barrio la mina, 7"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 651,
+  "totalPages": 14,
+  "actualPage": 14,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar casas y pisos en Muriedas, Camargo",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 651,
+  "lowerRangePosition": 650,
+  "paginable": true
+}

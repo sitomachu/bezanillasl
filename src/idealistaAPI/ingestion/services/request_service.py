@@ -1,4 +1,4 @@
-﻿from __future__ import annotations
+from __future__ import annotations
 
 import argparse
 import json
@@ -9,26 +9,31 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Set, Tuple
 
-from src.idealistaAPI.config.idealista import DEFAULT_CIRCLES, MAX_ITEMS, PROCESSED_BASE, RAW_BASE, SLEEP_S
+from src.idealistaAPI.config.idealista import DEFAULT_LOCATIONS, MAX_ITEMS, PROCESSED_BASE, RAW_BASE, SLEEP_S
 from src.idealistaAPI.ingestion.api_types import SearchResponse
 from src.idealistaAPI.ingestion.client import IdealistaAPIError, IdealistaClient
 from src.idealistaAPI.processing.clean_idealista import clean_json_run
 
+# Número de errores consecutivos en una ubicación antes de abandonarla y seguir con las demás.
+_MAX_CONSECUTIVE_ERRORS: int = 3
+
 
 @dataclass(frozen=True)
-class Circle:
+class Location:
     name: str
-    center: str
-    distance_m: int
+    location_id: str
+    fallback_center: Optional[str] = None       # usado automáticamente si location_id devuelve 404
+    fallback_distance_m: Optional[int] = None
 
 
 @dataclass
 class CircleState:
-    circle: Circle
+    location: Location
     next_page: int = 1
     exhausted: bool = False
     requests: int = 0
-    bad_streak: int = 0
+    consecutive_errors: int = 0
+    total_pages: Optional[int] = None   # poblado desde resp["totalPages"] en la primera llamada
 
 
 def _log(msg: str) -> None:
@@ -48,96 +53,108 @@ def _write_json(path: Path, payload: Dict[str, Any]) -> None:
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def _default_circles() -> List[Circle]:
-    return [Circle(name=n, center=c, distance_m=d) for (n, c, d) in DEFAULT_CIRCLES]
+def _default_locations() -> List[Location]:
+    return [
+        Location(name=n, location_id=lid, fallback_center=fc, fallback_distance_m=fd)
+        for (n, lid, fc, fd) in DEFAULT_LOCATIONS
+    ]
 
 
-def _dedupe_circles_keep_first(circles: List[Circle]) -> List[Circle]:
-    seen: Set[Tuple[str, int]] = set()
-    out: List[Circle] = []
-    for c in circles:
-        key = (c.center.strip(), int(c.distance_m))
+def _dedupe_locations_keep_first(locations: List[Location]) -> List[Location]:
+    seen: Set[str] = set()
+    out: List[Location] = []
+    for loc in locations:
+        key = loc.location_id.strip()
         if key in seen:
             continue
         seen.add(key)
-        out.append(c)
+        out.append(loc)
     return out
 
 
-def _is_full_page(resp: SearchResponse) -> bool:
-    el = resp.get("elementList") or []
-    return len(el) >= MAX_ITEMS
+def _is_location_id_valid(location_id: str) -> bool:
+    """Returns False for placeholder IDs used in legacy manifests."""
+    return bool(location_id) and not location_id.startswith("legacy:")
 
-
-def _is_quota_exhausted_error(exc: Exception) -> bool:
-    txt = str(exc).lower()
-    flags = [
-        "quota",
-        "rate limit",
-        "too many requests",
-        "request limit",
-        "limit exceeded",
-        "monthly",
-        "limite",
-        "li­mite",
-        "cupo",
-        "429",
-        "403",
-    ]
-    return any(f in txt for f in flags)
-
-
-def _safe_property_key(it: Dict[str, Any]) -> Optional[str]:
-    code = str((it or {}).get("propertyCode", "")).strip()
-    if code:
-        return f"pc:{code}"
-    price = (it or {}).get("price")
-    size = (it or {}).get("size")
-    lat = (it or {}).get("latitude")
-    lon = (it or {}).get("longitude")
-    addr = (it or {}).get("address") or (it or {}).get("streetName") or ""
-    if price is None and size is None and (lat is None or lon is None) and not addr:
-        return None
-    s = f"{price}|{size}|{lat}|{lon}|{str(addr).strip().lower()}"
-    h = 0
-    for ch in s:
-        h = (h * 131 + ord(ch)) % 2_147_483_647
-    return f"fb:{h}"
 
 def _search_one(
     client: IdealistaClient,
     *,
     operation: str,
-    circle: Circle,
+    location: Location,
     page: int,
     raw_dir: Path,
     tag: str,
 ) -> SearchResponse:
+    """
+    Realiza una búsqueda para la ubicación dada.
+
+    Estrategia (en orden):
+    1. location_id  → búsqueda exacta por municipio, sin solapamiento geográfico.
+    2. center+distance (fallback) → si location_id devuelve 404 o no está disponible.
+
+    El fallback es automático: no requiere intervención del usuario.
+    """
+    use_location_id = _is_location_id_valid(location.location_id)
+
+    if use_location_id:
+        try:
+            resp = client.search(
+                country="es",
+                operation=operation,
+                property_type="homes",
+                num_page=page,
+                max_items=MAX_ITEMS,
+                location_id=location.location_id,
+                extra_params={"order": "publicationDate", "sort": "desc"},
+            )
+            _write_json(raw_dir / f"{tag}__{location.name}__p{page:03d}.json", resp)
+            time.sleep(SLEEP_S)
+            return resp
+
+        except IdealistaAPIError as exc:
+            if "404" in str(exc) and location.fallback_center:
+                _log(
+                    f"  AVISO: location_id '{location.location_id}' no válido (404). "
+                    f"Activando fallback center+distance para {location.name}."
+                )
+                # fall through to center+distance below
+            else:
+                raise  # propagar errores que no sean 404 (quota, 5xx, red, etc.)
+
+    # Fallback: center + distance
+    if not location.fallback_center or location.fallback_distance_m is None:
+        raise IdealistaAPIError(
+            f"Ubicacion '{location.name}' no tiene location_id válido ni fallback center+distance."
+        )
+
     resp = client.search(
         country="es",
         operation=operation,
         property_type="homes",
         num_page=page,
         max_items=MAX_ITEMS,
-        center=circle.center,
-        distance=circle.distance_m,
+        center=location.fallback_center,
+        distance=location.fallback_distance_m,
         extra_params={"order": "publicationDate", "sort": "desc"},
     )
-    _write_json(raw_dir / f"{tag}__{circle.name}__p{page:03d}.json", resp)
+    _write_json(raw_dir / f"{tag}__{location.name}__p{page:03d}.json", resp)
     time.sleep(SLEEP_S)
     return resp
 
 
-def _initial_states(circles: List[Circle]) -> List[CircleState]:
-    return [CircleState(circle=c) for c in circles]
+def _initial_states(locations: List[Location]) -> List[CircleState]:
+    return [CircleState(location=loc) for loc in locations]
 
 
-def _active_states(states: List[CircleState], max_pages_per_circle: int) -> List[CircleState]:
+def _active_states(states: List[CircleState], max_pages_per_location: int) -> List[CircleState]:
     out: List[CircleState] = []
     for st in states:
         if st.exhausted:
             continue
-        if st.next_page > max_pages_per_circle:
+        if st.total_pages is not None and st.next_page > st.total_pages:
+            continue
+        if st.next_page > max_pages_per_location:
             continue
         out.append(st)
     return out
@@ -145,16 +162,29 @@ def _active_states(states: List[CircleState], max_pages_per_circle: int) -> List
 
 def _active_states_force(
     states: List[CircleState],
-    max_pages_per_circle: int,
+    max_pages_per_location: int,
     force_max_requests: bool,
 ) -> List[CircleState]:
     if force_max_requests:
-        return [st for st in states if not st.exhausted]
-    return _active_states(states, max_pages_per_circle)
+        return [
+            st for st in states
+            if not st.exhausted
+            and not (st.total_pages is not None and st.next_page > st.total_pages)
+        ]
+    return _active_states(states, max_pages_per_location)
 
 
 def _pick_state(states: List[CircleState]) -> CircleState:
-    return min(states, key=lambda s: (s.requests, s.next_page, s.circle.name))
+    return min(states, key=lambda s: (s.requests, s.next_page, s.location.name))
+
+
+def _is_quota_exhausted_error(exc: Exception) -> bool:
+    txt = str(exc).lower()
+    flags = [
+        "quota", "rate limit", "too many requests", "request limit",
+        "limit exceeded", "monthly", "limite", "li\u00admite", "cupo", "429", "403",
+    ]
+    return any(f in txt for f in flags)
 
 
 def _new_manifest(
@@ -162,20 +192,20 @@ def _new_manifest(
     run_id: str,
     operation: str,
     max_requests: int,
-    max_pages_per_circle: int,
+    max_pages_per_location: int,
     output_csv_name: str,
-    circles: List[Circle],
+    locations: List[Location],
 ) -> Dict[str, Any]:
     return {
         "run_id": run_id,
         "operation": operation,
         "property_type": "homes",
         "max_requests": max_requests,
-        "max_pages_per_circle": max_pages_per_circle,
+        "max_pages_per_location": max_pages_per_location,
         "max_items": MAX_ITEMS,
         "output_csv_name": output_csv_name,
-        "circles_effective": [c.__dict__ for c in circles],
-        "strategy": "fair_round_robin_over_circles",
+        "locations_effective": [loc.__dict__ for loc in locations],
+        "strategy": "fair_round_robin_by_locationid_with_center_fallback",
     }
 
 
@@ -196,12 +226,15 @@ def _write_summary(
         "raw_dir": str(raw_dir),
         "processed_dir": str(processed_dir),
         "csv_path": str(csv_path) if csv_path else None,
-        "circle_states": [
+        "location_states": [
             {
-                "name": st.circle.name,
+                "name": st.location.name,
+                "location_id": st.location.location_id,
                 "next_page_final": st.next_page,
+                "total_pages": st.total_pages,
                 "requests": st.requests,
                 "exhausted": st.exhausted,
+                "consecutive_errors": st.consecutive_errors,
             }
             for st in states
         ],
@@ -226,17 +259,17 @@ def run_new(
     _ensure_dir(raw_dir)
     _ensure_dir(processed_dir)
 
-    circles = _dedupe_circles_keep_first(_default_circles())
-    states = _initial_states(circles)
+    locations = _dedupe_locations_keep_first(_default_locations())
+    states = _initial_states(locations)
     _write_json(
         raw_dir / "manifest.json",
         _new_manifest(
             run_id=run_id,
             operation=operation,
             max_requests=max_requests,
-            max_pages_per_circle=max_pages_per_circle,
+            max_pages_per_location=max_pages_per_circle,
             output_csv_name=output_csv_name,
-            circles=circles,
+            locations=locations,
         ),
     )
 
@@ -245,29 +278,30 @@ def run_new(
     quota_error: Optional[str] = None
     _log(
         f"Inicio de ejecucion: operacion={operation} run_id={run_id} "
-        f"objetivo_requests={max_requests} max_paginas_por_circulo={max_pages_per_circle} "
-        f"circulos={len(states)}"
+        f"objetivo_requests={max_requests} max_paginas_por_ubicacion={max_pages_per_circle} "
+        f"ubicaciones={len(states)}"
     )
 
     while used < max_requests:
         active = _active_states_force(states, max_pages_per_circle, force_max_requests)
         if not active:
-            _log("No quedan circulos activos. Se detiene la ejecucion.")
+            _log("No quedan ubicaciones activas. Se detiene la ejecucion.")
             break
 
         st = _pick_state(active)
         tag = f"req{used + 1:03d}"
         page = st.next_page
+        total_pages_str = str(st.total_pages) if st.total_pages is not None else "?"
         _log(
-            f"Request {used + 1}/{max_requests}: tag={tag} circulo={st.circle.name} "
-            f"pagina={page} requests_en_circulo={st.requests}"
+            f"Request {used + 1}/{max_requests}: tag={tag} ubicacion={st.location.name} "
+            f"pagina={page}/{total_pages_str} requests_en_ubicacion={st.requests}"
         )
 
         try:
             resp = _search_one(
                 client,
                 operation=operation,
-                circle=st.circle,
+                location=st.location,
                 page=page,
                 raw_dir=raw_dir,
                 tag=tag,
@@ -277,40 +311,65 @@ def run_new(
                 stopped_by_quota = True
                 quota_error = str(exc)
                 _write_json(raw_dir / f"{tag}__STOP_QUOTA.json", {"error": quota_error})
-                _log(f"Cupo o limite de peticiones detectado. Se detiene la ejecucion. error={quota_error}")
+                _log(f"Cupo o limite de peticiones. Se detiene la ejecucion. error={quota_error}")
                 break
+
+            # Error no-quota: registrar, penalizar ubicación, continuar con las demás.
             _write_json(
                 raw_dir / f"{tag}__ERROR.json",
-                {"error": str(exc), "circle": st.circle.__dict__, "page": page},
+                {"error": str(exc), "location": st.location.__dict__, "page": page},
             )
             used += 1
             st.requests += 1
-            _log(f"Request con error. Se detiene la ejecucion. tag={tag} error={exc}")
-            break
+            st.consecutive_errors += 1
+            _log(
+                f"Error en request (no-quota). Se continua. tag={tag} "
+                f"errores_consecutivos={st.consecutive_errors} error={exc}"
+            )
+            if st.consecutive_errors >= _MAX_CONSECUTIVE_ERRORS:
+                st.exhausted = True
+                _log(
+                    f"  → {_MAX_CONSECUTIVE_ERRORS} errores consecutivos. "
+                    f"Se omite ubicacion: {st.location.name}"
+                )
+            continue
 
         used += 1
         st.requests += 1
         st.next_page += 1
+        st.consecutive_errors = 0  # reset en cada respuesta exitosa
+
+        # Capturar total de páginas en la primera respuesta exitosa de esta ubicación
+        if st.total_pages is None:
+            tp = resp.get("totalPages")
+            if isinstance(tp, int) and tp > 0:
+                st.total_pages = tp
+                total = resp.get("total", "?")
+                _log(f"  → {st.location.name}: {total} anuncios en {tp} paginas totales")
+
+        element_list = resp.get("elementList") or []
 
         if not force_max_requests:
-            element_list = resp.get("elementList") or []
             if not element_list:
-                st.bad_streak += 1
                 st.exhausted = True
-                _log(f"Pagina vacia. Se marca el circulo como agotado: {st.circle.name}")
+                _log(f"Pagina vacia. Ubicacion agotada: {st.location.name}")
                 continue
 
-            if (not no_adaptive_pages) and (not _is_full_page(resp)):
-                st.bad_streak += 1
+            # Agotamiento preciso usando totalPages de la API
+            if st.total_pages is not None and st.next_page > st.total_pages:
                 st.exhausted = True
-                _log(f"Pagina incompleta. Se marca el circulo como agotado: {st.circle.name}")
-            else:
-                st.bad_streak = 0
+                _log(
+                    f"Todas las paginas obtenidas ({st.total_pages}). "
+                    f"Ubicacion agotada: {st.location.name}"
+                )
+            elif (not no_adaptive_pages) and (len(element_list) < MAX_ITEMS) and (st.total_pages is None):
+                # Heurístico de respaldo: página incompleta = última página
+                st.exhausted = True
+                _log(f"Pagina incompleta (totalPages no disponible). Ubicacion agotada: {st.location.name}")
 
-        element_count = len(resp.get("elementList") or [])
         _log(
-            f"Request OK. tag={tag} anuncios={element_count} proxima_pagina={st.next_page} "
-            f"requests_usadas={used}"
+            f"Request OK. tag={tag} anuncios={len(element_list)} "
+            f"proxima_pagina={st.next_page} requests_usadas={used}"
         )
 
     csv_path: Optional[Path]
@@ -343,19 +402,46 @@ def _load_resume_state(raw_dir: Path) -> Tuple[Dict[str, Any], List[CircleState]
         raise FileNotFoundError(f"No existe manifest.json en {manifest_path}")
 
     manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
-    raw_circles = manifest.get("circles_effective") or manifest.get("circles") or []
-    if (not raw_circles) and manifest.get("circle_states"):
-        raw_circles = [
-            {
-                "name": c.get("name"),
-                "center": c.get("center"),
-                "distance_m": c.get("distance_m"),
-            }
-            for c in manifest.get("circle_states", [])
+
+    # Nuevo formato: locations_effective → {name, location_id, fallback_center, fallback_distance_m}
+    raw_locations = manifest.get("locations_effective")
+    if raw_locations:
+        locations = [
+            Location(
+                name=r["name"],
+                location_id=r["location_id"],
+                fallback_center=r.get("fallback_center"),
+                fallback_distance_m=r.get("fallback_distance_m"),
+            )
+            for r in raw_locations
+            if r.get("name") and r.get("location_id")
         ]
-    circles = [Circle(**c) for c in raw_circles if c.get("name") and c.get("center") and c.get("distance_m") is not None]
-    circles = _dedupe_circles_keep_first(circles)
-    by_name = {c.name: CircleState(circle=c) for c in circles}
+    else:
+        # Formato antiguo: circles_effective / circles → {name, center, distance_m}
+        # Recupera center+distance como fallback para poder continuar el run.
+        raw_circles = manifest.get("circles_effective") or manifest.get("circles") or []
+        if not raw_circles and manifest.get("circle_states"):
+            raw_circles = [
+                {"name": c.get("name"), "center": c.get("center"), "distance_m": c.get("distance_m")}
+                for c in manifest["circle_states"]
+            ]
+        _log(
+            "AVISO: manifest con formato antiguo (center+distance). "
+            "Se usará center+distance como fallback para la reanudacion."
+        )
+        locations = [
+            Location(
+                name=r["name"],
+                location_id=f"legacy:{r.get('center','')},{r.get('distance_m','')}",
+                fallback_center=r.get("center"),
+                fallback_distance_m=int(r["distance_m"]) if r.get("distance_m") is not None else None,
+            )
+            for r in raw_circles
+            if r.get("name")
+        ]
+
+    locations = _dedupe_locations_keep_first(locations)
+    by_name = {loc.name: CircleState(location=loc) for loc in locations}
 
     used = 0
     for fp in sorted(raw_dir.glob("req*.json")):
@@ -363,10 +449,10 @@ def _load_resume_state(raw_dir: Path) -> Tuple[Dict[str, Any], List[CircleState]
         if not m:
             continue
         used = max(used, int(m.group(1)))
-        cname = m.group(2)
+        lname = m.group(2)
         page = int(m.group(3))
-        if cname in by_name:
-            st = by_name[cname]
+        if lname in by_name:
+            st = by_name[lname]
             st.next_page = max(st.next_page, page + 1)
             st.requests += 1
 
@@ -397,31 +483,36 @@ def run_resume_latest_rent(
     _ensure_dir(processed_dir)
 
     max_requests = int(max_requests_override or manifest.get("max_requests", 100))
-    max_pages_per_circle = int(max_pages_per_circle_override or manifest.get("max_pages_per_circle", 20))
-    output_csv_name = str(output_csv_override or manifest.get("output_csv_name", "rent_homes_cantabria_bezana_like_raw.csv"))
+    max_pages_per_location = int(
+        max_pages_per_circle_override or manifest.get("max_pages_per_location") or manifest.get("max_pages_per_circle", 20)
+    )
+    output_csv_name = str(
+        output_csv_override or manifest.get("output_csv_name", "rent_homes_cantabria_bezana_like_raw.csv")
+    )
 
     stopped_by_quota = False
     quota_error: Optional[str] = None
     _log(
         f"Inicio de reanudacion: run_id={run_id} requests_ya_usadas={used} "
-        f"objetivo_requests={max_requests} max_paginas_por_circulo={max_pages_per_circle} "
-        f"circulos={len(states)}"
+        f"objetivo_requests={max_requests} max_paginas_por_ubicacion={max_pages_per_location} "
+        f"ubicaciones={len(states)}"
     )
 
     while used < max_requests:
-        active = _active_states_force(states, max_pages_per_circle, force_max_requests)
+        active = _active_states_force(states, max_pages_per_location, force_max_requests)
         if not active:
-            _log("No quedan circulos activos. Se detiene la reanudacion.")
+            _log("No quedan ubicaciones activas. Se detiene la reanudacion.")
             break
 
         st = _pick_state(active)
         tag = f"req{used + 1:03d}"
         page = st.next_page
         _log(
-            f"Request reanudada {used + 1}/{max_requests}: tag={tag} circulo={st.circle.name} "
-            f"pagina={page} requests_en_circulo={st.requests}"
+            f"Request reanudada {used + 1}/{max_requests}: tag={tag} ubicacion={st.location.name} "
+            f"pagina={page}/{st.total_pages or '?'} requests_en_ubicacion={st.requests}"
         )
-        out_json = raw_dir / f"{tag}__{st.circle.name}__p{page:03d}.json"
+
+        out_json = raw_dir / f"{tag}__{st.location.name}__p{page:03d}.json"
         if out_json.exists():
             used += 1
             st.requests += 1
@@ -433,7 +524,7 @@ def run_resume_latest_rent(
             resp = _search_one(
                 client,
                 operation="rent",
-                circle=st.circle,
+                location=st.location,
                 page=page,
                 raw_dir=raw_dir,
                 tag=tag,
@@ -443,40 +534,53 @@ def run_resume_latest_rent(
                 stopped_by_quota = True
                 quota_error = str(exc)
                 _write_json(raw_dir / f"{tag}__STOP_QUOTA.json", {"error": quota_error})
-                _log(f"Cupo o limite de peticiones detectado. Se detiene la reanudacion. error={quota_error}")
+                _log(f"Cupo o limite de peticiones. Se detiene la reanudacion. error={quota_error}")
                 break
+
             _write_json(
                 raw_dir / f"{tag}__ERROR.json",
-                {"error": str(exc), "circle": st.circle.__dict__, "page": page},
+                {"error": str(exc), "location": st.location.__dict__, "page": page},
             )
             used += 1
             st.requests += 1
-            _log(f"Request con error. Se detiene la reanudacion. tag={tag} error={exc}")
-            break
+            st.consecutive_errors += 1
+            _log(
+                f"Error en request (no-quota). Se continua. tag={tag} "
+                f"errores_consecutivos={st.consecutive_errors} error={exc}"
+            )
+            if st.consecutive_errors >= _MAX_CONSECUTIVE_ERRORS:
+                st.exhausted = True
+                _log(f"  → {_MAX_CONSECUTIVE_ERRORS} errores consecutivos. Se omite: {st.location.name}")
+            continue
 
         used += 1
         st.requests += 1
         st.next_page += 1
+        st.consecutive_errors = 0
+
+        if st.total_pages is None:
+            tp = resp.get("totalPages")
+            if isinstance(tp, int) and tp > 0:
+                st.total_pages = tp
+
+        element_list = resp.get("elementList") or []
 
         if not force_max_requests:
-            element_list = resp.get("elementList") or []
             if not element_list:
-                st.bad_streak += 1
                 st.exhausted = True
-                _log(f"Pagina vacia. Se marca el circulo como agotado: {st.circle.name}")
+                _log(f"Pagina vacia. Ubicacion agotada: {st.location.name}")
                 continue
 
-            if (not no_adaptive_pages) and (not _is_full_page(resp)):
-                st.bad_streak += 1
+            if st.total_pages is not None and st.next_page > st.total_pages:
                 st.exhausted = True
-                _log(f"Pagina incompleta. Se marca el circulo como agotado: {st.circle.name}")
-            else:
-                st.bad_streak = 0
+                _log(f"Todas las paginas obtenidas ({st.total_pages}). Ubicacion agotada: {st.location.name}")
+            elif (not no_adaptive_pages) and (len(element_list) < MAX_ITEMS) and (st.total_pages is None):
+                st.exhausted = True
+                _log(f"Pagina incompleta (totalPages no disponible). Ubicacion agotada: {st.location.name}")
 
-        element_count = len(resp.get("elementList") or [])
         _log(
-            f"Request OK. tag={tag} anuncios={element_count} proxima_pagina={st.next_page} "
-            f"requests_usadas={used}"
+            f"Request OK. tag={tag} anuncios={len(element_list)} "
+            f"proxima_pagina={st.next_page} requests_usadas={used}"
         )
 
     csv_path: Optional[Path]

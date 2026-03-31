@@ -1,0 +1,2837 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110082123",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1b/1a/84/1394637055.webp",
+      "numPhotos": 3,
+      "floor": "5",
+      "price": 90000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 90000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "CL GARCIA MORATO, 6",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Castilla - Hermida",
+      "country": "es",
+      "latitude": 43.4554725,
+      "longitude": -3.8168949,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110082123/",
+      "distance": "946",
+      "description": "SANTANDER. Activo para inversores en Santander. Inmueble sin posesión, por lo que no se puede visitar ni hipotecar. Se desconoce el estado de conservación interior de la vivienda. Se trata de un 5º sin ascensor, 3 habitaciones y un baño.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1385.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castilla - Hermida, Santander",
+        "title": "Piso en CL Garcia Morato, 6"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110081389",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/84/11/31/1418613566.webp",
+      "externalReference": "AJ00446",
+      "numPhotos": 20,
+      "floor": "5",
+      "price": 199000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 199000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 64.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Pedro Ceballos Guerra",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4653637,
+      "longitude": -3.7938314,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110081389/",
+      "distance": "1340",
+      "description": "Una vivienda PERFECTA PARA SER TU PRIMER HOGAR o si quieres INVERTIR y empezar a alquilarla desde el primer día. Situada en una EXCELENTE UBICACIÓN, en la calle Pedro Ceballos Guerra, en la conocida zona de Tetuán, en una calle tranquila pero muy próxima a las zonas de moda, a 5 minutos del Paseo Marítimo y menos de 15 de la primera playa del Sardinero. Con todos los servicios a mano, centro de salud, colegios, supermercados, parques... Además, en una de las pocas zonas de Santander que quedan con aparcamiento libre. Se trata de una vivienda COMPLETAMENTE EXTERIOR, con orientación ESTE-OESTE, por lo que gracias a esto y a su altura (5a planta, sin ascensor), disfrutarás de SOL, LUZ NATURAL y VISTAS DESPEJADAS. El estado actual es bueno, puedes entrar a vivir si lo deseas, únicamente actualizando el mobiliario podrás darle un gran cambio, además el BAÑO COMPLETAMENTE REFORMADO, cuenta con CALEFACCIÓN, VENTANAS DE PVC y suelo de parquet. La distribución actual tiene UN GRAN SALÓN-COMEDOR, anteriormente era una habitación y la sala de estar, por lo que podrás modificarlo en función del uso que quieras darle a la casa o, simplemente, crear varios espacios dentro de esta estancia, que cuenta con dos buenos ventanales. A través de el salón, se accede al DORMITORIO PRINCIPAL, con espacio para cama doble, armario y cabida para muebles auxiliares, crear una zona de despacho o almacenaje extra. Tiene además otro DORMITORIO DOBLE, en este caso con orientación oeste y una COCINA INDEPENDIENTE, pequeña pero muy bien aprovechada. La vivienda se entregará AMUEBLADA si así lo deseas. Contactame si quieres visitarla. *Impuestos y gastos de notaría y registro no incluidos en el precio de venta.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3109.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Piso en calle Pedro Ceballos Guerra"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110071454",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/87/b0/c4/1394358641.webp",
+      "numPhotos": 11,
+      "floor": "6",
+      "price": 215000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 215000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 78.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Marqués de la Hermida",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Castilla - Hermida",
+      "country": "es",
+      "latitude": 43.4532133,
+      "longitude": -3.8199135,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110071454/",
+      "distance": "1293",
+      "description": "VISTAS AL MAR Y LUZ NATURAL. Presentamos este activo estratégico en la zona más llana y demandada de Marqués de la Hermida. Un inmueble que reúne los tres pilares del éxito inmobiliario: Ubicación, Vistas al Mar y Luz Natural. LO QUE HACE ÚNICO A ESTE PISO: Vistas despejadas: Disfruta de la Bahía de Santander desde tu propia ventana. Luz todo el día: Gracias a su altura y orientación SUR. Ahorro inicial: Ventanas de PVC de alta gama ya instaladas (un coste importante que ya tienes cubierto). Edificio de hormigón: Sin sorpresas estructurales y con ascensor. POTENCIAL DE REFORMA: Sus 78 m² permiten una distribución versátil (2 o 3 dormitorios). Es el lienzo en blanco perfecto para un proyecto de House Flipping o para crear el hogar de tus sueños frente al mar. UBICACIÓN: Entorno llano, con servicios 360º y excelente conexión. Una zona donde la demanda de alquiler y venta post-reforma es muy alta.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2756.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castilla - Hermida, Santander",
+        "title": "Piso en calle Marqués de la Hermida"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108130262",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/31/f8/e5/1334762648.webp",
+      "externalReference": "1005-1713",
+      "numPhotos": 42,
+      "floor": "5",
+      "price": 740000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 740000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 134.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Puerto Chico",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4614756,
+      "longitude": -3.8004363,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108130262/",
+      "distance": "769",
+      "description": "Junto al Paseo de Pereda y la Plaza de Pombo, se sitúa este amplio piso de 135 m2 de superficie, que está dividido en DOS PISOS totalmente independientes lo que multiplica las posibilidades del futuro comprador para este inmueble. La zona de Pombo Paseo de Pereda es una de las áreas con más encanto e historia de la ciudad, a pocos metros de la bahía, combina tranquilidad y multitud de servicios, además de ser, una zona muy cotizada por su belleza y su animada oferta de ocio diurno, y la alta calidad y buena reputación de su entramado comercial. La proximidad al Centro Botín y a los Jardines de Pereda proporciona un valor adicional, brindando un fácil acceso a la cultura y a interesantes espacios verdes y de recreo. Además la existencia de un parking a pocos metros del edificio, facilitará el aparcamiento. La vivienda forma parte de un edificio emblemático de la ciudad, construido en el primer cuarto del siglo XX, siendo el único edificio de la zona que dispone de dos patios privados, tanto en la parte delantera como trasera, lo que maximiza la luminosidad tanto de la vivienda como de las zonas comunes, al ampliar la distancia con los edificios colindantes.  Dispone de ascensor a cota cero y que llega a la misma planta de la vivienda, por lo que la accesibilidad es universal. Centrándonos en el inmueble, tenemos entre manos una vivienda de 135 metros totales, distribuidos en dos apartamentos totalmente independientes, de 70 y 65 metros de superficie, y totalmente funcionales por separado pues ambos cuentan con salón cocina, baños y dos dormitorios en el de mayor superficie y uno en el restante. Ambos se entregan completamente equipados, con electrodomésticos y mobiliario, y en muy buen estado de conservación pues fueron rehabilitados por completo en el año 2010, con materiales de primeras calidades, aislamientos en techos y suelos, siendo estos últimos al igual que la carpintería interior de roble. Describiendo ambas viviendas más minuciosamente, encontramos en los 70 metros del apartamento grande, dos dormitorios, salón, cocina independiente y baño, con posibilidad de instalar un segundo baño en la zona del vestidor pues existe una preinstalación para tal fin. La segunda vivienda, que consta de 65 m² distribuidos en dos plantas (dúplex), dispone de salón, cocina independiente y baño en la planta baja y un bonito dormitorio con un armario de madera hecho a medida y un espacio abierto con dos grandes velux orientadas al sur desde las que puede ver la Bahía de Santander en la segunda planta. Completan los accesorios de las dos viviendas, el sistema de calefacción de gas natural y sistema de aire acondicionado inverter.  En definitiva, un producto exclusivo, tanto por su situación, como por sus características, que ofrecen la posibilidad de mantener las dos viviendas actuales, como residencias habituales para toda la familia, o a modo de inversión o si se desea, reconvertir los apartamentos en un solo inmueble de más de 130 metros de superficie, con el abanico de posibilidades a la hora de distribuir que ello conlleva. Y como hemos comentado, en una de las zonas con más demanda e icónicas de la ciudad, a un paso de absolutamente todos los servicios, en pleno corazón de la ciudad y prácticamente a la orilla del mar. No lo pienses más y contacta con nosotros para conocer este producto tan interesante, llámanos y nuestro equipo de expertos estará a tu completa disposición para ayudarte en todo lo que necesites. Puedes visitarnos en nuestras oficinas de Santander, en la calle Floranes 63 junto a Cuatro Caminos y en Fernando de los Ríos 58. EC INMOBILIARIA El precio de venta no incluye impuestos propios de la transmisión, gastos de Notaría o Registro.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 5522.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Piso"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110061695",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/36/ab/dc/1394048489.webp",
+      "externalReference": "0624",
+      "numPhotos": 20,
+      "floor": "1",
+      "price": 395000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 395000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Juan de la Cosa",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4632218,
+      "longitude": -3.7965994,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110061695/",
+      "distance": "1078",
+      "description": "Descubre este encantador piso en la exclusiva zona de Puerto Chico.  Con una superficie de 65 metros cuadrados, esta vivienda reformada ofrece un espacio acogedor y funcional.  Cuenta con un dormitorio y un baño completo, ideal para quienes buscan comodidad y practicidad. La propiedad está completamente amueblada y dispone de armarios empotrados que optimizan el almacenamiento. La calefacción individual garantiza un ambiente cálido durante todo el año, mientras que la cocina amueblada facilita la preparación de tus platos favoritos.  Además, su orientación exterior permite disfrutar de luz natural en todos los espacios. Una oportunidad perfecta para vivir en una zona privilegiada, con todas las comodidades a tu alcance.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 6077.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Piso en calle Juan de la Cosa"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110061632",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/77/86/83/1394045852.webp",
+      "externalReference": "0623",
+      "numPhotos": 12,
+      "floor": "4",
+      "price": 175000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 175000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 48.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Peñas Redondas",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Numancia - San Fernando",
+      "country": "es",
+      "latitude": 43.4627055,
+      "longitude": -3.8172216,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110061632/",
+      "distance": "592",
+      "description": "¡Descubre este encantador piso a lado de la calles San Fernando! Con una superficie de 48 metros cuadrados, esta vivienda reformada ofrece un espacio acogedor y funcional.  Cuenta con un dormitorio y un baño completo con ducha, ideal para quienes buscan comodidad en una ubicación privilegiada.  La propiedad está completamente amueblada y dispone de una cocina equipada y lista para su uso.  Situada en una zona céntrica y exterior, recibe luz natural durante toda la mañana gracias a su orientación este.  Perfecto para quienes desean vivir en un entorno tranquilo pero cercano a todos los servicios. No pierdas la oportunidad de hacer de este piso tu nuevo hogar.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 3646.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Numancia - San Fernando, Santander",
+        "title": "Piso en calle Peñas Redondas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110058489",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3b/08/7b/1393954074.webp",
+      "externalReference": "PAN0016",
+      "numPhotos": 30,
+      "price": 891000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 891000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 300.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Lluja",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4475673,
+      "longitude": -3.8724485,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110058489/",
+      "distance": "5307",
+      "description": "Puerta al Norte Gestión Inmobiliaria te presenta este acogedor chalet independiente en Peñacastillo con gran parcela privada de 7.500 m2, donde la luz natural y las zonas exteriores son las auténticas protagonistas.  En la planta principal encontramos un amplio salón–comedor con chimenea y grandes ventanales, que abren el espacio al jardín y crean una sensación de amplitud y calidez. La cocina, luminosa y funcional, cuenta con zona de comedor, además de la zona de estar con acceso directo a la terraza.  En la segunda planta se encuentran tres dormitorios y 2 baños, todos con suelos de madera y mucha luz natural. En la planta baja se sitúa un bonito porche cubierto, ideal para disfrutar del exterior, incluso en los días de lluvia y un amplio garaje.  El chalet está rodeado de grandes zonas ajardinadas, con espacio para seguir creando áreas de ocio, huerto o piscina.  Una propiedad perfecta con estupenda orientación, amplitud y privacidad, en un entorno natural. A tan solo 12 minutos del centro de Santander y sus maravillosas playas.  Contacta con Puerta al Norte Gestión Inmobiliaria y ven a conocerlo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2970.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Chalet en calle Lluja"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110052802",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5c/ba/f4/1393772741.webp",
+      "externalReference": "2ºG - BQ 2",
+      "numPhotos": 7,
+      "floor": "2",
+      "price": 288000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 288000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 95.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida José María de pereda, 6",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Sancibrián",
+      "country": "es",
+      "latitude": 43.4640107,
+      "longitude": -3.8759505,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110052802/",
+      "distance": "5333",
+      "description": "PROMOCIÓN DE PISOS EN SANCIBRIÁN (SANTA CRUZ DE BEZANA)- RESIDENCIAL ÁVALON Residencial Ávalon, Promoción de Obra Nueva de 3 Bloques de viviendas de cuatro alturas cada uno repartidos entre bajos con jardín, primeras y segundas plantas y áticos con terraza, ubicados en Sancibrián (Santa Cruz de Bezana) Cada vivienda cuenta con plaza de garaje y trastero. Se encuentran en Sancibrián, lugar privilegiado por su cercanía a Santander y a multitud de playas, con todos los servicios que puedas necesitar en los alrededores como colegios, restaurantes, supermercados, centros de salud, autobús. Precios desde 250.000€ (impuestos no incluidos). Para obtener más información, no dudes en ponerte en contacto con nosotros. Estaremos encantados de atenderte, ya sea por teléfono o personalmente. ¡Descubre tu nuevo hogar en Residencial Ávalon!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3032.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Sancibrián, Santa Cruz de Bezana",
+        "title": "Piso en avenida José María de pereda, 6"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110052474",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d6/8e/3b/1393763911.webp",
+      "externalReference": "1ºH - BQ 2",
+      "numPhotos": 7,
+      "floor": "1",
+      "price": 250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 79.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "avenida José María de pereda, 6",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Sancibrián",
+      "country": "es",
+      "latitude": 43.4640107,
+      "longitude": -3.8759505,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110052474/",
+      "distance": "5333",
+      "description": "PROMOCIÓN DE PISOS EN SANCIBRIÁN (SANTA CRUZ DE BEZANA)- RESIDENCIAL ÁVALON Residencial Ávalon, Promoción de Obra Nueva de 3 Bloques de viviendas de cuatro alturas cada uno repartidos entre bajos con jardín, primeras y segundas plantas y áticos con terraza, ubicados en Sancibrián (Santa Cruz de Bezana) Cada vivienda cuenta con plaza de garaje y trastero. Se encuentran en Sancibrián, lugar privilegiado por su cercanía a Santander y a multitud de playas, con todos los servicios que puedas necesitar en los alrededores como colegios, restaurantes, supermercados, centros de salud, autobús. Precios desde 250.000€ (impuestos no incluidos). Para obtener más información, no dudes en ponerte en contacto con nosotros. Estaremos encantados de atenderte, ya sea por teléfono o personalmente. ¡Descubre tu nuevo hogar en Residencial Ávalon!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3165.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Sancibrián, Santa Cruz de Bezana",
+        "title": "Piso en avenida José María de pereda, 6"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110043139",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2c/07/02/1393556312.webp",
+      "externalReference": "P2 BJ C",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 480000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 480000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 141.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Bellavista, 5",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4829693,
+      "longitude": -3.7974331,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110043139/",
+      "distance": "2508",
+      "description": "Residencial Bellavista – 12 viviendas de obra nueva con calidades premium y eficiencia A Bienvenido a Residencial Bellavista, una exclusiva promoción de 12 viviendas colectivas con garajes y trasteros, diseñadas para quienes buscan un hogar moderno, eficiente y construido con materiales de alta calidad en uno de los mejores entornos residenciales. Una promoción privada, cuidada al detalle y pensada para vivir con tranquilidad, estilo y máximo confort.  Características destacadas ✔ Construcción sólida y fachada de diseño Estructura de hormigón armado y fachada ventilada combinada con piezas cerámicas y panel composite, garantizando durabilidad, aislamiento y estética moderna. Aislamiento térmico y acústico integral para un confort superior en el día a día. ✔ Viviendas luminosas, cálidas y silenciosas Carpintería exterior con rotura de puente térmico, doble acristalamiento, vidrios bajo-emisivos y control solar según orientación. Ambientes cómodos, silenciosos y llenos de luz natural. ✔ Acabados interiores de alta calidad •Suelo laminado flotante en salón, dormitorios y pasillos •Gres cerámico en cocina y baños •Paredes lisas en tonos claros •Terrazas con pavimento cerámico exterior ✔ Carpintería interior moderna y segura •Puerta de entrada blindada •Puertas interiores blancas  •Armarios empotrados con frentes abatibles o correderos  Cocina equipada y lista para entrar a vivir Cocinas amuebladas con encimera de material compacto y electrodomésticos incluidos: vitro/inducción, horno, campana extractora, nevera, lavadora y lavavajillas.  Baños modernos y funcionales Lavabos con mueble integrado, platos de ducha con mampara y sanitarios de porcelana. Diseño limpio, práctico y actual.  Eficiencia energética A: confort y ahorro todo el año La promoción cuenta con: •Sistema centralizado de aerotermia •Calefacción por suelo radiante en todas las viviendas •Regulación individual por termostato •Paneles fotovoltaicos de apoyo a los equipos de aerotermia •Ventilación de doble flujo con recuperación de calor Menor consumo, mayor confort y un hogar preparado para el futuro.  Tecnología y conectividad Fibra óptica comunitaria, red de datos en toda la vivienda, TV en salón, cocina y dormitorios, videoportero y preinstalación de TV satélite.  Garaje, trastero y urbanización privada •Garaje con puerta automática •Trasteros ventilados •Preinstalación para coche eléctrico •Urbanización cerrada con iluminación de bajo consumo •Ascensor en todos los portales  Residencial Bellavista: calidad, diseño y tranquilidad Viviendas pensadas para quienes buscan un hogar diferente, con un nivel de calidad muy superior a la media y una estética moderna y cuidada. Solicita más información, planos y disponibilidad. Tu nuevo hogar te está esperando.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3404.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Piso en calle Bellavista, 5"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110043125",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a6/21/35/1393556311.webp",
+      "externalReference": "P1 1º C",
+      "numPhotos": 10,
+      "floor": "1",
+      "price": 445000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 445000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 103.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Bellavista, 5",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4829693,
+      "longitude": -3.7974331,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110043125/",
+      "distance": "2508",
+      "description": "Residencial Bellavista – 12 viviendas de obra nueva con calidades premium y eficiencia A Bienvenido a Residencial Bellavista, una exclusiva promoción de 12 viviendas colectivas con garajes y trasteros, diseñadas para quienes buscan un hogar moderno, eficiente y construido con materiales de alta calidad en uno de los mejores entornos residenciales. Una promoción privada, cuidada al detalle y pensada para vivir con tranquilidad, estilo y máximo confort.  Características destacadas ✔ Construcción sólida y fachada de diseño Estructura de hormigón armado y fachada ventilada combinada con piezas cerámicas y panel composite, garantizando durabilidad, aislamiento y estética moderna. Aislamiento térmico y acústico integral para un confort superior en el día a día. ✔ Viviendas luminosas, cálidas y silenciosas Carpintería exterior con rotura de puente térmico, doble acristalamiento, vidrios bajo-emisivos y control solar según orientación. Ambientes cómodos, silenciosos y llenos de luz natural. ✔ Acabados interiores de alta calidad •Suelo laminado flotante en salón, dormitorios y pasillos •Gres cerámico en cocina y baños •Paredes lisas en tonos claros •Terrazas con pavimento cerámico exterior ✔ Carpintería interior moderna y segura •Puerta de entrada blindada •Puertas interiores blancas  •Armarios empotrados con frentes abatibles o correderos  Cocina equipada y lista para entrar a vivir Cocinas amuebladas con encimera de material compacto y electrodomésticos incluidos: vitro/inducción, horno, campana extractora, nevera, lavadora y lavavajillas.  Baños modernos y funcionales Lavabos con mueble integrado, platos de ducha con mampara y sanitarios de porcelana. Diseño limpio, práctico y actual.  Eficiencia energética A: confort y ahorro todo el año La promoción cuenta con: •Sistema centralizado de aerotermia •Calefacción por suelo radiante en todas las viviendas •Regulación individual por termostato •Paneles fotovoltaicos de apoyo a los equipos de aerotermia •Ventilación de doble flujo con recuperación de calor Menor consumo, mayor confort y un hogar preparado para el futuro.  Tecnología y conectividad Fibra óptica comunitaria, red de datos en toda la vivienda, TV en salón, cocina y dormitorios, videoportero y preinstalación de TV satélite.  Garaje, trastero y urbanización privada •Garaje con puerta automática •Trasteros ventilados •Preinstalación para coche eléctrico •Urbanización cerrada con iluminación de bajo consumo •Ascensor en todos los portales  Residencial Bellavista: calidad, diseño y tranquilidad Viviendas pensadas para quienes buscan un hogar diferente, con un nivel de calidad muy superior a la media y una estética moderna y cuidada. Solicita más información, planos y disponibilidad. Tu nuevo hogar te está esperando.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4320.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Ático en calle Bellavista, 5"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110043124",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/49/e5/f9/1393556310.webp",
+      "externalReference": "P1 BJ C",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 480000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 480000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 150.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Bellavista, 5",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4829693,
+      "longitude": -3.7974331,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110043124/",
+      "distance": "2508",
+      "description": "Residencial Bellavista – 12 viviendas de obra nueva con calidades premium y eficiencia A Bienvenido a Residencial Bellavista, una exclusiva promoción de 12 viviendas colectivas con garajes y trasteros, diseñadas para quienes buscan un hogar moderno, eficiente y construido con materiales de alta calidad en uno de los mejores entornos residenciales. Una promoción privada, cuidada al detalle y pensada para vivir con tranquilidad, estilo y máximo confort.  Características destacadas ✔ Construcción sólida y fachada de diseño Estructura de hormigón armado y fachada ventilada combinada con piezas cerámicas y panel composite, garantizando durabilidad, aislamiento y estética moderna. Aislamiento térmico y acústico integral para un confort superior en el día a día. ✔ Viviendas luminosas, cálidas y silenciosas Carpintería exterior con rotura de puente térmico, doble acristalamiento, vidrios bajo-emisivos y control solar según orientación. Ambientes cómodos, silenciosos y llenos de luz natural. ✔ Acabados interiores de alta calidad •Suelo laminado flotante en salón, dormitorios y pasillos •Gres cerámico en cocina y baños •Paredes lisas en tonos claros •Terrazas con pavimento cerámico exterior ✔ Carpintería interior moderna y segura •Puerta de entrada blindada •Puertas interiores blancas  •Armarios empotrados con frentes abatibles o correderos  Cocina equipada y lista para entrar a vivir Cocinas amuebladas con encimera de material compacto y electrodomésticos incluidos: vitro/inducción, horno, campana extractora, nevera, lavadora y lavavajillas.  Baños modernos y funcionales Lavabos con mueble integrado, platos de ducha con mampara y sanitarios de porcelana. Diseño limpio, práctico y actual.  Eficiencia energética A: confort y ahorro todo el año La promoción cuenta con: •Sistema centralizado de aerotermia •Calefacción por suelo radiante en todas las viviendas •Regulación individual por termostato •Paneles fotovoltaicos de apoyo a los equipos de aerotermia •Ventilación de doble flujo con recuperación de calor Menor consumo, mayor confort y un hogar preparado para el futuro.  Tecnología y conectividad Fibra óptica comunitaria, red de datos en toda la vivienda, TV en salón, cocina y dormitorios, videoportero y preinstalación de TV satélite.  Garaje, trastero y urbanización privada •Garaje con puerta automática •Trasteros ventilados •Preinstalación para coche eléctrico •Urbanización cerrada con iluminación de bajo consumo •Ascensor en todos los portales  Residencial Bellavista: calidad, diseño y tranquilidad Viviendas pensadas para quienes buscan un hogar diferente, con un nivel de calidad muy superior a la media y una estética moderna y cuidada. Solicita más información, planos y disponibilidad. Tu nuevo hogar te está esperando.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3200.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Piso en calle Bellavista, 5"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110042962",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e3/d0/4f/1393556313.webp",
+      "externalReference": "P1 BJ B",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 485000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 485000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 121.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Bellavista, 5",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4829693,
+      "longitude": -3.7974331,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110042962/",
+      "distance": "2508",
+      "description": "Residencial Bellavista – 12 viviendas de obra nueva con calidades premium y eficiencia A Bienvenido a Residencial Bellavista, una exclusiva promoción de 12 viviendas colectivas con garajes y trasteros, diseñadas para quienes buscan un hogar moderno, eficiente y construido con materiales de alta calidad en uno de los mejores entornos residenciales. Una promoción privada, cuidada al detalle y pensada para vivir con tranquilidad, estilo y máximo confort.  Características destacadas ✔ Construcción sólida y fachada de diseño Estructura de hormigón armado y fachada ventilada combinada con piezas cerámicas y panel composite, garantizando durabilidad, aislamiento y estética moderna. Aislamiento térmico y acústico integral para un confort superior en el día a día. ✔ Viviendas luminosas, cálidas y silenciosas Carpintería exterior con rotura de puente térmico, doble acristalamiento, vidrios bajo-emisivos y control solar según orientación. Ambientes cómodos, silenciosos y llenos de luz natural. ✔ Acabados interiores de alta calidad •Suelo laminado flotante en salón, dormitorios y pasillos •Gres cerámico en cocina y baños •Paredes lisas en tonos claros •Terrazas con pavimento cerámico exterior ✔ Carpintería interior moderna y segura •Puerta de entrada blindada •Puertas interiores blancas  •Armarios empotrados con frentes abatibles o correderos  Cocina equipada y lista para entrar a vivir Cocinas amuebladas con encimera de material compacto y electrodomésticos incluidos: vitro/inducción, horno, campana extractora, nevera, lavadora y lavavajillas.  Baños modernos y funcionales Lavabos con mueble integrado, platos de ducha con mampara y sanitarios de porcelana. Diseño limpio, práctico y actual.  Eficiencia energética A: confort y ahorro todo el año La promoción cuenta con: •Sistema centralizado de aerotermia •Calefacción por suelo radiante en todas las viviendas •Regulación individual por termostato •Paneles fotovoltaicos de apoyo a los equipos de aerotermia •Ventilación de doble flujo con recuperación de calor Menor consumo, mayor confort y un hogar preparado para el futuro.  Tecnología y conectividad Fibra óptica comunitaria, red de datos en toda la vivienda, TV en salón, cocina y dormitorios, videoportero y preinstalación de TV satélite.  Garaje, trastero y urbanización privada •Garaje con puerta automática •Trasteros ventilados •Preinstalación para coche eléctrico •Urbanización cerrada con iluminación de bajo consumo •Ascensor en todos los portales  Residencial Bellavista: calidad, diseño y tranquilidad Viviendas pensadas para quienes buscan un hogar diferente, con un nivel de calidad muy superior a la media y una estética moderna y cuidada. Solicita más información, planos y disponibilidad. Tu nuevo hogar te está esperando.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4008.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Piso en calle Bellavista, 5"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110043115",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e3/d0/4f/1393556313.webp",
+      "externalReference": "P2 1º A",
+      "numPhotos": 10,
+      "floor": "1",
+      "price": 480000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 480000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 137.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Bellavista, 5",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4829693,
+      "longitude": -3.7974331,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110043115/",
+      "distance": "2508",
+      "description": "Residencial Bellavista – 12 viviendas de obra nueva con calidades premium y eficiencia A Bienvenido a Residencial Bellavista, una exclusiva promoción de 12 viviendas colectivas con garajes y trasteros, diseñadas para quienes buscan un hogar moderno, eficiente y construido con materiales de alta calidad en uno de los mejores entornos residenciales. Una promoción privada, cuidada al detalle y pensada para vivir con tranquilidad, estilo y máximo confort.  Características destacadas ✔ Construcción sólida y fachada de diseño Estructura de hormigón armado y fachada ventilada combinada con piezas cerámicas y panel composite, garantizando durabilidad, aislamiento y estética moderna. Aislamiento térmico y acústico integral para un confort superior en el día a día. ✔ Viviendas luminosas, cálidas y silenciosas Carpintería exterior con rotura de puente térmico, doble acristalamiento, vidrios bajo-emisivos y control solar según orientación. Ambientes cómodos, silenciosos y llenos de luz natural. ✔ Acabados interiores de alta calidad •Suelo laminado flotante en salón, dormitorios y pasillos •Gres cerámico en cocina y baños •Paredes lisas en tonos claros •Terrazas con pavimento cerámico exterior ✔ Carpintería interior moderna y segura •Puerta de entrada blindada •Puertas interiores blancas  •Armarios empotrados con frentes abatibles o correderos  Cocina equipada y lista para entrar a vivir Cocinas amuebladas con encimera de material compacto y electrodomésticos incluidos: vitro/inducción, horno, campana extractora, nevera, lavadora y lavavajillas.  Baños modernos y funcionales Lavabos con mueble integrado, platos de ducha con mampara y sanitarios de porcelana. Diseño limpio, práctico y actual.  Eficiencia energética A: confort y ahorro todo el año La promoción cuenta con: •Sistema centralizado de aerotermia •Calefacción por suelo radiante en todas las viviendas •Regulación individual por termostato •Paneles fotovoltaicos de apoyo a los equipos de aerotermia •Ventilación de doble flujo con recuperación de calor Menor consumo, mayor confort y un hogar preparado para el futuro.  Tecnología y conectividad Fibra óptica comunitaria, red de datos en toda la vivienda, TV en salón, cocina y dormitorios, videoportero y preinstalación de TV satélite.  Garaje, trastero y urbanización privada •Garaje con puerta automática •Trasteros ventilados •Preinstalación para coche eléctrico •Urbanización cerrada con iluminación de bajo consumo •Ascensor en todos los portales  Residencial Bellavista: calidad, diseño y tranquilidad Viviendas pensadas para quienes buscan un hogar diferente, con un nivel de calidad muy superior a la media y una estética moderna y cuidada. Solicita más información, planos y disponibilidad. Tu nuevo hogar te está esperando.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3504.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Ático en calle Bellavista, 5"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110043113",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2d/b8/75/1393556318.webp",
+      "externalReference": "P2 BJ A",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 490000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 490000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 266.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Bellavista, 5",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4829693,
+      "longitude": -3.7974331,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110043113/",
+      "distance": "2508",
+      "description": "Residencial Bellavista – 12 viviendas de obra nueva con calidades premium y eficiencia A Bienvenido a Residencial Bellavista, una exclusiva promoción de 12 viviendas colectivas con garajes y trasteros, diseñadas para quienes buscan un hogar moderno, eficiente y construido con materiales de alta calidad en uno de los mejores entornos residenciales. Una promoción privada, cuidada al detalle y pensada para vivir con tranquilidad, estilo y máximo confort.  Características destacadas ✔ Construcción sólida y fachada de diseño Estructura de hormigón armado y fachada ventilada combinada con piezas cerámicas y panel composite, garantizando durabilidad, aislamiento y estética moderna. Aislamiento térmico y acústico integral para un confort superior en el día a día. ✔ Viviendas luminosas, cálidas y silenciosas Carpintería exterior con rotura de puente térmico, doble acristalamiento, vidrios bajo-emisivos y control solar según orientación. Ambientes cómodos, silenciosos y llenos de luz natural. ✔ Acabados interiores de alta calidad •Suelo laminado flotante en salón, dormitorios y pasillos •Gres cerámico en cocina y baños •Paredes lisas en tonos claros •Terrazas con pavimento cerámico exterior ✔ Carpintería interior moderna y segura •Puerta de entrada blindada •Puertas interiores blancas  •Armarios empotrados con frentes abatibles o correderos  Cocina equipada y lista para entrar a vivir Cocinas amuebladas con encimera de material compacto y electrodomésticos incluidos: vitro/inducción, horno, campana extractora, nevera, lavadora y lavavajillas.  Baños modernos y funcionales Lavabos con mueble integrado, platos de ducha con mampara y sanitarios de porcelana. Diseño limpio, práctico y actual.  Eficiencia energética A: confort y ahorro todo el año La promoción cuenta con: •Sistema centralizado de aerotermia •Calefacción por suelo radiante en todas las viviendas •Regulación individual por termostato •Paneles fotovoltaicos de apoyo a los equipos de aerotermia •Ventilación de doble flujo con recuperación de calor Menor consumo, mayor confort y un hogar preparado para el futuro.  Tecnología y conectividad Fibra óptica comunitaria, red de datos en toda la vivienda, TV en salón, cocina y dormitorios, videoportero y preinstalación de TV satélite.  Garaje, trastero y urbanización privada •Garaje con puerta automática •Trasteros ventilados •Preinstalación para coche eléctrico •Urbanización cerrada con iluminación de bajo consumo •Ascensor en todos los portales  Residencial Bellavista: calidad, diseño y tranquilidad Viviendas pensadas para quienes buscan un hogar diferente, con un nivel de calidad muy superior a la media y una estética moderna y cuidada. Solicita más información, planos y disponibilidad. Tu nuevo hogar te está esperando.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 1842.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Piso en calle Bellavista, 5"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110043109",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/10/ed/67/1393556307.webp",
+      "externalReference": "P1 1º B",
+      "numPhotos": 10,
+      "floor": "1",
+      "price": 460000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 460000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 131.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Bellavista, 5",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4829693,
+      "longitude": -3.7974331,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110043109/",
+      "distance": "2508",
+      "description": "Residencial Bellavista – 12 viviendas de obra nueva con calidades premium y eficiencia A Bienvenido a Residencial Bellavista, una exclusiva promoción de 12 viviendas colectivas con garajes y trasteros, diseñadas para quienes buscan un hogar moderno, eficiente y construido con materiales de alta calidad en uno de los mejores entornos residenciales. Una promoción privada, cuidada al detalle y pensada para vivir con tranquilidad, estilo y máximo confort.  Características destacadas ✔ Construcción sólida y fachada de diseño Estructura de hormigón armado y fachada ventilada combinada con piezas cerámicas y panel composite, garantizando durabilidad, aislamiento y estética moderna. Aislamiento térmico y acústico integral para un confort superior en el día a día. ✔ Viviendas luminosas, cálidas y silenciosas Carpintería exterior con rotura de puente térmico, doble acristalamiento, vidrios bajo-emisivos y control solar según orientación. Ambientes cómodos, silenciosos y llenos de luz natural. ✔ Acabados interiores de alta calidad •Suelo laminado flotante en salón, dormitorios y pasillos •Gres cerámico en cocina y baños •Paredes lisas en tonos claros •Terrazas con pavimento cerámico exterior ✔ Carpintería interior moderna y segura •Puerta de entrada blindada •Puertas interiores blancas  •Armarios empotrados con frentes abatibles o correderos  Cocina equipada y lista para entrar a vivir Cocinas amuebladas con encimera de material compacto y electrodomésticos incluidos: vitro/inducción, horno, campana extractora, nevera, lavadora y lavavajillas.  Baños modernos y funcionales Lavabos con mueble integrado, platos de ducha con mampara y sanitarios de porcelana. Diseño limpio, práctico y actual.  Eficiencia energética A: confort y ahorro todo el año La promoción cuenta con: •Sistema centralizado de aerotermia •Calefacción por suelo radiante en todas las viviendas •Regulación individual por termostato •Paneles fotovoltaicos de apoyo a los equipos de aerotermia •Ventilación de doble flujo con recuperación de calor Menor consumo, mayor confort y un hogar preparado para el futuro.  Tecnología y conectividad Fibra óptica comunitaria, red de datos en toda la vivienda, TV en salón, cocina y dormitorios, videoportero y preinstalación de TV satélite.  Garaje, trastero y urbanización privada •Garaje con puerta automática •Trasteros ventilados •Preinstalación para coche eléctrico •Urbanización cerrada con iluminación de bajo consumo •Ascensor en todos los portales  Residencial Bellavista: calidad, diseño y tranquilidad Viviendas pensadas para quienes buscan un hogar diferente, con un nivel de calidad muy superior a la media y una estética moderna y cuidada. Solicita más información, planos y disponibilidad. Tu nuevo hogar te está esperando.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3511.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Ático en calle Bellavista, 5"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110043114",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ef/47/74/1393556309.webp",
+      "externalReference": "P2 BJ B",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 465000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 465000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 99.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Bellavista, 5",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4829693,
+      "longitude": -3.7974331,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110043114/",
+      "distance": "2508",
+      "description": "Residencial Bellavista – 12 viviendas de obra nueva con calidades premium y eficiencia A Bienvenido a Residencial Bellavista, una exclusiva promoción de 12 viviendas colectivas con garajes y trasteros, diseñadas para quienes buscan un hogar moderno, eficiente y construido con materiales de alta calidad en uno de los mejores entornos residenciales. Una promoción privada, cuidada al detalle y pensada para vivir con tranquilidad, estilo y máximo confort.  Características destacadas ✔ Construcción sólida y fachada de diseño Estructura de hormigón armado y fachada ventilada combinada con piezas cerámicas y panel composite, garantizando durabilidad, aislamiento y estética moderna. Aislamiento térmico y acústico integral para un confort superior en el día a día. ✔ Viviendas luminosas, cálidas y silenciosas Carpintería exterior con rotura de puente térmico, doble acristalamiento, vidrios bajo-emisivos y control solar según orientación. Ambientes cómodos, silenciosos y llenos de luz natural. ✔ Acabados interiores de alta calidad •Suelo laminado flotante en salón, dormitorios y pasillos •Gres cerámico en cocina y baños •Paredes lisas en tonos claros •Terrazas con pavimento cerámico exterior ✔ Carpintería interior moderna y segura •Puerta de entrada blindada •Puertas interiores blancas  •Armarios empotrados con frentes abatibles o correderos  Cocina equipada y lista para entrar a vivir Cocinas amuebladas con encimera de material compacto y electrodomésticos incluidos: vitro/inducción, horno, campana extractora, nevera, lavadora y lavavajillas.  Baños modernos y funcionales Lavabos con mueble integrado, platos de ducha con mampara y sanitarios de porcelana. Diseño limpio, práctico y actual.  Eficiencia energética A: confort y ahorro todo el año La promoción cuenta con: •Sistema centralizado de aerotermia •Calefacción por suelo radiante en todas las viviendas •Regulación individual por termostato •Paneles fotovoltaicos de apoyo a los equipos de aerotermia •Ventilación de doble flujo con recuperación de calor Menor consumo, mayor confort y un hogar preparado para el futuro.  Tecnología y conectividad Fibra óptica comunitaria, red de datos en toda la vivienda, TV en salón, cocina y dormitorios, videoportero y preinstalación de TV satélite.  Garaje, trastero y urbanización privada •Garaje con puerta automática •Trasteros ventilados •Preinstalación para coche eléctrico •Urbanización cerrada con iluminación de bajo consumo •Ascensor en todos los portales  Residencial Bellavista: calidad, diseño y tranquilidad Viviendas pensadas para quienes buscan un hogar diferente, con un nivel de calidad muy superior a la media y una estética moderna y cuidada. Solicita más información, planos y disponibilidad. Tu nuevo hogar te está esperando.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 4697.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Piso en calle Bellavista, 5"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110037322",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8a/0a/e9/1393381781.webp",
+      "numPhotos": 22,
+      "floor": "6",
+      "price": 266000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 266000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "sale",
+      "size": 66.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Centro - Ayuntamiento",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Centro - Ayuntamiento",
+      "country": "es",
+      "latitude": 43.4623179,
+      "longitude": -3.8059805,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110037322/",
+      "distance": "316",
+      "description": "¡Descubre este espectacular ático en el corazón de Santander! Con una ubicación privilegiada, este inmueble de 66 m² ofrece todo lo que necesitas para disfrutar de la vida urbana. Al entrar, te recibirán dos acogedoras habitaciones y un baño moderno, perfectos para relajarte después de un día ajetreado. La cocina, funcional y bien equipada, se abre al luminoso salón, donde podrás disfrutar de momentos inolvidables. Desde la sexta planta, las vistas son simplemente impresionantes, permitiéndote contemplar la belleza de la ciudad y el mar. Además, el edificio cuenta con ascensor, lo que garantiza comodidad en tu día a día. La calefacción por emisores eléctricos asegura un ambiente agradable durante todo el año. Con todos los servicios a tu alrededor, como tiendas, restaurantes y transporte público, este ático es una oportunidad única en el mercado. ¡No dejes pasar la ocasión de visitarlo y enamorarte de tu nuevo hogar!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 4030.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro - Ayuntamiento, Santander",
+        "title": "Ático"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110031270",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c3/fc/cf/1393205721.webp",
+      "externalReference": "Álvaro-695424426",
+      "numPhotos": 25,
+      "floor": "4",
+      "price": 379900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 379900.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 439900.0,
+            "priceDropValue": 60000,
+            "priceDropPercentage": 14
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 105.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Santa Lucía",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4646598,
+      "longitude": -3.7991832,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110031270/",
+      "distance": "903",
+      "description": "\"Inmobiliaria TECNOCASA SANTA LUCIA vende una vivienda para entrar a vivir en zona centro de Santander. Este espectacular piso en la calle Santa Lucía es la oportunidad perfecta para quienes buscan comodidad y una excelente ubicación. Con gran amplitud, la vivienda cuenta con tres habitaciones dobles: una interior y dos exteriores, además de un amplio salón exterior, ideales para disfrutar de la luz natural. La cocina está completamente equipada y dispone de dos baños: uno con plato de ducha y otro con bañera. La venta del inmueble incluye un trastero de 9 metros cuadrados. La propiedad ofrece, además, la posibilidad de adquirir una plaza de garaje con acceso desde el mismo portal por 60.000 € adicionales. Ubicado a tan solo cinco minutos a pie de la bahía de Santander, este piso es ideal como primera vivienda. Además, se encuentra en una de las mejores zonas de la ciudad, rodeado de servicios como farmacias, colegios, institutos y supermercados, lo que lo hace muy accesible para tu día a día. ¡No dejes pasar esta oportunidad y ven a verlo! FINANCIAMOS HASTA EL 100%, LLAMENOS Y VENGA A VISITARLO. \".",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 60000.0
+      },
+      "priceByArea": 3618.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Piso en calle Santa Lucía"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110029191",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3c/8b/de/1204930612.webp",
+      "externalReference": "3ºB",
+      "numPhotos": 18,
+      "floor": "3",
+      "price": 249000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 249000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 86.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "José Ortega y Gasset, 39",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4456504,
+      "longitude": -3.862507,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110029191/",
+      "distance": "4632",
+      "description": "Ariz II Santander se compone de 86 viviendas, de 2 y 3 dormitorios de diversas tipologías entre las que encontrarás bajos con amplias terrazas y jardín. Todas las viviendas cuentan con terrazas para tener tu espacio al aire libre, plaza de garaje y trastero. Para que puedas disfrutar del máximo de tus ratos libres, la finca cuenta con gastroteca. Además, dispone de tres locales comerciales de diferentes tamaños perfectos para tu negocio. Las viviendas de Ariz II Santander se caracterizan por contar con buenas distribuciones, que separan la zona de día de la de noche, las viviendas cuentan con un diseño moderno y funcional para satisfacer todas tus necesidades y que puedas disfrutar del máximo confort. Todas las viviendas cuentan con amplias terrazas donde podrás poner una mesa para comer en verano. Cocina amueblada y equipada con electrodomésticos: horno, microondas, placa vitro cerámica y campana extractora. Además, para que tu hogar sea como tú te lo habías imaginado, te ofrecemos la posibilidad de personalización de acabados en baños y cocina y en el solado general de la vivienda. La promoción se localiza a las afueras de la ciudad de Santander, en la zona de Peñacastillo, un área de reciente expansión que se encuentra aproximadamente a 5 km del centro de Santander y que ofrece la comodidad de vivir en un entorno tranquilo con grandes avenidas y todos los servicios. La zona está bien comunicada, cerca de la CA-130 y la N-611 con rápidos y fáciles accesos a la S-30 y a la S-20, que permiten desplazarse con absoluta facilidad y comodidad. Dispone de buena comunicación en transporte público ya que tiene a escasos minutos la parada de tren Nueva Montaña, 15 min a pie y Adarzo, 25 min a pie y las paradas de autobús S1 S5 y S6 de autobús interurbano junto a la urbanización  En las inmediaciones encontrarás todo tipo de servicios necesarios para la vida diaria: centros educativos, gimnasio, zonas de ocio y centros comerciales (Bahía Santander, El Corte Inglés), centros de salud y zonas verdes. ¡En Ariz II Santander encontrarás el espacio que tu futuro necesita!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2895.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en José Ortega y Gasset, 39"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110029190",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ac/7a/3f/1204890769.webp",
+      "externalReference": "1ºE",
+      "numPhotos": 18,
+      "floor": "1",
+      "price": 234000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 234000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 91.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "José Ortega y Gasset, 39",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4456504,
+      "longitude": -3.862507,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110029190/",
+      "distance": "4632",
+      "description": "Ariz II Santander se compone de 86 viviendas, de 2 y 3 dormitorios de diversas tipologías entre las que encontrarás bajos con amplias terrazas y jardín. Todas las viviendas cuentan con terrazas para tener tu espacio al aire libre, plaza de garaje y trastero. Para que puedas disfrutar del máximo de tus ratos libres, la finca cuenta con gastroteca. Además, dispone de tres locales comerciales de diferentes tamaños perfectos para tu negocio. Las viviendas de Ariz II Santander se caracterizan por contar con buenas distribuciones, que separan la zona de día de la de noche, las viviendas cuentan con un diseño moderno y funcional para satisfacer todas tus necesidades y que puedas disfrutar del máximo confort. Todas las viviendas cuentan con amplias terrazas donde podrás poner una mesa para comer en verano. Cocina amueblada y equipada con electrodomésticos: horno, microondas, placa vitro cerámica y campana extractora. Además, para que tu hogar sea como tú te lo habías imaginado, te ofrecemos la posibilidad de personalización de acabados en baños y cocina y en el solado general de la vivienda. La promoción se localiza a las afueras de la ciudad de Santander, en la zona de Peñacastillo, un área de reciente expansión que se encuentra aproximadamente a 5 km del centro de Santander y que ofrece la comodidad de vivir en un entorno tranquilo con grandes avenidas y todos los servicios. La zona está bien comunicada, cerca de la CA-130 y la N-611 con rápidos y fáciles accesos a la S-30 y a la S-20, que permiten desplazarse con absoluta facilidad y comodidad. Dispone de buena comunicación en transporte público ya que tiene a escasos minutos la parada de tren Nueva Montaña, 15 min a pie y Adarzo, 25 min a pie y las paradas de autobús S1 S5 y S6 de autobús interurbano junto a la urbanización  En las inmediaciones encontrarás todo tipo de servicios necesarios para la vida diaria: centros educativos, gimnasio, zonas de ocio y centros comerciales (Bahía Santander, El Corte Inglés), centros de salud y zonas verdes. ¡En Ariz II Santander encontrarás el espacio que tu futuro necesita!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2571.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en José Ortega y Gasset, 39"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110029189",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ff/70/b0/1204890772.webp",
+      "externalReference": "1ºD",
+      "numPhotos": 18,
+      "floor": "1",
+      "price": 195000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 195000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 73.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "José Ortega y Gasset, 39",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4456504,
+      "longitude": -3.862507,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110029189/",
+      "distance": "4632",
+      "description": "Ariz II Santander se compone de 86 viviendas, de 2 y 3 dormitorios de diversas tipologías entre las que encontrarás bajos con amplias terrazas y jardín. Todas las viviendas cuentan con terrazas para tener tu espacio al aire libre, plaza de garaje y trastero. Para que puedas disfrutar del máximo de tus ratos libres, la finca cuenta con gastroteca. Además, dispone de tres locales comerciales de diferentes tamaños perfectos para tu negocio. Las viviendas de Ariz II Santander se caracterizan por contar con buenas distribuciones, que separan la zona de día de la de noche, las viviendas cuentan con un diseño moderno y funcional para satisfacer todas tus necesidades y que puedas disfrutar del máximo confort. Todas las viviendas cuentan con amplias terrazas donde podrás poner una mesa para comer en verano. Cocina amueblada y equipada con electrodomésticos: horno, microondas, placa vitro cerámica y campana extractora. Además, para que tu hogar sea como tú te lo habías imaginado, te ofrecemos la posibilidad de personalización de acabados en baños y cocina y en el solado general de la vivienda. La promoción se localiza a las afueras de la ciudad de Santander, en la zona de Peñacastillo, un área de reciente expansión que se encuentra aproximadamente a 5 km del centro de Santander y que ofrece la comodidad de vivir en un entorno tranquilo con grandes avenidas y todos los servicios. La zona está bien comunicada, cerca de la CA-130 y la N-611 con rápidos y fáciles accesos a la S-30 y a la S-20, que permiten desplazarse con absoluta facilidad y comodidad. Dispone de buena comunicación en transporte público ya que tiene a escasos minutos la parada de tren Nueva Montaña, 15 min a pie y Adarzo, 25 min a pie y las paradas de autobús S1 S5 y S6 de autobús interurbano junto a la urbanización  En las inmediaciones encontrarás todo tipo de servicios necesarios para la vida diaria: centros educativos, gimnasio, zonas de ocio y centros comerciales (Bahía Santander, El Corte Inglés), centros de salud y zonas verdes. ¡En Ariz II Santander encontrarás el espacio que tu futuro necesita!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2671.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en José Ortega y Gasset, 39"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110029092",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3c/01/44/1204930611.webp",
+      "externalReference": "2ºC",
+      "numPhotos": 18,
+      "floor": "2",
+      "price": 217000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 217000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 77.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "José Ortega y Gasset, 39",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4456504,
+      "longitude": -3.862507,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/110029092/",
+      "distance": "4632",
+      "description": "Ariz II Santander se compone de 86 viviendas, de 2 y 3 dormitorios de diversas tipologías entre las que encontrarás bajos con amplias terrazas y jardín. Todas las viviendas cuentan con terrazas para tener tu espacio al aire libre, plaza de garaje y trastero. Para que puedas disfrutar del máximo de tus ratos libres, la finca cuenta con gastroteca. Además, dispone de tres locales comerciales de diferentes tamaños perfectos para tu negocio. Las viviendas de Ariz II Santander se caracterizan por contar con buenas distribuciones, que separan la zona de día de la de noche, las viviendas cuentan con un diseño moderno y funcional para satisfacer todas tus necesidades y que puedas disfrutar del máximo confort. Todas las viviendas cuentan con amplias terrazas donde podrás poner una mesa para comer en verano. Cocina amueblada y equipada con electrodomésticos: horno, microondas, placa vitro cerámica y campana extractora. Además, para que tu hogar sea como tú te lo habías imaginado, te ofrecemos la posibilidad de personalización de acabados en baños y cocina y en el solado general de la vivienda. La promoción se localiza a las afueras de la ciudad de Santander, en la zona de Peñacastillo, un área de reciente expansión que se encuentra aproximadamente a 5 km del centro de Santander y que ofrece la comodidad de vivir en un entorno tranquilo con grandes avenidas y todos los servicios. La zona está bien comunicada, cerca de la CA-130 y la N-611 con rápidos y fáciles accesos a la S-30 y a la S-20, que permiten desplazarse con absoluta facilidad y comodidad. Dispone de buena comunicación en transporte público ya que tiene a escasos minutos la parada de tren Nueva Montaña, 15 min a pie y Adarzo, 25 min a pie y las paradas de autobús S1 S5 y S6 de autobús interurbano junto a la urbanización  En las inmediaciones encontrarás todo tipo de servicios necesarios para la vida diaria: centros educativos, gimnasio, zonas de ocio y centros comerciales (Bahía Santander, El Corte Inglés), centros de salud y zonas verdes. ¡En Ariz II Santander encontrarás el espacio que tu futuro necesita!",
+      "hasVideo": false,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2818.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en José Ortega y Gasset, 39"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110028472",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6e/9f/46/1396304498.webp",
+      "externalReference": "12493",
+      "numPhotos": 62,
+      "price": 475000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 475000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 228.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "calle Vicente Trueba, 3",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4547642,
+      "longitude": -3.8574977,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110028472/",
+      "distance": "3931",
+      "description": "Chalet pareado en urbanización del Alisal, este chalet dispone en planta de salón comedor con salida a la terraza, cocina equipada y aseo. Dispone de porche acristalado en la entada. En la primera planta disponemos de 4 habitaciones y un baño completo. En la planta sótano tenemos zona de aparcamiento, zona de almacén y un baño completo. Una de las ventajas de esta propiedad es su buena comunicación, tanto con la entrada a la autovía, como su acceso a la zona deportiva del albricia, Hospital Valdecilla, zona de Adarzo, etc. Con todos los servicios en la puerta, para de autobús, centro de estudios, centro deportivo, grandes superficies, zona de institutos, PCTCAN, etc.  Ideal como residencia habitual.  Mikeli Luxar Real Estate. La mayor y más selecta cartera inmobiliaria de Cantabria. Más inmuebles en la zona. Contacte con su asesor. **Precio sujeto a cambios o retirada sin previo aviso. La información es orientativa. El precio no incluye impuestos ni gastos de compraventa. Para una información más detallada y ajustada, nuestro departamento de economía y finanzas está dispuesto a informarle.  Inmueble en exclusiva. Para más información, contacte con la agencia. Se ruega no molestar a propietarios u ocupantes. **.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2083.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Chalet pareado en calle Vicente Trueba, 3"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110024328",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1d/2c/e7/1399626108.webp",
+      "externalReference": "av-514",
+      "numPhotos": 37,
+      "floor": "3",
+      "price": 290000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 290000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle Madrid",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Castilla - Hermida",
+      "country": "es",
+      "latitude": 43.4587384,
+      "longitude": -3.8099204,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110024328/",
+      "distance": "396",
+      "description": "En la zona de las Estaciones, en Santander, se encuentra este piso totalmente reformado que combina comodidad, estilo y una ubicación inmejorable. Sus 90 m2 se distribuyen en un amplio salón con cocina abierta, dos dormitorios —uno de ellos con vestidor con ventana— y un baño. El edificio dispone de ascensor, y tanto la fachada como los patios han sido renovados este año con sistema SATE, lo que garantiza un óptimo aislamiento y eficiencia. La vivienda goza de una comunicación excepcional, situada a escasos metros de las estaciones de tren y autobús, y muy próxima al Ayuntamiento, a los Jardines de Pereda y al Centro Botín. El entorno está completamente consolidado y rodeado de todos los servicios necesarios para el día a día. Una vivienda lista para entrar a vivir en una de las zonas más prácticas y atractivas de la ciudad.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3222.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castilla - Hermida, Santander",
+        "title": "Piso en calle Madrid"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110003543",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/68/66/d1/1392351412.webp",
+      "externalReference": "SOMO CS-01",
+      "numPhotos": 17,
+      "price": 395000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 395000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 195.0,
+      "rooms": 0,
+      "bathrooms": 0,
+      "address": "calle Cayuso",
+      "province": "Cantabria",
+      "municipality": "Ribamontan al Mar",
+      "district": "Somo",
+      "country": "es",
+      "latitude": 43.4491568,
+      "longitude": -3.7385055,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110003543/",
+      "distance": "5944",
+      "description": "Somo. Casa adosada de piedra de aproximadamente 200m2, para rehabilitar completamente. La finca, urbana, de 1.500m2 es apta para la construcción de una vivienda unifamiliar de hasta 450m2 aprox, con posibilidad, incluso, de mantener la construcción ya existente. Buena situación, a 1km del núcleo urbano de Somo, de todos sus servicios y la playa. Ubicada en zona residencial tranquila. LA COSTA INMOBILIARIA EN SOMO Telefono mas de 33 años de experiencia nos avalan dando lo mejor para nuestros clientes, visite nuestra pagina web SI ESTE INMUEBLE NO ES LO BUSCA PREGUNTENOS Y LE ENCONTRAMOS EL QUE SE AJUSTE A SUS NECESIDADES DISPONEMOS DE MUCHAS OPCIONES MAS. Disponemos de las mas amplia variedad de pisos, apartamentos, dúplex, chalets, casas de pueblo, parcelas, terrenos, fincas, garaje, locales, en venta y alquiler tanto en la zona de playa como en la montaña y hacia el interior ( Ribamontan al Mar somo loredo suesa castanedo langre pedreña galizano cubas carriazo gajano rubayo Villaverde de pontones santander etc ). No dude en consultarnos. Les atenderemos en nuestra oficina de Somo en Calle Isla de Mouro, 10 Frente a la farmacia.",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 2026.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Somo, Ribamontan al Mar",
+        "title": "Chalet adosado en calle Cayuso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109999876",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/89/11/94/1392243700.webp",
+      "externalReference": "W-046RJ2",
+      "numPhotos": 83,
+      "price": 990000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 990000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 622.0,
+      "rooms": 7,
+      "bathrooms": 5,
+      "address": "calle Santa Teresa",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Maliaño",
+      "country": "es",
+      "latitude": 43.4195249,
+      "longitude": -3.8337679,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109999876/",
+      "distance": "5131",
+      "description": "Espectacular chalet en Alto Maliaño Engel & Völkers presenta este fantástico chalet en Alto Maliaño, de 622 m² construidos con calidades excepcionales y diseñado para disfrutar del máximo confort, amplitud y luminosidad. Se trata de una propiedad versátil: ideal como vivienda familiar, residencia vacacional o inversión turística, gracias a su proximidad a Santander, al aeropuerto y a las playas. La vivienda presenta un interior impecable, donde destacan los acabados de alta gama, los suelos de parquet y una atmósfera cálida realzada por la chimenea de mármol blanco del salón principal.  Se distribuye en tres plantas y ha sido concebida para optimizar la luz natural en cada estancia. En la planta baja se encuentran un magnífico salón con terraza y amplios ventanales, una gran cocina con isla y comedor, una sala de estar y 4 habitaciones espaciosas. La principal, con terraza privada, baño en suite y bañera de hidromasaje; otra también con terraza privada; y otras dos que disponen de un baño completo justo al lado, lo que facilita su posible transformación en futuras habitaciones en suite. La planta superior ofrece otro amplio salón con terraza, un baño completo con almacenaje integrado, y 3 habitaciones: dos con terrazas privadas y vistas, y otra que puede utilizarse como dormitorio o como un espacioso despacho.  El sótano de 254 m² alberga un garaje excepcional con capacidad para 4 coches y además una segunda cocina, zona de gimnasio, trastero, lavadero y aseo: ideal para reuniones, huéspedes o actividad turística. Un espacio con gran potencial y versatilidad según las necesidades del futuro propietario. La parcela de 1.028 m² alberga un amplio jardín, dos terrazas orientadas al sur y una zona de barbacoa: ideales para disfrutar de la vida al aire libre y con espacio para proyectar una piscina en el futuro. Posibilidad de entregar la vivienda amueblada, incluido en el precio de venta. Alto Maliaño se ha consolidado como una de las zonas con mayor proyección del área metropolitana de Santander. Su excelente conexión —a menos de 10 minutos de Santander, las playas y centros comerciales, y al lado del aeropuerto, comercios y centros de salud— junto con un entorno verde y tranquilo, ha impulsado una creciente demanda tanto residencial como turística.  Esta combinación de calidad de vida y cercanía estratégica convierte la propiedad en una opción especialmente atractiva para inversión turística, con un notable potencial de revalorización. En conjunto, este chalet representa una oportunidad única de adquirir una propiedad de categoría capaz de convertirse en una residencia familiar excepcional, una casa vacacional soñada o un hotel boutique a un paso del aeropuerto y de Santander, y con accesibilidad a cualquier punto turístico de Cantabria, ya sea de mar o de montaña.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1592.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Maliaño, Camargo",
+        "title": "Casa independiente en calle Santa Teresa"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": true,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109998748",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/82/86/f4/1392202529.webp",
+      "externalReference": "IB853",
+      "numPhotos": 17,
+      "floor": "1",
+      "price": 440000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 440000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "avenida de la Reina Victoria",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4627053,
+      "longitude": -3.7906141,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109998748/",
+      "distance": "1557",
+      "description": "Piso impecable en una de las zonas más cómodas y valoradas de Santander. Precio Negociable    En venta una vivienda luminosa y muy práctica, situada en un entorno sin cuestas y con todos los servicios a mano. El piso cuenta con un amplio salón con salida directa a un balcón perfecto para disfrutar del exterior, un dormitorio principal de buen tamaño y una segunda habitación doble. El cuarto de baño se ha reformado recientemente, ofreciendo un baño moderno y funcional.    La orientación Sur garantiza luz durante todo el día. El piso está ubicado a menos de cinco minutos de la playa y es un edificio sin barreras arquitectónicas, . Además, esta vivienda destaca por su accesibilidad, su comodidad y su estado impecable.    Una opción ideal tanto como residencia habitual como para inversión. ¡Ven a visitarlo!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 6286.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Piso en avenida de la Reina Victoria"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109991374",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ca/b1/be/1391953008.webp",
+      "externalReference": "PAN0015",
+      "numPhotos": 49,
+      "floor": "3",
+      "price": 1995000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1995000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 301.0,
+      "rooms": 5,
+      "bathrooms": 5,
+      "address": "calle Castelar",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Puerto Chico",
+      "country": "es",
+      "latitude": 43.4620192,
+      "longitude": -3.7903777,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109991374/",
+      "distance": "1575",
+      "description": "Desde Puerta Al Norte Gestión Inmobiliaria te presentamos en exclusiva esta extraordinaria vivienda situada en la prestigiosa calle Castelar, en primera línea de la bahía de Santander, una de las direcciones más emblemáticas de la ciudad. Se trata de un amplio piso de 301 m² ubicado en la tercera planta de un edificio elegante con doble ascensor y servicio de conserjería. La vivienda se distribuye en cinco dormitorios y cinco baños, ofreciendo un alto nivel de confort y una clara separación entre zona de día y zona de noche. El gran salón-comedor, orientado al sur, es la estancia protagonista, un espacio de representación con salida a una terraza que funciona como mirador privado, con panorámicas que abarcan desde el Centro Botín y el Paseo de Pereda, hasta Puertochico, el puerto deportivo y el arenal de El Puntal. El dormitorio principal es una verdadera suite, con amplio vestidor y gran baño en suite, también orientado hacia la bahía. Los otros cuatro dormitorios, todos de buen tamaño y muy luminosos, completan la zona privada con múltiples posibilidades de uso. La cocina, de generosas dimensiones, dispone de acceso desde uno de los distribuidores de la vivienda y de una segunda entrada independiente vinculada al ascensor de servicio, lo que facilita una circulación muy cómoda y ordenada en el día a día. La ubicación es inmejorable: en pleno Castelar, a un paso de Puertochico, el Paseo de Pereda, el Centro Botín, el paseo marítimo y una amplia oferta de restauración, comercios y servicios. En las inmediaciones existen, además, opciones de aparcamiento como el parking de Castelar. Por su situación, sus vistas, su superficie y su carácter representativo, esta vivienda se sitúa entre las mejores opciones actualmente disponibles en la calle Castelar y en la ciudad de Santander para quienes buscan un hogar de alto nivel frente a la bahía. Contacta con Puerta Al Norte Gestión Inmobiliaria y agenda tu visita. Descubre cómo puede ser tu vida en esta vivienda única frente al mar.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 6628.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puerto Chico, Santander",
+        "title": "Piso en calle Castelar"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109918438",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/77/7a/1b/1403719040.webp",
+      "externalReference": "AV-506",
+      "numPhotos": 21,
+      "floor": "1",
+      "price": 690000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 690000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 134.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "avenida Doctor Diego Madrazo",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Valdenoja",
+      "country": "es",
+      "latitude": 43.483059,
+      "longitude": -3.7944071,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109918438/",
+      "distance": "2624",
+      "description": "En Santander, en la calle Doctor Diego Madrazo se encuentra una vivienda que, desde el primer paso, transmite una forma particular de vivir el espacio. El salón comedor se abre con buena luz y una amplitud que invita a quedarse. La cocina, pensada para funcionar con sencillez, incorpora un tendedero cubierto que ayuda a mantener el ritmo diario sin esfuerzo. Los tres dormitorios ofrecen un ambiente recogido y tranquilo, perfecto para desconectar del mundo. Los dos baños y el aseo acompañan la rutina con comodidad, sin interrupciones ni esperas. Y la terraza, con más de diez metros, se convierte en ese lugar donde las conversaciones se alargan, donde se respira, donde se encuentra el pequeño refugio del día. La amplitud es palpable: más de cien metros útiles y una construcción que supera los ciento treinta, acompañados por un garaje doble que aligera cualquier desplazamiento y un trastero que permite mantener la casa despejada y vivida. Y al final, cuando uno mira más allá de las paredes, la ubicación marca la diferencia. La vivienda se integra en Valdenoja, un área de urbanizaciones modernas y obra nueva que ha dado a esta zona de Santander un carácter actual y ordenado. Desde aquí, la costa se convierte en una prolongación natural de la vida diaria: la playa de Mataleñas, sus acantilados y el entorno del campo de golf están a un paseo, y la playa del Sardinero se alcanza en pocos minutos. Una combinación de evolución, servicios y naturaleza que completa una forma de vivir que se siente desde el primer momento.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 5149.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Valdenoja, Santander",
+        "title": "Piso en avenida Doctor Diego Madrazo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109983762",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f9/03/03/1402804245.webp",
+      "externalReference": "6116-VI-026-00-001-005",
+      "numPhotos": 27,
+      "floor": "1",
+      "price": 238000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 238000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 87.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Hermanos Calderón",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4420326,
+      "longitude": -3.8503236,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109983762/",
+      "distance": "3965",
+      "description": "Se vende piso para entrar a vivir en Calle Hermanos Calderón - SANTANDER. Este piso está distribuido en 3 habitaciones, amplio salón, cocina independiente amueblada y 2 baños completos, uno de ellos en suite. Plaza de garaje y trastero incluido en el precio. El edificio consta de 2 ascensores.  Ideal para familias e inversores. El edificio se encuentra la zona de Peñacastillo, en un entorno tranquilo, bien comunicada con el centro de la ciudad y con todos los servicios a su alcance: Supermercados, Farmacia, Colegios e Institutos de Secundaria, Gimnasio GO FIT, oficinas bancarias, restaurantes, cines, Centro Comercial Carrefour de Peñacastillo. *Este anuncio contiene imágenes de recreación de amueblamiento virtual. La vivienda se entrega sin amueblar. Fotos correspondientes a vivienda tipo.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2736.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en calle Hermanos Calderón"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109967684",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/16/18/a2/1391200733.webp",
+      "numPhotos": 22,
+      "floor": "3",
+      "price": 245000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 245000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 83.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Alta",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Numancia - San Fernando",
+      "country": "es",
+      "latitude": 43.4582845,
+      "longitude": -3.8178637,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109967684/",
+      "distance": "782",
+      "description": "TECNOCASA SANTANDER VENDE PISO EN CALLE ALTA Este piso de 87 metros cuadrados construidos, situado en una cuarta planta con ascensor, te ofrece una vida cómoda y práctica en un entorno lleno de vida. La vivienda 3 dormitorios, un salón comedor acogedor con galería cerrada, una cocina funcional y un baño completo. Gracias a su superficie, cada rincón de este hogar ha sido diseñado para aprovechar al máximo el espacio y la luz natural. La luminosidad es una de las características más destacadas de este piso, gracias a sus grandes ventanales en salón, y habitaciones. En pleno corazón de Cuatro Caminos, una zona tranquila pero llena de vida, con todos los servicios y comercios a tu alcance, y a pocos minutos del centro de la ciudad y del Hospital Universitario Marqués de Valdecilla. Este inmueble en buen estado es perfecto para aquellos que buscan una vivienda práctica y bien ubicada. Este piso combina confort y espacio con una ubicación privilegiada. TECNOCASA, 30 AÑOS DE EXPERIENCIA Y 900 OFICINAS EN ESPAÑA A SU DISPOSICIÓN.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2952.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Numancia - San Fernando, Santander",
+        "title": "Piso en calle Alta"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109981646",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/67/07/f8/1391609220.webp",
+      "externalReference": "Chalet 8",
+      "numPhotos": 11,
+      "price": 660000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 660000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 224.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Udial, 1",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4754856,
+      "longitude": -3.8110176,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109981646/",
+      "distance": "1468",
+      "description": "Villas de Udial – Exclusivas viviendas adosadas de obra nueva en un entorno privilegiado Descubre 11 viviendas adosadas de alta calidad diseñadas para quienes buscan un hogar moderno, eficiente y listo para disfrutar desde el primer día. Un proyecto único en un entorno tranquilo, con excelentes comunicaciones y materiales de primera. ¿Por qué elegir Villas de Udial? ✔ Diseño moderno y construcción premium Estructura de hormigón armado, fachada ventilada de gran formato y aislamiento integral para un confort térmico y acústico excepcional. Viviendas sólidas, eficientes y pensadas para durar. ✔ Calificación energética A Aerotermia, suelo radiante en toda la vivienda y paneles fotovoltaicos. Mayor confort, menor consumo y un ahorro real mes a mes. ✔ Máxima luminosidad y confort Ventanas con rotura de puente térmico, doble acristalamiento y control solar. Estancias luminosas, silenciosas y perfectas para vivir con tranquilidad. ✔ Acabados interiores de alta gama •Suelo laminado de calidad en salón y dormitorios •Gres cerámico en baños y cocina •Paredes lisas en tonos claros y techos continuos •Terrazas con pavimento cerámico para disfrutar todo el año ✔ Cocina completamente equipada Muebles modernos, encimera de material compacto y electrodomésticos incluidos: horno, inducción/vitro, campana extractora, nevera, lavavajillas y lavadora. ✔ Baños actuales y funcionales Duchas amplias con mampara, muebles con lavabo integrado y diseño elegante. ✔ Ventilación de doble flujo con recuperación de calor Renovación constante del aire sin abrir ventanas. Más confort, más higiene, más eficiencia. ✔ Garaje, trastero y preinstalación para coche eléctrico Acceso automático, pavimentos cuidados y trasteros individuales. La comodidad del día a día está garantizada. ✔ Conectividad y tecnología Fibra óptica comunitaria, red de datos en todas las estancias y videoportero. Vive mejor. Vive en Villas de Udial. Un conjunto residencial cuidado al detalle, con espacios amplios, luz natural y un nivel de calidad muy superior a la media.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2946.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Chalet adosado en calle Udial, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109981628",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3f/d4/5f/1391609356.webp",
+      "externalReference": "Chalet 7",
+      "numPhotos": 11,
+      "price": 735000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 735000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 223.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "calle Udial, 1",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4754856,
+      "longitude": -3.8110176,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109981628/",
+      "distance": "1468",
+      "description": "Villas de Udial – Exclusivas viviendas adosadas de obra nueva en un entorno privilegiado Descubre 11 viviendas adosadas de alta calidad diseñadas para quienes buscan un hogar moderno, eficiente y listo para disfrutar desde el primer día. Un proyecto único en un entorno tranquilo, con excelentes comunicaciones y materiales de primera. ¿Por qué elegir Villas de Udial? ✔ Diseño moderno y construcción premium Estructura de hormigón armado, fachada ventilada de gran formato y aislamiento integral para un confort térmico y acústico excepcional. Viviendas sólidas, eficientes y pensadas para durar. ✔ Calificación energética A Aerotermia, suelo radiante en toda la vivienda y paneles fotovoltaicos. Mayor confort, menor consumo y un ahorro real mes a mes. ✔ Máxima luminosidad y confort Ventanas con rotura de puente térmico, doble acristalamiento y control solar. Estancias luminosas, silenciosas y perfectas para vivir con tranquilidad. ✔ Acabados interiores de alta gama •Suelo laminado de calidad en salón y dormitorios •Gres cerámico en baños y cocina •Paredes lisas en tonos claros y techos continuos •Terrazas con pavimento cerámico para disfrutar todo el año ✔ Cocina completamente equipada Muebles modernos, encimera de material compacto y electrodomésticos incluidos: horno, inducción/vitro, campana extractora, nevera, lavavajillas y lavadora. ✔ Baños actuales y funcionales Duchas amplias con mampara, muebles con lavabo integrado y diseño elegante. ✔ Ventilación de doble flujo con recuperación de calor Renovación constante del aire sin abrir ventanas. Más confort, más higiene, más eficiencia. ✔ Garaje, trastero y preinstalación para coche eléctrico Acceso automático, pavimentos cuidados y trasteros individuales. La comodidad del día a día está garantizada. ✔ Conectividad y tecnología Fibra óptica comunitaria, red de datos en todas las estancias y videoportero. Vive mejor. Vive en Villas de Udial. Un conjunto residencial cuidado al detalle, con espacios amplios, luz natural y un nivel de calidad muy superior a la media.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3296.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Chalet adosado en calle Udial, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109981605",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/91/0d/1e/1391609316.webp",
+      "externalReference": "Chalet 2",
+      "numPhotos": 11,
+      "price": 735000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 735000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 219.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "calle Udial, 1",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4754856,
+      "longitude": -3.8110176,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109981605/",
+      "distance": "1468",
+      "description": "Villas de Udial – Exclusivas viviendas adosadas de obra nueva en un entorno privilegiado Descubre 11 viviendas adosadas de alta calidad diseñadas para quienes buscan un hogar moderno, eficiente y listo para disfrutar desde el primer día. Un proyecto único en un entorno tranquilo, con excelentes comunicaciones y materiales de primera. ¿Por qué elegir Villas de Udial? ✔ Diseño moderno y construcción premium Estructura de hormigón armado, fachada ventilada de gran formato y aislamiento integral para un confort térmico y acústico excepcional. Viviendas sólidas, eficientes y pensadas para durar. ✔ Calificación energética A Aerotermia, suelo radiante en toda la vivienda y paneles fotovoltaicos. Mayor confort, menor consumo y un ahorro real mes a mes. ✔ Máxima luminosidad y confort Ventanas con rotura de puente térmico, doble acristalamiento y control solar. Estancias luminosas, silenciosas y perfectas para vivir con tranquilidad. ✔ Acabados interiores de alta gama •Suelo laminado de calidad en salón y dormitorios •Gres cerámico en baños y cocina •Paredes lisas en tonos claros y techos continuos •Terrazas con pavimento cerámico para disfrutar todo el año ✔ Cocina completamente equipada Muebles modernos, encimera de material compacto y electrodomésticos incluidos: horno, inducción/vitro, campana extractora, nevera, lavavajillas y lavadora. ✔ Baños actuales y funcionales Duchas amplias con mampara, muebles con lavabo integrado y diseño elegante. ✔ Ventilación de doble flujo con recuperación de calor Renovación constante del aire sin abrir ventanas. Más confort, más higiene, más eficiencia. ✔ Garaje, trastero y preinstalación para coche eléctrico Acceso automático, pavimentos cuidados y trasteros individuales. La comodidad del día a día está garantizada. ✔ Conectividad y tecnología Fibra óptica comunitaria, red de datos en todas las estancias y videoportero. Vive mejor. Vive en Villas de Udial. Un conjunto residencial cuidado al detalle, con espacios amplios, luz natural y un nivel de calidad muy superior a la media.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3356.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Chalet adosado en calle Udial, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109981581",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/99/e3/f7/1391609217.webp",
+      "externalReference": "Chalet 9",
+      "numPhotos": 11,
+      "price": 650000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 218.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Udial, 1",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4754856,
+      "longitude": -3.8110176,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109981581/",
+      "distance": "1468",
+      "description": "Villas de Udial – Exclusivas viviendas adosadas de obra nueva en un entorno privilegiado Descubre 11 viviendas adosadas de alta calidad diseñadas para quienes buscan un hogar moderno, eficiente y listo para disfrutar desde el primer día. Un proyecto único en un entorno tranquilo, con excelentes comunicaciones y materiales de primera. ¿Por qué elegir Villas de Udial? ✔ Diseño moderno y construcción premium Estructura de hormigón armado, fachada ventilada de gran formato y aislamiento integral para un confort térmico y acústico excepcional. Viviendas sólidas, eficientes y pensadas para durar. ✔ Calificación energética A Aerotermia, suelo radiante en toda la vivienda y paneles fotovoltaicos. Mayor confort, menor consumo y un ahorro real mes a mes. ✔ Máxima luminosidad y confort Ventanas con rotura de puente térmico, doble acristalamiento y control solar. Estancias luminosas, silenciosas y perfectas para vivir con tranquilidad. ✔ Acabados interiores de alta gama •Suelo laminado de calidad en salón y dormitorios •Gres cerámico en baños y cocina •Paredes lisas en tonos claros y techos continuos •Terrazas con pavimento cerámico para disfrutar todo el año ✔ Cocina completamente equipada Muebles modernos, encimera de material compacto y electrodomésticos incluidos: horno, inducción/vitro, campana extractora, nevera, lavavajillas y lavadora. ✔ Baños actuales y funcionales Duchas amplias con mampara, muebles con lavabo integrado y diseño elegante. ✔ Ventilación de doble flujo con recuperación de calor Renovación constante del aire sin abrir ventanas. Más confort, más higiene, más eficiencia. ✔ Garaje, trastero y preinstalación para coche eléctrico Acceso automático, pavimentos cuidados y trasteros individuales. La comodidad del día a día está garantizada. ✔ Conectividad y tecnología Fibra óptica comunitaria, red de datos en todas las estancias y videoportero. Vive mejor. Vive en Villas de Udial. Un conjunto residencial cuidado al detalle, con espacios amplios, luz natural y un nivel de calidad muy superior a la media.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2982.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Chalet adosado en calle Udial, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109981582",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6a/bb/c4/1391609181.webp",
+      "externalReference": "Chalet 10",
+      "numPhotos": 11,
+      "price": 640000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 640000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 214.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle Udial, 1",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4754856,
+      "longitude": -3.8110176,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109981582/",
+      "distance": "1468",
+      "description": "Villas de Udial – Exclusivas viviendas adosadas de obra nueva en un entorno privilegiado Descubre 11 viviendas adosadas de alta calidad diseñadas para quienes buscan un hogar moderno, eficiente y listo para disfrutar desde el primer día. Un proyecto único en un entorno tranquilo, con excelentes comunicaciones y materiales de primera. ¿Por qué elegir Villas de Udial? ✔ Diseño moderno y construcción premium Estructura de hormigón armado, fachada ventilada de gran formato y aislamiento integral para un confort térmico y acústico excepcional. Viviendas sólidas, eficientes y pensadas para durar. ✔ Calificación energética A Aerotermia, suelo radiante en toda la vivienda y paneles fotovoltaicos. Mayor confort, menor consumo y un ahorro real mes a mes. ✔ Máxima luminosidad y confort Ventanas con rotura de puente térmico, doble acristalamiento y control solar. Estancias luminosas, silenciosas y perfectas para vivir con tranquilidad. ✔ Acabados interiores de alta gama •Suelo laminado de calidad en salón y dormitorios •Gres cerámico en baños y cocina •Paredes lisas en tonos claros y techos continuos •Terrazas con pavimento cerámico para disfrutar todo el año ✔ Cocina completamente equipada Muebles modernos, encimera de material compacto y electrodomésticos incluidos: horno, inducción/vitro, campana extractora, nevera, lavavajillas y lavadora. ✔ Baños actuales y funcionales Duchas amplias con mampara, muebles con lavabo integrado y diseño elegante. ✔ Ventilación de doble flujo con recuperación de calor Renovación constante del aire sin abrir ventanas. Más confort, más higiene, más eficiencia. ✔ Garaje, trastero y preinstalación para coche eléctrico Acceso automático, pavimentos cuidados y trasteros individuales. La comodidad del día a día está garantizada. ✔ Conectividad y tecnología Fibra óptica comunitaria, red de datos en todas las estancias y videoportero. Vive mejor. Vive en Villas de Udial. Un conjunto residencial cuidado al detalle, con espacios amplios, luz natural y un nivel de calidad muy superior a la media.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 2991.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Chalet adosado en calle Udial, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109981578",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/67/07/f8/1391609220.webp",
+      "externalReference": "Chalet 1",
+      "numPhotos": 11,
+      "price": 760000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 760000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 230.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "calle Udial, 1",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4754856,
+      "longitude": -3.8110176,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109981578/",
+      "distance": "1468",
+      "description": "Villas de Udial – Exclusivas viviendas adosadas de obra nueva en un entorno privilegiado Descubre 11 viviendas adosadas de alta calidad diseñadas para quienes buscan un hogar moderno, eficiente y listo para disfrutar desde el primer día. Un proyecto único en un entorno tranquilo, con excelentes comunicaciones y materiales de primera. ¿Por qué elegir Villas de Udial? ✔ Diseño moderno y construcción premium Estructura de hormigón armado, fachada ventilada de gran formato y aislamiento integral para un confort térmico y acústico excepcional. Viviendas sólidas, eficientes y pensadas para durar. ✔ Calificación energética A Aerotermia, suelo radiante en toda la vivienda y paneles fotovoltaicos. Mayor confort, menor consumo y un ahorro real mes a mes. ✔ Máxima luminosidad y confort Ventanas con rotura de puente térmico, doble acristalamiento y control solar. Estancias luminosas, silenciosas y perfectas para vivir con tranquilidad. ✔ Acabados interiores de alta gama •Suelo laminado de calidad en salón y dormitorios •Gres cerámico en baños y cocina •Paredes lisas en tonos claros y techos continuos •Terrazas con pavimento cerámico para disfrutar todo el año ✔ Cocina completamente equipada Muebles modernos, encimera de material compacto y electrodomésticos incluidos: horno, inducción/vitro, campana extractora, nevera, lavavajillas y lavadora. ✔ Baños actuales y funcionales Duchas amplias con mampara, muebles con lavabo integrado y diseño elegante. ✔ Ventilación de doble flujo con recuperación de calor Renovación constante del aire sin abrir ventanas. Más confort, más higiene, más eficiencia. ✔ Garaje, trastero y preinstalación para coche eléctrico Acceso automático, pavimentos cuidados y trasteros individuales. La comodidad del día a día está garantizada. ✔ Conectividad y tecnología Fibra óptica comunitaria, red de datos en todas las estancias y videoportero. Vive mejor. Vive en Villas de Udial. Un conjunto residencial cuidado al detalle, con espacios amplios, luz natural y un nivel de calidad muy superior a la media.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3304.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Chalet adosado en calle Udial, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109981525",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6a/bb/c4/1391609181.webp",
+      "externalReference": "Chalet 6",
+      "numPhotos": 11,
+      "price": 750000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 219.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "calle Udial, 1",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Cueto",
+      "country": "es",
+      "latitude": 43.4754856,
+      "longitude": -3.8110176,
+      "showAddress": true,
+      "url": "https://www.idealista.com/obra-nueva/109981525/",
+      "distance": "1468",
+      "description": "Villas de Udial – Exclusivas viviendas adosadas de obra nueva en un entorno privilegiado Descubre 11 viviendas adosadas de alta calidad diseñadas para quienes buscan un hogar moderno, eficiente y listo para disfrutar desde el primer día. Un proyecto único en un entorno tranquilo, con excelentes comunicaciones y materiales de primera. ¿Por qué elegir Villas de Udial? ✔ Diseño moderno y construcción premium Estructura de hormigón armado, fachada ventilada de gran formato y aislamiento integral para un confort térmico y acústico excepcional. Viviendas sólidas, eficientes y pensadas para durar. ✔ Calificación energética A Aerotermia, suelo radiante en toda la vivienda y paneles fotovoltaicos. Mayor confort, menor consumo y un ahorro real mes a mes. ✔ Máxima luminosidad y confort Ventanas con rotura de puente térmico, doble acristalamiento y control solar. Estancias luminosas, silenciosas y perfectas para vivir con tranquilidad. ✔ Acabados interiores de alta gama •Suelo laminado de calidad en salón y dormitorios •Gres cerámico en baños y cocina •Paredes lisas en tonos claros y techos continuos •Terrazas con pavimento cerámico para disfrutar todo el año ✔ Cocina completamente equipada Muebles modernos, encimera de material compacto y electrodomésticos incluidos: horno, inducción/vitro, campana extractora, nevera, lavavajillas y lavadora. ✔ Baños actuales y funcionales Duchas amplias con mampara, muebles con lavabo integrado y diseño elegante. ✔ Ventilación de doble flujo con recuperación de calor Renovación constante del aire sin abrir ventanas. Más confort, más higiene, más eficiencia. ✔ Garaje, trastero y preinstalación para coche eléctrico Acceso automático, pavimentos cuidados y trasteros individuales. La comodidad del día a día está garantizada. ✔ Conectividad y tecnología Fibra óptica comunitaria, red de datos en todas las estancias y videoportero. Vive mejor. Vive en Villas de Udial. Un conjunto residencial cuidado al detalle, con espacios amplios, luz natural y un nivel de calidad muy superior a la media.",
+      "hasVideo": true,
+      "status": "newdevelopment",
+      "newDevelopment": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "newDevelopmentFinished": false,
+      "priceByArea": 3425.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cueto, Santander",
+        "title": "Chalet adosado en calle Udial, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109943851",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f4/4f/33/1390454927.webp",
+      "numPhotos": 37,
+      "floor": "5",
+      "price": 1250000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1250000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 207.0,
+      "exterior": true,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "avenida los Infantes",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "El Sardinero",
+      "country": "es",
+      "latitude": 43.470918,
+      "longitude": -3.784404,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109943851/",
+      "distance": "2269",
+      "description": "Exclusiva vivienda frente a las playas de El Sardinero. En primera línea, junto a los Jardines de Piquío y a escasos metros del Casino, se encuentra este atractivo inmueble de 207 m² construidos, ubicado en una de las zonas más emblemáticas y demandadas de Santander.  Situado en una planta alta y con orientación Sur y Norte, dentro de una de las mejores urbanizaciones de la zona, podrá disfrutar desde sus amplios ventanales o desde la terraza de impresionantes vistas despejadas al Palacio de la Magdalena y al Casino.  La vivienda, construida en 1970, dispone de doble acceso (principal y de servicio), hall distribuidor, un gran salón-comedor, cocina con cuarto de plancha o cuarto de servicio exterior, y un aseo de cortesía. En la zona de descanso encontramos 4 dormitorios, uno de ellos con baño en suite, otro baño completo y 2 terrazas con acceso desde 3 de los dormitorios. El edificio cuenta con dos ascensores y portal adaptado sin barreras arquitectónicas.  La urbanización ofrece zonas ajardinadas, parque infantil y arbolado, además de amplio aparcamiento en superficie. Todo ello dentro de un recinto cerrado de uso exclusivo para los vecinos, con dos accesos rodados y peatonales, y un tercer acceso directo por Los Hombres del Mar hacia los Jardines de Piquío y las playas. A tan solo 2 minutos a pie del Casino y 7 minutos de La Magdalena, su ubicación es privilegiada: zona tranquila, cerca de todos los servicios, transporte público en la puerta y proximidad a los mejores colegios.  Vivir en El Sardinero es darse un lujo diario: enclave turístico por excelencia de Santander, conocido por sus extensas playas y por ser una de las zonas más exclusivas de la ciudad.  ¡No pierdas la oportunidad de convertir esta extraordinaria propiedad, con infinitas posibilidades, en tu nuevo hogar o segunda residencia!",
+      "hasVideo": true,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 6039.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Sardinero, Santander",
+        "title": "Piso en avenida los Infantes"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109973324",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a0/5e/da/1391377930.webp",
+      "externalReference": "GEST-01386",
+      "numPhotos": 37,
+      "floor": "bj",
+      "price": 190000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 190000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Maliaño",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Maliaño",
+      "country": "es",
+      "latitude": 43.4161943,
+      "longitude": -3.8364209,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109973324/",
+      "distance": "5555",
+      "description": "GESTIONA INMOBILIARIA le ofrece, soleada vivienda en planta baja.  Ubicada en el municipio de Maliaño, en una zona tranquila y bien comunicada, está a solo un paso de todos los servicios, y cercana al centro del municipio, lo que la hace aún más atractiva. La planta baja tiene una orientación sureste, lo que garantiza mucha luz natural. Cuenta con una amplia habitación doble con armario, ideal para el almacenamiento, y otra habitación simple que ya está amueblada y dispone de armarios adicionales.  El baño completo dispone de plato de ducha, perfecto para relajarse, después de un largo día. El salón comedor, orientado al sur, ofrece vistas a la terraza, creando un ambiente acogedor. La cocina está completamente amueblada, y dispone de una terraza de 40m aproximadamente, lo que es ideal para disfrutar de comidas al aire libre, y disfrutar de un fabuloso espacio al aire libre.  Además, incluye un trastero en el precio, lo que añade un gran valor a la propiedad. Si te interesa, ¡estaremos encantados de ayudarle a obtener más información o a organizar una visita! GESTIONA, tú hogar.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 2714.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Maliaño, Camargo",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109970112",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cf/00/cf/1391269099.webp",
+      "externalReference": "FV5063",
+      "numPhotos": 5,
+      "price": 625000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 625000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 171.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio Monte-Corbanera",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Monte",
+      "country": "es",
+      "latitude": 43.4780399,
+      "longitude": -3.8334179,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109970112/",
+      "distance": "2581",
+      "description": "Venta de Casa Individual en Monte – ¡A un paso de la playa y del centro!     Descubre esta magnífica vivienda unifamiliar de 171 m², distribuida en dos plantas, situada en una de las zonas más tranquilas y cómodas de Monte, rodeada de todos los servicios: supermercados, colegios, transporte público y zonas verdes.    A tan solo 10 minutos del centro de la ciudad y muy próxima a la Playa de La Maruca, esta casa combina la comodidad de vivir cerca de todo con la tranquilidad de una zona residencial.    Características destacadas:    Superficie: 171 m² construidos    Distribuida en dos plantas amplias y luminosas    • Tejado completamente reformado, listo para muchos años de tranquilidad  • Instalaciones de electricidad y fontanería renovadas recientemente  • Excelente orientación y gran potencial para adaptar a tus gustos  • Espacio exterior ideal para disfrutar del aire libre      Una oportunidad perfecta para quienes buscan una vivienda en una ubicación privilegiada entre el mar y la ciudad.    Contáctanos hoy mismo y ven a conocer tu nuevo hogar en Monte. ¡Te enamorará desde el primer momento!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 3655.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Monte, Santander",
+        "title": "Casa independiente en Barrio Monte-Corbanera"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109968597",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/11/23/82/1391224236.webp",
+      "externalReference": "17926-2025",
+      "numPhotos": 1,
+      "floor": "1",
+      "price": 122000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 122000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 134000.0,
+            "priceDropValue": 12000,
+            "priceDropPercentage": 9
+          }
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 87.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Rafael Alsúa",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.4625553,
+      "longitude": -3.8404319,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109968597/",
+      "distance": "2464",
+      "description": "PISO OCUPADO POR PERSONA SIN JUSTO TÍTULOESTE INMUEBLE DEBIDO A SU ESTADO OCUPACIONAL NO ADMITE VISITASIDEAL PARA INVERSORESLA LOCALIZACIÓN DEL INMUEBLE ES APROXIMADAVivienda de 77 m², según Catastro, y 10 m² de elementos comunes a la venta en Santander, Cantabria. Es una 1ª Planta en un bloque sin ascensor. Muy bien comunicado por carretera (S-20 y N-611) y transporte público. Cercano a varias líneas de autobús en calle Lavapiés. Próximo a todo tipo de servicios e infraestructuras como centros educativos (IES Cantabria), comercios, supermercados, farmacias, zonas verdes... SIN COMISIÓN. La localización del activo es aproximada.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1402.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Piso en calle Rafael Alsúa"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107303879",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/77/ea/32/1308965820.webp",
+      "externalReference": "OK-GTRE-00515",
+      "numPhotos": 3,
+      "floor": "2",
+      "price": 81000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 81000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 56.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Campogiro, 12",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Peñacastillo - Nuevamontaña",
+      "country": "es",
+      "latitude": 43.4530431,
+      "longitude": -3.8489129,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107303879/",
+      "distance": "3312",
+      "description": "Inmueble okupado  INMUEBLE SIN POSESION / VIVIENDA OKUPADA! **SOLO PARA INVERSORES** **SIN COMISIONES DE AGENCIA INMOBILIARIA** Imposibilidad de visita interior, NO SE PUEDE FINANCIAR la compra de este inmueble. Las fotografías pueden no corresponderse con el estado actual del inmueble. Al tratarse de una compraventa en escritura pública, EL INMUEBLE SE TRASMITE LIBRE DE CARGAS. **Gastos Comunidad-IBI y Plusvalías serán de cuenta y cargo del VENDEDOR. **Gastos de Notaría y Registro serán de cuenta y cargo del COMPRADOR** Advertimos que la información contenida puede no estar actualizada, solicita más información sobre el activo sin compromiso. No dude en contactarnos, ¡sin compromiso!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 1446.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Peñacastillo - Nuevamontaña, Santander",
+        "title": "Piso en calle Campogiro, 12"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109938319",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/70/02/a2/1390301294.webp",
+      "externalReference": "SV1412",
+      "numPhotos": 23,
+      "floor": "5",
+      "price": 355000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 355000.0,
+          "currencySuffix": "€",
+          "priceDropInfo": {
+            "formerPrice": 372000.0,
+            "priceDropValue": 17000,
+            "priceDropPercentage": 5
+          }
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "sale",
+      "size": 108.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Castilla - Hermida",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Castilla - Hermida",
+      "country": "es",
+      "latitude": 43.4565104,
+      "longitude": -3.8170693,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109938319/",
+      "distance": "865",
+      "description": "Dúplex en quinta planta ubicado en la zona de CastillaLa Hermida, una de las áreas mejor comunicadas y con mayor oferta de servicios en Santander. El edificio cuenta con ascensor a cota cero, lo que garantiza un acceso cómodo y completamente adaptado desde la calle. La vivienda es exterior y muy luminosa, con una distribución que aprovecha al máximo la luz natural. Dispone de tres habitaciones amplias, una de ellas situada en la planta baja, lo que aporta una gran comodidad para quienes prefieran evitar escaleras en el día a día o necesiten un espacio de trabajo independiente. Los dos baños son completos y están equipados con bañera. La cocina se presenta totalmente equipada con electrodomésticos, lista para entrar a vivir sin necesidad de reformas. La tipología dúplex permite distinguir de forma clara las zonas comunes de las áreas de descanso, ofreciendo privacidad y una distribución práctica. El entorno es otro de sus puntos fuertes: la calle Castilla y el barrio de La Hermida cuentan con comercios, supermercados, transporte público, centros de salud y una amplia oferta de restauración. La cercanía al paseo marítimo y la buena conexión con el centro de Santander hacen que esta ubicación sea especialmente cómoda para el día a día. Una vivienda funcional, accesible y bien situada, ideal para quienes buscan espacio y comodidad dentro de la ciudad.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3287.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Castilla - Hermida, Santander",
+        "title": "Dúplex"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109928229",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/57/7a/3d/1389928848.webp",
+      "externalReference": "SV1408",
+      "numPhotos": 31,
+      "price": 690000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 690000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 204.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Barrio el Torillo",
+      "province": "Cantabria",
+      "municipality": "Marina de Cudeyo",
+      "country": "es",
+      "latitude": 43.4211049,
+      "longitude": -3.7533374,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109928229/",
+      "distance": "6467",
+      "description": "Le presentamos una oportunidad única de adquirir un sólido y espacioso chalet independiente en el corazón de Rubayo, un enclave privilegiado que combina la máxima privacidad con una inmejorable conexión con la costa y la capital cántabra. Esta propiedad, construida con robustez en 1991, está lista para entrar a vivir y ofrece un valor excepcional: la vivienda con su parcela más una parcela colindante adicional, sumando un total de 3.400 m² de terreno llano.   Distribución y Confort: Espacio en Dos Plantas  La casa ha sido diseñada para priorizar la funcionalidad, la luz natural y la comodidad total:   Planta Baja (Vida Diaria y Conexión)Conexión Práctica: Acceso directo al garaje cerrado. Comodidad Total: Cocina equipada, un baño completo y una habitación doble, ideal para personas con movilidad reducida o como despacho. Corazón del Hogar: Un amplio salón comedor con una acogedora chimenea, perfecto para reuniones familiares.   Planta Primera (Descanso y Vistas)Vistas y Tranquilidad: Acceso a una gran terraza desde dos de las habitaciones, el lugar ideal para disfrutar de la paz del entorno. Baños: Dos baños completos en total en esta planta (uno en suite). Descanso: Tres habitaciones luminosas, con la principal configurada como suite con baño privado.   La Parcela: Potencial Ilimitado (3.400 m²)  El gran atractivo de esta propiedad son sus 3.400 m² de parcela, completamente llanos, que actúan como un verdadero lienzo en blanco para materializar cualquier proyecto: La consolidación de esta parcela  adicional no solo garantiza una privacidad inigualable, sino que también representa un activo con importante potencial de revalorización.   Ubicación Estratégica: Conectividad y Playas  La ubicación de Rubayo es uno de los mayores atractivos, ofreciendo una vida tranquila y perfectamente comunicada: En resumen: Si busca un chalet independiente, construido con solidez, con un terreno excepcional (3.000 m²) y una conectividad inmejorable en Rubayo, esta es la oportunidad que estaba esperando.   Autovía A-8: Acceso directo a solo 3 minutos, garantizando desplazamientos rápidos. Santander: A solo 20 minutos de distancia. Playas: A solo 10 minutos de las famosas playas de Somo y Loredo.   ¡No la deje escapar! Contáctenos hoy mismo para solicitar una visita y experimentar la paz y el potencial de este maravilloso hogar.  .",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 3382.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Marina de Cudeyo",
+        "title": "Casa independiente en Barrio el Torillo"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107771710",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/f7/4a/df/1323336051.webp",
+      "externalReference": "VS855",
+      "numPhotos": 33,
+      "floor": "1",
+      "price": 340000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 340000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "travesía Arna",
+      "province": "Cantabria",
+      "municipality": "Ribamontan al Mar",
+      "district": "Somo",
+      "country": "es",
+      "latitude": 43.4556942,
+      "longitude": -3.7403239,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107771710/",
+      "distance": "5663",
+      "description": "SOMO. Inmobiliaria SOMOPLAYA e INMOLOREDO venden piso a escasos metros de la playa, situado en una primera planta y el cual se distribuye en dos dormitorios, salón, cocina individual con tendedero y un baño, tiene una orientación noroeste lo que le permite disfrutar del sol de la tarde y de unas maravillosas vistas a la playa de Somo y a Santander.  Dispone de gran garaje cerrado.  Esta vivienda se encuentra en una ubicación perfecta por estar al lado de la playa y con la comodidad de tener todos los sevicios a pie de calle, podrá disfrutar como nunca de todo su bello entorno. INMOBILIARIAS en Somo y Loredo desde 1999. Somos expertos en la zona y les ofrecemos los inmuebles que se ajustan a su búsqueda y necesidades.  Especialistas en la venta, alquiler para larga estancia, alquiler temporal, vacacional.. .  Realizamos todo tipo de gestiones y le ayudamos a encontrar su hipoteca.  Nuestro radio de acción es Somo, Loredo, Langre, Galizano, Suesa, Carriazo, Castanedo, Ribamontán al Monte, Marina de Cudeyo y Bareyo.  ¡Llámenos y juntos encontraremos lo que busca! Inmobiliaria SOMOPLAYA: en Somo - Avenida Trasmiera 5 (junto a heladería Regma) Inmobiliaria INMOLOREDO: en Loredo - Calle Bajada a la Playa 47 (junto a escuela de surf +QSurf) [IW].",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 5667.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Somo, Ribamontan al Mar",
+        "title": "Piso en travesía Arna"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109926358",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/eb/3e/89/1389865618.webp",
+      "externalReference": "6189",
+      "numPhotos": 35,
+      "price": 690000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 690000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 265.0,
+      "rooms": 6,
+      "bathrooms": 4,
+      "address": "avenida José María de Pereda",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Sancibrián",
+      "country": "es",
+      "latitude": 43.4619969,
+      "longitude": -3.8885139,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109926358/",
+      "distance": "6344",
+      "description": "Distrito Inmobiliario te presenta este chalet completamente independiente dentro de una parcela de 1235 m² con jardín, piscina privada, zona de barbacoa, cobertizo y parking privado. La vivienda está dividido en dos zonas independientes: En la planta baja se encuentra un apartamento distribuido en 2 habitaciones, salón, cocina y baño. El resto de la vivienda se distribuye de la siguiente manera: en la planta principal se ubica un gran salón-comedor, cocina y aseo. En la primera planta encontramos 4 dormitorios y 2 baños. En la planta alta disponemos de un espacio diáfano para destinar a despacho, zona de juegos, etc. No dejes pasar esta oportunidad y llama ya a Distrito Inmobiliario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2604.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Sancibrián, Santa Cruz de Bezana",
+        "title": "Casa independiente en avenida José María de Pereda"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109920429",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/06/e1/da/1389684821.webp",
+      "externalReference": "PEB15",
+      "numPhotos": 14,
+      "price": 785000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 785000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 420.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "calle cuatro caminos, 170",
+      "province": "Cantabria",
+      "municipality": "Marina de Cudeyo",
+      "country": "es",
+      "latitude": 43.4438526,
+      "longitude": -3.7680394,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109920429/",
+      "distance": "3952",
+      "description": "Green-mar vende en el centro de Pedreña. Una planta baja con un Local comerciaL de 140 m2, acondicionado cómo bar-restaurante, con terraza. Con grandes ventanales. Fácil acceso, sin barreras arquitectónicas. Con posibilidad de cambio de Uso. En la primera planta se encuentra la vivienda que está actualmente distribuida en 4 habitaciónes  ( principal con baño) salón, cocina, 2 baños. Ampllsima terraza y jardín de 105 m2 en la planta baja.  Planta Semisótano destinado a almacén y garajes.  Con aparcamiento privado. Posibilidad de vivienda familiar o para destinar a Alojamiento Turístico.  Con fácil acceso desde el exterior. Junto a la carretera Pedreña- Somo. Vistas al mar. A 3 min. de las Playas de Pedreña, Somo, Loredo. Tfno. de contacto. Green-mar. Pedreña.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1869.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Marina de Cudeyo",
+        "title": "Casa independiente en calle cuatro caminos, 170"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109913262",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/58/e7/f4/1389452576.webp",
+      "externalReference": "86018",
+      "numPhotos": 27,
+      "floor": "3",
+      "price": 920000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 920000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 170.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "avenida Doctor Diego Madrazo",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Valdenoja",
+      "country": "es",
+      "latitude": 43.4832223,
+      "longitude": -3.7946618,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109913262/",
+      "distance": "2631",
+      "description": "Imagina despertar cada mañana con la inmensidad del Cantábrico a tus pies y el sonido del mar como banda sonora. Este exclusivo piso, ubicado en el prestigioso Edificio El Navío, en la Calle Doctor Diego Madrazo, te ofrece un estilo de vida único en uno de los enclaves más codiciados de Santander. Al cruzar la puerta, sentirás la calidez y el confort de un hogar pensado para disfrutar de cada instante. La vivienda cuenta con cuatro amplias habitaciones, de las cuales dos son suites con baño privado, diseñadas para garantizar comodidad e intimidad a toda la familia. La distribución ha sido cuidadosamente planeada para ofrecer espacios funcionales, luminosos y acogedores, perfectos para el día a día. El Edificio El Navío es sinónimo de exclusividad y calidad, con piscina comunitaria para disfrutar de los días soleados en un entorno seguro y privado. Además, este piso incluye plaza de garaje con capacidad para tres coches, un lujo poco habitual en la zona, y un trastero amplio, ideal para almacenar todo lo que necesites sin comprometer la comodidad. Vivir aquí significa disfrutar de Santander al máximo: frente al mar, en una urbanización de lujo, con espacios pensados para combinar intimidad, relax y estilo. Una oportunidad única para quienes buscan un hogar que marque la diferencia. Contacta con un agente de SanFernando Grupo Inmobiliario y descubre tu nuevo hogar frente al mar.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 5412.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Valdenoja, Santander",
+        "title": "Piso en avenida Doctor Diego Madrazo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 1005,
+  "totalPages": 21,
+  "actualPage": 12,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar casas y pisos en Centro - Ayuntamiento, Santander",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 550,
+  "upperRangePosition": 600,
+  "paginable": true
+}

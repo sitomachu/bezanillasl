@@ -1,0 +1,1457 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "102891796",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/62/4c/0c/1170854432.webp",
+      "externalReference": "35",
+      "numPhotos": 24,
+      "price": 800000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 350.0,
+      "rooms": 4,
+      "bathrooms": 5,
+      "address": "calle Aureliano Linares Rivas",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3773708,
+      "longitude": -3.2201446,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102891796/",
+      "distance": "798",
+      "description": "Chalet adosado en el centro de Castro Urdiales. El chalet cuenta con 4 plantas distribuidas de la siguiente manera: Plata de sótano con garaje para 2 coches, txoko equipado y aseo. Planta principal con salón comedor, cocina equipada, baño y acceso a la terraza con vistas al mar. Primera planta con 3 habitaciones y 2 baños completos. Ático abuhardillado con 1 habitación, 1 baño y salita.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2286.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Chalet adosado en calle Aureliano Linares Rivas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102763831",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a3/28/3a/1166532513.webp",
+      "externalReference": "171",
+      "numPhotos": 51,
+      "floor": "5",
+      "price": 400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 400000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 154.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "REPUBLICA ARGENTINA, 5",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3804268,
+      "longitude": -3.2191709,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/102763831/",
+      "distance": "506",
+      "description": "INMOBILIARIA EL ATICO Vende un gran piso en el CENTRO de Castro Urdiales en la Plaza de la Barrera con vistas al mar.  Este piso tiene una ubicación excepcional, rodeada de todos los servicios, lo que hace de ella una vivienda perfecta para el día a día. La vivienda se distribuye en una gran cocina completamente equipada con despensa y una salita de comedor y un baño, tres habitaciones y tres baños completamente reformados, dos de ellos en suite incorporados en las habitaciones y un salón comedor con salida al balcón donde contemplar unas impresionantes vistas al paseo marítimo y al parque infantil de la Barrera. El piso goza de una gran claridad además de una estupenda altura lo que hace que sea muy silencioso. El portal tiene acceso para minusválidos.  ¡NO TARDES EN VENIR A CONOCERLA, TE VA A ENCANTAR!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2597.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en Republica Argentina, 5"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98448671",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/41/71/08/1012713213.webp",
+      "externalReference": "36",
+      "numPhotos": 49,
+      "price": 360000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 360000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 160.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "carretera GENERAL MIOÑO s/n",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Mioño-Santullán",
+      "country": "es",
+      "latitude": 43.3596737,
+      "longitude": -3.2026199,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/98448671/",
+      "distance": "2751",
+      "description": "INMOBILIARIAELATICO. ES Vende espectacular Casona en el centro de Mioño con todos los servicios a su alcance, ubicada en un entorno privilegiado, junto al rio, donde disfrutar de la naturaleza y la tranquilad a 5 minutos de Castro Urdiales, junto al polideportivo de Mioño y a escasos minutos de la playa de Dicido.  La casa consta de tres plantas y está rehabilitada en el año 2008. En la planta sótano: zona habilitada como estancia diáfana con aseo completo con ducha. En la planta primera: gran salón comedor con chimenea, aseo y una amplia cocina equipada. En la planta segunda: 3 habitaciones con armarios empotrados y un baño completo. Fachada de piedra y jardín privado de 1500 m2. VEN A CONOCERLA.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 2250.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mioño-Santullán, Castro-Urdiales",
+        "title": "Casa independiente en carretera General Mioño s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "93793734",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/02/0c/d0/1341598370.webp",
+      "externalReference": "07358-13",
+      "numPhotos": 99,
+      "price": 1280000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1280000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 700.0,
+      "rooms": 8,
+      "bathrooms": 6,
+      "address": "calle Aureliano Linares Rivas, 24",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3776184,
+      "longitude": -3.2208368,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/93793734/",
+      "distance": "814",
+      "description": "A la venta espectacular chalet independiente en Castro Urdiales.  Calle Aureliano Linares Rivas, junto al colegio Santa Catalina, zona tranquila, bonita, con parques y libre de Ota.    Sobre una parcela de 728 metros cuadrados está situado este gran chalet el cual consta de aproximadamente 700 metros cuadrados construidos distribuidos en 5 plantas.  Con acabados de calidad y todas las comodidades posibles.    Sótano con 158 metros cuadrados diáfanos con espacio de sobra para al menos 4 vehiculos.  En la siguiente planta a esta encontramos desde el distribuidor dos dormitorios de gran tamaño ambos con puertas de salida a una gran terraza, un baño completo con bañera, y una gran zona de cocina - comedor equipada, la cual da acceso a una tercera habitación.    La segunda planta está a la altura de la calle, y tiene su acceso principal por un bonito porche abierto en la fachada suroeste de la casa.  El interior se distribuye en hall, cocina, salón - comedor, un dormitorio y un baño completo con bañera.  La cocina está totalmente equipada, con península y espacio de comedor.  El salón es un grandísimo espacio con dos zonas de estar más comedor, chimenea y dos salidas a una terraza de buen tamaño con vistas al mar.    En la tercera planta dispone de tres dormitorios de buen tamaño, todos con armarios emotrados, y un baño completo con ducha y bañera. Además cuenta con un cuarto dormitorio en suite, con fantásticas vistas, zona de estar, vestidor y un baño completo integrado con bañera de hidromasaje.    La ultima planta es abuhardillada y cuenta con 55 metros cuadrados de espacio diáfano actualmente distribuida en zona de gimnasio y sala de estar, y dispone además de un baño con ducha.    La casa dispone de un gran extra, un impresionante txoko, con entrada independiente, el cual se comppone de un gran espacio abierto con mesas de comedor, sala de estar, bar totalmente equipado, un baño completo con ducha, gran bodega acristalada, cocina tambien equipada y horno de leña.  Dado su gran tamaño podría utilizarse también como casa de invitados.    Castro Urdiales está situado 75 km de Santander (Cantabria), y a 35 km de la villa de Bilbao (Vizcaya), en la comarca de la Costa Oriental de Cantabria, de tendencia urbana y turística, que está compuesta además por los municipios de Laredo, Liendo y Colindres.   El litoral del municipio tiene una longitud de casi 20 km, lo que hace de Castro Urdiales el de mayor en costa de Cantabria, con varias playas, pequeños cabos, islas...",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1829.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Casa independiente en calle Aureliano Linares Rivas, 24"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100700701",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/57/42/0f/1096176953.webp",
+      "externalReference": "4449",
+      "numPhotos": 51,
+      "price": 650000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 350.0,
+      "rooms": 5,
+      "bathrooms": 4,
+      "address": "calle Aureliano Linares Rivas, 17",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3773503,
+      "longitude": -3.2196591,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/100700701/",
+      "distance": "777",
+      "description": "Inmobiliaria ERA presenta un Chalet Bifamiliar de Ensueño en el Corazón de Castro. Esta joya residencial, ubicada en pleno centro de Castro, representa la fusión perfecta entre la comodidad de la vida urbana y la privacidad de un hogar exclusivo. Rodeado de servicios esenciales, como farmacias, supermercados, centros de salud y colegios, este chalet ofrece una vida cotidiana sin igual. Este impecable chalet bifamiliar, mantenido con esmero y listo para habitar, deslumbra con sus mejores calidades y detalles de lujo. Equipado con aspiración centralizada, sistema de alarma e hilo musical, brinda un estilo de vida moderno y seguro. La distribución de este chalet es simplemente excepcional: Planta Sótano: Amplio garaje para dos coches y espacio de almacenaje. Planta Semisótano: Un txoko excepcionalmente equipado para reuniones familiares, dos habitaciones con armarios empotrados y baño completo, que bien podría ser considerado como la planta de invitados. Desde estas habitaciones, se accede a una terraza con impresionantes vistas, conectando a su vez con un jardín ideal para barbacoas y momentos de relax. Planta Principal: Hall de entrada, cocina en madera lacada con electrodomésticos de alta gama, un amplio salón comedor con chimenea y baño completo. Planta Primera: Habitación principal con zona de estar, armarios empotrados y baño en mármol en suite, otras dos habitaciones de generosas dimensiones con armarios empotrados y baño completo. Planta Bajo Cubierta: Espacio diáfano actualmente utilizado como almacenaje, ofreciendo posibilidades ilimitadas. Este chalet, ideal para familias que desean la proximidad del centro, se encuentra en perfectas condiciones para mudarse. Con generosas dimensiones y excelentes materiales de construcción, esta propiedad es una oportunidad única. Descubra una vida de lujo y comodidad en este impresionante chalet. ¡Contáctanos para más información y para explorar esta magnífica propiedad! Tu inmobiliaria en Castro, de toda la vida.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1857.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Chalet pareado en calle Aureliano Linares Rivas, 17"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100421804",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/52/1c/2b/1410935265.webp",
+      "externalReference": "8698",
+      "numPhotos": 34,
+      "price": 800000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 350.0,
+      "rooms": 4,
+      "bathrooms": 5,
+      "address": "MONTESOLMAR, 22",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3767441,
+      "longitude": -3.2198634,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/100421804/",
+      "distance": "841",
+      "description": "***INMOBILIARIAS. COM*** SU INMOBILIARIA DE CONFIANZA EN CASTRO URDIALES vende impresionante chalet adosado con VISTAS AL MAR, GRAN TERRAZA y SOLEADO en el CENTRO de Castro Urdiales, a 5 MINUTOS de la PLAYA. La vivienda consta de 4 plantas con acceso directo a garaje.  Se distribuye en: PLANTA BAJA: Entrando nos encontramos una bonita terraza soleada que nos da la bienvenida a un amplio recibidor. La cocina totalmente equipada, muy luminosa con zona de comedor.  Dispone de un gran salón comedor con gran ventanal que aporta mucha luz natural a la estancia, con salida a terraza con vistas al mar. Además de un baño que da servicio a esta planta. PLANTA PRIMERA: Gran habitación principal con vestidor, con salida a terraza y baño completo. Dos habitaciones con grandes armarios y otro baño completo central. PLANTA SEGUNDA: Dos habitaciones abuhardilladas, con amplios armarios. Además tiene un baño completo que da servicio a esta planta. PLANTA SÓTANO: Garaje para dos coches, espacio de almacenamiento, txoko totalmente equipado y un baño. La vivienda está impecable y muy cuidada en una maravillosa Urbanización con piscina y jardín, dónde podrás disfrutar con amigos y familiares. Ubicada en el centro de Castro Urdiales, cercano a todos los servicios necesarios para el día a día como supermercados, farmacias, colegios.. . NO DUDE EN PEDIR CITA, ESTAREMOS ENCANTADOS DE MOSTRARSELA. PUEDE SER SU NUEVO HOGAR. LLÁMENOS, LE ENCANTARÁ! Ref. 8698-A.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2286.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Chalet adosado en Montesolmar, 22"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100410061",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/49/c5/0d/1084365046.webp",
+      "externalReference": "4427",
+      "numPhotos": 71,
+      "price": 540000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 540000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 316.0,
+      "rooms": 5,
+      "bathrooms": 5,
+      "address": "Barrio Sámano",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Samano",
+      "country": "es",
+      "latitude": 43.3579366,
+      "longitude": -3.2300947,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/100410061/",
+      "distance": "3075",
+      "description": "Inmobiliaria ERA vende chalet individual en el centro de Sámano. Sámano es una pedanía de Castro Urdiales, la más grande del municipio, localizada a tan solo 5 minutos en coche. Es un valle localizado al sur, donde abunda la tranquilidad puesto que se encuentra en un entorno rodeado de naturaleza, lo que hace que sea una zona totalmente residencial. Es el lugar perfecto para hacer rutas por el monte o montar en bici por el paraje de la Cubilla, los montes Cerredo, el monte Ventoso, etc.  Cuenta con todos los servicios; farmacia, gimnasio, tienda de alimentación, restaurantes, academia de inglés, línea de autobús con Castro, parada de autobús escolar, etc.  La vivienda consta de tres plantas distribuidas de la siguiente manera: - Planta baja: hall recibidor, amplio salón que nos conduce a un comedor, seguido de una amplia cocina muy luminosa dotada con todos los electrodomésticos y con salida a un porche y un jardín con orientación sur. En esta planta encontramos un aseo. - Primera planta: cuatro habitaciones, dos de ellas tienen su propio baño privado con ventana exterior, además de otro baño en la zona de descanso. - Planta sótano: txoco habilitado con salón, amplia cocina, un baño con plato de ducha y una habitación. *HAGA CLIC EN EL VIDEO CON UN RECORRIDO POR EL INMUEBLE PARA OBTENER UNA MAYOR INFORMACIÓN. Tu inmobiliaria en Castro, de toda la vida.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1709.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Samano, Castro-Urdiales",
+        "title": "Casa independiente en Barrio Sámano"
+      },
+      "hasPlan": true,
+      "has3DTour": true,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100340717",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/15/8e/9a/1083307600.webp",
+      "externalReference": "4424",
+      "numPhotos": 51,
+      "price": 335000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 335000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 192.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "Barrio Sámano-Helguera",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Samano",
+      "country": "es",
+      "latitude": 43.3510152,
+      "longitude": -3.2473986,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/100340717/",
+      "distance": "4464",
+      "description": "Inmobiliaria ERA vende chalet adosado a estrenar en Helguera, Sámano. Sámano es una pedanía de Castro Urdiales, la más grande del municipio, localizada a tan solo 5 minutos en coche. Es un valle localizado al sur, donde abunda la tranquilidad puesto que se encuentra en un entorno rodeado de naturaleza, lo que hace que sea una zona totalmente residencial. Es el lugar perfecto para hacer rutas por el monte o montar en bici por el paraje de la Cubilla, los montes Cerredo, el monte Ventoso, etc.  Cuenta con todos los servicios; farmacia, gimnasio, tienda de alimentación, restaurantes, academia de inglés, línea de autobús con Castro, parada de autobús escolar, etc.  El chalet se divide en cuatro plantas distribuidas de la siguiente manera: - Planta baja: salón comedor con amplios ventanales con salida a porche y a un amplio jardín, cocina y un aseo. - Primera planta: tres habitaciones, una de ellas con baño en suite y vestidor, y otro baño en la zona de descanso. - Bajocubierta: espacio diáfano con aseo. - Planta sótano: garaje doble, txoco con baño y ducha y un espacio destinado a trastero. *Haga clic en el video con un recorrido por el inmueble para obtener una mayor información. Tu inmobiliaria en Castro, de toda la vida.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 1745.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Samano, Castro-Urdiales",
+        "title": "Chalet adosado en Barrio Sámano-Helguera"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100057461",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cd/3f/04/1067198115.webp",
+      "externalReference": "23397",
+      "numPhotos": 35,
+      "price": 670000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 670000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 350.0,
+      "rooms": 4,
+      "bathrooms": 5,
+      "address": "calle Aureliano Linares Rivas",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3768882,
+      "longitude": -3.2195458,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/100057461/",
+      "distance": "814",
+      "description": "CHALET EN EL CENTRO DE CASTRO Con vistas al mar. Impresionante luz. 350 m2. Orientado al sur este. 3 plantas de vivienda y 1 planta bajo rasante. VIVIENDA: 4 dormitorios, 3 baños, 2 aseos, habitación de invitados, txoko y garaje. Planta de acceso con porche y terraza ajardinada. Amplio salón comedor con grandes ventanales y gran terraza con espectaculares vistas al mar. Cocina. Aseo. Planta primera:  3 dormitorios  2 baños. El dormitorio principal de unos 30 m2 con baño incorporado y terraza con vistas. Planta ático: Habitación de invitados con baño completo y espacioso salón. Planta bajo rasante Txoko completamente instalado (mesa de comedor para 14 personas) con cocina y baño.  Garaje para 2 coches.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1914.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Chalet pareado en calle Aureliano Linares Rivas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "99965677",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3c/76/76/1062710215.webp",
+      "externalReference": "154/2022",
+      "numPhotos": 5,
+      "price": 67800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 67800.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 226.0,
+      "rooms": 0,
+      "bathrooms": 0,
+      "address": "Lugar Barrio Allendelagua",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Oriñón-Allendagua",
+      "country": "es",
+      "latitude": 43.3952617,
+      "longitude": -3.2473929,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/99965677/",
+      "distance": "3023",
+      "description": "En el barrio de Allendelagua, Castro-Urdiales, en un entorno de naturaleza encontramos esta casa de piedra arenisca. Se trata de una construcción en piedra arenisca de planta baja y primera, cada una de ellas de 113 metros cuadrados construidos, afincada sobre una parcela de 216 metros cuadrados. Requiere una rehabilitación integral, incluido pozo séptico ya que el saneamiento público no llega esta la ubicación de la casa.  Tiene muchas posibilidades. Desde Texas Inmuebles podemos gestionar el 100% de los trabajos de rehabilitación además de ofrecer en venta la parcela que colinda con esta casa, donde actualmente hay un vivienda también a reformar.  No dude en pedirnos información. Estamos a su disposición!",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "priceByArea": 300.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oriñón-Allendagua, Castro-Urdiales",
+        "title": "Chalet pareado en Lugar Barrio Allendelagua"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "99253190",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/12/56/1e/1037992417.webp",
+      "externalReference": "205/2022",
+      "numPhotos": 49,
+      "price": 510000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 510000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 207.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "El Hoyo Auzoa",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Baltezana-Ontón",
+      "country": "es",
+      "latitude": 43.3462693,
+      "longitude": -3.1572296,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/99253190/",
+      "distance": "6143",
+      "description": "En la zona occidental de la ciudad de Castro-Urdiales, a 9 minutos del centro y a menos de un minuto de los accesos a la autovía A8 dirección Santander-Bilbao encontramos este chalet individual de 207 metros construidos sobre una parcela de 7.340 m. Cómoda vivienda donde disfrutar de la tranquilidad e independencia que te ofrece una casa individual. Con amplios espacios y un exterior con extensión suficiente para disfrutar al aire libre. La vivienda fue construida en el año 2005. Se accede desde el vial por una rampa. Se distribuye en un porche de entrada que da acceso a un amplio hall desde donde accedemos a la cocina que a su vez da acceso al garaje. Desde la entrada/hall también llegamos a un amplísimo salón-comedor con dos grandes ventanales con vistas al jardín, una habitación de gran tamaño y un baño completo con bañera. Subiendo las escaleras de madera llegamos a la primera planta donde se ubican tres dormitorios, dos de ellos con salida a terraza desde donde llegamos a ver el mar, un baño completo grande y la tercera habitación. Cuenta con todas sus estancias amplias. En el jardín hay una segunda construcción a modo de trastero, que puede destinarse a varios usos como taller, estudio, . Frente a la fachada principal y sus laterales se encuentra toda la zona ajardinada, siendo más ladera por la parte trasera. La vivienda cuenta con pozo séptico.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 2464.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Baltezana-Ontón, Castro-Urdiales",
+        "title": "Casa independiente en El Hoyo Auzoa"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98782140",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e5/b9/27/1023626531.webp",
+      "externalReference": "C90V0124",
+      "numPhotos": 49,
+      "price": 540000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 540000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 316.0,
+      "rooms": 5,
+      "bathrooms": 5,
+      "address": "Barrio Llantadilla",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Samano",
+      "country": "es",
+      "latitude": 43.3575632,
+      "longitude": -3.2284607,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98782140/",
+      "distance": "3060",
+      "description": "Magnífico chalet de reciente construcción (año 2004) en Sámano, para entrar a vivir, de 316 m² distribuidos en 3 plantas en una parcela de aprox. 450 m², con un espléndido jardín, perfecto para disfrutar en familia. En planta baja, al entrar por la puerta principal, un hall recibidor, desde donde arranca la escalera, nos conduce a un amplio salón con grandes ventanales, con 3 orientaciones diferentes y a un comedor, así como a un baño completo y a una fantástica y moderna cocina, totalmente equipada, desde la cual se accede a un magnífico porche, con acceso al jardín. En planta primera se sitúan cuatro dormitorios, dos de ellos con baño en suite y uno de los cuales cuenta también con vestidor y terraza, además de otro baño que da servicio a los 2 dormitorios restantes, En planta semisótano, dispone de un caprichoso txoko con cocina equipada, un amplio dormitorio y un baño. La vivienda está dotada de agua caliente sanitaria y calefacción mediante caldera individual de gas y la carpintería exterior es de madera con doble acristalamiento.  La ubicación es ideal, en una zona residencial y a la vez céntrica, en una urbanización privada compuesta por 5 chalets.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1709.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Samano, Castro-Urdiales",
+        "title": "Casa independiente en Barrio Llantadilla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98533216",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/6e/76/2f/1389496824.webp",
+      "externalReference": "8470",
+      "numPhotos": 50,
+      "price": 270000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 270000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "sale",
+      "size": 550.0,
+      "rooms": 6,
+      "bathrooms": 2,
+      "address": "BARRIO BALTEZANA",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Baltezana-Ontón",
+      "country": "es",
+      "latitude": 43.3390795,
+      "longitude": -3.1722899,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98533216/",
+      "distance": "5934",
+      "description": "***INMOBILIARIAS. COM*** SU INMOBILIARIA DE CONFIANZA EN CASTRO URDIALES vende gran casa rural de 536 m2 con impresionante TERRAZA Y PARCELA URBANIZABLE DE 975 m2, ubicada en un entorno privilegiado, RODEADA DE NATURALEZA en zona bien urbanizada y comunicada con autovía A8, con posibilidad de terrenos aledaños y urbanos.  Techos restaurados, muros anchos, muy soleada, impresionantes vistas. Se distribuye en. - PLANTA PRINCIPAL. -  -Gran sala. -Txoco preparado con cocina. -Espacio muy grande diáfano con vigas de madera. -Almacén. -Garaje. 1ª PLANTA  -6 habitaciones. -2 baños. -Cocina. -Salita. -Balcón. -Terraza muy grande y soleada. Está ubicada dentro de un conjunto residencial con PISCINA COMUNITARIA Y JARDINES. ÁTICO. - diáfano. IMPRESCINDIBLE VER. COD. - 8470-B.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 491.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casale"
+      },
+      "suggestedTexts": {
+        "subtitle": "Baltezana-Ontón, Castro-Urdiales",
+        "title": "Casa rural en Barrio Baltezana"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97899754",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/57/72/5c/1384039859.webp",
+      "externalReference": "8390",
+      "numPhotos": 46,
+      "floor": "5",
+      "price": 400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 400000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 143.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "calle República Argentina, 9",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3801154,
+      "longitude": -3.2195896,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/97899754/",
+      "distance": "553",
+      "description": "***INMOBILIARIAS. COM*** SU INMOBILIARIA DE CONFIANZA EN CASTRO URDIALES vende amplia vivienda de 4 habitaciones con TERRAZA y VISTAS DESPEJADAS AL MAR, en un edificio emblemático en pleno corazón de Castro Urdiales, cercano a todos los servicios necesarios para el día a día, en un edificio que cuenta con doble ascensor. La vivienda tiene dos puertas de entrada y se distribuye de la siguiente forma: hall, salón comedor amplio con salida a una terraza con vistas despejadas tanto al mar como al parque de la barrera, cuatro amplios dormitorios con armarios empotrados, dos baños completos con ducha, un aseo reconvertible en baño completo, cocina totalmente equipada con colgador en la ventana cuenta además con un espacio de despensa. LLÁMENOS! NO SE QUEDE CON NINGUNA DUDA, NOSOTROS LE AYUDAMOS REF: 8390-LU.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2797.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle República Argentina, 9"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97890271",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/23/c9/42/1077898964.webp",
+      "externalReference": "1692",
+      "numPhotos": 24,
+      "floor": "5",
+      "price": 400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 400000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 133.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3807626,
+      "longitude": -3.217377,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/97890271/",
+      "distance": "369",
+      "description": "Gran piso Ubicado en el pleno centro de Castro Urdiales, con todos los servicios necesarios para el día a día tanto farmacias, centro de salud, supermercados, parque infantil, a un paseo de playa y puerto.  Muy buena altura por lo que disfruta de vistas al mar, edificio con accesos cómodos, cuenta con dos ascensores.  La vivienda es muy amplia, dispone de dos puertas de entrada y esta distribuida en recibidor, amplio salón con acceso a terraza desde la que tiene bonitas vistas al mar, cocina completamente equipada, despensa, 4 dormitorios y tres baños. Se han realizado algunas reformas en cocina y baños, en buen estado para entrar a vivir.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 3008.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97859457",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7a/2b/d1/992904265.webp",
+      "externalReference": "19",
+      "numPhotos": 35,
+      "floor": "5",
+      "price": 400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 400000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 134.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "REPUBLICA ARGENTINA, 2",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.38059,
+      "longitude": -3.21934,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/97859457/",
+      "distance": "507",
+      "description": "Exclusiva vivienda en el corazón de Castro Urdiales con unas preciosas VISTAS AL MAR El inmueble tiene 134m² distribuidos en: Salón comedor con salida a terraza, 4 habitaciones (en origen 5) con armarios empotrados, 3 baños completamente reformados con duchas, cocina totalmente equipada con despensa y hall de entrada. Se unieron 2 habitaciones y en 1 de ellas junto a la cocina se hizo un comedor. Tiene 2 puertas de entrada. El piso es muy luminoso debido a su altura y a su orientación sur con sol todo el día. Edificio realizado con materiales de primera construcción con 2 ascensores, elevador y calefacción central. Ubicado en el centro junto a todos los servicios necesarios: centro de salud, farmacias, supermercados, etc. No tiene garaje pero se venden y se alquilan en el mismo edificio. ¡Interesante visitarlo!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2985.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en Republica Argentina, 2"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97850755",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/66/0e/74/992621691.webp",
+      "numPhotos": 33,
+      "floor": "5",
+      "price": 400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 400000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 134.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "republica argentina",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3806665,
+      "longitude": -3.2202315,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/97850755/",
+      "distance": "566",
+      "description": "Castro. CENTRO. Magnífico piso en edificio emblemático en pleno centro de la ciudad. 3 grandes habitaciones, la principal con baño incluido, 3 baños, gran cocina comedor y salón con salida a terraza con vistas al mar Armarios empotrados Totalmente exterior Muy soleado y con vistas a la bahía de la ciudad Situado en pleno centro, junto a todos los servicios y comodidades. Junto a colegios, centro médico, etc.  En buen estado de conservación, la vivienda está lista para ser habitada. Acceso a portal muy cómodo sin barreras arquitectónicas.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2985.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en republica argentina"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97827806",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c5/0a/18/1392187956.webp",
+      "externalReference": "2733",
+      "numPhotos": 18,
+      "floor": "5",
+      "price": 400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 400000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 154.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3798435,
+      "longitude": -3.2201405,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/97827806/",
+      "distance": "607",
+      "description": "MAGNÍFICA VIVIENDA EN EL CENTRO DE CASTRO CON VISTAS AL MAR INMOBILIARIA INVERCASS vende en el centro de Castro Urdiales piso con VISTAS AL MAR. Gran vivienda de 134 m2 consta de cocina equipada, gran salón comedor amplio y muy luminoso con salida a terraza, tres espaciosas habitaciones dos de ellas con baño incorporado, un tercer baño para dar servicio al resto de la vivienda y una salita con posibilidad de sacar una cuarta habitación. En pleno centro de Castro Urdiales a un paso de todos los servicios de primera necesidad y a menos de 50 metros del paseo marítimo y del parque Amestoy  QUIERES CONOCERLA? LLÁMANOS Y CONCRETA TU VISITA!  INMOBILIARIA INVERCASS Ardigales 27 Bajo  Castro Urdiales .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2597.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97827741",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/71/e1/1f/991912958.webp",
+      "externalReference": "4214",
+      "numPhotos": 48,
+      "floor": "5",
+      "price": 400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 400000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 154.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "calle República Argentina, 5",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3804268,
+      "longitude": -3.2191709,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/97827741/",
+      "distance": "506",
+      "description": "Inmobiliaria ERA vende piso en pleno centro de Castro Urdiales en la Plaza de la Barrera con vistas al mar. Ubicado en una situación privilegiada en un edificio de hormigón frente al centro de salud, a escasos metros del parque Amestoy y paseo marítimo. Rodeado de todos los servicios tales como colegios, farmacias, zona de ocio e infantiles, paradas de autobús urbano, línea con Bilbao y Barakaldo, supermercados, etc. La vivienda se distribuye en tres habitaciones y tres baños completamente reformados, dos de ellos en suite incorporados en las habitaciones, cocina amueblada y equipada y un salón comedor con impresionantes vistas al paseo marítimo. Tu inmobiliaria en Castro, de toda la vida. Encuentra más en.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2597.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle República Argentina, 5"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97825687",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/47/a7/86/1374636585.webp",
+      "externalReference": "97825687",
+      "numPhotos": 65,
+      "floor": "5",
+      "price": 400000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 400000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 134.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "calle República Argentina s/n",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3804523,
+      "longitude": -3.2193053,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/97825687/",
+      "distance": "513",
+      "description": "Sweven Homes pone a la venta este maravilloso piso en el CENTRO en un edificio emblemático de Castro. La vivienda muy amplia en todos sus espacios, cuenta con 137 m2 distribuidos en una salita, una cocina, un salón con terraza, 3 habitaciones y 3 baños. La ubicación de la propiedad es inmejorable, en el centro, con todos los servicios a mano, supermercados, colegio e instituto y zonas de ocio. La vivienda TIENE VISTAS AL MAR y al mítico parque de la barrera. La playa está muy cerca. El inmueble es muy soleado. PARA MAS INFORMACIÓN NO DUDE EN CONTACTAR CON NOSOTROS. SWEVEN HOMES.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 2985.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Piso en calle República Argentina s/n"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97766985",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e1/81/f3/989767960.webp",
+      "externalReference": "3014",
+      "numPhotos": 2,
+      "price": 640000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 640000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 370.0,
+      "rooms": 5,
+      "bathrooms": 5,
+      "address": "aureliano linares rivas",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.376735,
+      "longitude": -3.220826,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/97766985/",
+      "distance": "888",
+      "description": "Gestión Inmobiliaria Victoria, vende estupendo chalet en la urbanización Montesolmar, con preciosas vistas al mar, en el centro de Castro Urdiales, soleado, exterior, muy luminoso, cerca de todos los servicios, aspiración centralizada, home cinema. , hilo musical  consta de 4 plantas planta sótano. garaje, txoko montado y aseo planta baja. cocina equipada completa amplia, salón comedor con chimenea, hall con armario empotrado, 2 terrazas grandes una en la cocina y otra en el salón, aseo. planta 1ª. 3 amplias habitaciones con armarios empotrados, 1 baño completo, habitación principal con 2 armarios empotrados, con grandes ventanales y maravillosas vistas a la bahía, con su baño incorporado dentro del dormitorio de mármol, y bañera de hidromasaje. planta ático diáfano en la actualidad como despacho y 1 baño con ducha.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1730.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Chalet adosado en aureliano linares rivas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97438005",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e7/ae/47/979513722.webp",
+      "externalReference": "333",
+      "numPhotos": 77,
+      "price": 540000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 540000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 316.0,
+      "rooms": 5,
+      "bathrooms": 5,
+      "address": "LLANTADILLA",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Samano",
+      "country": "es",
+      "latitude": 43.3589744,
+      "longitude": -3.2279536,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/97438005/",
+      "distance": "2899",
+      "description": "Gestión Inmobiliaria Victoria, vende estupendo chalet individual en la zona de Sámano, urbanización cerrada de 6 chalets en total, tiene 3 plantas, 316 metros construidos y 280 útiles, en parcela de 429 metros cuadrados, zona muy tranquila, soleado, armarios empotrados, caldera nueva, gastos de comunidad 21 euros al mes, antiguedad 18 años. Consta de  planta sótano. txoko equipado, salón comedor, cocina, habitación y baño con ducha, planta baja. cocina equipada completa con salida al comedor, y al porche, hall espacioso, salón amplio, aseo, jardín planta 1º. 4 habitaciones, 2 con su baño incorporado, y una de ellas con vestidor y balconada, más otro cuarto de baño para dar servicio a las otras habitaciones. en la rampa de acceso a la planta sótano se pueden dejar varios coches. imprescindible ver.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1709.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Samano, Castro-Urdiales",
+        "title": "Casa independiente en Llantadilla"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "95762133",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b3/6d/1c/927486048.webp",
+      "externalReference": "4084-1",
+      "numPhotos": 108,
+      "floor": "1",
+      "price": 780000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 780000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "sale",
+      "size": 860.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio Sámano-Vallegón, 1",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Samano",
+      "country": "es",
+      "latitude": 43.3478698,
+      "longitude": -3.2374656,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/95762133/",
+      "distance": "4342",
+      "description": "Este edificio se encuentra en Barrio Sámano-Vallegón, 39709, Castro Urdiales, Cantabria, en la zona del Sámano. Es un edificio, construido en el año 2001, que tiene una parcela de 625 m2, y metros construidos 845. El edifico consta de Planta baja, Planta primera y Planta Sótano. Los accesos son cuatro, tres de ellos peatonales y situados a nivel de planta baja, 1,m. por encima de la cota de calle en la fachada principal, y el cuarto es rodado directamente Planta Sótano que es dónde está ubicado el garaje. De los tres accesos peatonales uno se sitúa en la fachada principal y es el que da acceso directamente al restaurante y los dos restantes en la fachada posterior uno para la vivienda a través de una escalera y el otro constituye la entrada de servicio a la cocina, independizando de esta forma los accesos a los diferentes usos de la edificación. En Planta Baja se desarrolla principalmente el restaurante quedando una pequeña zona de acceso a la vivienda. En esta se sitúa una pequeña barra de bar, detrás la cocina, el oficce, las cámaras frigoríficas, una despensa y a los lados de la barra se sitúan los baños y el comedor. Tenemos la zona de cocina de 27,55 m2, el oficce de 18,03m2, dos cámaras frigoríficas de 3,15 m2 y una pequeña despensa de 4,36 m2, el almacén se encuentra en planta sótano y cuenta con una superficie de 63,20 m2.  En Planta Primera se encuentra la vivienda compuesta por cocina, salón, dos habitaciones, un baño y la habitación principal con baño y en la otra mitad de la Planta se proyecta otro comedor de dimensiones idénticas al de planta baja comunicado con el a través de una escalera e independizado completamente de la vivienda. Por último, en Planta Sótano aparecen un almacén, los vestuarios de personal tanto femeninos como masculinos, compuestos por ducha e inodoro independizados entre ellos y de la zona de lavabos y taquillas y completa la Planta Sótano el garaje con capacidad para tres vehículos y un trastero. La organización funcional de los tres pisos se articula a través de dos escaleras una vinculada a la actividad del restaurante que comunica los comedores y la zona de sótano dónde se ubican las zonas de servicio y la otra para uso de la vivienda comunicando el exterior, la vivienda propiamente dicha y el garaje. Existe un pequeño montacargas que a su vez atraviesa las tres plantas comunicando la zona de almacén de la planta primera. Constructivamente se resuelve el edificio con materiales y técnicas tradicionales.  Estructura de pórticos de hormigón y cubierta de vigas y entablado de madera, fachada con cámara y revestimiento en piedra. Los revestimientos interiores serán de solado de gres y alicatado de azulejos hasta techo en zonas húmedas, servicio y almacén y de tarima sobre rastrel con paredes lucidas y pintadas en el resto de los espacios, tanto en restaurante como en vivienda, ventanas de PVC oscilo a El edificio se encuentra en perfectas condiciones para hacer uso de ello cómo Restaurante o otro tipo de actividad. Se queda totalmente amueblado con maquinas, mobiliario. INMOBILIARIA ERA CASTRO Tu inmobiliaria en Castro, de toda la vida. Encuentra más en.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 907.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Samano, Castro-Urdiales",
+        "title": "Piso en Barrio Sámano-Vallegón, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Top"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "94655029",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/1a/ef/23/894633985.webp",
+      "externalReference": "21328",
+      "numPhotos": 66,
+      "price": 715000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 715000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 700.0,
+      "rooms": 6,
+      "bathrooms": 5,
+      "address": "Aureliano Linares Rivas",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3752186,
+      "longitude": -3.2191201,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/94655029/",
+      "distance": "959",
+      "description": "IMPRESIONANTE CHALET INDEPENDIENTE DE 500 ÚTILES EN CASTRO URDIALES Con vistas al mar. Sobre parcela de 728 metros cuadrados 500 metros útiles y 700 m2 construidos. 3 plantas de vivienda y 2 plantas de sotano. VIVIENDA: 6 dormitorios, 5 baños, 2 cocinas, txoko y bodega. Planta de acceso (con porche cubierto) Salón de mas de 45 m2 con dos grandes miradores y espectaculares vistas al mar. Cocina. Baño. 1 Dormitorio Planta primera:  4 dormitorios  2 baños. El dormitorio principal de unos 30 m2 y baño en suite. Planta atico: 1 gran habitación diáfana de mas de 50 m2 1 baño. Planta sotano 1 Txoko completamente instalado con cocina y baño  Convertible en apartamento de invitados. Garaje para 5 coches. Planta sotano 2 Un gran espacio abierto con mesas de comedor Barra. Bodega independiente. Aspiración centralizada en toda la vivienda.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1021.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Chalet pareado en Aureliano Linares Rivas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "81989497",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e9/c0/f6/589151037.webp",
+      "externalReference": "46",
+      "numPhotos": 61,
+      "price": 555000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 555000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 350.0,
+      "rooms": 4,
+      "bathrooms": 5,
+      "address": "BRAZOMAR s/n",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Brazomar",
+      "country": "es",
+      "latitude": 43.3659521,
+      "longitude": -3.2150885,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/81989497/",
+      "distance": "1897",
+      "description": "Se vende casona PARA REFORMAR ENTERA en la zona alta de Brazomar con maravillosas vistas a la bahía de Castro-Urdiales La construcción es de 1.982 y necesita algo de reforma. La vivienda está construida dentro de una parcela de 2.365m² con porche, palmeras, árboles frutales, cenador, cabaña, etc.  La propiedad cuenta en planta principal con 3 grandes habitaciones (principal con baño y vestidor), 2 baños, salón comedor con chimenea, 1 aseo, cocina, hall de entrada, hall distribuidor de habitaciones, 4 armarios empotrados y 2 terrazas de 40m² cada una; en el ático atesora 1 habitación muy grande y aseo. En la zona baja de la casa, a la altura del jardín, tiene garaje para 2 coches, txoko de unos 80m² con chimenea, trastero de 60m², 1 baño, cuarto de caldera y despensa.  Finca única ubicada a un paso de Castro-Urdiales y de la autovía. *ACTUALMENTE ESTÁ EN PEOR ESTADO DE CONSERVACIÓN QUE EN LAS FOTOGRAFÍAS PUBLICADAS *REGISTRALMENTE SON 2 TERRENOS UNIDOS  *LA CASA NO ESTÁ REGISTRADA POR LO QUE EL QUE LA QUIERA COMPRAR TENDRÍA QUE FIRMAR UN CONTRATO DE COMPRAVENTA A LA ESPERA DE QUE LOS PROPIETARIOS TERMINEN DE REALIZAR TODA LA DOCUMENTACIÓN NECESARIA PARA SU VENTA.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1586.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Brazomar, Castro-Urdiales",
+        "title": "Casa independiente en Brazomar s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "38350908",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/73/22/bd/1282333561.webp",
+      "externalReference": "3110",
+      "numPhotos": 67,
+      "price": 715000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 715000.0,
+          "currencySuffix": "€"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "sale",
+      "size": 550.0,
+      "rooms": 7,
+      "bathrooms": 5,
+      "address": "calle Aureliano Linares Rivas, 17",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3769106,
+      "longitude": -3.2192272,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/38350908/",
+      "distance": "798",
+      "description": "Inmobiliaria ERA presenta este magnífico chalet independiente, ubicado en una de las urbanizaciones más prestigiosas de Castro Urdiales, con espectaculares vistas panorámicas al mar. Esta propiedad única destaca por su proximidad al centro de la ciudad, paseo marítimo, puerto deportivo, zonas comerciales, de ocio y por su excelente conexión con transporte público, incluyendo paradas de autobús urbano e interurbano. Además, se encuentra a escasos minutos del renombrado Colegio Bilingüe Santa Catalina. Esta impresionante vivienda de lujo ofrece un amplio espacio habitable distribuido en 7 habitaciones, todas ellas con armarios empotrados, y 5 baños completos, lo que asegura el máximo confort para toda la familia. En la planta superior, la bajocubierta ha sido acondicionada con un diseño exclusivo que alberga dos ambientes: una zona de dormitorio, sala de estar, un elegante despacho y un baño privado con jacuzzi, ideal para disfrutar de momentos de relax con vistas privilegiadas. El chalet cuenta, además, con un garaje cerrado con capacidad para hasta cinco vehículos, proporcionando un gran espacio de almacenamiento. Para los amantes del entretenimiento, la propiedad dispone de un txoko completamente equipado con cocina, además de una bodega y un segundo txoko de 50 metros cuadrados, acondicionado como bar privado, perfecto para reuniones y eventos sociales. Este chalet es una combinación perfecta de elegancia, funcionalidad y ubicación privilegiada, ideal para aquellos que buscan vivir en un entorno exclusivo con todas las comodidades a su alcance. Tu inmobiliaria en Castro, de toda la vida.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 1300.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Castro-Urdiales",
+        "title": "Casa independiente en calle Aureliano Linares Rivas, 17"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "highlight": {
+        "groupDescription": "Destacado"
+      },
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 376,
+  "totalPages": 8,
+  "actualPage": 8,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Comprar casas y pisos en ",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 350,
+  "upperRangePosition": 376,
+  "paginable": true
+}
