@@ -26,7 +26,12 @@ $env:PYTHONPATH="."
 │   ├── raw/
 │   │   └── idealistaAPI/
 │   │       ├── raw/                        # JSON crudos versionados por ejecución.
-│   │       └── preprocess/                 # CSV consolidados + summary.json por run.
+│   │       └── preprocess/                 # CSV totales generados manualmente desde notebook.
+│
+├── notebooks/
+│   └── 02_idealista_API_processing/
+│       ├── idealistaAPI_raw_to_preprocess.ipynb   # Limpieza manual de raw JSON -> CSV total por operación.
+│       └── idealistaAPI_data.ipynb                # Procesamiento unificado de rent/sale mediante trigger.
 │
 ├── src/
 │   └── idealistaAPI/                       # Módulo completo de integración con API Idealista.
@@ -44,8 +49,7 @@ $env:PYTHONPATH="."
 │       │   ├── run_sale_requests.py        # CLI para descarga mercado de venta.
 │       │   ├── run_rent_requests.py        # CLI para descarga mercado de alquiler.
 │       │
-│       └── processing/                     # Capa de transformación.
-│           └── clean_idealista.py          # Conversión JSON raw → CSV estructurado.
+│       └── processing/                     # Capa de transformación manual en notebooks.
 ```
 
 ## Flujos principales
@@ -68,7 +72,13 @@ python src/idealistaAPI/ingestion/run_rent_requests.py --max-requests 100
 python src/idealistaAPI/ingestion/run_resume_rent_requests.py --max-requests 100
 ```
 
-### 3) Test rápido de conectividad
+### 3) Limpieza manual de raw -> CSV
+
+```bash
+jupyter notebook notebooks/02_idealista_API_processing/idealistaAPI_raw_to_preprocess.ipynb
+```
+
+### 4) Test rápido de conectividad
 
 ```powershell
 python -m src.idealistaAPI.ingestion.test_one_request
@@ -78,8 +88,9 @@ python -m src.idealistaAPI.ingestion.test_one_request
 
 - Configuracion del run: `data/raw/idealistaAPI/raw/<run>/manifest.json`
 - Respuestas API: `data/raw/idealistaAPI/raw/<run>/reqXXX__<circle>__pYYY.json`
-- CSV limpio: `data/raw/idealistaAPI/preprocess/<run>/<output_csv>.csv`
-- Metricas: `data/raw/idealistaAPI/preprocess/<run>/summary.json`
+- CSV total venta: `data/raw/idealistaAPI/preprocess/total_sales_cantabria.csv`
+- CSV total alquiler: `data/raw/idealistaAPI/preprocess/total_rent_cantabria.csv`
+- Metricas de consolidacion: `data/raw/idealistaAPI/preprocess/total_sales_cantabria_summary.json` o `data/raw/idealistaAPI/preprocess/total_rent_cantabria_summary.json`
 
 ## Corte automatico por cupo
 
@@ -87,6 +98,14 @@ Si Idealista devuelve error de cupo/rate-limit, los runners:
 - paran inmediatamente,
 - guardan `reqXXX__STOP_QUOTA.json` en raw,
 - escriben estado final en `summary.json`.
+
+## Limpieza manual posterior al run
+
+Los runners ya no generan CSV automaticamente.
+
+- La conversion de `raw` a `preprocess` se hace desde `notebooks/02_idealista_API_processing/idealistaAPI_raw_to_preprocess.ipynb`.
+- El notebook genera un unico CSV consolidado por operacion (`total_rent_cantabria.csv` o `total_sales_cantabria.csv`).
+- El procesamiento posterior se hace en `notebooks/02_idealista_API_processing/idealistaAPI_data.ipynb`, cambiando `OPERATION` entre `rent` y `sale`.
 
 ## Opciones utiles
 

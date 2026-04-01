@@ -7,7 +7,7 @@ from src.idealistaAPI.ingestion.services.request_service import add_common_args,
 
 
 def build_parser() -> argparse.ArgumentParser:
-    p = argparse.ArgumentParser(description="Run SALE requests and export cleaned CSV.")
+    p = argparse.ArgumentParser(description="Run SALE requests and store raw responses.")
     add_common_args(p, default_csv="sale_homes_cantabria_bezana_like_raw.csv")
     return p
 
