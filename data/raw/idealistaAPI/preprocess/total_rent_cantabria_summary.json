@@ -1,31 +1,34 @@
 {
   "operation": "rent",
-  "preprocess_base": "C:\\Users\\pdelr\\Documents\\MBA\\BezanillaSL\\data\\raw\\idealistaAPI\\preprocess",
+  "raw_base": "/Users/sitomachucas/Documents/BezanillaSL/data/raw/idealistaAPI/raw",
   "runs_included": [
+    "rent_homes_run_20260401_135939",
     "rent_homes_run_20260310_171627",
     "rent_homes_run_20260220_111903"
   ],
-  "output_csv": "C:\\Users\\pdelr\\Documents\\MBA\\BezanillaSL\\data\\raw\\idealistaAPI\\preprocess\\total_rent_cantabria.csv",
-  "rows_raw": 2889,
-  "rows_output": 691,
-  "duplicates_removed": 2198,
+  "output_csv": "/Users/sitomachucas/Documents/BezanillaSL/data/raw/idealistaAPI/preprocess/total_rent_cantabria.csv",
+  "rows_raw": 6796,
+  "rows_output": 847,
+  "duplicates_removed": 5949,
   "priority_rule": "latest_run_first",
   "run_stats": [
     {
+      "run_name": "rent_homes_run_20260401_135939",
+      "rows_total": 833,
+      "rows_unique": 434,
+      "rows_duplicated": 399
+    },
+    {
       "run_name": "rent_homes_run_20260310_171627",
-      "csv_path": "C:\\Users\\pdelr\\Documents\\MBA\\BezanillaSL\\data\\raw\\idealistaAPI\\preprocess\\rent_homes_run_20260310_171627\\rent_homes_cantabria_bezana_like_raw.csv",
-      "rows_total": 524,
+      "rows_total": 3598,
       "rows_unique": 524,
-      "rows_duplicated": 0,
-      "missing_csv": false
+      "rows_duplicated": 3074
     },
     {
       "run_name": "rent_homes_run_20260220_111903",
-      "csv_path": "C:\\Users\\pdelr\\Documents\\MBA\\BezanillaSL\\data\\raw\\idealistaAPI\\preprocess\\rent_homes_run_20260220_111903\\rent_homes_cantabria_bezana_like_raw.csv",
       "rows_total": 2365,
       "rows_unique": 493,
-      "rows_duplicated": 1872,
-      "missing_csv": false
+      "rows_duplicated": 1872
     }
   ]
 }
