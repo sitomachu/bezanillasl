@@ -1,0 +1,72 @@
+{
+  "run_id": "20260401_135939",
+  "operation": "rent",
+  "property_type": "homes",
+  "max_requests": 100,
+  "max_pages_per_location": 20,
+  "max_items": 50,
+  "output_csv_name": "rent_homes_cantabria_bezana_like_raw.csv",
+  "locations_effective": [
+    {
+      "name": "SantaCruzDeBezana",
+      "location_id": "0-EU-ES-39-39016",
+      "fallback_center": "43.4435,-3.9036",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Camargo",
+      "location_id": "0-EU-ES-39-39018",
+      "fallback_center": "43.4150,-3.8540",
+      "fallback_distance_m": 6000
+    },
+    {
+      "name": "Pielagos",
+      "location_id": "0-EU-ES-39-39046",
+      "fallback_center": "43.4230,-3.9520",
+      "fallback_distance_m": 7000
+    },
+    {
+      "name": "Santander",
+      "location_id": "0-EU-ES-39-39075",
+      "fallback_center": "43.4623,-3.8099",
+      "fallback_distance_m": 7000
+    },
+    {
+      "name": "MarinaDeCudeyo",
+      "location_id": "0-EU-ES-39-39043",
+      "fallback_center": "43.4620,-3.9080",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Miengo",
+      "location_id": "0-EU-ES-39-39040",
+      "fallback_center": "43.4100,-4.0050",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "RibamontanAlMar",
+      "location_id": "0-EU-ES-39-39056",
+      "fallback_center": "43.4470,-3.7450",
+      "fallback_distance_m": 6000
+    },
+    {
+      "name": "Suances",
+      "location_id": "0-EU-ES-39-39084",
+      "fallback_center": "43.4260,-4.0430",
+      "fallback_distance_m": 6000
+    },
+    {
+      "name": "Laredo",
+      "location_id": "0-EU-ES-39-39034",
+      "fallback_center": "43.4090,-3.4160",
+      "fallback_distance_m": 7000
+    },
+    {
+      "name": "CastroUrdiales",
+      "location_id": "0-EU-ES-39-39021",
+      "fallback_center": "43.3830,-3.2140",
+      "fallback_distance_m": 7000
+    }
+  ],
+  "strategy": "fair_round_robin_by_locationid_with_center_fallback"
+}

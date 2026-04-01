@@ -1,0 +1,126 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "105291105",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/08/26/b8/1247653240.webp",
+      "numPhotos": 1,
+      "floor": "3",
+      "price": 790.0,
+      "priceInfo": {
+        "price": {
+          "amount": 790.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "DOCTOR JIMENEZ DIAZ",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "General Dávila",
+      "country": "es",
+      "latitude": 43.4632878,
+      "longitude": -3.821406,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105291105/",
+      "distance": "5979",
+      "description": "Piso a estrenar, reformado y amueblado, salón, cocina, baño, 2 dormitorios, ascensor, calefacción.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "General Dávila, Santander",
+        "title": "Piso en Doctor Jimenez Diaz"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102864174",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/38/f6/0e/1169928874.webp",
+      "externalReference": "micampus Santander",
+      "numPhotos": 31,
+      "floor": "3",
+      "price": 849.0,
+      "priceInfo": {
+        "price": {
+          "amount": 849.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "studio",
+      "operation": "rent",
+      "size": 25.0,
+      "exterior": true,
+      "rooms": 0,
+      "bathrooms": 1,
+      "address": "avenida Herrera Oria, 23",
+      "province": "Cantabria",
+      "municipality": "Santander",
+      "district": "Alisal - Cazoña - San Román",
+      "country": "es",
+      "latitude": 43.458503,
+      "longitude": -3.8387241,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/102864174/",
+      "distance": "4991",
+      "description": "Estudio individual con cocina y baño privado en residencia de estudiantes. Alojamiento temporal. El edificio cuenta con zonas comunes: gimnasio, salas de estudio y de trabajo, sala de juegos, lavandería y vigilancia 24h. Estancias sujetas a requisitos. No aplicable régimen de vivienda habitual ni contrato de arrendamiento conforme a la LAU. Nuestros alojamientos en Santander cuentan con habitaciones especialmente diseñadas para garantizar el bienestar y la comodidad de nuestros huéspedes. Descubre ya nuestras residencias universitarias. ¡Vive ya la experiencia MiCampus!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 34.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "studio"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alisal - Cazoña - San Román, Santander",
+        "title": "Estudio en avenida Herrera Oria, 23"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 102,
+  "totalPages": 3,
+  "actualPage": 3,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Muriedas, Camargo",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 100,
+  "upperRangePosition": 102,
+  "paginable": true
+}
