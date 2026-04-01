@@ -1,11 +1,11 @@
 {
   "operation": "sale",
-  "raw_base": "/home/pablo/Documents/bezanillasl/data/raw/idealistaAPI/raw",
+  "preprocess_base": "C:\\Users\\pdelr\\Documents\\MBA\\BezanillaSL\\data\\raw\\idealistaAPI\\preprocess",
   "runs_included": [
     "sale_homes_run_20260331_174125",
     "sale_homes_run_20260218_173035"
   ],
-  "output_csv": "/home/pablo/Documents/bezanillasl/data/raw/idealistaAPI/preprocess/total_sales_cantabria.csv",
+  "output_csv": "C:\\Users\\pdelr\\Documents\\MBA\\BezanillaSL\\data\\raw\\idealistaAPI\\preprocess\\total_sales_cantabria.csv",
   "rows_raw": 9497,
   "rows_output": 2851,
   "duplicates_removed": 6646,
@@ -13,15 +13,19 @@
   "run_stats": [
     {
       "run_name": "sale_homes_run_20260331_174125",
+      "csv_path": "C:\\Users\\pdelr\\Documents\\MBA\\BezanillaSL\\data\\raw\\idealistaAPI\\preprocess\\sale_homes_run_20260331_174125\\sale_homes_cantabria_bezana_like_raw.csv",
       "rows_total": 4547,
       "rows_unique": 2469,
-      "rows_duplicated": 2078
+      "rows_duplicated": 2078,
+      "missing_csv": false
     },
     {
       "run_name": "sale_homes_run_20260218_173035",
+      "csv_path": "C:\\Users\\pdelr\\Documents\\MBA\\BezanillaSL\\data\\raw\\idealistaAPI\\preprocess\\sale_homes_run_20260218_173035\\sale_homes_cantabria_bezana_like_raw.csv",
       "rows_total": 4950,
       "rows_unique": 604,
-      "rows_duplicated": 4346
+      "rows_duplicated": 4346,
+      "missing_csv": false
     }
   ]
 }
