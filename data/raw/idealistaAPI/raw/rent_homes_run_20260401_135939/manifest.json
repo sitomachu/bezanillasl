@@ -2,7 +2,7 @@
   "run_id": "20260401_135939",
   "operation": "rent",
   "property_type": "homes",
-  "max_requests": 100,
+  "max_requests": 24,
   "max_pages_per_location": 20,
   "max_items": 50,
   "output_csv_name": "rent_homes_cantabria_bezana_like_raw.csv",
@@ -66,7 +66,133 @@
       "location_id": "0-EU-ES-39-39021",
       "fallback_center": "43.3830,-3.2140",
       "fallback_distance_m": 7000
+    },
+    {
+      "name": "Villaescusa",
+      "location_id": "0-EU-ES-39-39094",
+      "fallback_center": "43.4200,-3.9200",
+      "fallback_distance_m": 4000
+    },
+    {
+      "name": "ElAstillero",
+      "location_id": "0-EU-ES-39-39007",
+      "fallback_center": "43.4010,-3.8190",
+      "fallback_distance_m": 4000
+    },
+    {
+      "name": "MedioCudeyo",
+      "location_id": "0-EU-ES-39-39039",
+      "fallback_center": "43.4350,-3.8440",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Polanco",
+      "location_id": "0-EU-ES-39-39053",
+      "fallback_center": "43.3940,-4.0210",
+      "fallback_distance_m": 4000
+    },
+    {
+      "name": "SantaMariadeCayon",
+      "location_id": "0-EU-ES-39-39067",
+      "fallback_center": "43.3780,-3.8890",
+      "fallback_distance_m": 6000
+    },
+    {
+      "name": "Torrelavega",
+      "location_id": "0-EU-ES-39-39087",
+      "fallback_center": "43.3520,-4.0490",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Cartes",
+      "location_id": "0-EU-ES-39-39015",
+      "fallback_center": "43.3530,-4.0090",
+      "fallback_distance_m": 4000
+    },
+    {
+      "name": "Santona",
+      "location_id": "0-EU-ES-39-39076",
+      "fallback_center": "43.4440,-3.4590",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Noja",
+      "location_id": "0-EU-ES-39-39049",
+      "fallback_center": "43.4860,-3.5350",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Entrambasaguas",
+      "location_id": "0-EU-ES-39-39025",
+      "fallback_center": "43.3780,-3.6890",
+      "fallback_distance_m": 6000
+    },
+    {
+      "name": "Bareyo",
+      "location_id": "0-EU-ES-39-39010",
+      "fallback_center": "43.4750,-3.6700",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Arnuero",
+      "location_id": "0-EU-ES-39-39005",
+      "fallback_center": "43.4780,-3.5090",
+      "fallback_distance_m": 4000
+    },
+    {
+      "name": "BarcenadeCicero",
+      "location_id": "0-EU-ES-39-39008",
+      "fallback_center": "43.4200,-3.4280",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "RibamontanAlMonte",
+      "location_id": "0-EU-ES-39-39057",
+      "fallback_center": "43.4000,-3.7600",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "SantillanadelMar",
+      "location_id": "0-EU-ES-39-39072",
+      "fallback_center": "43.3890,-4.1020",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "AlfozDeLloredo",
+      "location_id": "0-EU-ES-39-39001",
+      "fallback_center": "43.3750,-4.2080",
+      "fallback_distance_m": 6000
+    },
+    {
+      "name": "Comillas",
+      "location_id": "0-EU-ES-39-39020",
+      "fallback_center": "43.3870,-4.2890",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "SanVicenteBarquera",
+      "location_id": "0-EU-ES-39-39068",
+      "fallback_center": "43.3880,-4.3990",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Reocin",
+      "location_id": "0-EU-ES-39-39059",
+      "fallback_center": "43.3680,-4.0870",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "LosCorralesDeBuelna",
+      "location_id": "0-EU-ES-39-39026",
+      "fallback_center": "43.2620,-4.0680",
+      "fallback_distance_m": 5000
     }
   ],
-  "strategy": "fair_round_robin_by_locationid_with_center_fallback"
+  "strategy": "fair_round_robin_by_locationid_with_center_fallback",
+  "merged_from": [
+    "rent_homes_run_20260401_135939",
+    "rent_homes_run_20260401_144949",
+    "rent_homes_run_20260401_145832",
+    "rent_homes_run_20260401_150417"
+  ]
 }

@@ -1,0 +1,499 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "111011656",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/54/55/ed/1422530793.webp",
+      "externalReference": "5264",
+      "numPhotos": 23,
+      "floor": "2",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 86.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Matilde de la Torre, 7",
+      "province": "Cantabria",
+      "municipality": "El Astillero",
+      "country": "es",
+      "latitude": 43.3986606,
+      "longitude": -3.8247664,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111011656/",
+      "distance": "533",
+      "description": "¡Oportunidad única! Piso recién construido, en segunda planta con ascensor, ubicado en El Astillero ( Cantabria)  dentro de una urbanización privada con piscina, zona ajardinada y rodeada de todos los servicios esenciales: supermercados, comercios, centro de salud, colegios y amplias zonas verdes.   Características: - 2 dormitorios (1 con baño en suite) - Salón-comedor amplio y soleado - Cocina con todos los electrodomésticos a estrenar y con salida a tendedero - Armarios empotrados en habitaciones - Calefacción - Plaza de garaje - Trastero  Urbanización: - Piscina comunitaria - Zona ajardinada - Acceso controlado Ubicación: - A 15 minutos de las playas de Somo y Loredo - A 8 km de Santander - Transporte público: - Bus  y Tren  Precio: 800EUR/mes Requisitos: - 1 mes de fianza - 1 mes de alquiler adelantado - Solvencia económica demostrable - No se admiten mascotas ¡Disfruta DE UNA VIVIENDA A ESTRENAR, de la tranquilidad y comodidad de esta urbanización, con fácil acceso a playas y ciudad! Contacta con nosotros para concertar una visita   .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Astillero",
+        "title": "Piso en calle Matilde de la Torre, 7"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110372997",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cb/ee/90/1403259550.webp",
+      "externalReference": "AL2701",
+      "numPhotos": 28,
+      "floor": "1",
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "plaza de la Constitución",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Muriedas",
+      "country": "es",
+      "latitude": 43.4158465,
+      "longitude": -3.8434545,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110372997/",
+      "distance": "2574",
+      "description": "PARA EMPRESAS / TRASLADOS / TRABAJADORES - CONDICIONES A CONSULTAR ( SEGUN NUMERO DE PERSONAS, DURACION, ETC. ). Rentas y Capitales presenta a continuacion amplia y luminosa vivienda en en centro de MALIAÑO, en la plaza de la constitución. La vivienda es una primera planta en un edificio con ascensor, tiene una superficie útil de 90 metros distribuidos en 4 amplios dormitorios con cama de matrimonio cada uno de ellos, amueblados con armarios y mesita. Dispone de cocina independiente moderna, salón con mesa comedor y TV. El baño es moderno equipado con plato de ducha y mampara.  Los suelos son de tarima flotante, dispone de calefacción de gas natural y las ventanas son de PVC climalit. La vivienda ha sido reformada completamente en 2025. Incluye INTERNET. Ubicado en el centro de Maliaño, en la plaza de la constitución, junto a paradas de autobús, supermercados, estación de tren, a 5 km de Santander. Ubicado a escasos 800 metros de la salida de la autovía A8. Esta destinado a un alquiler para EMPRESAS / TRABAJADORES desplazados. No deje pasar esta oportunidad y solicite una visita sin compromiso.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Muriedas, Camargo",
+        "title": "Piso en plaza de la Constitución"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103042988",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/75/4e/37/1373563486.webp",
+      "externalReference": "AL2561",
+      "numPhotos": 7,
+      "floor": "1",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Muriedas",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Muriedas",
+      "country": "es",
+      "latitude": 43.4177875,
+      "longitude": -3.8470329,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/103042988/",
+      "distance": "2934",
+      "description": "////// EMPRESAS - TRASLADOS LABORALES  /////// Presentamos a continuacion estupenda vivienda en el centro de Maliaño. La vivienda es una PRIMERA PLANTA en un edificio con ascensor. Tiene una superficie útil de 80 metros distribuidos en 3 dormitorios amueblados, amplio salón con acceso a terraza cubierta, orientada a la calle principal ( avenida de Bilbao). Cocina individual amueblada con electrodomésticos. El baño esta equipado con plato de ducha y mampara.   Los suelos son de parquet de madera y las ventanas son de PVC climalit. Muy soleado con orientación este-oeste. Se encuentra ubicado en el centro de Maliaño, con todos los servicios a un paso como parada de autobús, comercios, supermercados, centros médicos, etc. A 1 minuto de la salida de la autovía. Esta destinado a empresas o traslados laborales por periodos cortos menores a un año. Las condiciones del alquiler pueden variar en función del tiempo y del nº de personas que habiten la vivienda. Se solicitará solvencia económica para acceder al alquiler de la vivienda. No deje pasar esta oportunidad  y solicite una visita sin compromiso.    .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Muriedas, Camargo",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108938052",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ea/7b/b6/1400922537.webp",
+      "externalReference": "AZA108",
+      "numPhotos": 29,
+      "floor": "2",
+      "price": 850.0,
+      "priceInfo": {
+        "price": {
+          "amount": 850.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "rent",
+      "size": 102.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Guarnizo",
+      "province": "Cantabria",
+      "municipality": "Guarnizo",
+      "country": "es",
+      "latitude": 43.4023628,
+      "longitude": -3.8397954,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108938052/",
+      "distance": "1686",
+      "description": "SE ALQUILA de manera TEMPORAL este estupendo dúplex de tres habitaciones amplias con la cocina completamente equipada y un gran salón con comedor, como los espacios son grandes es ideal para compartir y su ubicación lo hace más interesante para los docentes, se encuentra a muy poca distancia de los institutos y colegios de la zona y además dispone de zonas de aparcamiento alrededor. No dudes en llamarnos y te damos todos los detalles y te lo enseñamos encantad@s.    Imprescindible para el alquiler seguro de protección de pagos para lo cual es necesario presentar la documentación que acredite la solvencia económica.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Guarnizo",
+        "title": "Dúplex"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98468152",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/da/a5/3d/1199244139.webp",
+      "externalReference": "AL2364",
+      "numPhotos": 9,
+      "floor": "2",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Maliaño",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Maliaño",
+      "country": "es",
+      "latitude": 43.4283544,
+      "longitude": -3.8059486,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98468152/",
+      "distance": "3219",
+      "description": "OBSERVACIONESObservaciones públicas: EMPRESAS - VIVIENDA PARA EMPRESAS POR MESES O TEMPORADAS. DISPONIBLE A PARTIR DE JUNIO 2025. ( las condiciones varían según las fechas / nº personas ). Presentamos a continuación amplio piso ubicado en el Puerto Deportivo de Ros - Marina del Cantábrico. La vivienda se encuentra en plena entrada a Santander, a menos de 5 minutos y está destinada a un alquiler por meses o temporadas PARA EMPRESAS O TRABAJADORES DESPLAZADOS.   La vivienda se distribuye en cuatro habitaciones (equipadas con cama, armarios, mesitas y cajones), dos de ellas con balcón, amplio salón-comedor completamente amueblado con balcón, cocina equipada con modernos electrodomésticos. Cuenta con dos baños completos y un aseo. La vivienda cuenta con orientación este, por lo que es luminosa. Suelos de parquet, ventanas de PVC Climalit y calefacción de Gas.   Facilidad de aparcamiento. Preciosas vistas sobre la Bahía de Santander. Ubicada en un lugar tranquilo perfecto para descansar. Zona vigilada. Cercano a los centros comerciales, a los que se puede llegar a pie. Conexión con Santander mediante autovía, carril bici o paseo acondicionado. La vivienda está destinada a un alquiler para EMPRESAS, TRABAJADORES DESPLAZADOS. La vivienda se ubica en Camargo, a 5 minutos de Santander y de Astillero y 10 de Solares, a través de la Autovía A-8 con la que tiene conexión directa. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Maliaño, Camargo",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108236578",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/38/2a/36/1342881500.webp",
+      "externalReference": "CASA LIAÑO",
+      "numPhotos": 44,
+      "price": 2200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 300.0,
+      "rooms": 5,
+      "bathrooms": 2,
+      "address": "Barrio la Cotera",
+      "province": "Cantabria",
+      "municipality": "Villaescusa",
+      "country": "es",
+      "latitude": 43.3778319,
+      "longitude": -3.8332416,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108236578/",
+      "distance": "2821",
+      "description": "Un hogar con espacio, privacidad y naturaleza… sin renunciar a la comodidad del día a día ideal para parejas y familias. Esta casa independiente te ofrece: *Finca vallada de 1.700 m² aprox. con piscina privada y vistas preciosas y despejadas a Santander. *5 dormitorios (2 en planta baja) y 2 baños completos. *Estancias amplias, luminosas y versátiles. *Cocina equipada con muebles sin electrodomésticos, resto de la vivienda sin amueblar para que la adaptes a tu estilo. *Garaje amplio con amplio espacio para guardar cosas y zona interior para varios vehículos. *Zona exterior para aparcar más vehículos. La vivienda está en buen estado, revisada y lista para recibirte. Perfecta para larga temporada o como residencia habitual. Es un hogar donde tendrás amplitud, privacidad y conexión con la naturaleza, con todo lo que necesitas para el día a día muy cerca y en un entorno residencial agradable donde se respira paz. Requisitos para alquilar: fianza, contrato de alquiler, aval bancario y experiencia en mantenimiento y cuidado de viviendas similares. Es necesario cumplir con los requisitos para poder visitar la vivienda. Trato directo con la propiedad.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Villaescusa",
+        "title": "Casa independiente en Barrio la Cotera"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "98913160",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a3/68/3a/1368769724.webp",
+      "externalReference": "AL2412",
+      "numPhotos": 13,
+      "floor": "4",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "El Astillero",
+      "province": "Cantabria",
+      "municipality": "El Astillero",
+      "country": "es",
+      "latitude": 43.398561,
+      "longitude": -3.8216779,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/98913160/",
+      "distance": "346",
+      "description": "///ALQUILER TEMPORAL SOLO PARA EMPRESAS/// Presentamos a continuación amplio piso en Astillero, de reciente construcción. El inmueble se ubica en la calle Navarra, a escasos metros del centro del pueblo. La vivienda se ubica en la CUARTA PLANTA de un EDIFICIO CON ASCENSOR. La vivienda de 85 metros cuadrados se distribuye en 3 habitaciones, salón, dos baños, cocina, tendedero y terraza. El piso está semi-amueblado y recién pintado. Amplio salón con sofá chaise-longue, mesita, mesa,  mueble TV. La cocina está completamente equipada con electrodomésticos (lavadora, frigorífico, horno, LAVAVAJILLAS... ) Baño con bañera y mampara. Calefacción de gas natural, ventanas de PVC, suelos de parquet auténtico. Orientación SUR. Dispone de terraza y tendendero. Existe opción de garaje cerrado de 30 metros cuadrados (se puede hacer trastero)  por 100EUR más. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Astillero",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "99549298",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/0b/1b/eb/1047199177.webp",
+      "externalReference": "AL2433",
+      "numPhotos": 8,
+      "floor": "1",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "El Astillero",
+      "province": "Cantabria",
+      "municipality": "El Astillero",
+      "country": "es",
+      "latitude": 43.4025566,
+      "longitude": -3.8243565,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/99549298/",
+      "distance": "466",
+      "description": "////SOLO PARA EMPRESAS - TEMPORAL ////   Presentamos a continuación céntrica vivienda en El Astillero a 5 minutos andando del puerto de ASTANDER. La vivienda es una PRIMERA PLANTA en un edificio sin ascensor. Tiene una superficie útil de 70 metros distribuidos en 3 dormitorios ( el primero con cama de 1,35, armario y mesita; el segundo con cama de 90 y armario; y el tercero con cama de 90 y armario ). Salón amueblado completamente con sofá, mesa comedor y mueble de tv. Cocina equipada completamente con electrodomésticos y baño con plato de ducha y mampara. La vivienda dispone de caldera de gas para el agua caliente, los suelos son de gres, y las ventanas de PVC de doble cristal.   Es muy luminosa, todo exterior y dispone de orientación sur-este. Esta emplazada en el centro de la localidad, con todos los servicios a un paso como supermercados, bares, comercios, paradas de autobus, etc. A un paso del puerto y de la salida de la autovía A-8. Esta destinado a un alquiler TEMPORAL, y para EMPRESAS que necesiten disponer de una vivienda por unos meses. LAS CONDICIONES PUEDEN VARIAR EN FUNCION DEL TIEMPO. Se solicitará solvencia económica. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Astillero",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "97433737",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bc/b2/59/1276037987.webp",
+      "externalReference": "AL2289",
+      "numPhotos": 9,
+      "floor": "3",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "Muriedas",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Muriedas",
+      "country": "es",
+      "latitude": 43.4191147,
+      "longitude": -3.8465136,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/97433737/",
+      "distance": "2999",
+      "description": "SOLO EMPRESAS - PERSONAL TRASLADADO - POR MESES - TRIMESTRES Presentamos a continuación amplia vivienda en el centro de Maliaño. La vivienda es una TERCERA PLANTA, en un edificio con ascensor. Tiene una superficie útil de 90 metros distribuidos en 4 dormitorios ( el 1º con cama de matrimonio y armario empotrado, el segundo con cama de matrimonio y armario con acceso a balcón, tercero equipado con cama nido  y armario y el cuarto habilitado como despacho (ideal para teletrabajar). Amplio salón comedor amueblado con sofá chase-longe, mesita central y armario de tv, desde el cual accedemos a hermoso balcón orientado a la calle principal. Cocina equipada con electrodomésticos (incluye lavavajillas) y baño completo con plato de ducha. La vivienda dispone de suelos cerámicos y ventanas de PVC climalit. Dispone de calefactores eléctricos.  Es exterior a la calle principal ( avenida de la concordia) tanto el salón como uno de los dormitorios principales. Los muebles son prácticamente nuevos. Esta emplazada en el centro de la Maliaño con todos los servicios a un paso, como paradas de autobús, supermercados, colegios, etc. A un paso de la salida de la autovía A-8. A 6 minutos de Santander. Esta destinado a un alquiler TEMPORAL DE EMPRESAS / TRASLADADOS, se solicitará solvencia económica para acceder al alquiler de la vivienda. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Muriedas, Camargo",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 9,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en El Astillero, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 9,
+  "paginable": false
+}

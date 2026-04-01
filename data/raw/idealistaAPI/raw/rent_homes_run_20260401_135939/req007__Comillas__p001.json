@@ -1,0 +1,438 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "109821353",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ba/be/fe/1386668655.webp",
+      "numPhotos": 56,
+      "price": 6500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 6500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 450.0,
+      "rooms": 5,
+      "bathrooms": 6,
+      "address": "BO LIANDRES, 52",
+      "province": "Cantabria",
+      "municipality": "Ruiloba",
+      "country": "es",
+      "latitude": 43.392848,
+      "longitude": -4.2522209,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109821353/",
+      "distance": "3042",
+      "description": "Chalet Independiente en Alquiler - Vistas Espectaculares ¡Descubre esta impresionante casa independiente de cinco dormitorios, disponible para alquiler desde febrero! Situada en una exclusiva urbanización privada, esta propiedad de 450 m² construidos ofrece unas bonitas vistas al mar y a la montaña. Con sus cinco amplios dormitorios, cada uno con baño integrado, y un luminoso salón independiente, este chalet es perfecto para disfrutar de la tranquilidad y el confort. La cocina funcional se complementa con una gran terraza que ofrece vistas al mar y a la montaña, ideal para relajarse al atardecer. La casa cuenta con un dormitorio principal que incluye un vestidor y un cuarto de baño privado, asegurando privacidad y comodidad. Además, tres de los dormitorios tienen grandes ventanales que permiten la entrada de luz natural y vistas impresionantes, La propiedad también dispone de una zona de lavado, acceso directo al garaje y un trastero para mayor comodidad. Con una parcela de 1.157 m², hay espacio suficiente para disfrutar del aire libre. El precio del alquiler es de 5.000€ por semana en junio y 6.000€ por semana en julio. Ten en cuenta que no está disponible del 3 al 23 de agosto. ¡No pierdas la oportunidad de vivir en este maravilloso chalet!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ruiloba",
+        "title": "Casa independiente en Bo Liandres, 52"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109967123",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/05/d0/19/1391226863.webp",
+      "numPhotos": 14,
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 179.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Barrio la Cotera, 4",
+      "province": "Cantabria",
+      "municipality": "Comillas",
+      "country": "es",
+      "latitude": 43.3827283,
+      "longitude": -4.3114182,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109967123/",
+      "distance": "1872",
+      "description": "Casa pareada en barrio Travía Comillas. Alquiler larga temporada. Distribución.  Planta baja: salon, baño, cocina, dormitorio, baño y almacen. Planta primera 3 dormitorios. La casa tiene buenas vistas y esta en una zona tranquila. Dispone de radiadores eléctricos y chimenea. Se entregará pintada.  No se alquila corta temporada. A 1 km de Comillas pueblo y a 1,5 de la playa de Oyambre.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Comillas",
+        "title": "Chalet pareado en Barrio la Cotera, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "92531297",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/06/e4/a1/841913006.webp",
+      "externalReference": "casita Sobrellano",
+      "numPhotos": 28,
+      "price": 1450.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1450.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "rent",
+      "size": 156.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio Sobrellano, 1",
+      "province": "Cantabria",
+      "municipality": "Comillas",
+      "country": "es",
+      "latitude": 43.3833487,
+      "longitude": -4.2927536,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/92531297/",
+      "distance": "506",
+      "description": "**¡Descubre la encantadora casita adosada en el pintoresco pueblo de Comillas! ** Esta joya, completamente reformada, ofrece un refugio ideal para quienes buscan tranquilidad y confort. Con 156 m² construidos y 121 m² útiles, cuenta con dos acogedores dormitorios y dos baños. La chimenea añade un toque cálido y acogedor, ideal para las noches de invierno. Ubicada en un barrio sereno, la casa está a solo 5 minutos de la plaza y las tiendas locales, lo que te permitirá disfrutar de la vida del pueblo sin renunciar a la comodidad. Además, la playa se encuentra a tan solo 15 minutos a pie.  El alquiler es flexible, disponible por temporadas o días sueltos, con un precio mensual de 1450€ fuera de temporada (suministros no incluidos).  Dispone de agua caliente y calefacción de gas garantizando un ambiente agradable durante todo el año. Con wifi incluida, podrás estar conectado mientras disfrutas de tu escapada. ¡No dejes pasar la oportunidad de vivir una experiencia única en Comillas! El precio puede cambiar según la temporada del año. (SIN COMISION DE AGENCIA).",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casaDePueblo"
+      },
+      "suggestedTexts": {
+        "subtitle": "Comillas",
+        "title": "Casa de pueblo en Barrio Sobrellano, 1"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109227590",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3b/9f/44/1368072233.webp",
+      "numPhotos": 11,
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "rent",
+      "size": 97.0,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Solapeña, 2",
+      "province": "Cantabria",
+      "municipality": "Comillas",
+      "country": "es",
+      "latitude": 43.362779,
+      "longitude": -4.2920015,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109227590/",
+      "distance": "2704",
+      "description": "**Casa Rural en Alquiler en Comillas - Un Rincón de Encanto** Descubre este maravilloso rincón con encanto en plena naturaleza, ideal para disfrutar de unas vacaciones inolvidables. Situada en Ruiseñada (Comillas), esta casita rural recién construida ofrece un refugio perfecto para parejas que buscan tranquilidad y conexión con el entorno. Con 97 m² construidos y 85 m² útiles, cuenta con un acogedor dormitorio en doble altura, lleno de luz, y un baño completo que garantiza comodidad. La casa está completamente amueblada y lista para entrar, con una cocina equipada. Además, podrás relajarte en el bonito porche exterior, perfecto para disfrutar al aire libre mientras te rodeas de la belleza natural de la zona. Si buscas un espacio extra, hay una opción de habitación independiente con baño propio y acceso directo, ideal para recibir visitas o simplemente disfrutar de mayor privacidad. Con calefacción aerotermia y una orientación sur-este que asegura luminosidad durante todo el día, esta casa es el lugar perfecto para desconectar y recargar energías. A solo unos minutos de la playa, tendrás la oportunidad de explorar la costa y practicar diversas actividades al aire libre. ¡No dejes pasar la oportunidad de vivir esta experiencia única en Cantabria! El precio puede cambiar según la temporada del año. Y no está disponible en el mes de AGOSTO. (SIN COMISION DE AGENCIA).",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casale"
+      },
+      "suggestedTexts": {
+        "subtitle": "Comillas",
+        "title": "Casa rural en Solapeña, 2"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104634509",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4a/07/0e/1238862100.webp",
+      "numPhotos": 13,
+      "floor": "2",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "calle Germán Castro s/n",
+      "province": "Cantabria",
+      "municipality": "Comillas",
+      "country": "es",
+      "latitude": 43.3854211,
+      "longitude": -4.2896003,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/104634509/",
+      "distance": "182",
+      "description": "¡Ven a vivir en el corazón de Comillas! Este encantador dúplex recién reformado es perfecto para aquellos que buscan comodidad y proximidad a todos los servicios esenciales. Con 90 m² construidos, esta vivienda ofrece un espacio amplio y acogedor distribuido en dos plantas. En la planta baja encontrarás una cocina equipada, un aseo y un luminoso salón con calefacción por suelo radiante para mantenerte cálido en los meses más fríos. El precio puede cambiar según la temporada del año. (SIN COMISION DE AGENCIA) Subiendo a la planta superior, te esperan dos dormitorios con camas individuales y armarios empotrados, ideales para maximizar el espacio de almacenamiento. Además, cuenta con un baño completo perfectamente equipado. Este dúplex, situado en la segunda planta de un edificio con ascensor, se encuentra en excelente estado de conservación y dispone de caldera de gas con depósito de agua y suelo radiante, garantizando tu confort durante todo el año. No solo es funcional, sino que también está ubicado en una zona con mucho encanto, rodeado de la belleza y tranquilidad que caracteriza a Comillas. La clase energética C tanto en consumo de energía como en emisiones de CO2 asegura una vivienda eficiente y respetuosa con el medio ambiente. No pierdas la oportunidad de vivir en este lugar con tanto encanto. ¡Contáctanos para más información! ¡Comillas te espera!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Comillas",
+        "title": "Dúplex en calle Germán Castro s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107929009",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5b/dd/26/1328612461.webp",
+      "numPhotos": 26,
+      "price": 5000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 5000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 392.0,
+      "rooms": 6,
+      "bathrooms": 5,
+      "address": "Barrio de la Molina",
+      "province": "Cantabria",
+      "municipality": "Comillas",
+      "country": "es",
+      "latitude": 43.3621854,
+      "longitude": -4.2911451,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107929009/",
+      "distance": "2764",
+      "description": "¡Descubre la mejor casa para pasar tus vacaciones! ¡Esta impresionante casa independiente en alquiler! Situado en un amplio terreno de 804 m², la propiedad destaca por su generosa área de prado-jardín de 656 m², perfecta para disfrutar del aire libre. La casa cuenta con 366,05 m² construidos, distribuidos en tres plantas que ofrecen una distribución funcional y acogedora. Con 6 dormitorios y 5 baños, hay espacio suficiente para toda la familia.  Cada rincón de esta vivienda ha sido diseñado con atención al detalle, desde la estructura de madera de roble hasta las elegantes carpinterías de castaño. Disfruta de la calidez de los tres salones y la comodidad de dos cocinas completamente equipadas. Además, el porche cubierto orientado al sudoeste es ideal para relajarse al atardecer.  La vivienda está adaptada para garantizando confort durante todo el año. Ubicada en un entorno natural excelente, este inmueble es un verdadero oasis. ¡No pierdas la oportunidad de pasar tus vacaciones en un lugar que combina naturaleza y comodidad! El precio varía en función de la fecha y el número de noches. No dudes en consultarnos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Comillas",
+        "title": "Casa independiente en Barrio de la Molina"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "81166935",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e3/44/1d/574257148.webp",
+      "externalReference": "CBD",
+      "numPhotos": 54,
+      "floor": "bj",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "paseo ANTONIO GARELLY",
+      "province": "Cantabria",
+      "municipality": "Comillas",
+      "country": "es",
+      "latitude": 43.3885862,
+      "longitude": -4.2949115,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/81166935/",
+      "distance": "509",
+      "description": "Precioso Apartamento de 2 dormitorios y 2 baños, con terraza y 2 Patios exteriores, en orientación SUR.  En una UBICACION PERFECTA! Tanto para los meses de INVIERNO, por su cercanía al centro de Comillas, a supermercados, bares, lugares de interés, a 4 minutos a pie del Ayuntamiento, como para disfrutar de unas estupendas VACACIONES DE VERANO, por su proximidad a la playa, a tan solo 2 minutos andando y SIN CUESTAS.  Ubicado en edificio de nueva construcción, con alta calidad constructiva y primerísimas calidades interiores, que se notan en cada una de las estancias de la vivienda. Parquet en suelos, baños y cocina con azulejos PORCELANOSA, magnificas ventanas de PVC oscilobatientes, estupendo sistema de calefacción individual de GAS NATURAL con caldera Saunier Duval le dan una calidez a la vivienda que no es facil de encontrar.  El edificio dispone de ASCENSOR desde planta sótano donde se encuentra el garaje, por lo tanto, es comodísimo. Tiene 2 dormitorios dobles, con una cama de 150 cm y dos de 90 cm respectivamente, con colchones VISCOLASTICO y mucho espacio de almacenamiento. También dispone de sofá cama doble en el salón.  Con capacidad para 4 - 6 personas. Cuenta con 2 cuartos de baños completos muy bonitos, con bañera y plato de ducha respectivamente y con secador de pelo. Cocina independiente, perfectamente equipada con LAVADORA/SECADORA, lavavajillas, horno, vitro.. . y todo el pequeño electrodoméstico y menaje necesario como si estuvieras en tu propia casa. Tiene acceso a un patio trasero, con tendedero exterior muy soleado, donde podrás disfrutar al aire libre, tomar el sol y refrescarte con la manguera. Salón también muy soleado, ya que esta orientado al sur, es muy agradable, con salida a una terraza y a un patio delantero, perfecto para relajarte al volver de la playa. La vivienda esta situada en planta baja, pero no está a nivel de calle, sino elevada y con los patios delantero y trasero protegidos con seto, le dan una perfecta discreción. Además es muy luminoso ya que tiene ventanas en 3 orientaciones. Incluido una Plaza de garaje muy grande y con muy fácil acceso y un amplio trastero, con 2 sillas de playa a tu disposición. NO SE ADMITEN ANIMALES, lo siento! Aunque tengamos espacios exteriores en la vivienda, ellos no pueden hospedarse. Llama o escribemé! Y disfruta de todas las comodidades y tranquilidad de esta casa. Consulta DISPONIBILIDAD y PRECIO en temporada VERANO 2.026 y resto del año.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Comillas",
+        "title": "Piso en paseo Antonio Garelly"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "33477037",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d8/ac/7f/151894278.webp",
+      "externalReference": "C2A",
+      "numPhotos": 39,
+      "floor": "2",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 120.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "paseo garelly",
+      "province": "Cantabria",
+      "municipality": "Comillas",
+      "country": "es",
+      "latitude": 43.389177,
+      "longitude": -4.2944415,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/33477037/",
+      "distance": "501",
+      "description": "DUPLEX de NUEVA CONSTRUCCION, MUY BONITO! A 2 MINUTOS de la PLAYA. Todo exterior, con 3 dormitorios y capacidad de 6 a 8 personas. Fantástica ubicación para ir andando a la playa y a 4 minutos de la plaza Mayor de Comillas. Sin una sola cuesta. Edificio NUEVO con ascensor. Perfectamente amueblado y equipado con TODO lo necesario para disfrutar de unas estupendas vacaciones familiares de verano. Dispone de 3 habitaciones, una de ellas en planta de abajo con cama de matrimonio, dos dobles en la planta de arriba, una de ellas con TV, dos sofás cama y cuna de viaje. 2 baños completos con bañera y ducha respectivamente y secador de pelo, cocina completamente equipada, incluido lavaplatos y lavadora /secadora, tendedero exterior, terraza exterior. 4 armarios empotrados. Dispone de todo el menaje de cocina, ropa de cama y baño, pequeño electrodoméstico.. . Todo en Perfecto estado. Calefacción individual de gas natural. Trastero y plaza de garaje. NO SE ADMITEN ANIMALES. Consultar PRECIO y disponibilidad Temporada VERANO 2026 y resto del año.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Comillas",
+        "title": "Piso en paseo garelly"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 8,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Comillas, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 8,
+  "paginable": false
+}
