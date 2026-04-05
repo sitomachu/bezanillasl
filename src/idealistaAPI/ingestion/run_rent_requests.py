@@ -6,15 +6,18 @@ from datetime import datetime
 from src.idealistaAPI.ingestion.services.request_service import add_common_args, run_new
 
 
+DEFAULT_RENT_CSV = "rent_homes_cantabria_bezana_like_raw.csv"
+
+
 def build_parser() -> argparse.ArgumentParser:
-    p = argparse.ArgumentParser(description="Run RENT requests and store raw responses.")
-    add_common_args(p, default_csv="rent_homes_cantabria_bezana_like_raw.csv")
-    return p
+    parser = argparse.ArgumentParser(description="Run RENT requests and store raw responses.")
+    add_common_args(parser, default_csv=DEFAULT_RENT_CSV)
+    return parser
 
 
 def main() -> int:
     args = build_parser().parse_args()
-    out_dir = run_new(
+    processed_dir = run_new(
         operation="rent",
         max_requests=int(args.max_requests),
         max_pages_per_circle=max(1, int(args.max_pages_per_circle)),
@@ -24,7 +27,7 @@ def main() -> int:
     )
     now = datetime.now().strftime("%H:%M:%S")
     print(
-        f"[{now}] Ejecucion finalizada. resultados_en={processed_dir.resolve()} csv_generado={csv_path.resolve()}",
+        f"[{now}] Ejecucion finalizada. resultados_en={processed_dir.resolve()}",
         flush=True,
     )
     return 0

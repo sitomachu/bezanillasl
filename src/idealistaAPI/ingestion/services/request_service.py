@@ -186,6 +186,7 @@ def _new_manifest(
     max_pages_per_location: int,
     output_csv_name: str,
     locations: List[Location],
+    pool_expansion_enabled: bool,
 ) -> Dict[str, Any]:
     return {
         "run_id": run_id,
@@ -196,7 +197,12 @@ def _new_manifest(
         "max_items": MAX_ITEMS,
         "output_csv_name": output_csv_name,
         "locations_effective": [loc.__dict__ for loc in locations],
-        "strategy": "fair_round_robin_by_locationid_with_center_fallback_pool_expansion",
+        "pool_expansion_enabled": pool_expansion_enabled,
+        "strategy": (
+            "fair_round_robin_by_locationid_with_center_fallback_pool_expansion"
+            if pool_expansion_enabled
+            else "fair_round_robin_by_locationid_with_center_fallback_no_pool_expansion"
+        ),
     }
 
 
@@ -205,19 +211,26 @@ def _write_summary(
     processed_dir: Path,
     used_requests: int,
     stopped_by_quota: bool,
+    stopped_by_user: bool,
     quota_error: Optional[str],
+    unexpected_error: Optional[str],
     output_csv_name: str,
     raw_dir: Path,
+    csv_path: Optional[Path],
+    postprocess_status: str,
     states: List[CircleState],
 ) -> None:
     payload = {
         "used_requests": used_requests,
         "stopped_by_quota": stopped_by_quota,
+        "stopped_by_user": stopped_by_user,
         "quota_error": quota_error,
+        "unexpected_error": unexpected_error,
         "raw_dir": str(raw_dir),
         "processed_dir": str(processed_dir),
-        "postprocess_status": "pending_manual_notebook",
+        "postprocess_status": postprocess_status,
         "suggested_output_csv": output_csv_name,
+        "csv_path": str(csv_path) if csv_path is not None else None,
         "location_states": [
             {
                 "name": st.location.name,
@@ -291,6 +304,7 @@ def run_new(
     no_adaptive_pages: bool = False,
     force_max_requests: bool = False,
     locations: Optional[List[Location]] = None,
+    allow_pool_expansion: bool = True,
 ) -> Path:
     client = IdealistaClient()
     run_id = _run_id()
@@ -311,127 +325,154 @@ def run_new(
             max_pages_per_location=max_pages_per_circle,
             output_csv_name=output_csv_name,
             locations=locations,
+            pool_expansion_enabled=allow_pool_expansion,
         ),
     )
 
     used = 0
     stopped_by_quota = False
+    stopped_by_user = False
     quota_error: Optional[str] = None
+    unexpected_error: Optional[str] = None
+    csv_path: Optional[Path] = None
+    postprocess_status = "not_started"
+    pending_exception: Optional[Exception] = None
     _log(
         f"Inicio de ejecucion: operacion={operation} run_id={run_id} "
         f"objetivo_requests={max_requests} max_paginas_por_ubicacion={max_pages_per_circle} "
         f"ubicaciones_iniciales={len(states)} pool_total={len(_CANTABRIA_POOL)}"
     )
 
-    while used < max_requests:
-        active = _active_states_force(states, max_pages_per_circle, force_max_requests)
-        if not active:
-            tried = {st.location.name for st in states}
-            pending = [loc for loc in _CANTABRIA_POOL if loc.name not in tried]
-            if not pending:
-                _log("Pool de municipios agotado. Se detiene la ejecucion.")
-                break
-            states.extend(CircleState(location=loc) for loc in pending)
-            _log(
-                f"Lote actual agotado. Incorporando {len(pending)} municipios nuevos del pool: "
-                f"{[l.name for l in pending]}"
-            )
-            continue
-
-        st = _pick_state(active)
-        tag = f"req{used + 1:03d}"
-        page = st.next_page
-        total_pages_str = str(st.total_pages) if st.total_pages is not None else "?"
-        _log(
-            f"Request {used + 1}/{max_requests}: tag={tag} ubicacion={st.location.name} "
-            f"pagina={page}/{total_pages_str} requests_en_ubicacion={st.requests}"
-        )
-
-        try:
-            resp = _search_one(
-                client,
-                operation=operation,
-                location=st.location,
-                page=page,
-                raw_dir=raw_dir,
-                tag=tag,
-            )
-        except IdealistaAPIError as exc:
-            if _is_quota_exhausted_error(exc):
-                stopped_by_quota = True
-                quota_error = str(exc)
-                _write_json(raw_dir / f"{tag}__STOP_QUOTA.json", {"error": quota_error})
-                _log(f"Cupo o limite de peticiones. Se detiene la ejecucion. error={quota_error}")
-                break
-
-            _write_json(
-                raw_dir / f"{tag}__ERROR.json",
-                {"error": str(exc), "location": st.location.__dict__, "page": page},
-            )
-            used += 1
-            st.requests += 1
-            st.consecutive_errors += 1
-            _log(
-                f"Error en request (no-quota). Se continua. tag={tag} "
-                f"errores_consecutivos={st.consecutive_errors} error={exc}"
-            )
-            if st.consecutive_errors >= _MAX_CONSECUTIVE_ERRORS:
-                st.exhausted = True
+    try:
+        while used < max_requests:
+            active = _active_states_force(states, max_pages_per_circle, force_max_requests)
+            if not active:
+                if not allow_pool_expansion:
+                    _log("Ubicaciones objetivo agotadas. Se detiene sin expandir al pool general.")
+                    break
+                tried = {st.location.name for st in states}
+                pending = [loc for loc in _CANTABRIA_POOL if loc.name not in tried]
+                if not pending:
+                    _log("Pool de municipios agotado. Se detiene la ejecucion.")
+                    break
+                states.extend(CircleState(location=loc) for loc in pending)
                 _log(
-                    f"  → {_MAX_CONSECUTIVE_ERRORS} errores consecutivos. "
-                    f"Se omite ubicacion: {st.location.name}"
+                    f"Lote actual agotado. Incorporando {len(pending)} municipios nuevos del pool: "
+                    f"{[l.name for l in pending]}"
                 )
-            continue
-
-        used += 1
-        st.requests += 1
-        st.next_page += 1
-        st.consecutive_errors = 0
-
-        if st.total_pages is None:
-            tp = resp.get("totalPages")
-            if isinstance(tp, int) and tp > 0:
-                st.total_pages = tp
-                _log(f"  → {st.location.name}: {resp.get('total', '?')} anuncios en {tp} paginas totales")
-
-        element_list = resp.get("elementList") or []
-
-        if not force_max_requests:
-            if not element_list:
-                st.exhausted = True
-                _log(f"Pagina vacia. Ubicacion agotada: {st.location.name}")
                 continue
 
-            if st.total_pages is not None and st.next_page > st.total_pages:
-                st.exhausted = True
-                _log(
-                    f"Todas las paginas obtenidas ({st.total_pages}). "
-                    f"Ubicacion agotada: {st.location.name}"
+            st = _pick_state(active)
+            tag = f"req{used + 1:03d}"
+            page = st.next_page
+            total_pages_str = str(st.total_pages) if st.total_pages is not None else "?"
+            _log(
+                f"Request {used + 1}/{max_requests}: tag={tag} ubicacion={st.location.name} "
+                f"pagina={page}/{total_pages_str} requests_en_ubicacion={st.requests}"
+            )
+
+            try:
+                resp = _search_one(
+                    client,
+                    operation=operation,
+                    location=st.location,
+                    page=page,
+                    raw_dir=raw_dir,
+                    tag=tag,
                 )
-            elif (not no_adaptive_pages) and (len(element_list) < MAX_ITEMS) and (st.total_pages is None):
-                st.exhausted = True
-                _log(f"Pagina incompleta (totalPages no disponible). Ubicacion agotada: {st.location.name}")
+            except IdealistaAPIError as exc:
+                if _is_quota_exhausted_error(exc):
+                    stopped_by_quota = True
+                    quota_error = str(exc)
+                    _write_json(raw_dir / f"{tag}__STOP_QUOTA.json", {"error": quota_error})
+                    _log(f"Cupo o limite de peticiones. Se detiene la ejecucion. error={quota_error}")
+                    break
 
-        _log(
-            f"Request OK. tag={tag} anuncios={len(element_list)} "
-            f"proxima_pagina={st.next_page} requests_usadas={used}"
-        )
+                _write_json(
+                    raw_dir / f"{tag}__ERROR.json",
+                    {"error": str(exc), "location": st.location.__dict__, "page": page},
+                )
+                used += 1
+                st.requests += 1
+                st.consecutive_errors += 1
+                _log(
+                    f"Error en request (no-quota). Se continua. tag={tag} "
+                    f"errores_consecutivos={st.consecutive_errors} error={exc}"
+                )
+                if st.consecutive_errors >= _MAX_CONSECUTIVE_ERRORS:
+                    st.exhausted = True
+                    _log(
+                        f"  → {_MAX_CONSECUTIVE_ERRORS} errores consecutivos. "
+                        f"Se omite ubicacion: {st.location.name}"
+                    )
+                continue
 
-    _write_summary(
-        processed_dir=processed_dir,
-        used_requests=used,
-        stopped_by_quota=stopped_by_quota,
-        quota_error=quota_error,
-        output_csv_name=output_csv_name,
-        raw_dir=raw_dir,
-        states=states,
-    )
-    try:
-        csv_path = clean_json_run(input_dir=raw_dir, output_filename=output_csv_name)
-        _log(f"CSV generado: {csv_path.resolve()}")
+            used += 1
+            st.requests += 1
+            st.next_page += 1
+            st.consecutive_errors = 0
+
+            if st.total_pages is None:
+                tp = resp.get("totalPages")
+                if isinstance(tp, int) and tp > 0:
+                    st.total_pages = tp
+                    _log(f"  → {st.location.name}: {resp.get('total', '?')} anuncios en {tp} paginas totales")
+
+            element_list = resp.get("elementList") or []
+
+            if not force_max_requests:
+                if not element_list:
+                    st.exhausted = True
+                    _log(f"Pagina vacia. Ubicacion agotada: {st.location.name}")
+                    continue
+
+                if st.total_pages is not None and st.next_page > st.total_pages:
+                    st.exhausted = True
+                    _log(
+                        f"Todas las paginas obtenidas ({st.total_pages}). "
+                        f"Ubicacion agotada: {st.location.name}"
+                    )
+                elif (not no_adaptive_pages) and (len(element_list) < MAX_ITEMS) and (st.total_pages is None):
+                    st.exhausted = True
+                    _log(f"Pagina incompleta (totalPages no disponible). Ubicacion agotada: {st.location.name}")
+
+            _log(
+                f"Request OK. tag={tag} anuncios={len(element_list)} "
+                f"proxima_pagina={st.next_page} requests_usadas={used}"
+            )
+    except KeyboardInterrupt:
+        stopped_by_user = True
+        _log("Interrupcion manual recibida. Se finaliza el run con los datos ya descargados.")
     except Exception as exc:
-        _log(f"AVISO: no se pudo generar el CSV automaticamente. error={exc}")
-    _log(f"Ejecucion finalizada. requests_usadas={used} summary={processed_dir / 'summary.json'}")
+        unexpected_error = f"{type(exc).__name__}: {exc}"
+        pending_exception = exc
+        _log(f"ERROR inesperado. Se finaliza el run con los datos ya descargados. error={unexpected_error}")
+    finally:
+        try:
+            csv_path = clean_json_run(input_dir=raw_dir, output_filename=output_csv_name)
+            postprocess_status = "csv_generated"
+            _log(f"CSV generado: {csv_path.resolve()}")
+        except Exception as exc:
+            postprocess_status = f"csv_generation_failed: {type(exc).__name__}"
+            _log(f"AVISO: no se pudo generar el CSV automaticamente. error={exc}")
+
+        _write_summary(
+            processed_dir=processed_dir,
+            used_requests=used,
+            stopped_by_quota=stopped_by_quota,
+            stopped_by_user=stopped_by_user,
+            quota_error=quota_error,
+            unexpected_error=unexpected_error,
+            output_csv_name=output_csv_name,
+            raw_dir=raw_dir,
+            csv_path=csv_path,
+            postprocess_status=postprocess_status,
+            states=states,
+        )
+        _log(f"Ejecucion finalizada. requests_usadas={used} summary={processed_dir / 'summary.json'}")
+
+    if pending_exception is not None:
+        raise pending_exception
     return processed_dir
 
 
