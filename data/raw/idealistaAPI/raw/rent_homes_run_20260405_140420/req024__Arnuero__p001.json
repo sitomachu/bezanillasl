@@ -1,0 +1,297 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "100414237",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fe/c9/de/1327098106.webp",
+      "externalReference": "V2022102",
+      "numPhotos": 21,
+      "floor": "2",
+      "price": 3500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 3500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 65.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Ris",
+      "province": "Cantabria",
+      "municipality": "Noja",
+      "district": "Ris",
+      "country": "es",
+      "latitude": 43.4903694,
+      "longitude": -3.526903,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/100414237/",
+      "distance": "1994",
+      "description": "Se alquila piso en Noja cerca de la playa de Ris.  El piso consta de amplio salón-comedor, cocina equipada, 2 habitaciones (1 con cama de matrimonio y otra con 2 camas individuales) y 1 baño con bañera. Además, dispone de una bonita terracita para disfrutar del sol del verano o leer un libro. Y, como no, cuenta con garaje, tan necesario en Noja en verano. La urbanización cuenta con piscina y jardín comunitarios con columpios.  PRECIOS: Del 25 de julio al 31 de agosto: 3.900€ AGOSTO: Mes: 3.500€ Ocupado hasta el 25 de julio. Para más información y precios no dudes en ponerte en contacto con nosotros. Garanty Home Cantabria, c/Emperador 1, Laredo.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 54.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ris, Noja",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110859231",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c7/2a/ec/1417730117.webp",
+      "numPhotos": 8,
+      "floor": "bj",
+      "price": 2725.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2725.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "avenida Ris",
+      "province": "Cantabria",
+      "municipality": "Noja",
+      "district": "Ris",
+      "country": "es",
+      "latitude": 43.4875729,
+      "longitude": -3.5311839,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110859231/",
+      "distance": "2082",
+      "description": "Apartamento moderno a 3 minutos de la Playa de Ris Disfruta de una estancia cómoda y moderna en este acogedor apartamento totalmente reformado, situado a solo 320 metros de la Playa de Ris, una de las más bonitas de la zona. La vivienda, recientemente renovada, ofrece un espacio funcional y muy agradable, ideal para familias, parejas o amigos que quieran disfrutar de unos días cerca del mar. ✨ El alojamiento dispone de: � 2 dormitorios � 1 baño completo con plato de ducha � Salón con cocina integrada, moderno y cómodo � Reforma reciente, con estilo actual � Ubicación excelente, a pocos minutos caminando de la playa Al estar en planta baja, el acceso es muy cómodo, perfecto para entrar y salir fácilmente después de un día de playa. ℹ️ A tener en cuenta: El apartamento se encuentra limpio, con sábanas y toallas. El alojamiento no dispone de plaza de parking, aunque hay zonas de aparcamiento en los alrededores. � Ideal para disfrutar de la playa, el descanso y el ambiente de la zona sin necesidad de coger el coche. Disponible junio (1800€), julio (3000€), agosto (4300€) y septiembre (1800€). ¡Te esperamos para que disfrutes de una estancia perfecta cerca del mar!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 55.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ris, Noja",
+        "title": "Piso en avenida Ris"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109865862",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2b/52/cb/1387985133.webp",
+      "externalReference": "002197",
+      "numPhotos": 54,
+      "floor": "1",
+      "price": 550.0,
+      "priceInfo": {
+        "price": {
+          "amount": 550.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 62.0,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "paseo de Trengandín",
+      "province": "Cantabria",
+      "municipality": "Noja",
+      "district": "Tregadín",
+      "country": "es",
+      "latitude": 43.4806351,
+      "longitude": -3.5196492,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109865862/",
+      "distance": "907",
+      "description": "ALQUILER DE SEPTIEMBRE A JUNIO ( NO ALQUILER ANUAL ). Ref.2197 - NOJASOL INMOBILIARIA alquila en NOJA precioso primer PISO de 2 HABIT. con 3 terrazas y garaje subterráneo (PASEO TRENGANDIN Nº 3).  El inmueble se encuentra en una primera planta sin ascensor. Este piso luminoso y bien distribuido, con orientación sureste, ideal para disfrutar de la luz natural durante todo el día. La vivienda cuenta con un amplio salón principal con zona de comedor adyacente, ideal para reuniones y momentos de convivencia. Con salida a una estupenda terraza con una mesa y dos silla con vistas laterales a la playa. Cocina independiente totalmente equipada con muebles y electrodomésticos de buena calidad (vitrocerámica, horno, nevera, microondas...). No tiene lavavajillas. Dispone de una práctica terraza auxiliar que funciona como zona de lavandería, dotada de lavadora y con excelente ventilación natural. Un espacio funcional y bien aprovechado que combina comodidad y estilo. Baño moderno y reformado, con acabados de calidad. Cuenta con bañera con ducha tipo lluvia, mueble de lavabo con espejo LED y radiador toallero. Luminoso, funcional y con un toque elegante. Dos confortables habitaciones: * Dormitorio principal contiene una cama matrimonial de 1,50mts, un armario empotrado y una terraza para disfrutar cómodamente mientras admiras las vistas a la playa TRENGANDIN. Dormitorio con cama nido de 0,90 m y un colchón extraíble de la misma medida, además de armario empotrado. Es importante tener en cuenta que, si se saca la cama inferior, no queda mucho espacio y es algo \"engorroso\" su apertura, por lo que su uso requiere cierta planificación. Sus tres terrazas perfectas para relajarse y también disfrutar al aire libre mientras contemplamos las maravillosas vistas de fondo a la playa. El piso dispone de calefacción por gas ciudad y se entrega totalmente amueblado y listo para entrar a vivir, con todo lo necesario para el día a día. Esta vivienda se incluye una plaza de garaje subterránea. MEDIDAS: ANCHO: 2,13mts FONDO: 4,87mts ALTO INTERIOR GARAJES: 2,10mts PUERTA COMUNIDAD (alto): 1,95mts. Además, el edificio cuenta con un parking para residentes al exterior con capacidad aproximada para 10 vehículos. ofreciendo una excelente opción adicional de aparcamiento tanto para residentes como para visitas Esta situado a unos 50 mts de la playa de Trengandin, 150mts de la Plaza de Villa (CENTRO DE NOJA), 200 mts de supermercados, a unos 225 mts del estación de buses. Dispone de videos. Se requiere nomina con antigüedad, pensión compensatoria o declaración de la renta (en el caso de autónomos que tengan recorrido estable laboral en su profesión) para justificar ingresos. El alquiler con gastos no puede superar el 30% de los ingresos demostrables (si fuese así la propiedad no va aceptar). Se pide una fianza 1100€.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Tregadín, Noja",
+        "title": "Piso en paseo de Trengandín"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107891407",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/51/33/6a/1327487902.webp",
+      "numPhotos": 29,
+      "price": 4100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 4100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 320.0,
+      "rooms": 5,
+      "bathrooms": 3,
+      "address": "calle la Brava, 29",
+      "province": "Cantabria",
+      "municipality": "Noja",
+      "district": "Ris",
+      "country": "es",
+      "latitude": 43.4872735,
+      "longitude": -3.527417,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/107891407/",
+      "distance": "1808",
+      "description": "NOTA INFORMATIVA TEMPORADA 2026 * 2DA QUINCENA DE JULIO Y TODO AGOSTO RESERVADO EL RESTO DE FECHAS CONTINÚAN DISPONIBLES ¡Tu refugio perfecto te está esperando en Noja! Si buscas un lugar donde el verano se sienta como en casa, este espectacular pareado en Noja es para ti. ✨ Espacio de sobra para todos: 4 habitaciones con baño compartido, una de ellas con baño en suite y una quinta en el ático con encanto de cabaña, perfecta para otras 4 personas con baño. Comodidad y privacidad aseguradas. Con capacidad total para 12 personas. ☀️ Disfruta del aire libre como nunca: Distintos balcones, una terraza para desayunos con brisa y un jardín de 1.000m² para tomar el sol, jugar con los peques o preparar una barbacoa inolvidable. Olvídate del aparcamiento: 3 plazas exteriores + 1 interior para que todos lleguen sin preocupaciones. Un verano de tranquilidad y desconexión te espera en Noja. ¿Te imaginas aquí? Escríbeme y ven a conocerla. ¡No tardes, que el verano vuela! ☀️ SOLO SE ALQUILA POR QUINCENAS CONSULTA DISPONIBILIDAD Y PRECIOS PARA LA TEMPORADA 2026.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ris, Noja",
+        "title": "Chalet pareado en calle la Brava, 29"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106840304",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/97/f4/4f/1295537406.webp",
+      "externalReference": "L-1117",
+      "numPhotos": 35,
+      "floor": "1",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Ris",
+      "province": "Cantabria",
+      "municipality": "Noja",
+      "district": "Ris",
+      "country": "es",
+      "latitude": 43.4899685,
+      "longitude": -3.5272773,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106840304/",
+      "distance": "1986",
+      "description": "SE ALQUILA VIVIENDA VACACIONAL (JUNIO A SEPTIEMBRE), DISPONIBLE - MAYO COMPLETO - JUNIO COMPLETO Y PRIMERA QUINCENA DE JULIO    Dispone de 75m2 aproximadamente, a 50 metros de la playa del Ris, a 17 min a pie de Playa de Trengandín y a 43 km de Puerto de Santander. Dispone de dos dormitorios, baño completo, salón comedor con salida a terraza y cocina equipada. Vivienda totalmente amueblada. Además cuenta con parcela de garaje incluida en el precio. A escasos metros de todos los servicios como supermercados, restaurantes, así como el centro de ocio, con espacios para muchas actividades y biblioteca. Además cruzando la calle nos encontramos con el campo de golf.     CONSULTAR PRECIO POR SEMANA, QUINCENA O MES.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ris, Noja",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 5,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en ",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 5,
+  "lowerRangePosition": 0,
+  "paginable": false
+}

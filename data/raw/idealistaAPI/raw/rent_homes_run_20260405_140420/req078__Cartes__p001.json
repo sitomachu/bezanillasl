@@ -1,0 +1,712 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "111049090",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/36/25/a4/1423754857.webp",
+      "externalReference": "1031",
+      "numPhotos": 24,
+      "floor": "4",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "calle Mártires, 21",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Inmobiliaria - Barreda",
+      "country": "es",
+      "latitude": 43.3527947,
+      "longitude": -4.0484981,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111049090/",
+      "distance": "3193",
+      "description": "Piso con una superficie construída de 90 m2 distribuído en hall de entrada, sala, cocina amplia con despensa, 3 habitaciones y un cuarto de baño. Balcón, ascensor. Amueblado. Comunidad incluida en el precio, mes fianza y mes garantía adicional. Consúltenos para más información. Imprescindible solvencia para seguro de alquiler. A pocos metros de la estación de feve.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Inmobiliaria - Barreda, Torrelavega",
+        "title": "Piso en calle Mártires, 21"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110988034",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d0/b5/04/1421772613.webp",
+      "numPhotos": 20,
+      "floor": "1",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "rent",
+      "size": 88.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio Parayo",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Vioño",
+      "country": "es",
+      "latitude": 43.3568575,
+      "longitude": -3.9784583,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110988034/",
+      "distance": "2506",
+      "description": "La propiedad alquila un dúplex pensando en una parejita o incluso 2 personas que quisieran compartirlo. Está pensado para SOLO 2 PERSONAS, por espacio que se pueda disfrutar. Busca esas 2 personas que quieran disfrutar de un hogar muy tranquilo y sepa apreciarlo. Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Vioño, Piélagos",
+        "title": "Dúplex en Barrio Parayo"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110978077",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/dc/58/26/1421511113.webp",
+      "externalReference": "ARS2770i",
+      "numPhotos": 17,
+      "floor": "en",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 82.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "bulevar Luciano Demetrio Herrero",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3505218,
+      "longitude": -4.0505478,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110978077/",
+      "distance": "3370",
+      "description": "Descubre este encantador apartamento recién reformado y listo para entrar a vivir. Con una superficie de 78 metros cuadrados, esta vivienda ofrece un espacio acogedor y funcional, ideal para quienes buscan comodidad en una ubicación céntrica. Cuenta con un dormitorio amplio y un baño completo. El piso está amueblado y dispone de un balcón que aporta luz natural y un ambiente fresco. La orientación este y sur garantiza una excelente iluminación y sol durante gran parte del día. La propiedad cuenta con ventanas de climalit que mejoran el aislamiento y la eficiencia energética. Entre sus características destacadas se encuentran el ascensor, la calefacción de gas natural individual, una cocina equipada con lavavajillas y electrodomésticos modernos, y un diseño exterior que permite disfrutar del sol y las vistas. La ubicación céntrica facilita el acceso a servicios, comercios y transporte público, haciendo de esta vivienda una opción perfecta para quienes valoran comodidad y calidad de vida. No se aceptan mascotas. ¡Contáctanos para más información y agenda tu visita! Ref: ARS2770i.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en bulevar Luciano Demetrio Herrero"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110919581",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/aa/4c/3c/1419576199.webp",
+      "externalReference": "1503-105032-TORRELAVEGA",
+      "numPhotos": 8,
+      "floor": "2",
+      "price": 1050.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1050.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "plaza de las Autonomías",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Ciudad Nueva",
+      "country": "es",
+      "latitude": 43.3412679,
+      "longitude": -4.0495467,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110919581/",
+      "distance": "3528",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible para el curso escolar 2026–2027. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ciudad Nueva, Torrelavega",
+        "title": "Piso en plaza de las Autonomías"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110845111",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/cd/2c/fe/1417309272.webp",
+      "externalReference": "AL2711",
+      "numPhotos": 18,
+      "floor": "4",
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "calle Hermilio Alcalde del Río, 12",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3501934,
+      "longitude": -4.051331,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110845111/",
+      "distance": "3436",
+      "description": "PARA EMPRESAS / TRASLADOS / TRABAJADORES - CONDICIONES A CONSULTAR ( SEGUN NUMERO DE PERSONAS, DURACION, ETC. ). Rentas y Capitales presenta a continuacion amplia y luminosa vivienda en en centro de Torrelavega,   La vivienda esta en un. edificio  con ascensor, tiene una superficie útil de 90 metros distribuidos en 4 amplios dormitorios con cama de matrimonio cada uno de ellos, amueblados con armarios y mesita. Dispone de cocina independiente moderna, salón con mesa comedor y TV. El baño es moderno equipado con plato de ducha y mampara.  Los suelos son de tarima flotante, dispone de calefacción de gas natural y las ventanas son de PVC climalit.   La vivienda ha sido reformada completamente en 2025. Ubicado en el centro de Torrelavega,  junto a paradas de autobús, supermercados, estación de tren, a 15 km de Santander.   Esta destinado a un alquiler para EMPRESAS / TRABAJADORES desplazados. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Hermilio Alcalde del Río, 12"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110828758",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ef/a5/cb/1416670774.webp",
+      "externalReference": "3393A",
+      "numPhotos": 35,
+      "floor": "1",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 77.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio San Martín, 4",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Zurita",
+      "country": "es",
+      "latitude": 43.3474094,
+      "longitude": -3.9899385,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110828758/",
+      "distance": "1661",
+      "description": "ALQUILER DE PISO EN ZURITA. TRANQUILIDAD, UBICACIÓN Y PRECIO COMPETITIVO POR 650 € AL MES Si estás buscando un piso en alquiler en Zurita de Piélagos que combine tranquilidad, buena comunicación y una renta ajustada, esta vivienda puede encajar perfectamente contigo. Se trata de un estupendo piso totalmente amueblado, distribuido en 2 amplios dormitorios, luminoso salón comedor, cocina independiente y 1 baño completo. Una vivienda cómoda, práctica y funcional, pensada tanto para quienes buscan su primera vivienda en alquiler como para quienes desean más espacio y calidad de vida. La vivienda dispone de calefacción individual de gasoil, lo que permite controlar el consumo y el confort durante todo el año, además de ventanas de PVC y madera, que favorecen el aislamiento térmico y acústico. Está lista para entrar a vivir, sin necesidad de realizar ninguna inversión adicional. Se encuentra en un edificio muy tranquilo, con únicamente otra vivienda más, lo que aporta privacidad y una convivencia relajada. Vivir en una zona residencial como Zurita de Piélagos significa disfrutar de la calma, el entorno verde y el descanso diario, sin renunciar a las conexiones estratégicas: la vivienda está muy próxima al enlace de la autovía y a la estación de tren, facilitando los desplazamientos hacia Santander, Torrelavega y otras zonas de Cantabria. Una ubicación ideal para quienes trabajan fuera pero desean vivir en un entorno más tranquilo. Hoy en día es complicado encontrar un alquiler de 2 dormitorios en Cantabria por 650 € al mes, especialmente en una zona bien comunicada y con estas características. Renta: 650 € al mes (Gastos y suministros no incluidos. Sí se incluyen gastos de comunidad e IBI). La vivienda se alquila con seguro de garantía de alquiler, por lo que será imprescindible acreditar ingresos y estabilidad laboral. Contrato para larga duración. Importante: Las personas interesadas deben acceder a localizar este inmueble y cumplimentar la ficha de demandante de alquiler. Este es el primer e imprescindible paso para poder optar al alquiler de la vivienda. Si buscas un piso en alquiler en Zurita de Piélagos que combine ubicación, tranquilidad y precio razonable, no dejes pasar esta oportunidad. Rellena la ficha de demandante de alquiler y da el primer paso hacia tu nuevo hogar. Información no contractual. Sujeta a posibles errores u omisiones.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Zurita, Piélagos",
+        "title": "Piso en Barrio San Martín, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110820750",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/01/0e/a3/1417594618.webp",
+      "externalReference": "AL2710",
+      "numPhotos": 27,
+      "floor": "2",
+      "price": 1100.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1100.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Poeta José Luis Hidalgo, 4",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "El Parque - Zapatón",
+      "country": "es",
+      "latitude": 43.3496024,
+      "longitude": -4.0551821,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110820750/",
+      "distance": "3752",
+      "description": "- Solo EMPRESAS - Temporales Presentamos a continuación amplia y luminosa vivienda en Torres de calabaza ( en el centro de Torrelavega ), con todas las facilidades de mercados a sus alrededores. La vivienda esta en un  edificio con ascensor. Tiene una superficie útil de 83 metros distribuidos en 3 dormitorios ( el 3 con cama de matrimonio),   amplio salón comedor amueblado con sofá y mesa y mueble de tv, amplia cocina amueblada con electrodomésticos, y baño completo. y un aseo. Muy soleado, exterior completamente con orientación sur, con bonitas vistas  al entorno.   Dispone de calefacción de gas natural  los suelos son de parquet y las ventanas de PVC climalit. Con fácil aparcamiento. Ubicado  en el centro de Torrelavega  con fácil comunicaciones. Esta destinado a empresas que vengan a realizar trabajos a Cantabria ( por meses, trimestres, semestres, etc. ).   La capacidad de alojamiento es de 5 personas máximo. Los precios del alquiler pueden variar en función del tiempo y del numero de personas que se alojen en la vivienda.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "El Parque - Zapatón, Torrelavega",
+        "title": "Piso en calle Poeta José Luis Hidalgo, 4"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110500321",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/95/d7/c6/1406826350.webp",
+      "externalReference": "AL2705",
+      "numPhotos": 21,
+      "floor": "1",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 89.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Pintor Modinos",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.3467,
+      "longitude": -4.0448798,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110500321/",
+      "distance": "2984",
+      "description": "TEMPORAL - PARA EMPRESAS   Rentas y Capitales presenta amplia y luminosa vivienda en el centro de Torrelavega. La vivienda es una PRIMERA PLANTA en un edificio con ascensor. Tiene una superficie útil de 80 metros distribuidos en 3 amplios dormitorios amueblados con cama, armario y mesita. Amplio salón comedor orientado a la calle principal amueblado con sofá, mesa de tv y mesa comedor. Dos baños completos ambos con bañera. La cocina es bastante amplia se encuentra equipada con electrodomésticos. Dispone de calefacción centralizada, los suelos son de parquet y las ventanas de aluminio. Se encuentra muy bien ubicada en el centro de Torrelavega, con gran parking gratuito frente al edificio.   Esta destinado a un alquiler PARA EMPRESAS por temporadas ( las condiciones varían en función del numero de personas y de el tiempo). Se solicita solvencia para el alquiler de la vivienda. Solicite una visita sin compromiso.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso en calle Pintor Modinos"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110450936",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/97/47/6c/1405345915.webp",
+      "externalReference": "AL2704",
+      "numPhotos": 14,
+      "floor": "2",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 98.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida de Joaquin Fernandez Vallejo, 14",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Ciudad Nueva",
+      "country": "es",
+      "latitude": 43.3429433,
+      "longitude": -4.0464908,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110450936/",
+      "distance": "3231",
+      "description": "Presentamos a continuación fantástica vivienda en el centro de Torrelavega.   La vivienda es una SEGUNDA  PLANTA en un edificio CON ASCENSOR. Tiene una superficie útil de 95 metros distribuidos en 3 dormitorios ( 1 con cama de 1,50m, el segundo y el tercero con 2 camas de 90) y armarios.   El salón es bastante amplio incluye mesa, ideal para estudiar o teletrabajar. La cocina esta equipada completamente con modernos electrodomésticos,  El baño tiene plato de ducha y mampara. Y un aseo  La vivienda dispone de calefacción de gas natural, tiene suelos de  cerámica, puertas de madera, y ventanas de doble cristal pvc. Es muy soleado, tiene orientación SUR, y norte, lo que garantiza sol durante las horas principales del día. Esta ubicado en el centro de la capital con paradas de autobús, supermercados, estación de Ferrocarril  No deje pasar esta oportunidad y solicite su visita.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ciudad Nueva, Torrelavega",
+        "title": "Piso en avenida de Joaquin Fernandez Vallejo, 14"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110032616",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e2/25/4e/1407986820.webp",
+      "externalReference": "V1776",
+      "numPhotos": 17,
+      "floor": "2",
+      "price": 825.0,
+      "priceInfo": {
+        "price": {
+          "amount": 825.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.350602,
+      "longitude": -4.0482529,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110032616/",
+      "distance": "3184",
+      "description": "En el centro de Torrelavega ternemos para alquilar este magnífico y amplio piso sin barreras arquitectónicas, y ubicado en una zona privilegiada y muy tranquila, con vistas despejadas a una amplia plaza peatonal y sin ruido de tráfico. La vivienda se distribuye en tres habitaciones y dos baños completos (uno de ellos con bañera y el otro con plato de ducha), salón orientado al sur y cocina equipada ofreciendo un espacio cómodo y funcional, ideal tanto para familias como para profesionales que buscan calidad de vida en una ubicación céntrica. Destaca por ser un piso muy soleado con una excelente luminosidad natural durante todo el día, además de por encontrarse en muy buen estado de conservación y por estar listo para entrar a vivir. Cuenta con caldera de alta eficiencia energética instalada en 2025, que proporciona calefacción y agua caliente, permitiendo el uso simultáneo de ambos baños sin pérdida de presión. Además, dispone de contrato de mantenimiento a cargo de la propiedad, lo que aporta un extra de tranquilidad al inquilino. La vivienda está equipada con lavadora y horno adquiridos en 2025, garantizando eficiencia y fiabilidad en el día a día. Esta es una oportunidad única de vivir en el centro, con confort, silencio y todas las comodidades modernas. Es necesario acreditar ingresos para seguro de impagos. NO SE ADMITEN ANIMALES.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "102958739",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d1/b6/0a/1173177896.webp",
+      "externalReference": "AL2559",
+      "numPhotos": 13,
+      "floor": "2",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Centro",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.348268,
+      "longitude": -4.0470103,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/102958739/",
+      "distance": "3117",
+      "description": "SOLO PARA EMPRESAS - TEMPORADAS  A PARTIR ENERO DE 2026.   Presentamos a continuacion céntrica y luminosa vivienda en Torrelavega, concretamente en Calle La llama junto  a la cafetería Las Palmas y carnicería Nandín. La vivienda es una SEGUNDA PLANTA en un edificio con ascensor. Tiene una superficie útil de 90 metros distribuidos en 3 dormitorios ( el primero con cama de matrimonio y armario; el segundo con dos camas de 90 y armario y el tercero con 2 camas de 90 y armario desde la cual accedemos a un balcón; y el tercero con cama individual y armario). Amplio salón amueblado, con sofá, armario de tv y mesa comedor. La cocina esta equipada completa con electrodomésticos y el baño dispone de plato de ducha con mampara recién puesto. La vivienda tiene suelos de parquet de madera y las ventanas  son de PVC climalit. Es muy soleado todo exterior, con orientación norte sur.   Rodeado de todos los servicios como supermercados, colegios, comercios, parada de autobús, con parking gratuito cercano. Esta destinado a un alquiler DE TEMPORADAS PARA EMPRESAS. Se solicita solvencia económica para acceder al alquiler de la vivienda. No se admiten mascotas.   No deje pasar esta oportunidad y solicite una visita sin compromiso.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Torrelavega",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106505414",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/78/f1/40/1284870093.webp",
+      "externalReference": "56701",
+      "numPhotos": 21,
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 82.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio Cumbrales",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3850629,
+      "longitude": -4.0107812,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106505414/",
+      "distance": "3567",
+      "description": "Chalet adosado en Polanco con una distribución ideal para los que buscan comodidad y funcionalidad en una de las mejores zonas residenciales de la localidad con zona de juego infantil y piscina comunitaria, consta de: dos habitaciones con amplios armarios empotrados, cocina independiente muy amplia, dos baños, jardín y plaza de aparcamiento. Si tu sueño es encontrar una vivienda que tenga todas estas condiciones no lo pienses mas ven y pregúntanos. NO MASCOTAS MAX. TRES PERSONAS LARGA DURACION.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Chalet adosado en Barrio Cumbrales"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "95517737",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3a/9e/4d/1151835095.webp",
+      "externalReference": "Al2141",
+      "numPhotos": 15,
+      "floor": "1",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Covadonga - Campuzano - Ciudad Vergel",
+      "province": "Cantabria",
+      "municipality": "Torrelavega",
+      "district": "Covadonga - Campuzano - Ciudad Vergel",
+      "country": "es",
+      "latitude": 43.3452981,
+      "longitude": -4.0550936,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/95517737/",
+      "distance": "3824",
+      "description": "////////// TEMPORAL //////////////  De  15 mayo / 30 de junio el precio son 700 euros/mes.   De Julio a Agosto de 2025 el precio son 1400 euros / mes. Presentamos a continuación amplio apartamento de dos dormitorios recién reformado en Ciudad Vergel ( detrás de la Seg. Social). La vivienda es una PRIMERA PLANTA, en un edificio SIN ASCENSOR. Tiene una superficie útil de 60 metros distribuidos en dos dormitorios ( uno de ellos con baño con plato de ducha), el primero tiene cama de 1,35m, armarios y mesita; y el segundo dispone de dos camas individuales, armarios y mesita.   Salón amueblado completamente con sofá, mesa y Tv de 55 pulgadas. Cocina equipada completamente y baño en pasillo principal equipado también con plato de ducha y mampara. Los suelos son de tarima flotante, las ventanas de PVC climalit abatibles, y las puertas lacadas en blanco.   Es muy luminosa, todo exterior, y tiene 2 orientación ( sur y este ). Es una zona muy tranquila sin tráfico de vehículos. Esta muy bien ubicada, junto al edificio de la seg. social, con todos los servicios cercanos, como paradas de autobús, supermercados, centros médicos, comercios, etc. A 7 minutos andando del centro de Torrelavega.   Se solicitará solvencia económica para acceder al alquiler de la vivienda. No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Covadonga - Campuzano - Ciudad Vergel, Torrelavega",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 13,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Sierrapando, Torrelavega",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 13,
+  "paginable": false
+}

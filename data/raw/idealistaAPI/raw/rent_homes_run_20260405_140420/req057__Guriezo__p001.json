@@ -1,0 +1,121 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110688717",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/aa/a7/c3/1412427632.webp",
+      "externalReference": "8124",
+      "numPhotos": 14,
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 102.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Barrio Oriñón",
+      "province": "Cantabria",
+      "municipality": "Castro-Urdiales",
+      "district": "Oriñón-Allendagua",
+      "country": "es",
+      "latitude": 43.3976886,
+      "longitude": -3.3276655,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110688717/",
+      "distance": "4823",
+      "description": "Chalet pareado en alquiler por temporadas en Oriñón Se ofrece en alquiler por temporadas chalet pareado ubicado en Oriñón, en entorno residencial tranquilo y bien comunicado, ideal para estancias temporales. La vivienda se asienta sobre una parcela privada con **amplio jardín soleado durante todo el día**, proporcionando un espacio exterior de gran valor. Distribución *Planta baja: * Salón-comedor de generosas dimensiones, con salida directa al jardín. * Cocina independiente, amplia y completamente equipada. * Aseo de cortesía. * Hall distribuidor con acceso funcional a las distintas estancias. *Planta primera: * Tres dormitorios de buen tamaño. * Baño completo reformado, equipado con plato de ducha. La propiedad destaca por su buena distribución, luminosidad y óptimo estado de conservación.  Características adicionales * Aparcamiento privado dentro de la urbanización. * Entorno residencial consolidado. * Excelente orientación y aprovechamiento de la luz natural. *Disponibilidad por temporadas. Condiciones y precios a consultar según duración y periodo de estancia. Si lo desea, puedo adaptarlo también al formato típico de ficha técnica inmobiliaria (con metros, calidades y descripción más esquemática).",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Oriñón-Allendagua, Castro-Urdiales",
+        "title": "Chalet pareado en Barrio Oriñón"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "104910963",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/82/de/c2/1235789208.webp",
+      "externalReference": "v2024138",
+      "numPhotos": 20,
+      "price": 1400.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1400.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 120.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Guriezo",
+      "province": "Cantabria",
+      "municipality": "Guriezo",
+      "country": "es",
+      "latitude": 43.354347,
+      "longitude": -3.3250327,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/104910963/",
+      "distance": "0",
+      "description": "Se alquila cada individual en Guriezo ideal para relajarse con toda la familia o amigos en verano. La casa, de 2 pisos, está preparada para recibir hasta 6 personas y consta de una cocina completamente equipada, una habitación de matrimonio con baño, una habitación con dos camas y otra con dos camas de 90 que se pueden unir, 1 baño con ducha y un aseo, amplio salón con comedor, jardín, barbacoa y porche para disfrutar de los días y noches de verano de relax. Precio orientativo: 1.400 semana. Consultar fechas y precios en Garanty Home Cantabria c/Emperador 1, Laredo. Disponible: JULIO.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Guriezo",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 2,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Guriezo, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 2,
+  "lowerRangePosition": 0,
+  "paginable": false
+}

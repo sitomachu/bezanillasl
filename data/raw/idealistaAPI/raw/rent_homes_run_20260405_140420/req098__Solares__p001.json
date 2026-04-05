@@ -1,0 +1,230 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "108639381",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5c/8c/ea/1350720769.webp",
+      "externalReference": "4062",
+      "numPhotos": 21,
+      "floor": "1",
+      "price": 630.0,
+      "priceInfo": {
+        "price": {
+          "amount": 630.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "plaza Francisco Perojo Cagigas, 13",
+      "province": "Cantabria",
+      "municipality": "Solares",
+      "country": "es",
+      "latitude": 43.384019,
+      "longitude": -3.7375989,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108639381/",
+      "distance": "43",
+      "description": "En Solares centro, con todos los servicios a pie de calle. Disponible en alquiler para fijo. Coqueto piso de 2 habitaciones, salón-comedor, cocina independiente, baño con plato de ducha. Ascensor, calefacción eléctrica. Gastos de comunidad incluidos. No se admite mascota. Se requiere un mes de fianza, el mes de alquiler adelantado y solvencia económica demostrable.  Ubicado en la  Plaza Francisco Perojo de Solares,  con todos los servicios necesarios para el día a día a un paso, farmacias, comercios, hostelería, a 5 min. andando del centro de salud, estación de tren o autobús. Ideal para una o dos personas.  Solares dispone de acceso directo a la A8 y está a 15 min. de Santander, Laredo, Torrelavega o las playas de Somo y Loredo. No se admite mascota. Se requiere un mes de fianza, el mes de alquiler adelantado y solvencia económica demostrable.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Solares",
+        "title": "Piso en plaza Francisco Perojo Cagigas, 13"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110886824",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/a8/48/c4/1418569587.webp",
+      "externalReference": "5254",
+      "numPhotos": 26,
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 69.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "travesía Virgen del Pilar, 3",
+      "province": "Cantabria",
+      "municipality": "Solares",
+      "country": "es",
+      "latitude": 43.3877253,
+      "longitude": -3.7343679,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110886824/",
+      "distance": "448",
+      "description": "Casa Pareada en Alquiler para fijo en Solares ( Medio Cudeyo ) Disfruta de una acogedora casa pareada en una ubicación tranquila de Solares. La vivienda se encuentra en la primera planta y cuenta con: - 2 dormitorios amplios - Salón-comedor luminoso - Cocina a estrenar - 1 baño con plato de ducha recién reformado - Trastero dentro de la vivienda La planta baja es diáfana - amplio jardín de más de 600 m², cuyo mantenimiento está incluido en el precio del alquiler. Características: - Estufa de pellets en el salón (no tiene calefacción ) - Ventanas de PVC renovadas - No se admiten mascotas en el interior de la vivienda Precio: 800 EUR/mes (incluye mantenimiento del jardín) Condiciones del alquiler: - Fianza: 1 mes - 1 mes de alquiler adelantado - Seguro de impago - Se requiere última nómina y DNI de los inquilinos ¿Interesado? Contáctanos para concertar una visita.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Solares",
+        "title": "Chalet en travesía Virgen del Pilar, 3"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108016833",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/65/ff/e1/1331314950.webp",
+      "externalReference": "5100",
+      "numPhotos": 32,
+      "floor": "bj",
+      "price": 725.0,
+      "priceInfo": {
+        "price": {
+          "amount": 725.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 115.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Fernández Rañada, 16",
+      "province": "Cantabria",
+      "municipality": "Solares",
+      "country": "es",
+      "latitude": 43.3818154,
+      "longitude": -3.7363587,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/108016833/",
+      "distance": "275",
+      "description": "ALQUILER TEMPORAL - En El Bosque, junto a Solares, a un paso de todos los servicios necesarios. Bajo con jardín de casi 300m2 disponible en ALQUILER TEMPORAL. La vivienda está distribuida en hall, cocina con tendedero, salón-comedor con salida a terraza, 3 dormitorios, uno a modo de suite con baño incorporado y otro baño más. Desde el salón-comedor y desde dos de los dormitorios se puede acceder a un ESPECTACULAR JARDÍN  de casi 300m2 con orientación sur-este.  La vivienda dispone de calefacción de gas natural, ventanas pvc, suelos de tarima. y se encuentra completamente amueblado, lista para entrar a vivir. Incluye plaza de garaje  y mantenimiento de jardín. Gastos de comunidad incluidos. No se admiten mascotas.  Se requieren dos meses de fianza, el mes de alquiler adelantado y solvencia económica demostrable. Solicite cita en el o en el los agentes de Inmobiliaria Val de Cella estaremos encantados de atenderle.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Solares",
+        "title": "Piso en calle Fernández Rañada, 16"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "96869224",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/70/8e/8d/959025628.webp",
+      "numPhotos": 22,
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "countryHouse",
+      "operation": "rent",
+      "size": 65.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Diseminado Sobremazas",
+      "province": "Cantabria",
+      "municipality": "Sobremazas",
+      "country": "es",
+      "latitude": 43.3754102,
+      "longitude": -3.7480326,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/96869224/",
+      "distance": "1317",
+      "description": "Precio orientativo, consulte periodo exacto, se alquila por periodos de, quincena o mes NO PARA LARGA ESTANCIA O FIJO.  Espacio perfecto para disfrutar de Cantabria a 25 mim. en coche de las playas de Ribamontan al mar, a 15 de Cabárceno y a 20 de Santander y con cualquier servicio en núcleo de población a 1 km. Finca completamente privada y tranquila ideal para disfrutar en una terraza de 100m, la sombra de higuera y los 14.000 m de finca La capacidad máxima es de 4 personas y para nosotros tu mascota es bienvenida. Incluye gastos por suministros y leña El departamento de alquileres de Gestión propia nace con la máxima de que cada inmueble se lleva de la mano y que cada huésped tiene unas necesidades y se encontrará acompañado en toda su estancia, nuestros propietarios son importantes al igual que nuestros huéspedes.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 23.0,
+      "change": {},
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casaDePueblo"
+      },
+      "suggestedTexts": {
+        "subtitle": "Sobremazas",
+        "title": "Casa de pueblo en Diseminado Sobremazas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 4,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Solares, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 4,
+  "lowerRangePosition": 0,
+  "paginable": false
+}

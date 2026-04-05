@@ -1,0 +1,238 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "111086626",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/11/4b/ac/1424962863.webp",
+      "numPhotos": 11,
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 50.0,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle San Antonio s/n",
+      "province": "Cantabria",
+      "municipality": "San Vicente de la Barquera",
+      "country": "es",
+      "latitude": 43.3826029,
+      "longitude": -4.399919,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111086626/",
+      "distance": "604",
+      "description": "¡Descubre tu nuevo hogar en el corazón de la villa! Esta encantadora casa independiente, completamente reformada y a estrenar, ofrece un estilo moderno y acogedor. Con 50 m² construidos, la planta baja cuenta con un salón comedor que se integra con una cocina abierta, perfecta para disfrutar de los espacios. Además, un baño en esta planta añade comodidad a tu día a día. Subiendo a la planta primera, encontrarás una amplia habitación con armarios empotrados, ideal para mantener todo en orden. La calefacción eléctrica garantiza un ambiente cálido y acogedor durante los meses más fríos. Con orientación sur, este y oeste, disfrutarás de luz natural durante todo el día. Esta casa amueblada con todo lujo de detalles te ofrece la oportunidad de personalizar cada rincón a tu gusto. ¡No dejes pasar la oportunidad de vivir en un lugar tan especial!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "San Vicente de la Barquera",
+        "title": "Casa independiente en calle San Antonio s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106995141",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7e/19/3b/1299876389.webp",
+      "numPhotos": 34,
+      "floor": "1",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 68.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "avenida Francisco Giner de los Ríos, 32",
+      "province": "Cantabria",
+      "municipality": "San Vicente de la Barquera",
+      "country": "es",
+      "latitude": 43.3883285,
+      "longitude": -4.3840212,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/106995141/",
+      "distance": "1210",
+      "description": "PRECIO 1.000, 00€/MES SOLO TEMPORADA DE INVIERNO MINIMO 3 MESES (Del 01 octubre al 01 de junio) ¡Descubre el refugio perfecto para tu invierno en San Vicente de la Barquera! Este encantador apartamento, disponible del 15 de septiembre al 15 de junio, te ofrece la oportunidad de disfrutar de la playa a solo dos minutos a pie. Con 68 m² construidos y 60 m² útiles, este piso cuenta con dos acogedoras habitaciones y un baño, ideal para descansar tras un día de aventuras. Su orientación oeste te regalará atardeceres inolvidables desde la terraza o el balcón. Perfecto para teletrabajar, este apartamento te permite combinar trabajo con ocio, ya que está a solo una hora de la estación de esquí de Alto Campoo. ¡Imagina esquiar por la mañana y surfear por la tarde! No pierdas la oportunidad de vivir una experiencia única en este rincón del Cantábrico. Preguntar precios para temporada de verano.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 120.0
+      },
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "San Vicente de la Barquera",
+        "title": "Piso en avenida Francisco Giner de los Ríos, 32"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106996059",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ff/11/d2/1299904548.webp",
+      "numPhotos": 17,
+      "floor": "3",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "rent",
+      "size": 95.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "avenida Francisco Giner de los Ríos, 32",
+      "province": "Cantabria",
+      "municipality": "San Vicente de la Barquera",
+      "country": "es",
+      "latitude": 43.3883285,
+      "longitude": -4.3840212,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/106996059/",
+      "distance": "1210",
+      "description": "PRECIO 1.000, 00€/MES SOLO TEMPORADA DE INVIERNO (Del 01 octubre al 01 de junio) ¡Descubre tu refugio ideal en San Vicente de la Barquera! Este encantador dúplex, disponible desde el 15 de septiembre hasta el 15 de junio, te ofrece la oportunidad perfecta para disfrutar de la costa cantábrica. A tan solo dos minutos a pie de la playa de Meron, podrás deleitarte con atardeceres inolvidables desde su terraza orientada al oeste. Con 95 m² construidos y 82 m² útiles, este dúplex se distribuye en dos plantas: una planta baja con un acogedor salón, cocina americana, aseo y terraza; y una planta bajo cubierta con dos dormitorios y un baño completo. Ideal para los amantes del surf, el entorno está rodeado de escuelas que te permitirán mejorar tus habilidades en las olas. Además, su ubicación estratégica te permite combinar trabajo y ocio, ya que en solo una hora podrás llegar a la estación de esquí de Alto Campoo para disfrutar de una mañana en la nieve y una tarde surfeando.  El dúplex cuenta con calefacción eléctrica, ascensor y la posibilidad de alquilar una plaza de garaje por 50 € adicionales. Incluye wifi para que siempre estés conectado. Este es el lugar perfecto para quienes buscan un equilibrio entre tranquilidad y actividad. ¡No dejes pasar esta oportunidad única! Precio por un solo mes 1000 euros durante la temporada de invierno, para más meses consultar. Consultar para temporada de verano.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": false,
+        "parkingSpacePrice": 50.0
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "San Vicente de la Barquera",
+        "title": "Dúplex en avenida Francisco Giner de los Ríos, 32"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106464618",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/25/54/91/1283682479.webp",
+      "numPhotos": 28,
+      "floor": "3",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "rent",
+      "size": 110.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "avenida Francisco Giner de los Ríos, 24",
+      "province": "Cantabria",
+      "municipality": "San Vicente de la Barquera",
+      "country": "es",
+      "latitude": 43.3876758,
+      "longitude": -4.38453,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/106464618/",
+      "distance": "1169",
+      "description": "PRECIO 1000,00€/MES SOLO TEMPORADA DE INVIERNO (Del 01 octubre al 01 de junio) ¡Descubre el dúplex de tus sueños en la encantadora playa de San Vicente de la Barquera! A tan solo 100 metros del mar, este espacioso dúplex ofrece una experiencia de vida costera inigualable. Con 110 m² construidos, cuenta con tres dormitorios y capacidad para seis personas, ideal para disfrutar con familia o amigos. La planta baja alberga una cocina totalmente equipada con electrodomésticos y un salón comedor acogedor con TV, perfecto para relajarse tras un día de playa. En la planta bajo-cubierta, encontrarás dos habitaciones con camas individuales y un baño completo, asegurando comodidad para todos los huéspedes. Además, dispone de un local externo de 40 metros para garaje, equipado con enchufe para coches eléctricos y poder guardar las tablas de surf. El balcón ofrecen espacios exteriores donde disfrutar del aire fresco. Este dúplex, construido en 2004, está en buen estado y cuenta con calefacción eléctrica. La vivienda se encuentra en la tercera planta de un edificio con ascensor y orientación norte. Incluye plaza de garaje en el precio y conexión WiFi para mantenerte siempre conectado. No pierdas la oportunidad de vivir en un entorno privilegiado junto al mar. ¡Ven a visitarlo y enamórate de tu nuevo hogar!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "San Vicente de la Barquera",
+        "title": "Dúplex en avenida Francisco Giner de los Ríos, 24"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 4,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en San Vicente de la Barquera, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 4,
+  "lowerRangePosition": 0,
+  "paginable": false
+}

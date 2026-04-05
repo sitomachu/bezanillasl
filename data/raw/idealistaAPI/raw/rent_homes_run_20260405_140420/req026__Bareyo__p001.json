@@ -1,0 +1,72 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110943685",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/06/9d/6f/1420386568.webp",
+      "externalReference": "201",
+      "numPhotos": 5,
+      "floor": "bj",
+      "price": 5000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 5000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 72.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "avenida Benedicto Ruiz",
+      "province": "Cantabria",
+      "municipality": "Ajo",
+      "country": "es",
+      "latitude": 43.4775643,
+      "longitude": -3.6126785,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110943685/",
+      "distance": "4633",
+      "description": "Te estoy esperando en Ajo… Soy un acogedor bajo situado en una zona tranquila de Ajo, muy cerquita de la playa. Si buscas desconectar, respirar aire fresco y disfrutar del mar, creo que puedo ser justo lo que necesitas. Así soy yo Tengo un bonito jardín privado donde podrás relajarte, desayunar al sol o terminar el día con una cena al aire libre. Al estar en planta baja, te resultará todo cómodo y accesible. Además, cuento con acceso a una piscina comunitaria, perfecta para esos días de verano en los que solo apetece descansar y disfrutar. Estoy rodeado de tranquilidad, pero lo suficientemente cerca de la playa para que puedas ir en pocos minutos y sentir la brisa del Cantábrico. Soy ideal para familias, parejas o cualquier persona que quiera parar el ritmo y disfrutar de unos días de paz junto al mar. Ven a conocerme… estoy seguro de que te vas a sentir como en casa. Contacta con Inmobiliaria Real para consultar disponibilidad y venir a disfrutarme!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 69.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ajo",
+        "title": "Piso en avenida Benedicto Ruiz"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 1,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Galizano, Ribamontan al Mar",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 1,
+  "lowerRangePosition": 0,
+  "paginable": false
+}

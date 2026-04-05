@@ -1,0 +1,237 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "109821353",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/ba/be/fe/1386668655.webp",
+      "numPhotos": 56,
+      "price": 6500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 6500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 450.0,
+      "rooms": 5,
+      "bathrooms": 6,
+      "address": "BO LIANDRES, 52",
+      "province": "Cantabria",
+      "municipality": "Ruiloba",
+      "country": "es",
+      "latitude": 43.392848,
+      "longitude": -4.2522209,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109821353/",
+      "distance": "4087",
+      "description": "Chalet Independiente en Alquiler - Vistas Espectaculares ¡Descubre esta impresionante casa independiente de cinco dormitorios, disponible para alquiler desde febrero! Situada en una exclusiva urbanización privada, esta propiedad de 450 m² construidos ofrece unas bonitas vistas al mar y a la montaña. Con sus cinco amplios dormitorios, cada uno con baño integrado, y un luminoso salón independiente, este chalet es perfecto para disfrutar de la tranquilidad y el confort. La cocina funcional se complementa con una gran terraza que ofrece vistas al mar y a la montaña, ideal para relajarse al atardecer. La casa cuenta con un dormitorio principal que incluye un vestidor y un cuarto de baño privado, asegurando privacidad y comodidad. Además, tres de los dormitorios tienen grandes ventanales que permiten la entrada de luz natural y vistas impresionantes, La propiedad también dispone de una zona de lavado, acceso directo al garaje y un trastero para mayor comodidad. Con una parcela de 1.157 m², hay espacio suficiente para disfrutar del aire libre. El precio del alquiler es de 5.000€ por semana en junio y 6.000€ por semana en julio. Ten en cuenta que no está disponible del 3 al 23 de agosto. ¡No pierdas la oportunidad de vivir en este maravilloso chalet!",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ruiloba",
+        "title": "Casa independiente en Bo Liandres, 52"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109052990",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/94/ed/a4/1362853661.webp",
+      "externalReference": "228",
+      "numPhotos": 17,
+      "floor": "bj",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 70.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio Cóbreces, 42",
+      "province": "Cantabria",
+      "municipality": "Alfoz de Lloredo",
+      "country": "es",
+      "latitude": 43.3822382,
+      "longitude": -4.2080419,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109052990/",
+      "distance": "804",
+      "description": "Ofrecemos este apartamento en alquiler desde septiembre/octubre hasta mayo/junio de 2026. Apartamento de dos dormitorios con una amplia terraza privada con piscina comunitaria muy tranquila.  Parque infantil cubierto con tirolina y pistas de pádel. Se encuentra a 800 metros de la Playa Luaña y a 8 minutos en coche de Comillas y 5 de Santillana del Mar (9km). Habitación principal con cama de matrimonio, la otra con dos camas individuales. Amplio salón-comedor con cocina americana, y una terraza con mesa de comedor y tumbonas. Cuarto de baño con plato de ducha. La casa esta totalmente equipada, tendrás todo lo necesario para pasar una estancia agradable.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alfoz de Lloredo",
+        "title": "Piso en Barrio Cóbreces, 42"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108208796",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/14/36/b5/1382106007.webp",
+      "externalReference": "BV00006",
+      "numPhotos": 38,
+      "price": 7301.0,
+      "priceInfo": {
+        "price": {
+          "amount": 7301.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 184.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Alfoz de Lloredo",
+      "province": "Cantabria",
+      "municipality": "Alfoz de Lloredo",
+      "country": "es",
+      "latitude": 43.3888076,
+      "longitude": -4.2163789,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108208796/",
+      "distance": "1677",
+      "description": "Alquiler de temporada completo. Disponible por periodos mensuales. Renta fija según periodo. Casa unifamiliar con gran parcela ideal para descansar en familia y a un paso de la playa. ¿Buscas un lugar tranquilo, rodeado de naturaleza y a un paso de la playa? Esta acogedora casa unifamiliar con más de 5.000 m2 de terreno te espera para estancia temporal en entorno natural inolvidable. Ubicada en el encantador y tranquilo pueblo costero de Cóbreces, la propiedad está rodeada de zonas verdes, mimosas, limoneros, un naranjo y un extenso prado ideal para que los más pequeños jueguen con total libertad. Cuenta también con una agradable terraza cubierta, equipada con muebles de jardín y barbacoa, perfecta para largas sobremesas al aire libre. A tan solo 10 minutos caminando encontrarás la playa de Luaña, una de las más bonitas y familiares de la zona, y a pocos pasos más, los impresionantes acantilados de Bolao. La ubicación, además, te permitirá hacer excursiones cortas a lugares con gran atractivo turístico como Comillas, Santillana del Mar o el Parque Natural de Oyambre. Una casa pensada para descansar, desconectar y disfrutar del tiempo en familia en un entorno natural y cuidado. Consulta disponibilidad y condiciones sin compromiso. Bienvivido. Donde cada historia empieza bien.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 40.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alfoz de Lloredo",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "105475670",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8d/52/b1/1253404262.webp",
+      "externalReference": "A703",
+      "numPhotos": 51,
+      "price": 12472.0,
+      "priceInfo": {
+        "price": {
+          "amount": 12472.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 274.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Barrio Cóbreces",
+      "province": "Cantabria",
+      "municipality": "Alfoz de Lloredo",
+      "country": "es",
+      "latitude": 43.3816369,
+      "longitude": -4.2081794,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/105475670/",
+      "distance": "738",
+      "description": "\" La Casa de las Aves\" Alquiler Vacacional. Precio expuesto, correspondiente a cada noche, mínimo 4 noches. Bonita casa independiente con estupendas vistas al mar y amplio jardín con arbolado. La Casa, consta de Vestíbulo de acceso con arranque de escalera a Planta Principal donde encontramos recibidor, comedor - cocina todo abierto con salida al jardín sur, dormitorio principal con cama de matrimonio (1,60 m) y con baño dentro. Salón, dos dormitorios (uno con cama con cama de matrimonio (1,35 m) y otro con dos camas individuales ), y cuarto de baño. Sala auxiliar con estupendas vistas, y cuarto de baño. Dentro de la parcela, hay una zona delimitada para aparcar varios coches. Terraza, y jardín. La casa disfruta de varias zonas exteriores con mobiliario de jardín. Situación muy tranquila, entorno bonito y estupendas vistas al mar y al campo. A 7 Km de Comillas y a unos 2 Km de la playa de Luaña. Número de certificación turística G-106.935. PERIODOS NO DISPONIBLES: Del 29 de JUNIO al 06 de JULIO y Del 28 de JULIO al 6 de SEPTIEMBRE.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 46.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alfoz de Lloredo",
+        "title": "Casa independiente en Barrio Cóbreces"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 4,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Alfoz de Lloredo, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 4,
+  "paginable": false
+}

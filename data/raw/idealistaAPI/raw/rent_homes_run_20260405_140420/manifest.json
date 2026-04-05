@@ -1,0 +1,277 @@
+{
+  "run_id": "20260405",
+  "operation": "rent",
+  "property_type": "homes",
+  "max_requests": 300,
+  "max_pages_per_location": 20,
+  "max_items": 50,
+  "output_csv_name": "rent_homes_cantabria_bezana_like_raw.csv",
+  "locations_effective": [
+    {
+      "name": "SantaCruzDeBezana",
+      "location_id": "0-EU-ES-39-39016",
+      "fallback_center": "43.4435,-3.9036",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Camargo",
+      "location_id": "0-EU-ES-39-39018",
+      "fallback_center": "43.4150,-3.8540",
+      "fallback_distance_m": 6000
+    },
+    {
+      "name": "Pielagos",
+      "location_id": "0-EU-ES-39-39046",
+      "fallback_center": "43.4230,-3.9520",
+      "fallback_distance_m": 7000
+    },
+    {
+      "name": "Santander",
+      "location_id": "0-EU-ES-39-39075",
+      "fallback_center": "43.4623,-3.8099",
+      "fallback_distance_m": 7000
+    },
+    {
+      "name": "MarinaDeCudeyo",
+      "location_id": "0-EU-ES-39-39043",
+      "fallback_center": "43.4620,-3.9080",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Miengo",
+      "location_id": "0-EU-ES-39-39040",
+      "fallback_center": "43.4100,-4.0050",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "RibamontanAlMar",
+      "location_id": "0-EU-ES-39-39056",
+      "fallback_center": "43.4470,-3.7450",
+      "fallback_distance_m": 6000
+    },
+    {
+      "name": "Suances",
+      "location_id": "0-EU-ES-39-39084",
+      "fallback_center": "43.4260,-4.0430",
+      "fallback_distance_m": 6000
+    },
+    {
+      "name": "Laredo",
+      "location_id": "0-EU-ES-39-39034",
+      "fallback_center": "43.4090,-3.4160",
+      "fallback_distance_m": 7000
+    },
+    {
+      "name": "CastroUrdiales",
+      "location_id": "0-EU-ES-39-39021",
+      "fallback_center": "43.3830,-3.2140",
+      "fallback_distance_m": 7000
+    },
+    {
+      "name": "Arnuero",
+      "location_id": "0-EU-ES-39-39005",
+      "fallback_center": "43.4780,-3.5090",
+      "fallback_distance_m": 4000
+    },
+    {
+      "name": "Bareyo",
+      "location_id": "0-EU-ES-39-39010",
+      "fallback_center": "43.4750,-3.6700",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Guriezo",
+      "location_id": "legacy:guriezo",
+      "fallback_center": "43.354347,-3.325033",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Ruiloba",
+      "location_id": "legacy:ruiloba",
+      "fallback_center": "43.392848,-4.252221",
+      "fallback_distance_m": 3500
+    },
+    {
+      "name": "SantillanadelMar",
+      "location_id": "0-EU-ES-39-39072",
+      "fallback_center": "43.3890,-4.1020",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "ValDeSanVicente",
+      "location_id": "legacy:valdesanvicente",
+      "fallback_center": "43.375160,-4.518830",
+      "fallback_distance_m": 4500
+    },
+    {
+      "name": "Liendo",
+      "location_id": "legacy:liendo",
+      "fallback_center": "43.394250,-3.376959",
+      "fallback_distance_m": 4500
+    },
+    {
+      "name": "AlfozDeLloredo",
+      "location_id": "0-EU-ES-39-39001",
+      "fallback_center": "43.3750,-4.2080",
+      "fallback_distance_m": 6000
+    },
+    {
+      "name": "Colindres",
+      "location_id": "legacy:colindres",
+      "fallback_center": "43.395887,-3.448447",
+      "fallback_distance_m": 3500
+    },
+    {
+      "name": "Noja",
+      "location_id": "0-EU-ES-39-39049",
+      "fallback_center": "43.4860,-3.5350",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "SanVicenteBarquera",
+      "location_id": "0-EU-ES-39-39068",
+      "fallback_center": "43.3880,-4.3990",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Comillas",
+      "location_id": "0-EU-ES-39-39020",
+      "fallback_center": "43.3870,-4.2890",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Santona",
+      "location_id": "0-EU-ES-39-39076",
+      "fallback_center": "43.4440,-3.4590",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Solorzano",
+      "location_id": "0-EU-ES-39-39081",
+      "fallback_center": "43.4050,-3.6200",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Udias",
+      "location_id": "0-EU-ES-39-39088",
+      "fallback_center": "43.3680,-4.2150",
+      "fallback_distance_m": 4000
+    },
+    {
+      "name": "Guarnizo",
+      "location_id": "legacy:guarnizo",
+      "fallback_center": "43.400084,-3.847470",
+      "fallback_distance_m": 2500
+    },
+    {
+      "name": "CabezonDeLaSal",
+      "location_id": "0-EU-ES-39-39012",
+      "fallback_center": "43.3110,-4.2360",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Solares",
+      "location_id": "legacy:solares",
+      "fallback_center": "43.384228,-3.737143",
+      "fallback_distance_m": 3000
+    },
+    {
+      "name": "Mogro",
+      "location_id": "legacy:mogro",
+      "fallback_center": "43.431196,-3.974566",
+      "fallback_distance_m": 3000
+    },
+    {
+      "name": "Entrambasaguas",
+      "location_id": "0-EU-ES-39-39025",
+      "fallback_center": "43.3780,-3.6890",
+      "fallback_distance_m": 6000
+    },
+    {
+      "name": "RibamontanAlMonte",
+      "location_id": "0-EU-ES-39-39057",
+      "fallback_center": "43.4000,-3.7600",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Valdaliga",
+      "location_id": "0-EU-ES-39-39090",
+      "fallback_center": "43.3580,-4.3380",
+      "fallback_distance_m": 6000
+    },
+    {
+      "name": "LosCorralesDeBuelna",
+      "location_id": "0-EU-ES-39-39026",
+      "fallback_center": "43.2620,-4.0680",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Polanco",
+      "location_id": "0-EU-ES-39-39053",
+      "fallback_center": "43.3940,-4.0210",
+      "fallback_distance_m": 4000
+    },
+    {
+      "name": "ElAstillero",
+      "location_id": "0-EU-ES-39-39007",
+      "fallback_center": "43.4010,-3.8190",
+      "fallback_distance_m": 4000
+    },
+    {
+      "name": "PuenteViesgo",
+      "location_id": "0-EU-ES-39-39055",
+      "fallback_center": "43.2830,-3.9600",
+      "fallback_distance_m": 4000
+    },
+    {
+      "name": "Cartes",
+      "location_id": "0-EU-ES-39-39015",
+      "fallback_center": "43.3530,-4.0090",
+      "fallback_distance_m": 4000
+    },
+    {
+      "name": "SantaMariadeCayon",
+      "location_id": "0-EU-ES-39-39067",
+      "fallback_center": "43.3780,-3.8890",
+      "fallback_distance_m": 6000
+    },
+    {
+      "name": "Reocin",
+      "location_id": "0-EU-ES-39-39059",
+      "fallback_center": "43.3680,-4.0870",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Villaescusa",
+      "location_id": "0-EU-ES-39-39094",
+      "fallback_center": "43.4200,-3.9200",
+      "fallback_distance_m": 4000
+    },
+    {
+      "name": "Torrelavega",
+      "location_id": "0-EU-ES-39-39087",
+      "fallback_center": "43.3520,-4.0490",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "Ampuero",
+      "location_id": "0-EU-ES-39-39002",
+      "fallback_center": "43.3010,-3.4600",
+      "fallback_distance_m": 5000
+    },
+    {
+      "name": "MedioCudeyo",
+      "location_id": "0-EU-ES-39-39039",
+      "fallback_center": "43.4350,-3.8440",
+      "fallback_distance_m": 5000
+    }
+  ],
+  "pool_expansion_enabled": false,
+  "strategy": "merged_daily_run_from_component_runs",
+  "merged_from_runs": [
+    "rent_homes_run_20260405_134308",
+    "rent_homes_run_20260405_135714",
+    "rent_homes_run_20260405_140420"
+  ],
+  "merged_at": "2026-04-05T14:24:55"
+}

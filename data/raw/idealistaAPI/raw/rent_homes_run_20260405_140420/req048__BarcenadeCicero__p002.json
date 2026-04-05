@@ -1,0 +1,77 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "100803703",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/38/af/79/1099395731.webp",
+      "externalReference": "V202341",
+      "numPhotos": 31,
+      "floor": "2",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "avenida de España",
+      "province": "Cantabria",
+      "municipality": "Laredo",
+      "district": "Centro",
+      "country": "es",
+      "latitude": 43.4075662,
+      "longitude": -3.4192859,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/100803703/",
+      "distance": "1551",
+      "description": "Se alquila piso en Laredo para estancias durante el curso y en verano. La vivienda está situada en pleno centro de la villa con todos los servicios al lado y a escasos metros de la playa de la Salvé.  El piso cuenta con 2 habitaciones y 1 baño y es ideal para un máximo de 4 personas. Destaca su hermosa y luminosa cocina completamente equipada con lavavajillas incluido y su terracita con mesa y sillas para disfrute del verano. Además, la vivienda dispone de wifi y calefacción de gas. Para más información sobre disponibilidad y precios: Garanty Home Cantabria: c/Emperador 1, Laredo. DISPONIBILIDAD: Julio: del 1 al 15. Consultar precio según fechas. Precio orientativo: 1.000€/semana G35762.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Centro, Laredo",
+        "title": "Piso en avenida de España"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 51,
+  "totalPages": 2,
+  "actualPage": 2,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en ",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 50,
+  "upperRangePosition": 51,
+  "paginable": true
+}

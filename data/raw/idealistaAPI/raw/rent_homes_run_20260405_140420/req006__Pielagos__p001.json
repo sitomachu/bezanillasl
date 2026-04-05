@@ -1,0 +1,1753 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110806742",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/25/1c/6c/1416113862.webp",
+      "externalReference": "EP-30716-LM",
+      "numPhotos": 71,
+      "price": 1895.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1895.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 310.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "Mortera",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.4428629,
+      "longitude": -3.926368,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110806742/",
+      "distance": "3026",
+      "description": "Para fijo. En la mejor zona de mortera de piélagos, disponemos de este magífico chalet individual de estilo ingles, impecable, vacío de mobiliario, con estupendo jardín, magníficas calidades. Distribuído en hall, gran salón y comedor con grandes ventanales en esquina, cocina equipada con electrodomésticos con zona de oficce habitación en planta baja y un baño. En palnta alta, 3 habitaciones, la principal en suite, de 22 metros cuadrados, más vestidor y baño, armarios empotrados en todas las habitaciones, otras 2 habitaciones de 16 metros, 3 baños completos, 2 bodegas y aseo, garaje para 2 coches, soleado todo el día, magnífica urbanización. Disponible para visitar. Se piden nominas y contratos de trabajo imprecindibles, para seguro de impago de alquiler. Este anuncio es meramente informativo, no tiene efectos vinculantes y está sujeto a la aprobación del seguro de impago y de los propietarios.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111102537",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e5/0b/2e/1425402200.webp",
+      "numPhotos": 19,
+      "floor": "bj",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 45.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "COTERO (EL), 14",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Arce",
+      "country": "es",
+      "latitude": 43.4044546,
+      "longitude": -3.928878,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/111102537/",
+      "distance": "2782",
+      "description": "**Piso en Arce: Tu nuevo hogar te espera** Descubre este encantador apartamento en planta baja, ubicado en la tranquila localidad de Arce. Con 45 m² construidos, este piso es ideal para quienes buscan comodidad y funcionalidad. La distribución incluye un acogedor salón con cocina americana, un dormitorio luminoso y un cuarto de baño. Además, cuenta con un patio privado donde disfrutar de momentos al aire libre. Este apartamento se encuentra en buen estado y fue construido en 2011, lo que garantiza un ambiente moderno y bien cuidado. La calefacción eléctrica asegura un confort óptimo durante todo el año. También incluye una plaza de garaje, lo que añade un valor extra a la propiedad. La ubicación es perfecta, con fácil acceso a Santander gracias a la A67, lo que facilita tus desplazamientos diarios. No pierdas la oportunidad de vivir en un lugar que combina tranquilidad y cercanía a la ciudad. ¡Ven a visitarlo y enamórate de tu nuevo hogar en Arce!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Arce, Piélagos",
+        "title": "Piso en Cotero (el), 14"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "87635807",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/43/f6/5e/1101439860.webp",
+      "externalReference": "ACR-01364",
+      "numPhotos": 15,
+      "floor": "bj",
+      "price": 750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "studio",
+      "operation": "rent",
+      "size": 50.0,
+      "exterior": true,
+      "rooms": 0,
+      "bathrooms": 1,
+      "address": "Rodil",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.4444202,
+      "longitude": -3.9259992,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/87635807/",
+      "distance": "3174",
+      "description": "Apartamento, tipo LOFT, AMUEBLADO, en alquiler en Mortera, en zona muy tranquila. Salón con zona de comedor y cocina americana equipada con electrodomésticos. Tiene una habitación con un gran armario y cama de matrimonio, y un cuarto de baño. Es una planta baja de fácil acceso, con fachada principal al Sur. Se encuentra en el Barrio El Rodil, en Mortera, cerca de la carretera principal del pueblo. Para más información o concertar una visita, puede contactarnos respondiendo a éste anuncio, llamándonos, o acercándose a cualquiera de nuestras Oficinas: -En Santander, en calle Juan de Herrera 8, (junto Ayto. ). -En Soto de la Marina, en Avda. Marqués de Valdecilla 97 (frente al Banco Santander).",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "studio"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Estudio en Rodil"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "111051124",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/57/de/7e/1423805635.webp",
+      "externalReference": "2903-61021-MOGRO-NOFIJO",
+      "numPhotos": 11,
+      "floor": "3",
+      "price": 610.0,
+      "priceInfo": {
+        "price": {
+          "amount": 610.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Urbanización Pueblo del Sol",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4285979,
+      "longitude": -3.975449,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111051124/",
+      "distance": "1993",
+      "description": "La propiedad busca un docente o un profesional en teletrabajo que quiera disfrutar de este maravilloso hogar durante la estancia escolar. ///// NO SE ALQUILA PARA FIJO ///// Disponible para el curso escolar 2026–2027. Alquiler dirigido a profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Piso en Urbanización Pueblo del Sol"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108371705",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/d0/4f/35/1342126048.webp",
+      "externalReference": "ARS2677i",
+      "numPhotos": 28,
+      "floor": "1",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 81.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio la Soledad",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Arce",
+      "country": "es",
+      "latitude": 43.4158616,
+      "longitude": -3.9383015,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108371705/",
+      "distance": "1361",
+      "description": "Este encantador piso amueblado destaca por su excelente distribución y luminosidad. Cuenta con dos amplios dormitorios y dos baños completos, ideales para el confort diario. La cocina independiente con tendedero, totalmente equipada, incluye lavavajillas y ofrece un espacio funcional y moderno para el día a día. La vivienda dispone de calefacción individual de gas natural, ventanas de PVC que garantizan un buen aislamiento térmico y acústico, y suelo de parquet, que aporta calidez y elegancia a todas las estancias. Al ser exterior y tener orientación este, norte y oeste, goza de luz natural durante todo el día, convirtiéndola en una opción muy acogedora. Además, se incluye plaza de garaje, un valor añadido que aporta comodidad y seguridad. No dejes pasar la oportunidad de vivir en este maravillo piso que lo tiene todo. ¡Contáctanos para más información y ven a visitarlo! Ref: ARS2677i.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Arce, Piélagos",
+        "title": "Piso en Barrio la Soledad"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "89793909",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/48/88/ec/1423438167.webp",
+      "externalReference": "613253",
+      "numPhotos": 23,
+      "floor": "3",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 96.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Mogro",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4407443,
+      "longitude": -3.9717292,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/89793909/",
+      "distance": "2535",
+      "description": "El despertar que te mereces durante el curso ¿Te imaginas corregir exámenes o preparar tus clases con el sonido de las olas de fondo?  Este encantador apartamento junto a Playa de Mogro es el refugio perfecto para el próximo curso escolar 26-27. Una ubicación estratégica que combina la serenidad de la costa con una conexión rápida a Santander y Torrelavega. Este inmueble está diseñado para ofrecerte confort y funcionalidad desde el primer día. Distribución inteligente, dos dormitorios acogedores; el principal con cama de matrimonio y un segundo dormitorio con literas, ideal para visitas o como zona de estudio/trabajo adicional, dos baños completos para mayor comodidad, cocina independiente equipada y un salón luminoso que invita al descanso. Tiene dos terrazas privada donde salir a disfrutar del aire puro del Cantábrico.  Incluye plaza de garaje, un valor fundamental para olvidarte de buscar aparcamiento tras tu jornada laboral. Aunque es un tercer piso sin ascensor, se siente como un 2º, ya que la planta baja es un bajo, su altura le garantiza una luminosidad natural excepcional y mejores vistas sin el esfuerzo de una planta mas alta. En Best House San Fernando nos encargamos de que tu llegada a Cantabria sea impecable. Te asesoramos en todo el proceso de alquiler y condiciones contractuales para que tu única preocupación sea disfrutar de tu nueva etapa profesional. ¿Es este tu próximo hogar para el curso 26-27? Contáctanos hoy mismo. Nota:  Alquiler sujeto a la decisión final del arrendador.  No se admiten mascotas.  Consulta condiciones específicas  honorarios de agencia (media mensualidad + IVA).",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110919619",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e0/ba/7d/1419577446.webp",
+      "numPhotos": 6,
+      "floor": "4",
+      "price": 890.0,
+      "priceInfo": {
+        "price": {
+          "amount": 890.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio la Arena",
+      "province": "Cantabria",
+      "municipality": "Miengo",
+      "country": "es",
+      "latitude": 43.4308743,
+      "longitude": -4.0062231,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110919619/",
+      "distance": "4465",
+      "description": "Leer el anuncio bien; *DEL 11 DE MAYO AL 11 DE AGOSTO* ///// NO SE ALQUILA PARA FIJO ///// Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Miengo",
+        "title": "Piso en Barrio la Arena"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110917836",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/37/da/ea/1419537267.webp",
+      "numPhotos": 6,
+      "price": 1250.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1250.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 80.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio Mar",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3964612,
+      "longitude": -4.0163431,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110917836/",
+      "distance": "5976",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible hasta junio 2026. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Casa independiente en Barrio Mar"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110900010",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/10/4d/37/1424159929.webp",
+      "externalReference": "86118",
+      "numPhotos": 22,
+      "floor": "2",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle San Martin",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4277194,
+      "longitude": -3.9724052,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110900010/",
+      "distance": "1729",
+      "description": "Disponible vivienda a estrenar en Mogro, situada en una zona residencial tranquila, muy próxima a la playa y con excelente conexión a la autovía, lo que permite llegar a Santander en apenas 10 minutos. La vivienda cuenta con: Plaza de garaje y trastero Supermercado a solo 2 minutos caminando Entorno cómodo y bien comunicado Edificio de reciente construcción Una opción perfecta para quienes buscan estrenar piso, disfrutar de la cercanía al mar y vivir en una zona bien comunicada con todos los servicios esenciales. Ven a visitarlo con una agente de iInmobiliaria San Fernando.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Ático en calle San Martin"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106898377",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/bc/57/73/1228229282.webp",
+      "numPhotos": 87,
+      "price": 18000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 18000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 1013.0,
+      "rooms": 9,
+      "bathrooms": 8,
+      "address": "Arce",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Arce",
+      "country": "es",
+      "latitude": 43.415268,
+      "longitude": -3.9438131,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106898377/",
+      "distance": "1084",
+      "description": "Estupenda mansión con los mejores materiales y en perfecto estado. Puro lujo. Todas la comodidades y la seguridad de una zona tranquila. Situada en un alto en un lugar privilegiado. El paraíso en el Tierra. IMPRESCINDIBLE VER. La casa está mejor de lo que reflejan las fotos. Total discreción y profesionalidad. Mansión señorial de lujo con techos altos de 2,80 metros, habitaciones amplias con baño, suite principal espectacular con vestidor, terraza y baño de ensueño, varios salones, numerosas chimeneas, todas las comodidades, madera de caoba y mármol de Carrara, cabinas de ducha, bañeras de hidromasaje, y todo el confort del mundo. Situada en una gran finca muy cuidada, con distintos ambientes. Piscina con jacuzzi de agua caliente, vestuarios separados por sexos, kiosko-cenador encima de un estanque con cascada de piedra, huerta con estanque decorativo, entrada con estanque y fuente, trastero inmenso y mucho más. Muy cerca de playas, campo de golf, náutica, colegio Torrevelo, buenos restaurantes, a tan solo 15 km de Santander capital.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 18.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Arce, Piélagos",
+        "title": "Casa independiente"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849496",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e7/5f/9d/1417428248.webp",
+      "externalReference": "0803-125031-POLANCO-NOFIJO    ",
+      "numPhotos": 6,
+      "price": 1250.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1250.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 80.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio Mar",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3959779,
+      "longitude": -4.0160764,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849496/",
+      "distance": "5984",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible hasta junio 2026. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Casa independiente en Barrio Mar"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "100323520",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/99/3f/be/1259956331.webp",
+      "externalReference": "LIENCRES - TEMPORAL",
+      "numPhotos": 27,
+      "floor": "1",
+      "price": 487.0,
+      "priceInfo": {
+        "price": {
+          "amount": 487.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 35.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Barrio Somacueto, 6 --A",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Liencres",
+      "country": "es",
+      "latitude": 43.4582027,
+      "longitude": -3.9292771,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/100323520/",
+      "distance": "4322",
+      "description": "Alojamiento TEMPORAL flexible por meses. ■ SIN COMISIÓN DE AGENCIA ■ APARTAMENTOS AMUEBLADOS en LIENCRES, de diseño moderno, a 5 minutos de Santander, en un entorno natural junto al mar, muy cerca de las playas, tranquilo, dinámico y joven, rodeado de todos los servicios que necesitas en tu día a día, cercano al centro de salud, junto a diversos centros educativos, supermercados, cafeterías, restaurantes, farmacias, gimnasios y parada de transporte público con horario muy fluido. •Alquiler temporal flexible por meses, de septiembre hasta junio. Importe según tipología de apartamento y duración del alojamiento. •1 habitación, salón, sofá cama, cocina americana y baño. •Ideal para personas/empresas desplazadas temporalmente por trabajo o estudios. •Gastos de comunidad e IBI incluidos en precio del alquiler. •Suministro electricidad/gas, calefacción, agua, wifi: 69 €/mes. •Parking exterior privado (plazas sujetas a disponibilidad) •Wifi. •No se admiten mascotas. •Espacio libre de humos. •Necesario mes fianza (larga/media estancia) o deposito garantía (corta estancia). ¿Dónde estamos? Barrio Somacueto 6A, Liencres Las imágenes publicadas son orientativas sin carácter vinculante dado que corresponden a una vivienda tipo del edificio y por ello pueden no corresponder a la disponibilidad existente en el momento de su consulta. ■ Observaciones: Comercializamos este inmueble en exclusiva. * Anuncio mostrado a título informativo, no vinculante ni contractual.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 14.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liencres, Piélagos",
+        "title": "Piso en Barrio Somacueto, 6 --a"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110732317",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/c9/01/f4/1413821285.webp",
+      "externalReference": "009486",
+      "numPhotos": 1,
+      "price": 1400.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1400.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 130.0,
+      "rooms": 4,
+      "bathrooms": 1,
+      "address": "Barrio Arenas",
+      "province": "Cantabria",
+      "municipality": "Camargo",
+      "district": "Escobedo",
+      "country": "es",
+      "latitude": 43.4065938,
+      "longitude": -3.904414,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110732317/",
+      "distance": "4254",
+      "description": "Se alquila casa independiente situada en Escobedo de Camargo. Casa de 4 habitaciones(2 en planta baja), salón, cocina equipada y baño. Porche en la parte trasera y amplio jardín. Aparcamiento para dos vehículos. Disponible para abril. Consultar condiciones.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet"
+      },
+      "suggestedTexts": {
+        "subtitle": "Escobedo, Camargo",
+        "title": "Chalet en Barrio Arenas"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110701997",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/93/ef/f0/1412991433.webp",
+      "externalReference": "G02262",
+      "numPhotos": 41,
+      "price": 1900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 214.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Bezana",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Bezana",
+      "country": "es",
+      "latitude": 43.4453316,
+      "longitude": -3.8988948,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110701997/",
+      "distance": "4954",
+      "description": "Descubre este impresionante chalet espacioso y tranquilo ideal para vivir y disfrutar de tu casa. A menos de dos kilómetros de la playa de La Virgen del Mar y de San Juan de La Canal en Soto de La Marina. Disponible para alquiler fijo. Ideal para familias que buscan un hogar espacioso y del que disfrutar. A un minuto de la autovía y escasos minutos de playas, centro de Santander. Dispone de entrada privada con portón automatizado para mayor seguridad y comodidad. Un garaje amplio con espacio para dos vehículos, además de espacio de aparcamiento junto a la vivienda.  Cuenta con jardín privado para disfrutar al aire libre y zona de terraza equipada con mobiliario de exterior ideal para reuniones con familia y amigos. La entrada cuenta con una zona cubierta que da la bienvenida al hogar.  En la planta baja el amplio recibidor da acceso a un salón con zona de comedor, una cocina completamente amueblada con salida directa al jardín, un dormitorio doble y un baño con plato de ducha.  En la primera planta nos encontramos con tres generosos dormitorios dobles espaciosos y con mucha luz natural. El dormitorio principal incluye un baño privado con bañera, armarios empotrados grandes ventanas y salida a una terraza privada, además de otro amplio cuarto de baño completo con bañera.  Todas las habitaciones cuentan con grandes ventanales proporcionando mucha luz natural, aire fresco y vistas despejadas.   En la parte superior de la casa nos encontramos una gran terraza con visión de 360 grados, ideal para disfrutar del sol y de las vistas de la zona y un tejado semicircular que ofrece un área cubierta perfecta para relajarse bajo la sombra o resguardarse de la lluvia.  Este chalet es una oportunidad única para disfrutar de una zona privilegiada, con todos los servicios a un paso, cercano a la playa y en un entorno tranquilo, seguro y con inmejorables comunicaciones. No pierdas la oportunidad de hacer de este lugar tu hogar. Contáctanos para más información y para programar una visita.  NO SE ADMITEN MASCOTAS.  � Dada la demanda actual, las visitas se realizarán exclusivamente en jornadas programadas y siguiendo un riguroso orden de contacto. Se sugiere máxima antelación para garantizar disponibilidad en los horarios establecidos. Nota: El acceso a la visita está sujeto al cumplimiento previo de los requisitos imprescindibles y disponibilidad del equipo comercial.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Bezana, Santa Cruz de Bezana",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": true,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110679255",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/7a/29/77/1412142450.webp",
+      "externalReference": "1802-37-10002-ARNIA-NOFIJO",
+      "numPhotos": 6,
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 60.0,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle de la Arnia",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4648434,
+      "longitude": -3.9054179,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110679255/",
+      "distance": "5982",
+      "description": "*ES UN CHALET CON APARCAMIENTO PRIVADO* ///// NO SE ALQUILA PARA FIJO /////. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. (NO TURISMO) Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 17.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Casa independiente en calle de la Arnia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110612744",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/fa/a7/92/1410399186.webp",
+      "numPhotos": 12,
+      "floor": "bj",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 55.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle de la Arnia",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4644277,
+      "longitude": -3.9074608,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110612744/",
+      "distance": "5843",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible PARA TEMPORADAS DE ESTUDIO O TRABAJO (no vacacional). Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Piso en calle de la Arnia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110587804",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/76/c0/b9/1409530715.webp",
+      "externalReference": "0902-90021-ARNIA",
+      "numPhotos": 12,
+      "floor": "bj",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 55.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle de la Arnia",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.46485,
+      "longitude": -3.9072845,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110587804/",
+      "distance": "5889",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible PARA TEMPORADAS DE ESTUDIO O TRABAJO (no vacacional). Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Piso en calle de la Arnia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110560891",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/73/4c/53/1408677270.webp",
+      "externalReference": "ACR-01947",
+      "numPhotos": 21,
+      "floor": "en",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle de la Arnia",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4623072,
+      "longitude": -3.904417,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110560891/",
+      "distance": "5818",
+      "description": "En ALQUILER, amplio apartamento, muy luminoso, completamente exterior.  Completamente amueblado, cuarto de baño con ducha recién reformado, y con cocina equipada, con zona de comedor, salón y amplia habitación con cama de matrimonio. Además cuenta con un pequeño trastero en la vivienda.  Esta enclavado en una casa con zonas de jardín, completamente exterior.  Situado en Soto de la Marina, con parada al lado de la línea de autobús regular que comunica Santander con Liencres, cada media hora, y las playas de Arnia y Liencres a cinco minutos.  A el alquiler mensual, hay que sumar 140 € fijos mensuales, de luz, calefacción, basuras y agua, quedando así todos los suministros incluidos.  No se admiten mascotas. Requiere seguro de alquiler.  No dude en solicitar información respondiendo a éste mail, llamándonos, o acercándose a cualquiera de nuestras Oficinas: - en Soto de la Marina, Av Marques de Valdecilla 97. - en Santander, C Juan de Herrera 8. IMPRESCINDIBLE FORMALIZAR SEGURO DE ALQUILER CONTRA IMPAGOS. (Requiere estudio previo de solvencia).  El precio incluye los gastos de comunidad NO HAY HONORARIOS DE AGENCIA PARA EL ARRENDATARIO.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 15.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Piso en calle de la Arnia"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "94938326",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/90/a6/b9/1422628412.webp",
+      "externalReference": "EP-30716-YO",
+      "numPhotos": 71,
+      "price": 1895.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1895.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 310.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "Mortera",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Mortera",
+      "country": "es",
+      "latitude": 43.443223,
+      "longitude": -3.9257347,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/94938326/",
+      "distance": "3090",
+      "description": "Para fijo. En mortera de estilo ingles, chalet individual precioso, impecable, vacío sin amueblar, cocina con zona de oficce, con estupendo jardín, magníficas calidades, amplio salón con grandes ventanales, 4 habitaciones, la principal en suite, de 22 metros cuadrados, más vestidor y baño, armarios empotrados en todas las habitaciones, otras 2 habitaciones de 16 metros, 3 baños completos, habitación en planta baja, 2 bodegas y aseo, garaje para 2 coches, soleado todo el día, magnífica urbanización. Disponible para visitar. Se piden nominas y contratos de trabajo imprecindibles, para seguro de impago de alquiler. Este anuncio es meramente informativo, no tiene efectos vinculantes y está sujeto a la aprobación del seguro de impago y de los propietarios.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mortera, Piélagos",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "39570040",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/eb/67/f7/1258498963.webp",
+      "externalReference": "522451",
+      "numPhotos": 25,
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 240.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Soto de la Marina",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4645708,
+      "longitude": -3.9088418,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/39570040/",
+      "distance": "5788",
+      "description": "� Chalet en alquiler de temporada en Soto de la Marina (Santander) – Ideal estudiantes Desde Best House San Fernando te presentamos este bonito chalet en Soto de la Marina, disponible en alquiler de temporada hasta junio de 2026, una opción perfecta para estudiantes de la Universidad del Atlántico. ✨ Características principales del inmueble �️ 4 habitaciones dobles, amplias y luminosas � 3 baños completos �️ Salón–comedor cómodo y funcional � Garaje � Parcela de aproximadamente 400 m2, ideal para disfrutar del exterior � Ubicación inmejorable Situado próximo a la Universidad del Atlántico, en una zona tranquila y residencial, este chalet combina estudio y calidad de vida. Rodeado de zonas verdes y ajardinadas, y a pocos minutos de las playas. � Ideal para estudiantes que buscan espacio y tranquilidad � ¿Te interesa? Llámanos al y uno de nuestros agentes de Best House San Fernando te asesorará sin compromiso. ¡No dejes pasar esta oportunidad! ➣ Consultar resto de condiciones ➣ Sujeto a decisión final del arrendador ➣ Honorarios de la agencia: ½ mensualidad + IVA � Best House San Fernando – Tu alquiler en las mejores manos.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110441377",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/44/1c/5f/1405232112.webp",
+      "numPhotos": 14,
+      "price": 1750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 150.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Polanco",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3979774,
+      "longitude": -4.0160353,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110441377/",
+      "distance": "5873",
+      "description": "Casa Pareada para capacidad de 8 personas ///// NO SE ALQUILA PARA FIJO ///// Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*****  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Chalet pareado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "107029877",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/60/8d/e5/1300898834.webp",
+      "numPhotos": 54,
+      "floor": "3",
+      "price": 1500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 120.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "calle Isla del Castro",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Soto de la Marina",
+      "country": "es",
+      "latitude": 43.4685247,
+      "longitude": -3.8990221,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/107029877/",
+      "distance": "6626",
+      "description": "Disponible desde julio 2026 ¡Bienvenido a tu nuevo hogar en Soto de la Marina! Este impresionante piso de 120 m² te ofrece un estilo de vida de alto standing con todas las comodidades de una vivienda de obra nueva. Con tres amplios dormitorios y dos baños, uno de ellos en suite, disfrutarás de espacio y privacidad en cada rincón. La joya de la vivienda es su espectacular terraza perimetral de 70 m², perfecta para relajarte y disfrutar de las vistas a la costa quebrada. La vivienda, construida en 2023, cuenta con tecnología domótica, aerotermia y suelo radiante para que puedas regular la temperatura a tu gusto en cada estancia. Los ventanales panorámicos inundan el salón open space de luz natural, creando un ambiente acogedor y cálido. Además, todas las habitaciones tienen acceso directo a la terraza, proporcionando un espacio exterior único. Garaje con plaza doble ¡No pierdas la oportunidad de vivir la experiencia en este paraíso costero! El precio publicado NO CORRESPONDE a los meses de julio y agosto, se establece para estancias medias de 6 meses, cada periodo distinto a este consúltenos directamente y les informaremos encantados ajustando a sus fechas y servicios.  No incluido: gastos de gestión, suministros, sábanas y toallas UBICACION: Soto de la Marina Playas cercanas:   San Juan de la Canal 10 min a pie.  El Jortín (cala admite perros): 10 min. a pie  Calas: Covachos, Arnía o Portio: 10 minutos en coche  Dunas de Liencres: 15 m in. ACCESIBILIDAD  Aeropuerto Severiano Ballesteros: 15 min  Santander centro 15 minutos.  Acceso A67 10 min. TIPO DE ALQUILER: temporal, el precio publicado no es vinculante, consulte precio según periodo, no incluye servicios ni suministros. Sometido a decisión última del propietario. Este anuncio no es vinculante, puede contener errores, se muestra a título informativo y no contractual.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Soto de la Marina, Santa Cruz de Bezana",
+        "title": "Piso en calle Isla del Castro"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106505414",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/78/f1/40/1284870093.webp",
+      "externalReference": "56701",
+      "numPhotos": 21,
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 82.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio Cumbrales",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3850629,
+      "longitude": -4.0107812,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106505414/",
+      "distance": "6351",
+      "description": "Chalet adosado en Polanco con una distribución ideal para los que buscan comodidad y funcionalidad en una de las mejores zonas residenciales de la localidad con zona de juego infantil y piscina comunitaria, consta de: dos habitaciones con amplios armarios empotrados, cocina independiente muy amplia, dos baños, jardín y plaza de aparcamiento. Si tu sueño es encontrar una vivienda que tenga todas estas condiciones no lo pienses mas ven y pregúntanos. NO MASCOTAS MAX. TRES PERSONAS LARGA DURACION.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Chalet adosado en Barrio Cumbrales"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108843495",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/88/20/b6/1356749761.webp",
+      "externalReference": "AL2669",
+      "numPhotos": 22,
+      "floor": "bj",
+      "price": 1000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 99.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Bezana",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Bezana",
+      "country": "es",
+      "latitude": 43.440201,
+      "longitude": -3.8941732,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108843495/",
+      "distance": "5045",
+      "description": "SOLO TEMPORAL ( MENOS DE 1 AÑO). DISPONIBLE DESDE 1 DE FEBRERO ¿Buscas una vivienda con espacio exterior privado, lista para entrar a vivir y ubicada en una zona residencial bien comunicada?, esta propiedad es justo lo que necesitas. Situada en la calle Ramón Ramírez, en pleno corazón de Santa Cruz de Bezana, te ofrecemos esta preciosa planta baja con jardín.   Distribución y superficie:   La vivienda cuenta con una superficie útil aproximada de 99 m², distribuida de forma funcional y cómoda para aprovechar al máximo cada rincón. Además, dispone de una espectacular zona ajardinada de unos 90 m², ideal para disfrutar al aire libre con total privacidad.   El interior se distribuye en:   -Salón comedor amplio y luminoso, completamente amueblado con sofá, mesa de comedor, mueble de TV y lámpara de techo. El salón tiene acceso directo al jardín, lo que proporciona una gran entrada de luz natural y una continuidad visual hacia el exterior. -Cocina independiente completamente amueblada y equipada, con salida también a la terraza trasera, perfecta para tender, desayunar o utilizar como zona auxiliar. Dispone de 3 dormitorios: -Dormitorio principal con cama de matrimonio, armario y baño en suite con plato de ducha. -Segundo dormitorio con cama de matrimonio y armario. -Tercer dormitorio con cama individual (90 cm) y armario.   -Segundo Baño completo  con bañera, mueble de lavabo integrado y acabados neutros.  Jardín privado: Uno de los grandes atractivos de esta propiedad es su jardín de uso privado con acceso directo desde el salón y la cocina. Una zona de aproximadamente 90 m², dividida en área de porche y zona verde, perfecta para disfrutar de comidas al aire libre, espacio de relax o como zona de juegos para niños o mascotas.   Características del edificio:.   Edificio con fachada moderna en piedra natural y ladrillo visto, construido en 2008. Cuenta con ascensor. Posibilidad de adquirir o alquilar plaza de garaje  en el mismo edificio (consultar condiciones). Comunidad cuidada y entorno residencial consolidado.   Ubicación y entorno:   Situada en una de las zonas más demandadas de Bezana, esta vivienda destaca por su excelente ubicación: A tan solo 10 minutos de Santander por autovía. Muy bien comunicado a 800 metros de la salida de la autovia. Parada de autobús y estación de tren cercanas. A pocos metros de supermercados (Mercadona), farmacia, colegios, guarderías, zonas deportivas y centro de salud. Entorno tranquilo, arbolado y con amplias aceras.    Equipamiento y extras:   -Calefacción individual por gas natural. -Suelos de madera en toda la vivienda. -Ventanas de PVC con doble acristalamiento. -Armarios empotrados y mobiliario incluido. Vivienda lista para entrar a vivir. Ver condiciones y tiempo de estancia de temporada. Una oportunidad única de vivir en una zona residencial con todas las comodidades, en una vivienda moderna, funcional y con un gran espacio exterior. ¿Te gustaría visitarla? Llámanos sin compromiso. â¡ï¸ Rentas y Capitales Tu hogar, donde empieza tu historia.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Bezana, Santa Cruz de Bezana",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109881646",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/90/91/f2/1388439147.webp",
+      "externalReference": "1611-165043-POLANCO-CASA",
+      "numPhotos": 14,
+      "price": 1750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 150.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Polanco",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.395835,
+      "longitude": -4.0142582,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109881646/",
+      "distance": "5866",
+      "description": "Casa Pareada para capacidad de 8 personas ///// NO SE ALQUILA PARA FIJO ///// Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*****  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Chalet pareado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109827366",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/54/ca/a4/1386830489.webp",
+      "externalReference": "1972425",
+      "numPhotos": 11,
+      "floor": "1",
+      "price": 600.0,
+      "priceInfo": {
+        "price": {
+          "amount": 600.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 45.0,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Comillas, 68",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4248168,
+      "longitude": -4.0347571,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109827366/",
+      "distance": "6686",
+      "description": "Se alquila apartamento en Suances, zona de la playa. La vivienda situada en una urbanización con piscina y a 2 minutos de la playa.   Se distribuye en, habitación, salón con cocina y baño. ¡ALQUILER DE OCTUBRE A JUNIO!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Piso en calle Comillas, 68"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109769483",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4a/0b/42/1423337386.webp",
+      "externalReference": "G02222",
+      "numPhotos": 32,
+      "price": 990.0,
+      "priceInfo": {
+        "price": {
+          "amount": 990.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 217.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Boo",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.4332734,
+      "longitude": -3.9459361,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109769483/",
+      "distance": "1242",
+      "description": "¡Bienvenidos a Villa Laura! � Ubicada en el encantador pueblo de Boo de Piélagos, este hermoso chalet está a tan solo 20 min de lugares emblemáticos como Puertochico o el Palacio De Festivales De Santander � ambos ubicados aproximadamente a 17 km. Y si necesitas desplazarte al Aeropuerto � (Aeropuerto De Santander), este se encuentra muy cerca - apenas a 13 km.  Con espacio para alojar cómodamente hasta seis personas, este chalet cuenta con tres acogedores dormitorios �. Además, contarás con una moderna sala de estar y una cocina completamente equipada �️ que incluye horno y cafetera. La comodidad es clave aquí: tendrás acceso a tres baños equipados, con toallas y ropa de cama incluidas �. Disfruta del aire fresco y la tranquilidad que ofrece su maravilloso jardín �, ideal para relajarte o disfrutar con familiares y amigos. No pierdas la oportunidad �� reserva ya tu estancia. ¡Llámanos para agendar una visita! ALQUILER DE TEMPORADA. Disponible hasta el 30 de junio. Consultar fechas. TRANSPARENCIA GESTIÓN INMOBILIARIA: - No se admiten mascotas. - Sujeto a decisión última del cliente propietario. - Imprescindible seguro de alquiler. - Honorarios inmobiliarios no incluidos en el precio. - Consultar resto de condiciones.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 5.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109581589",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5d/7a/28/1379138269.webp",
+      "externalReference": "ACR-01931",
+      "numPhotos": 28,
+      "price": 1250.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1250.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 191.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "avenida de los Menicenses",
+      "province": "Cantabria",
+      "municipality": "Miengo",
+      "country": "es",
+      "latitude": 43.4278134,
+      "longitude": -3.9942355,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109581589/",
+      "distance": "3452",
+      "description": "ALQUILER TEMPORAL DE OCTUBRE DE 2025 A JUNIO DE 2026. PERIODO MINIMO DE ALQUILER 3 MESES. Descubre este encantador chalet de cuatro habitaciones, ubicado en la tranquila localidad de Miengo. Distribuido en tres plantas, este hogar ofrece un espacio perfecto para disfrutar de la vida en familia. En la planta baja, te recibe una amplia cocina, un aseo y un acogedor salón que se comunica con un jardín privado, con un porche ideal para relajarse y una zona verde que combina sombra y sol, perfecta para disfrutar de momentos al aire libre. La primera planta está diseñada como una zona de descanso, con tres cómodas habitaciones y un baño completo. En la tercera planta, encontrarás un espacio despejado que puede convertirse en un rincón de lectura o un área de juegos para los más pequeños. Este chalet no solo es funcional, sino que también está situado en una urbanización muy tranquila, con accesos cómodos y a solo 7 minutos de dos hermosas playas. Con 191 m² construidos y una distribución pensada para el confort, este chalet cuenta espacio para tu familia. No dejes pasar la oportunidad de vivir en un entorno natural y tranquilo, donde todos los servicios necesarios para el día a día están a tu alcance. ¡Ven a visitarlo y enamórate de tu nuevo hogar! No dude en solicitar información o una visita, respondiendo a este anuncio, llamándonos, o acercándose a cualquiera de nuestras OFICINAS: ACERO Inmobiliaria -En SANTANDER, en la Calle Juan de Herrera 8 Entlo. (Cerca Ayuntamiento) -En SOTO DE LA MARINA. en Av. Marqués de Valdecilla 97. (Sta. Cruz de Bezana).",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Miengo",
+        "title": "Chalet adosado en avenida de los Menicenses"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109164241",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4d/84/df/1366162437.webp",
+      "externalReference": "3979",
+      "numPhotos": 19,
+      "floor": "bj",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "BO IGLESIA (LA)",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Liencres",
+      "country": "es",
+      "latitude": 43.461294,
+      "longitude": -3.9257251,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109164241/",
+      "distance": "4757",
+      "description": "ALQUILER DE TEMPORADA DISPONIBLE A PARTIR DE OCTUBRE DE 2026.  NO SE PERMITEN MASCOTAS. Bajo con jardín ubicado en el centro de Liencres, de 80 m² aproximadamente, recientemente renovado, distribuido en  2 dormitorios, 1 baño completo con bañera, amplio salón comedor   y una cocina independiente - con acceso al jardín privativo- equipada con todos los utensilios y mobiliario necesarios para una estancia cómoda. El piso cuenta con aire acondicionado privado, Tv, wifire, espacio de trabajo todo de uso exclusivo. El piso dispone de  un jardín privativo  de 80 m² con terrazas cubiertas y descubiertas, y mobiliario de exterior. Además, el inmueble  ofrece acceso directo a un parque público infantil  donde vuestra familia podrá disfrutar de más espacio al aire libre. Hay aparcamiento privado disponible para 6 coches.   Es una vivienda  tranquila y espaciosa y  está cerca de las conocidas playas de Liencres, Valdearenas, Canallave, Covachos y La Arnía. Encontraréis numerosos restaurantes y servicios esenciales cerca, como carnicerías, pescaderías, fruterías y supermercados.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Liencres, Piélagos",
+        "title": "Piso en Bo Iglesia (la)"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109133338",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8f/84/54/1365328188.webp",
+      "externalReference": "G01873",
+      "numPhotos": 16,
+      "floor": "1",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 79.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Cudon",
+      "province": "Cantabria",
+      "municipality": "Cudon",
+      "country": "es",
+      "latitude": 43.4143064,
+      "longitude": -4.0126274,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109133338/",
+      "distance": "4990",
+      "description": "Alquiler de temporada. ¡Para profesores, profesional desplazado o estudiantes! Descubre este encantador piso ubicado en el municipio de Miengo, a tan sólo 3km de la Playa y muy cerca de la autopista, lo que le permitirá estar en 10 min en Torrelavega, en 15 min en el Aeropuerto y a 20 min de Santander. Su estratégica ubicación te permitirá llegar en apenas 10 minutos a Torrelavega, en 15 al Aeropuerto y en un cómodo trayecto de solo 20 minutos hasta Santander.  La propiedad ofrece una generosa superficie de 79 metros cuadrados distribuidos eficientemente: cuenta con dos amplios dormitorios dobles, cocina equipada y un luminoso salón que invita al descanso. El baño está equipado con bañera para mayor comodidad. Gracias a su orientación Norte-Sur, disfrutarás de abundante luz natural durante gran parte del día; además presenta acabados como suelo gres y carpintería exterior aluminio/Climalit que aportan modernidad y confort. Dentro del complejo residencial podrás aprovechar una zona privada para estacionar tu vehículo sin costo adicional (capacidad aproximada para unos veinte coches).  No pierdas esta oportunidad única; ¡llámanos hoy mismo para agendar tu visita! � Dada la demanda actual, las visitas se realizarán exclusivamente en jornadas programadas y siguiendo un riguroso orden de contacto. Se sugiere máxima antelación para garantizar disponibilidad en los horarios establecidos. Nota: El acceso a la visita está sujeto al cumplimiento previo de los requisitos imprescindibles y disponibilidad del equipo comercial. TRANSPARENCIA GESTIÓN INMOBILIARIA: - No se admiten mascotas. - Sujeto a decisión última del cliente propietario. - Imprescindible seguro de alquiler. - Honorarios inmobiliarios no incluidos en el precio. - Consultar resto de condiciones.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cudon",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "108728740",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/94/ff/31/1353448797.webp",
+      "externalReference": "CA816",
+      "numPhotos": 85,
+      "price": 4500.0,
+      "priceInfo": {
+        "price": {
+          "amount": 4500.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 514.0,
+      "rooms": 5,
+      "bathrooms": 4,
+      "address": "avenida Juan de Herrera",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Maoño",
+      "country": "es",
+      "latitude": 43.4148504,
+      "longitude": -3.9127107,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/108728740/",
+      "distance": "3299",
+      "description": "Veri Corral Inmobiliaria ofrece en alquiler este espectacular chalet independiente, una propiedad única que combina amplitud, comodidad y un entorno natural privilegiado. Ubicada en una parcela de más de 3.000 m², la vivienda destaca por su imponente presencia, rodeada de un extenso jardín con piscina, zona de barbacoa, cascada y una huerta perfectamente integrada en el paisaje, creando un ambiente ideal para disfrutar del aire libre en total privacidad.    La casa, con 514 m² construidos, se distribuye de manera funcional y elegante. Cuenta con espacios generosos que aportan calidez y versatilidad, como dos acogedores salones, una cocina principal completamente equipada, además de una segunda cocina en la zona del choco, junto a un amplio comedor con chimenea, pensado para reuniones en familia o con amigos. Dispone de cuatro dormitorios dobles, además de una habitación sin amueblar que puede adaptarse como despacho, dormitorio adicional o sala polivalente. La vivienda incluye también dos baños completos, dos aseos y un cuarto de lavado perfectamente acondicionado.    El interior de la casa está equipado con sistema de calefacción, aire acondicionado y tecnología domótica, además de un sistema de seguridad con cámaras de vigilancia y una descalcificadora de agua, ofreciendo el máximo confort y tranquilidad. La propiedad se completa con una espaciosa plaza de garaje con capacidad para tres vehículos.    Esta es una oportunidad excepcional para vivir rodeado de naturaleza, sin renunciar a las comodidades de una vivienda moderna y equipada hasta el último detalle. Un chalet pensado para quienes valoran la privacidad, el espacio y la calidad de vida.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Maoño, Santa Cruz de Bezana",
+        "title": "Casa independiente en avenida Juan de Herrera"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106815522",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/af/e7/dd/1294894770.webp",
+      "externalReference": "7926",
+      "numPhotos": 16,
+      "price": 2000.0,
+      "priceInfo": {
+        "price": {
+          "amount": 2000.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 330.0,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Mompia",
+      "province": "Cantabria",
+      "municipality": "Santa Cruz de Bezana",
+      "district": "Mompia",
+      "country": "es",
+      "latitude": 43.4413053,
+      "longitude": -3.9187406,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106815522/",
+      "distance": "3369",
+      "description": "Vivir en un chalet con terreno en Cantabria es un auténtico privilegio, y esta vivienda en Mompía reúne todo lo que buscas: la tranquilidad de estar rodeado de naturaleza y, al mismo tiempo, la comodidad de llegar en pocos minutos en coche al centro de Santander gracias a su excelente acceso por autovía. Esta preciosa casa, luminosa por sus amplias ventanas se distribuye en tres plantas: · Planta principal: amplio y luminoso salón-comedor con chimenea, cocina independiente totalmente equipada, una habitación y un baño. · Primera planta: dos habitaciones y un baño completo con jacuzzi. · Planta baja: garaje cerrado con gran capacidad. Además en el exterior encontramos una parcela de 800 m², muy cuidada, con zona embaldosada ideal para barbacoas y reuniones al aire libre. La vivienda con suelos de madera en dormitorios y techos de vigas de madera vistas en toda la casa: está decorada con mucho gusto, con un estilo acogedor y elegante, y se alquila completamente amueblada y equipada, lista para entrar a vivir desde el primer día. Una opción ideal para quienes buscan un hogar confortable, rodeado de naturaleza y a un paso de Santander. Ofrece la opción de alquilarla el curso escolar (consultar precio). Nota: La información proporcionada es de carácter orientativo y podría contener errores o imprecisiones involuntarias.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mompia, Santa Cruz de Bezana",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 32,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Boo, Piélagos",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 32,
+  "lowerRangePosition": 0,
+  "paginable": false
+}
