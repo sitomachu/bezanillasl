@@ -73,15 +73,7 @@ python src/idealistaAPI/ingestion/run_sale_requests.py --max-requests 100
 python src/idealistaAPI/ingestion/run_rent_requests.py --max-requests 100
 ```
 
-### Reanudar el ultimo run de alquiler
-
-Esto reutiliza el ultimo `rent_homes_run_*`, conserva las  requests ya consumidas y, si un circulo ya no aporta novedad, pasa a municipios adicionales definidos en configuracion.
-
-```bash
-python src/idealistaAPI/ingestion/run_resume_rent_requests.py --max-requests 100
-```
-
-### Limpieza manual de raw -> CSV total
+### Limpieza manual / analisis en notebook
 
 ```bash
 jupyter notebook notebooks/02_idealista_API_processing/idealistaAPI_raw_to_preprocess.ipynb
@@ -114,7 +106,7 @@ Por cada run:
 - `data/raw/idealistaAPI/raw/<operation>_homes_run_<timestamp>/reqXXX__<circle>__pYYY.json`
 - `data/raw/idealistaAPI/preprocess/<operation>_homes_run_<timestamp>/summary.json`
 
-Despues, desde notebook:
+Despues, desde notebook o proceso manual de limpieza:
 
 - `data/raw/idealistaAPI/preprocess/total_rent_cantabria.csv`
 - `data/raw/idealistaAPI/preprocess/total_sales_cantabria.csv`
@@ -134,7 +126,7 @@ Si la API devuelve cupo agotado/rate limit:
 - `src/idealistaAPI/config/idealista.py`: configuracion central.
 - `src/idealistaAPI/ingestion/api_types.py`: tipos de respuesta.
 - `src/idealistaAPI/ingestion/client.py`: OAuth + `search`.
-- `src/idealistaAPI/ingestion/services/request_service.py`: logica de run/resume.
+- `src/idealistaAPI/ingestion/services/request_service.py`: logica de run, paginacion y cierre seguro.
 - `src/idealistaAPI/ingestion/run_*_requests.py`: CLIs.
 - `notebooks/02_idealista_API_processing/idealistaAPI_raw_to_preprocess.ipynb`: JSON raw -> CSV total por operacion.
 - `notebooks/02_idealista_API_processing/idealistaAPI_data.ipynb`: procesamiento unificado de `rent` o `sale` con trigger `OPERATION`.

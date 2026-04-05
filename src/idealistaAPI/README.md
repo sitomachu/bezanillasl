@@ -44,12 +44,12 @@ $env:PYTHONPATH="."
 │       │   ├── api_types.py                # TypedDicts de respuestas API.
 │       │   │
 │       │   ├── services/
-│       │   │   └── request_service.py      # Lógica de ejecución, paginación y resume.
+│       │   │   └── request_service.py      # Lógica de ejecución, paginación y cierre seguro.
 │       │   │
 │       │   ├── run_sale_requests.py        # CLI para descarga mercado de venta.
 │       │   ├── run_rent_requests.py        # CLI para descarga mercado de alquiler.
 │       │
-│       └── processing/                     # Capa de transformación manual en notebooks.
+│       └── processing/                     # Capa de transformación y consolidación.
 ```
 
 ## Flujos principales
@@ -64,12 +64,6 @@ python src/idealistaAPI/ingestion/run_sale_requests.py --max-requests 100
 
 ```powershell
 python src/idealistaAPI/ingestion/run_rent_requests.py --max-requests 100
-```
-
-### 2.b) Reanudar el ultimo run de alquiler sin rehacer las requests ya hechas
-
-```bash
-python src/idealistaAPI/ingestion/run_resume_rent_requests.py --max-requests 100
 ```
 
 ### 3) Limpieza manual de raw -> CSV
@@ -90,7 +84,7 @@ python -m src.idealistaAPI.ingestion.test_one_request
 - Respuestas API: `data/raw/idealistaAPI/raw/<run>/reqXXX__<circle>__pYYY.json`
 - CSV total venta: `data/raw/idealistaAPI/preprocess/total_sales_cantabria.csv`
 - CSV total alquiler: `data/raw/idealistaAPI/preprocess/total_rent_cantabria.csv`
-- Metricas de consolidacion: `data/raw/idealistaAPI/preprocess/total_sales_cantabria_summary.json` o `data/raw/idealistaAPI/preprocess/total_rent_cantabria_summary.json`
+- Resumen del run: `data/raw/idealistaAPI/preprocess/<run>/summary.json`
 
 ## Corte automatico por cupo
 

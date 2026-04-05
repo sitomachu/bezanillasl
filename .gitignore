@@ -13,6 +13,7 @@ Desktop.ini
 .vscode/
 .history/
 *.code-workspace
+.codex
 
 # --- Python Cache & Bytecode ---
 __pycache__/
