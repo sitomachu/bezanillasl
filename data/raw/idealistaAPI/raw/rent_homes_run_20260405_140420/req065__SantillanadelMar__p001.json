@@ -1,0 +1,231 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110808340",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3d/72/d8/1416173304.webp",
+      "numPhotos": 17,
+      "floor": "2",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 93.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio Puente San Miguel",
+      "province": "Cantabria",
+      "municipality": "Puente San Miguel",
+      "country": "es",
+      "latitude": 43.359948,
+      "longitude": -4.0859067,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110808340/",
+      "distance": "3482",
+      "description": "¿Busca un hogar espacioso, ventilado y con luz natural durante todo el día? ☀️ Este segundo piso (sin ascensor) destaca por su excelente distribución y su ubicación estratégica cerca de todos los servicios. La vivienda se distribuye en cocina con zona de comedor independiente, salón muy amplio, tres habitaciones y un baño. No se admiten mascotas. Se hace seguro de impago de alquileres por lo que hay que cumplir con unos ingresos mínimos.  Precio: 650€/mes.",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Puente San Miguel",
+        "title": "Piso en Barrio Puente San Miguel"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109600595",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5a/54/8f/1379732899.webp",
+      "externalReference": "1095-1713",
+      "numPhotos": 12,
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 220.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "carretera Hinojedo-Puente Avios",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4067955,
+      "longitude": -4.0774142,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109600595/",
+      "distance": "2803",
+      "description": "SOLO ALQUILER CON OPCIÓN DE COMPRA En Puente Avios, a pocos kilómetros de Suances, se alquila casa independiente con parcela para larga estancia. La vivienda se encuentra rodeada de un amplio jardín, con merendero y barbacoa. Se distribuye en dos plantas, estando en la inferior un garaje con gran amplitud y zona de trastero con grandes ventanales.  La planta principal cuenta con tres habitaciones, un baño, oficina y cocina equipada. La bajo cubierta es un espacio habilitado como zona de ocio y juegos, ideal para los más pequeños. Dispone de sistema de calefacción de gasoil y ventanas de PVC. Ubicado en un entorno muy tranquilo y bien comunicado. No lo dudes y llámanos para obtener más información, nuestro equipo de expertos te asesorará en lo que necesites en todo momento. Puedes visitarnos en Santander, en la calle Floranes 63, junto a Cuatro Caminos y en Fernando de los Ríos 58.  EC INMOBILIARIA.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 5.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Casa independiente en carretera Hinojedo-Puente Avios"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109300699",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/2a/db/f6/1370362191.webp",
+      "externalReference": "AL2677",
+      "numPhotos": 20,
+      "floor": "1",
+      "price": 600.0,
+      "priceInfo": {
+        "price": {
+          "amount": 600.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio las Lastras, 24",
+      "province": "Cantabria",
+      "municipality": "Viveda",
+      "country": "es",
+      "latitude": 43.3751163,
+      "longitude": -4.071648,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109300699/",
+      "distance": "2898",
+      "description": "TEMPORAL DE 10 DE ABRIL DE 2026 A 30 DE JUNIO 2026 Presentamos a continuacion fantástica vivienda de DOS DORMITORIOS, en primera planta en Queveda ( junto a Santillana del mar), perteneciente a un conjunto de residencial de varios inmuebles. El apartamento, tiene una superficie útil de 60 metros distribuidos en un salón con cocina americana amueblada completamente. Los dos Dormitorios disponen de cama de matrimonio y armarios.  El baño es moderno y dispone de plato de ducha con mampara.  Cuenta con un porche/terraza, en el exterior. Los suelos son cerámicos, las ventanas de aluminio climalit. La calefacción y el agua caliente son de gas natural. Muy luminoso, todo exterior con orientación sur- este.   En el precio INCLUYE AGUA, LUZ Y GAS E INTERNET. Ubicado en Queveda, a 2 km de Santillana del Mar, y a 4 de Km de Torrelavega.   Esta destinado a un alquiler TEMPORAL, de ABRIL a junio de 2026. Ideal para traslados laboral, empresas ( por tiempo a determinar con la propiedad). Se solicita solvencia económica para acceder a la vivienda, No deje pasar esta oportunidad y solicite una visita sin compromiso.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Viveda",
+        "title": "Piso en Barrio las Lastras, 24"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109007301",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e6/47/b0/1361552538.webp",
+      "externalReference": "56589",
+      "numPhotos": 39,
+      "price": 1300.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1300.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 140.0,
+      "rooms": 4,
+      "bathrooms": 4,
+      "address": "CA-136",
+      "province": "Cantabria",
+      "municipality": "Santillana del Mar",
+      "country": "es",
+      "latitude": 43.3754053,
+      "longitude": -4.0991947,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109007301/",
+      "distance": "1528",
+      "description": "¿Buscas tranquilidad, confort y naturaleza sin renunciar alas comodidades? Ponemos en alquiler una casa independiente en una urbanización exclusiva en el pueblo de Vispieres, se alquila de septiembre a junio. Consta de tres plantas, en planta sótano el garaje que da acceso a la vivienda directamente con un gran espacio para aparcamiento más una zona de juego y de almacenaje, en la primera planta encontramos una habitación, baño completo, cocina totalmente equipada, amplio salón con acceso a la terraza con vistas a la zona ajardinada, piscina comunitaria cubierta climatizada, jacuzzi, sauna y gimnasio equipado con vestidores y duchas. En la planta superior tenemos una habitación principal con vestidor y baño completo, dos habitaciones individuales con un baño compartido Si estás buscando una vivienda única y exclusiva aquí tienes la oportunidad. ¡Ponte en contacto con tu agente de confianza en Inmobiliaria San Fernando!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santillana del Mar",
+        "title": "Casa independiente en Ca-136"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 4,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Santillana del Mar, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 4,
+  "paginable": false
+}

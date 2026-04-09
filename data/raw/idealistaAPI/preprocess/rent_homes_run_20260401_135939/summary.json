@@ -1,0 +1,101 @@
+{
+  "used_requests": 22,
+  "stopped_by_quota": false,
+  "quota_error": null,
+  "raw_dir": "data/raw/idealistaAPI/raw/rent_homes_run_20260401_135939",
+  "processed_dir": "data/raw/idealistaAPI/preprocess/rent_homes_run_20260401_135939",
+  "postprocess_status": "pending_manual_notebook",
+  "suggested_output_csv": "rent_homes_cantabria_bezana_like_raw.csv",
+  "location_states": [
+    {
+      "name": "SantaCruzDeBezana",
+      "location_id": "0-EU-ES-39-39016",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Camargo",
+      "location_id": "0-EU-ES-39-39018",
+      "next_page_final": 4,
+      "total_pages": 3,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Pielagos",
+      "location_id": "0-EU-ES-39-39046",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Santander",
+      "location_id": "0-EU-ES-39-39075",
+      "next_page_final": 7,
+      "total_pages": 6,
+      "requests": 6,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "MarinaDeCudeyo",
+      "location_id": "0-EU-ES-39-39043",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Miengo",
+      "location_id": "0-EU-ES-39-39040",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "RibamontanAlMar",
+      "location_id": "0-EU-ES-39-39056",
+      "next_page_final": 6,
+      "total_pages": 5,
+      "requests": 5,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Suances",
+      "location_id": "0-EU-ES-39-39084",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Laredo",
+      "location_id": "0-EU-ES-39-39034",
+      "next_page_final": 3,
+      "total_pages": 2,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "CastroUrdiales",
+      "location_id": "0-EU-ES-39-39021",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    }
+  ]
+}

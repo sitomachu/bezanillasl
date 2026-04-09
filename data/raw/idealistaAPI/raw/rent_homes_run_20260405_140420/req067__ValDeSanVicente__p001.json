@@ -1,0 +1,124 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "95994664",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5d/d7/cc/1392666656.webp",
+      "externalReference": "AL2211",
+      "numPhotos": 7,
+      "floor": "3",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Val de San Vicente",
+      "province": "Cantabria",
+      "municipality": "Val de San Vicente",
+      "country": "es",
+      "latitude": 43.3751597,
+      "longitude": -4.5188301,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/95994664/",
+      "distance": "0",
+      "description": "Presentamos a continuación fantástica vivienda en el centro de Unquera.   La vivienda es UNA TERCERA planta en un edificio SIN ASCENSOR; Tiene una superficie útil de 81 metros distribuidos en 3 dormitorios ( el primero con cama de matrimonio y armario, el segundo con dos camas de 90 y armario, y el tercero con cama individual y mesa de estudio, desde la tercera habitación tenéis acceso a un balcón). Amplio salón amueblado totalmente con dos sofás, mesita, mueble de tv ( incluye TV). Baño completo con bañera y mampara. La Cocina esta equipada totalmente y incluye lavavajillas; Dispone de calefacción de gas natural, suelo de tarima flotante y ventanas de aluminio climalit. La vivienda es muy luminosa dispone de orientación sur-este da el sol todo el día. La vivienda se encuentra muy bien ubicada en el centro del pueblo con todos los servicios al lado farmacias, colegio, médicos, supermercados, etc. A un kilometro de la salida de la autovía A-8. A 5 minutos de las playas de Pechón, a 10 de San Vicente de la barquera y a 25 minutos de Torrelavega. Esta destinado a alquiler fijo para larga duración, se solicita solvencia económica para hacer seguro de alquiler. Consulte fechas y disponibilidad. Periodos no fijo. NO SE ADMITE MASCOTAS. No dejes pasar esta oportunidad y solicite su visita sin compromiso estaremos encantados de atenderle.  .",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Val de San Vicente",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "103560274",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/3b/28/0a/1193353252.webp",
+      "externalReference": "23A01 - Colombres - Casa del Norte",
+      "numPhotos": 37,
+      "floor": "3",
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 95.0,
+      "exterior": true,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "RD-3",
+      "province": "Asturias",
+      "municipality": "Ribadedeva",
+      "country": "es",
+      "latitude": 43.3734641,
+      "longitude": -4.5668398,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/103560274/",
+      "distance": "3884",
+      "description": "Descubre nuestro amplio apartamento en Colombres, perfecto para estancias cómodas y equipadas. Con tres habitaciones y plaza de garaje, te aseguramos una estancia tranquila y sin preocupaciones. Disfruta de todas las comodidades que necesitas. Además, su ubicación privilegiada te permite explorar las playas, la playa de la Franca a tan solo 3 km, paisajes y la rica historia y cultura de Colombres. ¡No esperes más y reserva ahora para unas vacaciones inolvidables en Asturias! Alquiler de corta o media estancia. Se alquila por meses, días, semanas o también días laborables. Máximo de alquiler de 10 meses. Los gastos de gestión, limpieza y suministros no están incluidos. Para esta vivienda el precio con todos los gastos sería desde 700 euros/mes. Se debe depositar fianza y el pago se hace por adelantado antes de la firma del contrato y para bloquear la reserva. El precio puede variar según la temporada. No disponible en temporada de Verano. Ropa de cama, toallas y menaje incluido. Disponemos de más viviendas en todo Asturias y Cantabria. Podrás ver disponibilidad y precios en Somos una consultoría inmobiliaria, que ofrecemos casi todos los servicios relacionados con los bienes inmuebles, a nivel particular, empresa o inversor. Compra-venta-alquiler de propiedades, gestión integral de alquileres vacacionales, broker inmobiliario, reformas integrales y parciales, arquitectura técnica, . Para más información contáctanos. NRU: ESFCTU000033010000 00000000000000VUT. 4674. AS2.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ribadedeva",
+        "title": "Piso en Rd-3"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 2,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Ribadedeva, Asturias",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 2,
+  "paginable": false
+}

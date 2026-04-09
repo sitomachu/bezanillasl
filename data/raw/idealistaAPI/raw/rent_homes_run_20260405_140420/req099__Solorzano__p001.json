@@ -1,0 +1,129 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110939040",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/16/30/f7/1420205041.webp",
+      "externalReference": "AL2714",
+      "numPhotos": 14,
+      "floor": "3",
+      "price": 900.0,
+      "priceInfo": {
+        "price": {
+          "amount": 900.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "duplex",
+      "operation": "rent",
+      "size": 119.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Barrio Beranga, 5",
+      "province": "Cantabria",
+      "municipality": "Hazas de Cesto",
+      "country": "es",
+      "latitude": 43.4206074,
+      "longitude": -3.5737498,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/110939040/",
+      "distance": "4119",
+      "description": "SOLO PARA EMPRESAS / TRASLADOS / TEMPORAL Presentamos a continuación fantástica vivienda en Beranga.  La vivienda es  un DUPLEX en una TERCERA PLANTA en un edificio CON ASCENSOR . Tiene una superficie útil de 110 metros distribuidos en 2 dormitorios ( 1 con cama de 1,50m, el segundo y el con 2 camas de 90) y armarios.  El salón es bastante amplio incluye mesa comedor, sofá y mueble de tv. La cocina esta equipada completamente con electrodomésticos. El baño tiene plato de ducha y mampara. La vivienda dispone de calefacción de gas natural, tiene suelos de cerámica, puertas de madera, y ventanas de doble cristal de madera.  Es muy soleado, tiene orientación SUR, y norte, lo que garantiza sol durante las horas principales del día con un hermoso balcón  con paradas de autobús, supermercados, estación de Ferrocarril. DESTINADO A EMPRESAS QUE VENGAN POR MESES / TRIMESTRES / SEMESTRES, ETC. No deje pasar esta oportunidad y solicite su visita.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 8.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "duplex"
+      },
+      "suggestedTexts": {
+        "subtitle": "Hazas de Cesto",
+        "title": "Dúplex en Barrio Beranga, 5"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110699815",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/56/f4/7c/1418712915.webp",
+      "externalReference": "39DG-000028-02",
+      "numPhotos": 17,
+      "floor": "1",
+      "price": 775.0,
+      "priceInfo": {
+        "price": {
+          "amount": 775.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 75.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio los Corrales",
+      "province": "Cantabria",
+      "municipality": "Beranga",
+      "country": "es",
+      "latitude": 43.4173066,
+      "longitude": -3.5723505,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110699815/",
+      "distance": "4084",
+      "description": "Magnífico piso de 75 m2 para alquiler de larga duración en HAZAS DE CESTO.  Dispone de 2 habitaciones, salón independiente, cocina totalmente amueblada y equipada, 2 baños completos, calefacción individual, amueblado. Es una vivienda exterior muy luminosa, cuenta con una terraza. Finca con ascensor.  2 Plazas de parking y gastos de comunidad INCLUIDOS en el precio del alquiler.  Zona de jardines y piscina comunitaria. Zona residencial con todos los servicios.  No se aceptan mascotas.  Benefíciate del 25% de descuento sobre el servicio SAI de esta vivienda.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Beranga",
+        "title": "Piso en Barrio los Corrales"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 2,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Ribamontan al Monte, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 2,
+  "paginable": false
+}

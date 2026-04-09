@@ -94,129 +94,35 @@ class IdealistaClient:
     def _request_token(self) -> tuple[str, int]:
         """
         Solicita token OAuth2 con grant_type=client_credentials.
-        Devuelve: (token, expires_in_seconds)
-
-        Ajusta este método si tu documentación de Idealista exige otro flujo/formato.
+        Formato exacto documentado por Idealista:
+          Authorization: Basic {base64(apikey:secret)}
+          Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+          body: grant_type=client_credentials&scope=read
         """
-        token_attempts: list[tuple[dict[str, str], dict[str, str], tuple[str, str] | None, str]] = []
-        basic_token = base64.b64encode(f"{self.client_id}:{self.client_secret}".encode("utf-8")).decode("ascii")
+        basic_token = base64.b64encode(
+            f"{self.client_id}:{self.client_secret}".encode("utf-8")
+        ).decode("ascii")
 
-        # Attempt 1: OAuth2 client_credentials via HTTP Basic Auth.
-        token_attempts.append(
-            (
-                {
-                    "Accept": "application/json",
-                    "Content-Type": "application/x-www-form-urlencoded",
-                },
-                {"grant_type": "client_credentials"},
-                (self.client_id, self.client_secret),
-                "basic_auth",
-            )
+        headers = {
+            "Authorization": f"Basic {basic_token}",
+            "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+        }
+        # body como string para garantizar codificación y orden exactos
+        body = "grant_type=client_credentials&scope=read"
+
+        r = self._session.post(
+            self.token_url,
+            headers=headers,
+            data=body,
+            timeout=self.timeout_s,
         )
 
-        # Attempt 2: Same flow with explicit Authorization header.
-        token_attempts.append(
-            (
-                {
-                    "Accept": "application/json",
-                    "Content-Type": "application/x-www-form-urlencoded",
-                    "Authorization": f"Basic {basic_token}",
-                },
-                {"grant_type": "client_credentials"},
-                None,
-                "auth_header",
-            )
-        )
-
-        # Attempt 3: Some contracts require scope=read with Basic Auth.
-        token_attempts.append(
-            (
-                {
-                    "Accept": "application/json",
-                    "Content-Type": "application/x-www-form-urlencoded",
-                },
-                {
-                    "grant_type": "client_credentials",
-                    "scope": "read",
-                },
-                (self.client_id, self.client_secret),
-                "basic_auth_with_scope",
-            )
-        )
-
-        # Attempt 4: Some contracts require scope=read and credentials in body.
-        token_attempts.append(
-            (
-                {
-                    "Accept": "application/json",
-                    "Content-Type": "application/x-www-form-urlencoded",
-                },
-                {
-                    "grant_type": "client_credentials",
-                    "scope": "read",
-                    "client_id": self.client_id,
-                    "client_secret": self.client_secret,
-                },
-                None,
-                "body_credentials_with_scope",
-            )
-        )
-
-        # Attempt 5: Last resort with permissive Accept header.
-        token_attempts.append(
-            (
-                {
-                    "Accept": "*/*",
-                    "Content-Type": "application/x-www-form-urlencoded",
-                },
-                {"grant_type": "client_credentials", "scope": "read"},
-                (self.client_id, self.client_secret),
-                "basic_auth_with_scope_accept_any",
-            )
-        )
-
-        last_response: requests.Response | None = None
-        last_request_desc = ""
-        attempt_results: list[str] = []
-        for headers, data, auth, mode in token_attempts:
-            r = self._session.post(
-                self.token_url,
-                headers=headers,
-                data=data,
-                auth=auth,
-                timeout=self.timeout_s,
-            )
-            last_response = r
-            last_request_desc = f"mode={mode} content_type={headers['Content-Type']} accept={headers['Accept']}"
-            attempt_results.append(f"{mode}:{r.status_code}")
-            if r.ok:
-                break
-
-            if r.status_code in (401, 403):
-                raise IdealistaAuthError(f"Auth fallida ({r.status_code}): {r.text}")
-
-            # If the server rejects representation/contract for one attempt, try the next variant.
-            if r.status_code == 406:
-                continue
-
-            raise IdealistaAPIError(
-                f"Error token ({r.status_code}): {r.text}. "
-                f"url={self.token_url} {last_request_desc} attempts={','.join(attempt_results)}"
-            )
-
-        if last_response is None:
-            raise IdealistaAPIError(f"No se pudo ejecutar ninguna variante de token contra {self.token_url}")
-
-        r = last_response
-
-        # Credenciales mal: no tiene sentido reintentar.
         if r.status_code in (401, 403):
             raise IdealistaAuthError(f"Auth fallida ({r.status_code}): {r.text}")
 
         if not r.ok:
             raise IdealistaAPIError(
-                f"Error token ({r.status_code}): {r.text}. "
-                f"url={self.token_url} {last_request_desc} attempts={','.join(attempt_results)}"
+                f"Error token ({r.status_code}): {r.text}. url={self.token_url}"
             )
 
         payload = r.json()
@@ -226,9 +132,8 @@ class IdealistaClient:
         if not token:
             raise IdealistaAuthError(f"Respuesta token sin access_token: {payload}")
 
-        # Si no viene expires_in (raro pero posible), aplica TTL conservador para no romper.
         if expires_in <= 0:
-            expires_in = 1800  # 30 min
+            expires_in = 1800  # 30 min conservador
 
         return token, expires_in
 

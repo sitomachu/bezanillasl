@@ -1,0 +1,449 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "110917836",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/37/da/ea/1419537267.webp",
+      "numPhotos": 6,
+      "price": 1250.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1250.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 80.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio Mar",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3964612,
+      "longitude": -4.0163431,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110917836/",
+      "distance": "465",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible hasta junio 2026. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Casa independiente en Barrio Mar"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110849496",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e7/5f/9d/1417428248.webp",
+      "externalReference": "0803-125031-POLANCO-NOFIJO    ",
+      "numPhotos": 6,
+      "price": 1250.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1250.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 80.0,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Barrio Mar",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3959779,
+      "longitude": -4.0160764,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110849496/",
+      "distance": "454",
+      "description": "///// NO SE ALQUILA PARA FIJO ///// Disponible hasta junio 2026. Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 16.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Casa independiente en Barrio Mar"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110441377",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/44/1c/5f/1405232112.webp",
+      "numPhotos": 14,
+      "price": 1750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 150.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Polanco",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3979774,
+      "longitude": -4.0160353,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110441377/",
+      "distance": "597",
+      "description": "Casa Pareada para capacidad de 8 personas ///// NO SE ALQUILA PARA FIJO ///// Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*****  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Chalet pareado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "106505414",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/78/f1/40/1284870093.webp",
+      "externalReference": "56701",
+      "numPhotos": 21,
+      "price": 800.0,
+      "priceInfo": {
+        "price": {
+          "amount": 800.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 82.0,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio Cumbrales",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.3850629,
+      "longitude": -4.0107812,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/106505414/",
+      "distance": "1291",
+      "description": "Chalet adosado en Polanco con una distribución ideal para los que buscan comodidad y funcionalidad en una de las mejores zonas residenciales de la localidad con zona de juego infantil y piscina comunitaria, consta de: dos habitaciones con amplios armarios empotrados, cocina independiente muy amplia, dos baños, jardín y plaza de aparcamiento. Si tu sueño es encontrar una vivienda que tenga todas estas condiciones no lo pienses mas ven y pregúntanos. NO MASCOTAS MAX. TRES PERSONAS LARGA DURACION.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Chalet adosado en Barrio Cumbrales"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109881646",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/90/91/f2/1388439147.webp",
+      "externalReference": "1611-165043-POLANCO-CASA",
+      "numPhotos": 14,
+      "price": 1750.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1750.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 150.0,
+      "rooms": 4,
+      "bathrooms": 3,
+      "address": "Polanco",
+      "province": "Cantabria",
+      "municipality": "Polanco",
+      "country": "es",
+      "latitude": 43.395835,
+      "longitude": -4.0142582,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109881646/",
+      "distance": "581",
+      "description": "Casa Pareada para capacidad de 8 personas ///// NO SE ALQUILA PARA FIJO ///// Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*****  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "semidetachedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Polanco",
+        "title": "Chalet pareado"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109833201",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/b8/b1/26/1387012766.webp",
+      "externalReference": "56670",
+      "numPhotos": 21,
+      "price": 1200.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1200.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 200.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Suances",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4086874,
+      "longitude": -4.0376832,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109833201/",
+      "distance": "2117",
+      "description": "Si estás buscando un chalet en Suances para disfrutar desde el otoño a la primavera, esta es tu oportunidad, con unas maravillosas vista a la ría de San Martin Consta de un amplio salón, cocina independiente y totalmente equipada, aseo y un precioso hall en la planta baja que da acceso al jardín. Dos habitaciones un baño y una habitación principal con baño completo y vestidor, en la primera planta. En la zona del sótano encontramos el garaje con una zona de amplio almacenamiento. amplia y acceso a las y su enclave maravilloso. No lo dudes mas, ven y pregunta por ello, estaremos encantados de enseñártela.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109827366",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/54/ca/a4/1386830489.webp",
+      "externalReference": "1972425",
+      "numPhotos": 11,
+      "floor": "1",
+      "price": 600.0,
+      "priceInfo": {
+        "price": {
+          "amount": 600.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 45.0,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "calle Comillas, 68",
+      "province": "Cantabria",
+      "municipality": "Suances",
+      "country": "es",
+      "latitude": 43.4248168,
+      "longitude": -4.0347571,
+      "showAddress": true,
+      "url": "https://www.idealista.com/inmueble/109827366/",
+      "distance": "3602",
+      "description": "Se alquila apartamento en Suances, zona de la playa. La vivienda situada en una urbanización con piscina y a 2 minutos de la playa.   Se distribuye en, habitación, salón con cocina y baño. ¡ALQUILER DE OCTUBRE A JUNIO!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 13.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Suances",
+        "title": "Piso en calle Comillas, 68"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109133338",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/8f/84/54/1365328188.webp",
+      "externalReference": "G01873",
+      "numPhotos": 16,
+      "floor": "1",
+      "price": 700.0,
+      "priceInfo": {
+        "price": {
+          "amount": 700.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 79.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Cudon",
+      "province": "Cantabria",
+      "municipality": "Cudon",
+      "country": "es",
+      "latitude": 43.4143064,
+      "longitude": -4.0126274,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109133338/",
+      "distance": "2356",
+      "description": "Alquiler de temporada. ¡Para profesores, profesional desplazado o estudiantes! Descubre este encantador piso ubicado en el municipio de Miengo, a tan sólo 3km de la Playa y muy cerca de la autopista, lo que le permitirá estar en 10 min en Torrelavega, en 15 min en el Aeropuerto y a 20 min de Santander. Su estratégica ubicación te permitirá llegar en apenas 10 minutos a Torrelavega, en 15 al Aeropuerto y en un cómodo trayecto de solo 20 minutos hasta Santander.  La propiedad ofrece una generosa superficie de 79 metros cuadrados distribuidos eficientemente: cuenta con dos amplios dormitorios dobles, cocina equipada y un luminoso salón que invita al descanso. El baño está equipado con bañera para mayor comodidad. Gracias a su orientación Norte-Sur, disfrutarás de abundante luz natural durante gran parte del día; además presenta acabados como suelo gres y carpintería exterior aluminio/Climalit que aportan modernidad y confort. Dentro del complejo residencial podrás aprovechar una zona privada para estacionar tu vehículo sin costo adicional (capacidad aproximada para unos veinte coches).  No pierdas esta oportunidad única; ¡llámanos hoy mismo para agendar tu visita! � Dada la demanda actual, las visitas se realizarán exclusivamente en jornadas programadas y siguiendo un riguroso orden de contacto. Se sugiere máxima antelación para garantizar disponibilidad en los horarios establecidos. Nota: El acceso a la visita está sujeto al cumplimiento previo de los requisitos imprescindibles y disponibilidad del equipo comercial. TRANSPARENCIA GESTIÓN INMOBILIARIA: - No se admiten mascotas. - Sujeto a decisión última del cliente propietario. - Imprescindible seguro de alquiler. - Honorarios inmobiliarios no incluidos en el precio. - Consultar resto de condiciones.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 9.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cudon",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 8,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Polanco, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "upperRangePosition": 8,
+  "lowerRangePosition": 0,
+  "paginable": false
+}

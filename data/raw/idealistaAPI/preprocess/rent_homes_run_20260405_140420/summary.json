@@ -1,0 +1,415 @@
+{
+  "used_requests": 106,
+  "stopped_by_quota": false,
+  "stopped_by_user": false,
+  "quota_error": null,
+  "unexpected_error": "Fallo tras reintentos llamando https://api.idealista.com/3.5/es/search: None",
+  "raw_dir": "data/raw/idealistaAPI/raw/rent_homes_run_20260405_140420",
+  "processed_dir": "data/raw/idealistaAPI/preprocess/rent_homes_run_20260405_140420",
+  "postprocess_status": "merged_daily_run",
+  "suggested_output_csv": "rent_homes_cantabria_bezana_like_raw.csv",
+  "csv_path": "data/raw/idealistaAPI/preprocess/rent_homes_run_20260405_140420/rent_homes_cantabria_bezana_like_raw.csv",
+  "merged_from_runs": [
+    "rent_homes_run_20260405_134308",
+    "rent_homes_run_20260405_135714",
+    "rent_homes_run_20260405_140420"
+  ],
+  "location_states": [
+    {
+      "name": "SantaCruzDeBezana",
+      "location_id": "0-EU-ES-39-39016",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Camargo",
+      "location_id": "0-EU-ES-39-39018",
+      "next_page_final": 3,
+      "total_pages": 2,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Pielagos",
+      "location_id": "0-EU-ES-39-39046",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Santander",
+      "location_id": "0-EU-ES-39-39075",
+      "next_page_final": 7,
+      "total_pages": 6,
+      "requests": 6,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "MarinaDeCudeyo",
+      "location_id": "0-EU-ES-39-39043",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Miengo",
+      "location_id": "0-EU-ES-39-39040",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "RibamontanAlMar",
+      "location_id": "0-EU-ES-39-39056",
+      "next_page_final": 6,
+      "total_pages": 5,
+      "requests": 10,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Suances",
+      "location_id": "0-EU-ES-39-39084",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Laredo",
+      "location_id": "0-EU-ES-39-39034",
+      "next_page_final": 3,
+      "total_pages": 2,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "CastroUrdiales",
+      "location_id": "0-EU-ES-39-39021",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Arnuero",
+      "location_id": "0-EU-ES-39-39005",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Bareyo",
+      "location_id": "0-EU-ES-39-39010",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Guriezo",
+      "location_id": "legacy:guriezo",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Ruiloba",
+      "location_id": "legacy:ruiloba",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "SantillanadelMar",
+      "location_id": "0-EU-ES-39-39072",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "ValDeSanVicente",
+      "location_id": "legacy:valdesanvicente",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Liendo",
+      "location_id": "legacy:liendo",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "AlfozDeLloredo",
+      "location_id": "0-EU-ES-39-39001",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Colindres",
+      "location_id": "legacy:colindres",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Noja",
+      "location_id": "0-EU-ES-39-39049",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "SanVicenteBarquera",
+      "location_id": "0-EU-ES-39-39068",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Comillas",
+      "location_id": "0-EU-ES-39-39020",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Santona",
+      "location_id": "0-EU-ES-39-39076",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Solorzano",
+      "location_id": "0-EU-ES-39-39081",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Udias",
+      "location_id": "0-EU-ES-39-39088",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 2
+    },
+    {
+      "name": "Guarnizo",
+      "location_id": "legacy:guarnizo",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "CabezonDeLaSal",
+      "location_id": "0-EU-ES-39-39012",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Solares",
+      "location_id": "legacy:solares",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Mogro",
+      "location_id": "legacy:mogro",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 1,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Entrambasaguas",
+      "location_id": "0-EU-ES-39-39025",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "RibamontanAlMonte",
+      "location_id": "0-EU-ES-39-39057",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Valdaliga",
+      "location_id": "0-EU-ES-39-39090",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 1
+    },
+    {
+      "name": "LosCorralesDeBuelna",
+      "location_id": "0-EU-ES-39-39026",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Polanco",
+      "location_id": "0-EU-ES-39-39053",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "ElAstillero",
+      "location_id": "0-EU-ES-39-39007",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "PuenteViesgo",
+      "location_id": "0-EU-ES-39-39055",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Cartes",
+      "location_id": "0-EU-ES-39-39015",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "SantaMariadeCayon",
+      "location_id": "0-EU-ES-39-39067",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Reocin",
+      "location_id": "0-EU-ES-39-39059",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "Villaescusa",
+      "location_id": "0-EU-ES-39-39094",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 1
+    },
+    {
+      "name": "Torrelavega",
+      "location_id": "0-EU-ES-39-39087",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 3,
+      "exhausted": true,
+      "consecutive_errors": 2
+    },
+    {
+      "name": "Ampuero",
+      "location_id": "0-EU-ES-39-39002",
+      "next_page_final": 2,
+      "total_pages": 1,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "MedioCudeyo",
+      "location_id": "0-EU-ES-39-39039",
+      "next_page_final": 5,
+      "total_pages": 4,
+      "requests": 5,
+      "exhausted": true,
+      "consecutive_errors": 0
+    },
+    {
+      "name": "BarcenadeCicero",
+      "location_id": null,
+      "next_page_final": 3,
+      "total_pages": 2,
+      "requests": 2,
+      "exhausted": true,
+      "consecutive_errors": 0
+    }
+  ]
+}

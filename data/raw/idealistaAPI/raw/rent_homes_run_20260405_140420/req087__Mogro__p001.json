@@ -1,0 +1,337 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "111051124",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/57/de/7e/1423805635.webp",
+      "externalReference": "2903-61021-MOGRO-NOFIJO",
+      "numPhotos": 11,
+      "floor": "3",
+      "price": 610.0,
+      "priceInfo": {
+        "price": {
+          "amount": 610.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 60.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Urbanización Pueblo del Sol",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4285979,
+      "longitude": -3.975449,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/111051124/",
+      "distance": "297",
+      "description": "La propiedad busca un docente o un profesional en teletrabajo que quiera disfrutar de este maravilloso hogar durante la estancia escolar. ///// NO SE ALQUILA PARA FIJO ///// Disponible para el curso escolar 2026–2027. Alquiler dirigido a profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 10.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Piso en Urbanización Pueblo del Sol"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "89793909",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/48/88/ec/1423438167.webp",
+      "externalReference": "613253",
+      "numPhotos": 23,
+      "floor": "3",
+      "price": 650.0,
+      "priceInfo": {
+        "price": {
+          "amount": 650.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 96.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Mogro",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4407443,
+      "longitude": -3.9717292,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/89793909/",
+      "distance": "1086",
+      "description": "El despertar que te mereces durante el curso ¿Te imaginas corregir exámenes o preparar tus clases con el sonido de las olas de fondo?  Este encantador apartamento junto a Playa de Mogro es el refugio perfecto para el próximo curso escolar 26-27. Una ubicación estratégica que combina la serenidad de la costa con una conexión rápida a Santander y Torrelavega. Este inmueble está diseñado para ofrecerte confort y funcionalidad desde el primer día. Distribución inteligente, dos dormitorios acogedores; el principal con cama de matrimonio y un segundo dormitorio con literas, ideal para visitas o como zona de estudio/trabajo adicional, dos baños completos para mayor comodidad, cocina independiente equipada y un salón luminoso que invita al descanso. Tiene dos terrazas privada donde salir a disfrutar del aire puro del Cantábrico.  Incluye plaza de garaje, un valor fundamental para olvidarte de buscar aparcamiento tras tu jornada laboral. Aunque es un tercer piso sin ascensor, se siente como un 2º, ya que la planta baja es un bajo, su altura le garantiza una luminosidad natural excepcional y mejores vistas sin el esfuerzo de una planta mas alta. En Best House San Fernando nos encargamos de que tu llegada a Cantabria sea impecable. Te asesoramos en todo el proceso de alquiler y condiciones contractuales para que tu única preocupación sea disfrutar de tu nueva etapa profesional. ¿Es este tu próximo hogar para el curso 26-27? Contáctanos hoy mismo. Nota:  Alquiler sujeto a la decisión final del arrendador.  No se admiten mascotas.  Consulta condiciones específicas  honorarios de agencia (media mensualidad + IVA).",
+      "hasVideo": true,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Piso"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110919619",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/e0/ba/7d/1419577446.webp",
+      "numPhotos": 6,
+      "floor": "4",
+      "price": 890.0,
+      "priceInfo": {
+        "price": {
+          "amount": 890.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 2,
+      "address": "Barrio la Arena",
+      "province": "Cantabria",
+      "municipality": "Miengo",
+      "country": "es",
+      "latitude": 43.4308743,
+      "longitude": -4.0062231,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110919619/",
+      "distance": "2556",
+      "description": "Leer el anuncio bien; *DEL 11 DE MAYO AL 11 DE AGOSTO* ///// NO SE ALQUILA PARA FIJO ///// Alquiler dirigido a estudiantes o profesionales desplazados con contrato temporal. Por normativa vigente, es obligatorio justificar la temporalidad del arrendamiento. Por favor, abstenerse quienes busquen alquiler para residencia permanente*  Este anuncio es informativo y no contractual, puede contener errores, se muestra a título informativo y no es vinculante. Además, está sujeto a la decisión final del propietario.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": false,
+      "priceByArea": 11.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Miengo",
+        "title": "Piso en Barrio la Arena"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "110900010",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/10/4d/37/1424159929.webp",
+      "externalReference": "86118",
+      "numPhotos": 22,
+      "floor": "2",
+      "price": 950.0,
+      "priceInfo": {
+        "price": {
+          "amount": 950.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "penthouse",
+      "operation": "rent",
+      "size": 80.0,
+      "exterior": true,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "calle San Martin",
+      "province": "Cantabria",
+      "municipality": "Mogro",
+      "country": "es",
+      "latitude": 43.4277194,
+      "longitude": -3.9724052,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/110900010/",
+      "distance": "424",
+      "description": "Disponible vivienda a estrenar en Mogro, situada en una zona residencial tranquila, muy próxima a la playa y con excelente conexión a la autovía, lo que permite llegar a Santander en apenas 10 minutos. La vivienda cuenta con: Plaza de garaje y trastero Supermercado a solo 2 minutos caminando Entorno cómodo y bien comunicado Edificio de reciente construcción Una opción perfecta para quienes buscan estrenar piso, disfrutar de la cercanía al mar y vivir en una zona bien comunicada con todos los servicios esenciales. Ven a visitarlo con una agente de iInmobiliaria San Fernando.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 12.0,
+      "change": {},
+      "detailedType": {
+        "typology": "flat",
+        "subTypology": "penthouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mogro",
+        "title": "Ático en calle San Martin"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109769483",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/4a/0b/42/1423337386.webp",
+      "externalReference": "G02222",
+      "numPhotos": 32,
+      "price": 990.0,
+      "priceInfo": {
+        "price": {
+          "amount": 990.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 217.0,
+      "rooms": 3,
+      "bathrooms": 3,
+      "address": "Boo",
+      "province": "Cantabria",
+      "municipality": "Piélagos",
+      "district": "Boo",
+      "country": "es",
+      "latitude": 43.4332734,
+      "longitude": -3.9459361,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109769483/",
+      "distance": "2323",
+      "description": "¡Bienvenidos a Villa Laura! � Ubicada en el encantador pueblo de Boo de Piélagos, este hermoso chalet está a tan solo 20 min de lugares emblemáticos como Puertochico o el Palacio De Festivales De Santander � ambos ubicados aproximadamente a 17 km. Y si necesitas desplazarte al Aeropuerto � (Aeropuerto De Santander), este se encuentra muy cerca - apenas a 13 km.  Con espacio para alojar cómodamente hasta seis personas, este chalet cuenta con tres acogedores dormitorios �. Además, contarás con una moderna sala de estar y una cocina completamente equipada �️ que incluye horno y cafetera. La comodidad es clave aquí: tendrás acceso a tres baños equipados, con toallas y ropa de cama incluidas �. Disfruta del aire fresco y la tranquilidad que ofrece su maravilloso jardín �, ideal para relajarte o disfrutar con familiares y amigos. No pierdas la oportunidad �� reserva ya tu estancia. ¡Llámanos para agendar una visita! ALQUILER DE TEMPORADA. Disponible hasta el 30 de junio. Consultar fechas. TRANSPARENCIA GESTIÓN INMOBILIARIA: - No se admiten mascotas. - Sujeto a decisión última del cliente propietario. - Imprescindible seguro de alquiler. - Honorarios inmobiliarios no incluidos en el precio. - Consultar resto de condiciones.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 5.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Boo, Piélagos",
+        "title": "Casa independiente"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    },
+    {
+      "propertyCode": "109581589",
+      "thumbnail": "https://img4.idealista.com/blur/480_360_mq/0/id.pro.es.image.master/5d/7a/28/1379138269.webp",
+      "externalReference": "ACR-01931",
+      "numPhotos": 28,
+      "price": 1250.0,
+      "priceInfo": {
+        "price": {
+          "amount": 1250.0,
+          "currencySuffix": "€/mes"
+        }
+      },
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 191.0,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "avenida de los Menicenses",
+      "province": "Cantabria",
+      "municipality": "Miengo",
+      "country": "es",
+      "latitude": 43.4278134,
+      "longitude": -3.9942355,
+      "showAddress": false,
+      "url": "https://www.idealista.com/inmueble/109581589/",
+      "distance": "1632",
+      "description": "ALQUILER TEMPORAL DE OCTUBRE DE 2025 A JUNIO DE 2026. PERIODO MINIMO DE ALQUILER 3 MESES. Descubre este encantador chalet de cuatro habitaciones, ubicado en la tranquila localidad de Miengo. Distribuido en tres plantas, este hogar ofrece un espacio perfecto para disfrutar de la vida en familia. En la planta baja, te recibe una amplia cocina, un aseo y un acogedor salón que se comunica con un jardín privado, con un porche ideal para relajarse y una zona verde que combina sombra y sol, perfecta para disfrutar de momentos al aire libre. La primera planta está diseñada como una zona de descanso, con tres cómodas habitaciones y un baño completo. En la tercera planta, encontrarás un espacio despejado que puede convertirse en un rincón de lectura o un área de juegos para los más pequeños. Este chalet no solo es funcional, sino que también está situado en una urbanización muy tranquila, con accesos cómodos y a solo 7 minutos de dos hermosas playas. Con 191 m² construidos y una distribución pensada para el confort, este chalet cuenta espacio para tu familia. No dejes pasar la oportunidad de vivir en un entorno natural y tranquilo, donde todos los servicios necesarios para el día a día están a tu alcance. ¡Ven a visitarlo y enamórate de tu nuevo hogar! No dude en solicitar información o una visita, respondiendo a este anuncio, llamándonos, o acercándose a cualquiera de nuestras OFICINAS: ACERO Inmobiliaria -En SANTANDER, en la Calle Juan de Herrera 8 Entlo. (Cerca Ayuntamiento) -En SOTO DE LA MARINA. en Av. Marqués de Valdecilla 97. (Sta. Cruz de Bezana).",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceByArea": 7.0,
+      "change": {},
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "terracedHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Miengo",
+        "title": "Chalet adosado en avenida de los Menicenses"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "savedAd": {},
+      "notes": [],
+      "topNewDevelopment": false,
+      "newDevelopmentHighlight": false,
+      "topPlus": false
+    }
+  ],
+  "total": 6,
+  "totalPages": 1,
+  "actualPage": 1,
+  "itemsPerPage": 50,
+  "numPaginations": 0,
+  "summary": [
+    "Alquilar casas y pisos en Mogro, Cantabria",
+    "Todos los precios",
+    "Todos los tamaños"
+  ],
+  "alertName": "Viviendas en null",
+  "totalAppliedFilters": 0,
+  "searchTitle": "Tu zona personalizada",
+  "lowerRangePosition": 0,
+  "upperRangePosition": 6,
+  "paginable": false
+}

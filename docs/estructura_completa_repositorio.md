@@ -618,7 +618,7 @@ src/idealistaAPI/
 | `ingestion/services/request_service.py` | Orquestador: round-robin entre círculos, detección adaptativa de páginas, gestión de cuota | Config, `IdealistaClient` | JSON por petición + `manifest.json` en `data/raw/idealistaAPI/raw/<run>/` |
 | `processing/clean_idealista.py` | Conversión de JSONs de un run completo a CSV normalizado | `data/raw/idealistaAPI/raw/<run>/` | CSV en `data/raw/idealistaAPI/preprocess/<run>/` |
 | `run_sale_requests.py` | CLI para iniciar descarga de venta | `--max-requests`, `--output-csv` | Invoca `request_service.run_new()` |
-| `run_rent_requests.py` | CLI para iniciar descarga de alquiler; incluye modo `--resume` | `--max-requests`, `--output-csv` | Invoca `request_service.run_resume_latest_rent()` |
+| `run_rent_requests.py` | CLI para iniciar descarga de alquiler | `--max-requests`, `--output-csv` | Invoca `request_service.run_new()` |
 
 **Decisiones técnicas destacables:**
 - **Round-robin geográfico justo:** las peticiones se distribuyen equitativamente entre los 10 círculos para evitar sesgo geográfico en la cobertura
