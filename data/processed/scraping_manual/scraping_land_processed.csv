@@ -1,0 +1,829 @@
+titulo;municipio;precio_eur;superficie_m2;tipo_suelo;vendido_con_descuento;es_urbano_o_urbanizable;precio_m2
+Oruña, Piélagos;Piélagos;139000;965.0;Urbano (solar);False;True;144.04145077720207
+Peñacastillo - Nuevamontaña, Santander;Santander;169000;650.0;Urbano (solar);False;True;260.0
+Calle Barrio San Roque, Polanco;Polanco;80000;1668.0;Urbano (solar);False;True;47.961630695443645
+Barrio la Venera, Oruña, Piélagos;Piélagos;98000;4507.0;Urbanizable;False;True;21.74395384956734
+Barrio Mar, 87 --81, Polanco;Polanco;132000;2210.0;Urbano (solar);True;True;59.72850678733032
+Sv-4713, 12, Miengo;Miengo;300000;6548.0;No urbanizable;False;False;45.815516188149054
+Barrio la Picota, 38 a, Renedo, Piélagos;Piélagos;69000;413.0;Urbano (solar);False;True;167.07021791767554
+Los Pumares, 9, Santillana del Mar;Santillana del Mar;150000;5343.0;Urbano (solar);False;True;28.07411566535654
+Barrio la Canal, 9, Oruña, Piélagos;Piélagos;175000;2436.0;Urbano (solar);False;True;71.83908045977012
+Barrio el Perujo, Arce, Piélagos;Piélagos;499900;10800.0;Urbano (solar);False;True;46.28703703703704
+Carretera Hinojedo-Puente Avios, Suances;Suances;315000;6692.0;Urbanizable;False;True;47.07112970711297
+Ca-232, Oruña, Piélagos;Piélagos;113000;1017.0;Urbano (solar);False;True;111.11111111111111
+Avenida Juan de Herrera, s/n, Maoño, Santa Cruz de Bezana;Santa Cruz de Bezana;115000;885.0;Urbanizable;False;True;129.94350282485877
+La Cotera, Renedo, Piélagos;Piélagos;77000;1787.0;Urbanizable;False;True;43.088975937325124
+Bo San Pedro, Vioño, Piélagos;Piélagos;75000;2152.0;Urbanizable;True;True;34.85130111524163
+Barrio Parayo, Vioño, Piélagos;Piélagos;65000;2930.0;Urbanizable;True;True;22.18430034129693
+Barrio Valencia, Zurita, Piélagos;Piélagos;60000;4131.0;Urbanizable;True;True;14.524328249818446
+Barrio Valencia, Zurita, Piélagos;Piélagos;60000;1184.0;Urbanizable;True;True;50.67567567567568
+Barrio La Venera, 7 C, Oruña, Piélagos;Piélagos;198000;3377.0;Urbano (solar);False;True;58.63192182410423
+Barrio Llejo, Oruña, Piélagos;Piélagos;125000;1104.0;Urbano (solar);False;True;113.22463768115942
+Camino de Mato Blanco, Cueto, Santander;Santander;398000;10921.0;No urbanizable;False;False;36.443549125537956
+Barrio La Venera, 2, Oruña, Piélagos;Piélagos;170000;7673.0;Urbanizable;False;True;22.155610582562232
+Urbanización Rìa del Pas, Boo, Piélagos;Piélagos;310000;1373.0;Urbanizable;False;True;225.78295702840495
+Avenida de Santander, Muriedas, Camargo;Camargo;330000;2911.0;Urbanizable;False;True;113.36310546204054
+Barrio la Cagiga, Arce, Piélagos;Piélagos;130000;770.0;Urbanizable;False;True;168.83116883116884
+Barrio el Bardal, Zurita, Piélagos;Piélagos;750000;2200.0;Urbanizable;False;True;340.90909090909093
+Barrio San Julián, Zurita, Piélagos;Piélagos;115000;1822.0;Urbanizable;False;True;63.11745334796927
+Barrio las Canteras, Igollo, Camargo;Camargo;135000;1435.0;Urbano (solar);False;True;94.07665505226481
+Barrio Aguilera, 3, Parbayón, Piélagos;Piélagos;200000;3422.0;Urbanizable;False;True;58.445353594389246
+Calle Castío, s/n, Santillana del Mar;Santillana del Mar;165000;2000.0;Urbanizable;False;True;82.5
+Barrio la Iglesia, Polanco;Polanco;55000;1732.0;Urbanizable;False;True;31.755196304849886
+Barrio San Pedro, Polanco;Polanco;55000;1790.0;Urbanizable;False;True;30.726256983240223
+Barrio el Jurrio, 50 C, Parbayón, Piélagos;Piélagos;90000;1007.0;No urbanizable;False;False;89.37437934458788
+Barrio el Jurrio, 50 C, Parbayón, Piélagos;Piélagos;90000;1021.0;No urbanizable;False;False;88.1488736532811
+Barrio la Tejera, 8 b, Boo, Piélagos;Piélagos;155000;1222.0;Urbano (solar);False;True;126.84124386252046
+Barrio el Tojo, Revilla, Camargo;Camargo;200000;16209.0;No urbanizable;False;False;12.338824110062312
+Barrio la Calva, Revilla, Camargo;Camargo;115000;520.0;Urbano (solar);False;True;221.15384615384616
+Barrio Oruña, Oruña, Piélagos;Piélagos;150000;8325.0;Urbanizable;False;True;18.01801801801802
+Boo, Piélagos;Piélagos;163000;6559.0;Urbanizable;False;True;24.851349291050465
+Barrio Llejo, 10, Oruña, Piélagos;Piélagos;147500;1163.0;Urbano (solar);True;True;126.82717110920035
+Barrio la Soledad, Arce, Piélagos;Piélagos;180000;4218.0;Urbanizable;False;True;42.67425320056899
+Calle la Masera, 32, Suances;Suances;160000;1622.0;Urbano (solar);False;True;98.64364981504316
+Barrio Viveda, 62, Viveda;Viveda;80000;1524.0;Urbanizable;False;True;52.493438320209975
+Calle Mayor, 10, Suances;Suances;220000;1425.0;Urbanizable;False;True;154.3859649122807
+Barrio San Antonio, Renedo, Piélagos;Piélagos;88000;2121.0;Urbanizable;False;True;41.48986327204149
+Barrio Llejo, Oruña, Piélagos;Piélagos;220000;5400.0;Urbano (solar);False;True;40.74074074074074
+Barrio Rinconeda, Polanco;Polanco;78000;2963.0;Urbanizable;False;True;26.32467094161323
+Abra del Pas, 771, Mogro;Mogro;330000;3892.0;Urbano (solar);False;True;84.78931140801645
+Barrio La Tejera, Boo, Piélagos;Piélagos;149000;1054.0;Urbanizable;False;True;141.3662239089184
+Barrio Menocal, 19 p, Polanco;Polanco;82000;531.0;Urbano (solar);False;True;154.42561205273068
+Polígono de Raos, Maliaño, Camargo;Camargo;475000;3000.0;Urbanizable;False;True;158.33333333333334
+Calle el Monte, Suances;Suances;143000;1710.0;Urbanizable;False;True;83.62573099415205
+Calle Bolado, 1151, Monte, Santander;Santander;471600;10195.0;Urbanizable;False;True;46.25796959293771
+Avenida de Dorat, Santillana del Mar;Santillana del Mar;150000;5343.0;Urbano (solar);False;True;28.07411566535654
+Diseminado Escobedo, Escobedo, Camargo;Camargo;120000;5630.0;Urbanizable;False;True;21.314387211367674
+Barrio la Rueda, Zurita, Piélagos;Piélagos;95000;1000.0;Urbano (solar);False;True;95.0
+Oruña, Piélagos;Piélagos;166000;2680.0;Urbanizable;True;True;61.940298507462686
+Barrio Posadorios, 1, Barcenilla - Quijano, Piélagos;Piélagos;360000;15880.0;Urbano (solar);False;True;22.670025188916878
+Diseminado Queveda, Santillana del Mar;Santillana del Mar;92000;1218.0;Urbano (solar);False;True;75.53366174055829
+Barrio Barcenilla, 635, Barcenilla - Quijano, Piélagos;Piélagos;43000;16000.0;No urbanizable;False;False;2.6875
+Calle Queveda-la Fuente, Viveda;Viveda;168000;5429.0;Urbano (solar);False;True;30.944925400626268
+Barrio Llejo, 8, Oruña, Piélagos;Piélagos;364000;4185.0;Urbano (solar);False;True;86.97729988052569
+Liencres, Liencres, Piélagos;Piélagos;38000;1893.0;No urbanizable;False;False;20.073956682514527
+Suances;Suances;120000;2500.0;Urbano (solar);False;True;48.0
+Miengo;Miengo;135000;6014.0;No urbanizable;False;False;22.44762221483206
+Boo, Piélagos;Piélagos;187200;1253.0;Urbano (solar);False;True;149.40143655227453
+Santillana del Mar;Santillana del Mar;230000;4058.0;Urbano (solar);False;True;56.6781665845244
+Zurita, Piélagos;Piélagos;105000;4004.0;Urbanizable;False;True;26.223776223776223
+Parbayón, Piélagos;Piélagos;110500;1276.0;Urbano (solar);False;True;86.5987460815047
+Bezana, Santa Cruz de Bezana;Santa Cruz de Bezana;119000;863.0;Urbano (solar);False;True;137.89107763615294
+Carandía, Piélagos;Piélagos;59000;1373.0;Urbano (solar);False;True;42.97159504734159
+Bezana, Santa Cruz de Bezana;Santa Cruz de Bezana;180000;1300.0;Urbano (solar);False;True;138.46153846153845
+Parbayón, Piélagos;Piélagos;95500;1104.0;Urbano (solar);False;True;86.5036231884058
+Polanco;Polanco;58000;468.0;Urbano (solar);False;True;123.93162393162393
+Barrio San Juan, Oruña, Piélagos;Piélagos;240000;2658.0;Urbano (solar);False;True;90.29345372460497
+Barrio Menocal, Polanco;Polanco;293000;4796.0;Urbano (solar);False;True;61.09257714762302
+Zurita, Piélagos;Piélagos;80000;1066.0;Urbano (solar);False;True;75.046904315197
+Barrio el Tojo, 55 a, Revilla, Camargo;Camargo;180000;7728.0;Urbano (solar);False;True;23.29192546583851
+Calle Bosco, 13, Suances;Suances;269000;1309.0;Urbanizable;False;True;205.5003819709702
+Arce, Piélagos;Piélagos;70000;4591.0;No urbanizable;False;False;15.247222827270747
+Zurita, Piélagos;Piélagos;60000;1200.0;Urbano (solar);False;True;50.0
+Barrio el Jurrio, Parbayón, Piélagos;Piélagos;150000;2892.0;Urbano (solar);False;True;51.86721991701245
+Igollo, Camargo;Camargo;129000;1415.0;Urbano (solar);False;True;91.1660777385159
+Igollo, Camargo;Camargo;33000;2590.0;No urbanizable;False;False;12.741312741312742
+Calle Resconorio, 53, Monte, Santander;Santander;69000;2087.0;Urbanizable;True;True;33.06181121226641
+Barrio Oruña, Oruña, Piélagos;Piélagos;147500;1163.0;Urbano (solar);True;True;126.82717110920035
+Barrio la Canal, 8 a, Oruña, Piélagos;Piélagos;166000;2450.0;Urbanizable;False;True;67.75510204081633
+Barrio Valencia, 15, Vioño, Piélagos;Piélagos;195000;1577.0;Urbano (solar);False;True;123.65250475586556
+Avenida Dorst, km 24, Santillana del Mar;Santillana del Mar;83000;1000.0;Urbanizable;False;True;83.0
+Barrio Camplengo, Santillana del Mar;Santillana del Mar;225000;2842.0;Urbano (solar);False;True;79.16959887403237
+Barrio el Callejo, 11, Liencres, Piélagos;Piélagos;295000;1080.0;Urbano (solar);False;True;273.14814814814815
+Barrio la Canal, Oruña, Piélagos;Piélagos;200000;761.0;Urbano (solar);False;True;262.8120893561104
+Barrio El Tolío, Boo, Piélagos;Piélagos;30000;10000.0;No urbanizable;False;False;3.0
+Barrio el Palacio, Polanco;Polanco;80000;1476.0;Urbanizable;False;True;54.200542005420054
+Calle Resconorio, Monte, Santander;Santander;69000;2205.0;Urbanizable;True;True;31.292517006802722
+Boo, Piélagos;Piélagos;120000;3038.0;Urbanizable;True;True;39.49967083607637
+Calle Inés Diego de Noval, Cueto, Santander;Santander;450000;1132.0;Urbano (solar);False;True;397.52650176678446
+Las Escuelas, Igollo, Camargo;Camargo;90000;1666.0;Urbano (solar);False;True;54.021608643457384
+eri22, Barcenilla - Quijano, Piélagos;Piélagos;22000;1300.0;No urbanizable;False;False;16.923076923076923
+eri20, Barcenilla - Quijano, Piélagos;Piélagos;20000;1000.0;No urbanizable;False;False;20.0
+Barrio el Perujo, 1, Arce, Piélagos;Piélagos;160000;1236.0;Urbanizable;False;True;129.44983818770226
+Barrio las Canteras, 2, Igollo, Camargo;Camargo;130000;1435.0;Urbano (solar);False;True;90.59233449477352
+Barrio el Perujo, Arce, Piélagos;Piélagos;120000;1350.0;Urbano (solar);False;True;88.88888888888889
+Monte, Santander;Santander;69000;2087.0;Urbanizable;True;True;33.06181121226641
+Calle Corceño, Alisal - Cazoña - San Román, Santander;Santander;550000;1430.0;Urbano (solar);False;True;384.61538461538464
+Renedo, Piélagos;Piélagos;142500;4954.0;Urbanizable;False;True;28.76463463867582
+Renedo, Piélagos;Piélagos;46900;1404.0;Urbanizable;False;True;33.40455840455841
+Monte, Santander;Santander;471600;11934.0;Urbanizable;False;True;39.51734539969834
+Solarana, Arce, Piélagos;Piélagos;135000;1020.0;Urbano (solar);False;True;132.35294117647058
+Barrio de Santiago, 31 a, Revilla, Camargo;Camargo;180000;16139.0;Urbanizable;False;True;11.153107379639383
+Calle Vía, 29 a, Suances;Suances;362000;7498.0;Urbano (solar);False;True;48.2795412109896
+Avenida Juan de Herrera, 1, Maoño, Santa Cruz de Bezana;Santa Cruz de Bezana;35000;997.0;No urbanizable;False;False;35.10531594784353
+La Castañera, 30, Santillana del Mar;Santillana del Mar;75000;6101.0;Urbanizable;False;True;12.293066710375347
+Lugar Barrio Rinconeda, 37 a, Polanco;Polanco;643900;5109.0;Urbano (solar);False;True;126.03249168134664
+Carretera Avios, 23732, Suances;Suances;120000;3200.0;Urbanizable;False;True;37.5
+Calle Laredo, Puerto Chico, Santander;Santander;76923;1108.0;Urbanizable;False;True;69.42509025270758
+Calle Resconorio, Monte, Santander;Santander;92800;2205.0;Urbano (solar);False;True;42.08616780045352
+Barrio Monte-Corbanera, Monte, Santander;Santander;15000;292.0;Urbanizable;False;True;51.36986301369863
+Calle Aviche, Monte, Santander;Santander;200000;1450.0;No urbanizable;False;False;137.93103448275863
+Barrio el Perujo, Arce, Piélagos;Piélagos;125000;800.0;Urbano (solar);False;True;156.25
+Arce, Piélagos;Piélagos;400000;6000.0;Urbanizable;False;True;66.66666666666667
+Calle el Castro, Alisal - Cazoña - San Román, Santander;Santander;169000;1210.0;Urbanizable;False;True;139.6694214876033
+Barrio la Ermita, 42, Polanco;Polanco;660000;4367.0;Urbano (solar);False;True;151.13350125944584
+Calle Repuente, 14, Monte, Santander;Santander;420000;1295.0;Urbano (solar);False;True;324.3243243243243
+Avenida de Santander, 72, Herrera, Camargo;Camargo;255000;1429.0;Urbano (solar);False;True;178.44646606018193
+Barrio San Julián, 34, Zurita, Piélagos;Piélagos;212000;10910.0;Urbano (solar);False;True;19.431714023831347
+Barrio Zurita, 2 D, Zurita, Piélagos;Piélagos;140000;3490.0;Urbano (solar);False;True;40.11461318051576
+Avenida Monseñor del Val, 20, Suances;Suances;114950;1267.0;Urbanizable;False;True;90.72612470402525
+Somarriba, 5, Liencres, Piélagos;Piélagos;180000;1817.0;Urbano (solar);False;True;99.06439185470556
+Vía, Oruña, Piélagos;Piélagos;166000;2437.0;Urbanizable;False;True;68.11653672548215
+Barrio Llatas, 14, Liencres, Piélagos;Piélagos;235000;750.0;Urbano (solar);False;True;313.3333333333333
+Calle la gesa, Bezana, Santa Cruz de Bezana;Santa Cruz de Bezana;180000;12925.0;Urbano (solar);False;True;13.926499032882012
+Barrio Zurita, Zurita, Piélagos;Piélagos;85000;8172.0;Urbanizable;False;True;10.401370533529123
+Barrio Mijares, 86 u, Polanco;Polanco;85000;1600.0;Urbanizable;False;True;53.125
+Calle la Reina, 3, Bezana, Santa Cruz de Bezana;Santa Cruz de Bezana;179000;955.0;Urbano (solar);True;True;187.434554973822
+Calle Vía, Suances;Suances;362000;2405.0;Urbano (solar);False;True;150.51975051975052
+Barrio Mijares, s/n, Polanco;Polanco;61000;6006.0;Urbanizable;False;True;10.156510156510157
+Calle Santa Teresa, Maliaño, Camargo;Camargo;390000;2173.0;Urbanizable;False;True;179.47537965945696
+Barrio la Soledad, Arce, Piélagos;Piélagos;157000;1478.0;Urbano (solar);False;True;106.22462787550744
+El Jomizo, s/n, Barcenilla - Quijano, Piélagos;Piélagos;27500;10237.0;No urbanizable;False;False;2.6863338868809223
+Barrio Mijares, 1, Polanco;Polanco;60000;6048.0;Urbanizable;False;True;9.920634920634921
+Alto Barrio Sorribero Alto, 13, Renedo, Piélagos;Piélagos;150000;1082.0;Urbano (solar);False;True;138.6321626617375
+El montonorio, s/n, Miengo;Miengo;115000;1000.0;Urbano (solar);False;True;115.0
+Polígono 201 Parcela 108 El Patron. Pielagos, 108 Parcela, Zurita, Piélagos;Piélagos;105000;1643.0;Urbanizable;False;True;63.90748630553865
+Barrio Llejo, 1, Oruña, Piélagos;Piélagos;65000;914.0;Urbano (solar);False;True;71.1159737417943
+Barrio Rinconeda, Polanco;Polanco;643900;3251.0;Urbano (solar);False;True;198.06213472777605
+S/n, Carandía, Piélagos;Piélagos;45000;1256.0;Urbano (solar);False;True;35.82802547770701
+Barrio San Julián, Zurita, Piélagos;Piélagos;48000;3670.0;Urbanizable;False;True;13.079019073569482
+Calle Joaquín Salas, Peñacastillo - Nuevamontaña, Santander;Santander;295000;1502.0;Urbano (solar);False;True;196.40479360852197
+Calle Bolado, Monte, Santander;Santander;471600;9803.0;Urbanizable;False;True;48.10772212587983
+Calle Aurelio Diez, Renedo, Piélagos;Piélagos;204000;1260.0;Urbano (solar);False;True;161.9047619047619
+Puente Barrio El, Carandía, Piélagos;Piélagos;250000;6874.0;Urbano (solar);False;True;36.36892638929299
+Barrio Mijares, Santillana del Mar;Santillana del Mar;169500;10608.0;Urbanizable;False;True;15.978506787330316
+Barrio Polanco, Polanco;Polanco;82000;531.0;Urbano (solar);False;True;154.42561205273068
+Ca-133, Santillana del Mar;Santillana del Mar;240000;1800.0;Urbano (solar);False;True;133.33333333333334
+Calle el Castro, Alisal - Cazoña - San Román, Santander;Santander;200000;1200.0;Urbano (solar);False;True;166.66666666666666
+Maoño, Santa Cruz de Bezana;Santa Cruz de Bezana;100000;705.0;Urbano (solar);False;True;141.84397163120568
+Avenida Prezanes, Bezana, Santa Cruz de Bezana;Santa Cruz de Bezana;149000;815.0;Urbano (solar);False;True;182.82208588957056
+Barrio Puente Arce, Arce, Piélagos;Piélagos;189000;3000.0;Urbanizable;False;True;63.0
+Puente Barrio Zurita-el Puente, Zurita, Piélagos;Piélagos;48000;3600.0;Urbanizable;False;True;13.333333333333334
+Barrio Rumoroso, Polanco;Polanco;55000;5380.0;Urbanizable;False;True;10.223048327137546
+Avenida Monseñor del Val, Suances;Suances;102850;1285.0;Urbanizable;False;True;80.03891050583658
+Barrio Parbayon, Parbayón, Piélagos;Piélagos;158000;16062.0;No urbanizable;False;False;9.836882081932512
+Avenida Juan de Herrera, Maoño, Santa Cruz de Bezana;Santa Cruz de Bezana;110000;395.0;Urbano (solar);False;True;278.4810126582278
+Pereo, Santillana del Mar;Santillana del Mar;550000;7500.0;Urbano (solar);False;True;73.33333333333333
+Barrio Menocal, Polanco;Polanco;65000;1650.0;No urbanizable;False;False;39.39393939393939
+Barrio Salcedo, Vioño, Piélagos;Piélagos;80000;2300.0;Urbano (solar);False;True;34.78260869565217
+Callejón Barrio la, Boo, Piélagos;Piélagos;280000;3167.0;Urbano (solar);False;True;88.4117461319861
+Barrio el Molino, Polanco;Polanco;185300;3138.0;Urbano (solar);False;True;59.05035054174633
+Bajada de Polio, Los Castros, Santander;Santander;600000;2686.0;Urbano (solar);False;True;223.38049143708116
+Barrio la Portilla, Barcenilla - Quijano, Piélagos;Piélagos;46875;1216.0;Urbano (solar);False;True;38.5485197368421
+Barrio Rinconeda, Polanco;Polanco;234500;1858.0;Urbano (solar);False;True;126.21097954790096
+Calle Camarreal-Ojaiz, Santander;Santander;80000;1900.0;Urbano (solar);False;True;42.10526315789474
+Barrio la Llama, Cudón;Miengo;72000;2123.0;Urbano (solar);True;True;33.91427225624117
+Calle César Llamazares, Santander;Santander;136850;7732.0;Industrial;False;False;17.69917227108122
+Calle Hinojedo, Suances;Suances;60000;2300.0;No urbanizable;False;False;26.08695652173913
+Barrio la Valleja, Mortera, Piélagos;Piélagos;385000;2000.0;Urbano (solar);False;True;192.5
+Posadillo, Polanco;Polanco;100000;836.0;Urbano (solar);False;True;119.61722488038278
+Bezana, Santa Cruz de Bezana;Santa Cruz de Bezana;100000;580.0;Urbanizable;False;True;172.41379310344828
+Suances, Suances;Suances;60000;3200.0;Urbanizable;False;True;18.75
+Calle las Presas, 22, Herrera, Camargo;Camargo;330000;2911.0;Urbano (solar);True;True;113.36310546204054
+Barrio Pereo, Santillana del Mar;Santillana del Mar;416000;7263.0;Urbano (solar);False;True;57.27660746248107
+Muriedas, Camargo;Camargo;395000;2374.0;Urbano (solar);False;True;166.38584667228307
+Barrio del Cabido, Igollo, Camargo;Camargo;155000;2500.0;Urbano (solar);False;True;62.0
+Renedo, Piélagos;Piélagos;88000;555.0;Urbano (solar);False;True;158.55855855855856
+Calle Bajada del Caleruco, Los Castros, Santander;Santander;150000;12431.0;No urbanizable;False;False;12.066607674362482
+Suances;Suances;362000;7498.0;Urbano (solar);False;True;48.2795412109896
+Barrio Cianca, Parbayón, Piélagos;Piélagos;56000;7000.0;No urbanizable;False;False;8.0
+Santillana del Mar;Santillana del Mar;45000;13667.0;No urbanizable;False;False;3.292602619448306
+Barrio Camarreal, Santander;Santander;595000;4627.0;Urbano (solar);True;True;128.59304084720122
+Alto Maliaño, Camargo;Camargo;160000;572.0;Urbano (solar);False;True;279.72027972027973
+Maoño, Santa Cruz de Bezana;Santa Cruz de Bezana;495000;2276.0;Urbano (solar);False;True;217.48681898066783
+Peñacastillo - Nuevamontaña, Santander;Santander;690000;2765.0;Urbano (solar);False;True;249.54792043399638
+Diseminado Rinconeda, Polanco;Polanco;78000;2963.0;Urbanizable;False;True;26.32467094161323
+Callejón Barrio la, Boo, Piélagos;Piélagos;99900;1200.0;Urbano (solar);False;True;83.25
+Valmoreda, Barcenilla - Quijano, Piélagos;Piélagos;130000;3398.0;Urbanizable;False;True;38.257798705120656
+Barrio Sta Cruz, Escobedo, Camargo;Camargo;100000;10480.0;No urbanizable;False;False;9.541984732824428
+Barrio el Bardalon, Revilla, Camargo;Camargo;20000;440.0;No urbanizable;False;False;45.45454545454545
+Barrio Oruña, Piélagos;Piélagos;50000;1594.0;Urbanizable;False;True;31.36762860727729
+Soto de la Marina, Santa Cruz de Bezana;Santa Cruz de Bezana;130000;858.0;Urbano (solar);False;True;151.5151515151515
+Carretera Ongayo, Suances;Suances;59000;5200.0;No urbanizable;False;False;11.346153846153847
+Barrio Rumoroso, Polanco;Polanco;45000;8517.0;No urbanizable;False;False;5.2835505459668894
+Calle Bolado, Monte, Santander;Santander;128700;549.0;Urbano (solar);False;True;234.4262295081967
+Barrio Monsenor, Arce, Piélagos;Piélagos;195000;11854.0;Urbano (solar);False;True;16.450143411506666
+Calle Bolado, Monte, Santander;Santander;220000;684.0;Urbano (solar);False;True;321.6374269005848
+Calle Bolado, Monte, Santander;Santander;435000;1363.0;Urbano (solar);False;True;319.1489361702128
+Barrio las Cuartas, Renedo, Piélagos;Piélagos;149000;607.0;Urbano (solar);False;True;245.46952224052717
+Barrio la Fuente, Solares;Medio Cudeyo;390000;3600.0;Urbano (solar);False;True;108.33333333333333
+Ca-409, Penagos;Penagos;120000;4877.0;No urbanizable;False;False;24.605290137379537
+Barrio el Cagigal, Ribamontán al Monte;Ribamontán al Monte;195000;4211.0;Urbano (solar);False;True;46.307290429826644
+Barrio V Peña, Mazcuerras;Mazcuerras;179000;5834.0;Urbano (solar);False;True;30.68220774768598
+Barrio la Iglesia, Alfoz de Lloredo;Alfoz de Lloredo;636000;3313.0;Urbano (solar);False;True;191.97102324177482
+Barrio Ibio, Mazcuerras;Mazcuerras;163500;2680.0;Urbano (solar);False;True;61.007462686567166
+Barrio Pontejos, Marina de Cudeyo;Marina de Cudeyo;120000;1589.0;Urbanizable;False;True;75.51919446192574
+Barrio Pontejos, Marina de Cudeyo;Marina de Cudeyo;220000;4087.0;Urbanizable;False;True;53.82921458282359
+Barrio Pontejos, Marina de Cudeyo;Marina de Cudeyo;145000;2934.0;Urbanizable;False;True;49.42058623040218
+Barrio Cóbreces, Alfoz de Lloredo;Alfoz de Lloredo;430000;2609.0;Urbano (solar);False;True;164.81410502108088
+Barrio Valles, Reocín;Reocín;280000;2949.0;Urbanizable;False;True;94.94743981010512
+Valles, Reocín;Reocín;55000;400.0;Urbano (solar);False;True;137.5
+Barrio Obregón, Villaescusa;Villaescusa;189000;1874.0;Urbano (solar);False;True;100.8537886872999
+Carretera Nacional 634, Castañeda;Castañeda;85000;4779.0;Urbanizable;False;True;17.786147729650555
+San Salvador, Medio Cudeyo;Medio Cudeyo;218000;2180.0;Urbano (solar);False;True;100.0
+Barrio la Penilla, Santa María de Cayón;Santa María de Cayón;546000;7000.0;Urbano (solar);False;True;78.0
+Barrio Valles, Reocín;Reocín;115000;2603.0;Urbano (solar);False;True;44.17979254706108
+Calle la Industria, El Astillero;El Astillero;560800;5453.0;Urbano (solar);False;True;102.8424720337429
+Barrio la Virgen, Udías;Udías;75000;218.0;Urbano (solar);False;True;344.0366972477064
+Barrio la Riva, Villaescusa;Villaescusa;565000;8720.0;Urbanizable;False;True;64.79357798165138
+Calle Helguera, Penagos;Penagos;125000;1646.0;Urbano (solar);True;True;75.94167679222357
+Barrio la Iglesia, Ribamontán al Monte;Ribamontán al Monte;150000;14764.0;Urbanizable;False;True;10.159848279599025
+Cabezón de la Sal;Cabezón de la Sal;59000;304.0;Urbano (solar);False;True;194.07894736842104
+Ribamontán al Monte;Ribamontán al Monte;120000;8126.0;No urbanizable;False;False;14.767413241447207
+Urbanización la Cabaña, Ribamontán al Monte;Ribamontán al Monte;120000;1184.0;Urbano (solar);False;True;101.35135135135135
+Barrio Cuatro Caminos, Marina de Cudeyo;Marina de Cudeyo;110000;714.0;Urbano (solar);False;True;154.06162464985994
+Calle Santander, Los Corrales de Buelna;Los Corrales de Buelna;140000;1144.0;Urbano (solar);False;True;122.37762237762237
+Ca-142, Santa María de Cayón;Santa María de Cayón;130000;1635.0;Urbano (solar);False;True;79.51070336391437
+Barrio Las Tejas, Santa María de Cayón;Santa María de Cayón;50000;2250.0;Urbanizable;False;True;22.22222222222222
+Camino Real, Bareyo;Bareyo;450000;4613.0;Urbano (solar);False;True;97.55040104053761
+Barrio Puente San Miguel, Villapresente;Reocín;99000;2224.0;Urbanizable;False;True;44.514388489208635
+Castañeda;Castañeda;250000;1531.0;Urbano (solar);False;True;163.29196603527106
+Estradas, Ribamontán al Monte;Ribamontán al Monte;80000;1888.0;Urbanizable;False;True;42.3728813559322
+Poblado Riaño, Mazcuerras;Mazcuerras;212900;3804.0;Urbano (solar);False;True;55.96740273396425
+Avenida Solvay, Torrelavega;Torrelavega;114000;1148.0;Urbano (solar);False;True;99.30313588850174
+Barrio Santa Rosa, Villaescusa;Villaescusa;590000;6348.0;Urbano (solar);False;True;92.94265910522999
+Lloreda Diseminado, Santa María de Cayón;Santa María de Cayón;390000;5655.0;Urbano (solar);False;True;68.96551724137932
+Barrio Casuso, Alfoz de Lloredo;Alfoz de Lloredo;45000;8846.0;No urbanizable;False;False;5.087044992086819
+Riva Redonda, Reocín;Reocín;75000;3314.0;Urbano (solar);False;True;22.631261315630656
+Calle La Richuela, Penagos;Penagos;51400;668.0;Urbano (solar);False;True;76.94610778443113
+Lugar Barrio San Damil, Alfoz de Lloredo;Alfoz de Lloredo;315000;1836.0;Urbano (solar);False;True;171.5686274509804
+Variés, Udías;Udías;160000;5932.0;Urbanizable;False;True;26.972353337828725
+Vía, Tanos, Torrelavega;Torrelavega;149000;3062.0;Urbanizable;False;True;48.66100587851078
+Ca-141, Marina de Cudeyo;Marina de Cudeyo;137000;6352.0;Urbano (solar);False;True;21.56801007556675
+Barrio Puente San Miguel;Reocín;149000;1683.0;Urbano (solar);False;True;88.5323826500297
+Barrio la Penilla, Santa María de Cayón;Santa María de Cayón;180000;2300.0;Urbano (solar);False;True;78.26086956521739
+El Astillero;El Astillero;560800;2999.0;Urbanizable;True;True;186.99566522174058
+Camino San Pedruco, Bareyo;Bareyo;24000;3766.0;No urbanizable;False;False;6.372809346787042
+Barrio Ontoria, Cabezón de la Sal;Cabezón de la Sal;350000;3344.0;Urbano (solar);False;True;104.66507177033493
+Barrio Luzmela-Frankin, Mazcuerras;Mazcuerras;425000;4160.0;Urbanizable;False;True;102.16346153846153
+Barrio el Llano, Udías;Udías;95000;15620.0;Urbano (solar);False;True;6.081946222791293
+Hoz de Anero, Ribamontán al Monte;Ribamontán al Monte;90000;4700.0;Urbanizable;False;True;19.148936170212767
+Barrio Estradas, Ribamontán al Monte;Ribamontán al Monte;85000;3700.0;Urbanizable;False;True;22.972972972972972
+Puente San Miguel;Reocín;170000;1683.0;Urbano (solar);False;True;101.01010101010101
+Cerezo - Aspla - Torres, Torrelavega;Torrelavega;380000;7180.0;Urbano (solar);False;True;52.92479108635097
+Sierrapando, Torrelavega;Torrelavega;180000;6120.0;No urbanizable;False;False;29.41176470588235
+La Moya, Mazcuerras;Mazcuerras;120000;8614.0;Urbanizable;False;True;13.930810308799629
+Las Huertas de los Viejos, Mazcuerras;Mazcuerras;240000;2953.0;Urbano (solar);False;True;81.27328140873688
+Entrambasaguas;Entrambasaguas;130000;2100.0;Urbano (solar);False;True;61.904761904761905
+Alfoz de Lloredo;Alfoz de Lloredo;35000;3456.0;No urbanizable;False;False;10.127314814814815
+Mazcuerras;Mazcuerras;120000;8614.0;Urbanizable;False;True;13.930810308799629
+Centro, Torrelavega;Torrelavega;19000;113.0;Urbano (solar);False;True;168.141592920354
+Udías;Udías;350000;5950.0;Urbanizable;False;True;58.8235294117647
+Vía, Alfoz de Lloredo;Alfoz de Lloredo;23600;13332.0;No urbanizable;False;False;1.7701770177017702
+Barrio Caranceja, Reocín;Reocín;53900;400.0;Urbanizable;True;True;134.75
+Ribamontán al Monte;Ribamontán al Monte;91000;427.0;Urbano (solar);False;True;213.11475409836066
+Cartes;Cartes;39900;225.0;Urbano (solar);False;True;177.33333333333334
+Treslama, Mazcuerras;Mazcuerras;280600;4317.0;Urbano (solar);False;True;64.9988417882789
+Santa María de Cayón;Santa María de Cayón;650000;8300.0;Urbano (solar);False;True;78.3132530120482
+Barrio el Llano, Udías;Udías;45000;378.0;Urbano (solar);False;True;119.04761904761905
+Pb Riaño Ibio, Mazcuerras;Mazcuerras;500000;5554.0;Urbano (solar);False;True;90.02520705797623
+Barrio Padierne, Entrambasaguas;Entrambasaguas;100000;2073.0;Urbano (solar);False;True;48.2392667631452
+Cotera, Mazcuerras;Mazcuerras;650000;5600.0;Urbano (solar);False;True;116.07142857142857
+Calle la Fuente, Cartes;Cartes;65000;2324.0;Urbano (solar);False;True;27.969018932874356
+Barrio Golbardo, Reocín;Reocín;130000;5289.0;Urbano (solar);False;True;24.579315560597465
+Mazcuerras;Mazcuerras;125000;3922.0;Urbano (solar);False;True;31.87149413564508
+Cartes;Cartes;93000;946.0;Urbano (solar);False;True;98.30866807610994
+Cerezo - Aspla - Torres, Torrelavega;Torrelavega;97000;5123.0;No urbanizable;False;False;18.93421823150498
+Reocín;Reocín;150000;6195.0;No urbanizable;False;False;24.213075060532688
+La Ventuca, Comillas;Comillas;98000;2078.0;No urbanizable;False;False;47.16073147256978
+Reocín;Reocín;49000;564.0;No urbanizable;False;False;86.87943262411348
+Reocín;Reocín;45000;711.0;No urbanizable;False;False;63.29113924050633
+Villanueva de la Peña, Mazcuerras;Mazcuerras;95000;1201.0;Urbano (solar);False;True;79.1007493755204
+Reocín;Reocín;69000;3016.0;No urbanizable;False;False;22.877984084880637
+La Illa, Mazcuerras;Mazcuerras;24000;3937.0;No urbanizable;False;False;6.096012192024384
+Ontoria, Cabezón de la Sal;Cabezón de la Sal;85000;3502.0;Urbano (solar);False;True;24.271844660194176
+Av. Constitución, Cabezón de la Sal;Cabezón de la Sal;185000;1314.0;Urbano (solar);False;True;140.79147640791476
+Barrio Liaño, Villaescusa;Villaescusa;60000;3949.0;Urbano (solar);False;True;15.193719929095973
+Hoznayo;Entrambasaguas;75000;800.0;Urbano (solar);False;True;93.75
+Santa María de Cayón;Santa María de Cayón;43000;11800.0;No urbanizable;False;False;3.6440677966101696
+Penagos;Penagos;99890;10704.0;No urbanizable;False;False;9.332025411061286
+Ganzo, Torrelavega;Torrelavega;97000;5123.0;Urbanizable;False;True;18.93421823150498
+Hoz de Anero;Ribamontán al Monte;80000;1888.0;Urbanizable;False;True;42.3728813559322
+Santa María de Cayón;Santa María de Cayón;12000;1881.0;No urbanizable;False;False;6.379585326953748
+Galizano;Ribamontán al Mar;371000;3000.0;Urbano (solar);True;True;123.66666666666667
+Galizano;Ribamontán al Mar;371000;3009.0;Urbano (solar);False;True;123.29677633765371
+Villaverde de Pontones;Ribamontán al Monte;150000;1395.0;Urbano (solar);False;True;107.52688172043011
+Presmanes, Marina de Cudeyo;Marina de Cudeyo;100000;7855.0;No urbanizable;False;False;12.73074474856779
+La Cavada, Marina de Cudeyo;Marina de Cudeyo;210000;4128.0;Urbano (solar);True;True;50.872093023255815
+Ribamontán al Monte;Ribamontán al Monte;125000;15500.0;Urbanizable;False;True;8.064516129032258
+Ibio, Mazcuerras;Mazcuerras;130000;7132.0;Urbanizable;False;True;18.227706113292204
+Vargas;Puente Viesgo;90000;281.0;Industrial;False;False;320.2846975088968
+Solares;Medio Cudeyo;180000;1093.0;Urbano (solar);False;True;164.6843549862763
+Los Corrales de Buelna;Los Corrales de Buelna;115000;333.0;Urbanizable;False;True;345.3453453453453
+Pomaluengo;Castañeda;95000;2013.0;Urbanizable;False;True;47.19324391455539
+Entrambasaguas;Entrambasaguas;62500;660.0;Urbano (solar);False;True;94.6969696969697
+Bareyo;Bareyo;38000;5289.0;No urbanizable;False;False;7.1847230100207975
+Gajano;Marina de Cudeyo;115000;675.0;Urbano (solar);False;True;170.37037037037038
+El Astillero;El Astillero;560800;2559.0;No urbanizable;False;False;219.14810472840952
+Udías;Udías;98000;2577.0;Urbano (solar);False;True;38.02871556072953
+Bareyo;Bareyo;23000;7694.0;No urbanizable;False;False;2.9893423446841694
+Guarnizo;Astillero;90000;1016.0;Urbano (solar);False;True;88.58267716535433
+Guarnizo;Astillero;335000;1872.0;Urbanizable;False;True;178.95299145299145
+Ribamontán al Monte;Ribamontán al Monte;70000;10000.0;Urbanizable;False;True;7.0
+Villaescusa;Villaescusa;145000;4500.0;Urbanizable;False;True;32.22222222222222
+Ribamontán al Monte;Ribamontán al Monte;35000;1500.0;Urbanizable;False;True;23.333333333333332
+Ribamontán al Monte;Ribamontán al Monte;149000;16000.0;Urbanizable;False;True;9.3125
+uhj49, Entrambasaguas;Entrambasaguas;49000;1100.0;Urbano (solar);False;True;44.54545454545455
+Barrio Pontejos-La Cavada, Marina de Cudeyo;Marina de Cudeyo;120000;3600.0;Urbanizable;True;True;33.333333333333336
+opl79, Ribamontán al Monte;Ribamontán al Monte;79000;8000.0;Urbanizable;False;True;9.875
+eeb28, Entrambasaguas;Entrambasaguas;28000;9139.0;No urbanizable;False;False;3.063792537476748
+Urbanización La Cabaña, Ribamontán al Monte;Ribamontán al Monte;159000;1000.0;Urbano (solar);False;True;159.0
+Calle la Robleda, Cartes;Cartes;540000;2929.0;Urbano (solar);False;True;184.36326391259814
+ola59, Ribamontán al Monte;Ribamontán al Monte;59000;5600.0;Urbanizable;False;True;10.535714285714286
+ope81, Ribamontán al Monte;Ribamontán al Monte;81000;7500.0;Urbanizable;False;True;10.8
+oem48, Entrambasaguas;Entrambasaguas;48000;4300.0;Urbanizable;False;True;11.162790697674419
+Puente Agüero, Entrambasaguas;Entrambasaguas;65000;3417.0;Urbano (solar);False;True;19.022534386889085
+La Cavada, Marina de Cudeyo;Marina de Cudeyo;190000;2700.0;Urbano (solar);True;True;70.37037037037037
+Gajano, Marina de Cudeyo;Marina de Cudeyo;85000;2097.0;Urbanizable;False;True;40.53409632808774
+Bareyo;Bareyo;150000;2975.0;Urbano (solar);False;True;50.42016806722689
+Cóbreces, Alfoz de Lloredo;Alfoz de Lloredo;450000;2700.0;Urbano (solar);False;True;166.66666666666666
+Socabarga, Medio Cudeyo;Medio Cudeyo;85000;3162.0;No urbanizable;False;False;26.881720430107528
+Camino Real, Bareyo;Bareyo;55000;600.0;Urbano (solar);False;True;91.66666666666667
+Hoznayo;Entrambasaguas;75000;1000.0;Urbano (solar);True;True;75.0
+Bareyo;Bareyo;375000;4882.0;Urbano (solar);False;True;76.81278164686604
+Fresnedo, Alfoz de Lloredo;Alfoz de Lloredo;180000;1427.0;Urbano (solar);False;True;126.13875262789068
+Guarnizo;Astillero;550000;2125.0;Urbano (solar);False;True;258.8235294117647
+Los Corrales de Buelna;Los Corrales de Buelna;100000;1000.0;Urbano (solar);False;True;100.0
+Barrio Periedo, Cabezón de la Sal;Cabezón de la Sal;190000;2216.0;Urbano (solar);True;True;85.74007220216606
+Golbardo, Reocín;Reocín;140000;5040.0;Urbano (solar);False;True;27.77777777777778
+Omoño, Ribamontán al Monte;Ribamontán al Monte;75000;5604.0;Urbano (solar);False;True;13.383297644539615
+Somo;Ribamontán al Mar;721000;4239.0;Urbano (solar);False;True;170.08728473696627
+Luaña, Alfoz de Lloredo;Alfoz de Lloredo;250000;2298.0;Urbanizable;False;True;108.79025239338556
+Los Corrales de Buelna;Los Corrales de Buelna;84000;8709.0;Urbano (solar);False;True;9.645194626248708
+Santa María de Cayón;Santa María de Cayón;190000;1969.0;Urbano (solar);False;True;96.49568308786186
+Galizano;Ribamontán al Mar;225000;4160.0;No urbanizable;False;False;54.08653846153846
+Somo;Ribamontán al Mar;150000;500.0;Urbano (solar);False;True;300.0
+San Felices de Buelna;San Felices de Buelna;58000;840.0;Urbano (solar);False;True;69.04761904761905
+Alfoz de Lloredo;Alfoz de Lloredo;210000;3615.0;Urbano (solar);False;True;58.09128630705394
+Los Corrales de Buelna;Los Corrales de Buelna;55000;1811.0;No urbanizable;False;False;30.369961347321922
+San Salvador, Medio Cudeyo;Medio Cudeyo;300000;2113.0;Urbano (solar);False;True;141.9782300047326
+Argomilla, Santa María de Cayón;Santa María de Cayón;180000;4174.0;Urbano (solar);False;True;43.124101581217055
+Penagos;Penagos;285000;4182.0;Urbano (solar);False;True;68.14921090387375
+San Felices de Buelna;San Felices de Buelna;65000;4172.0;Urbanizable;False;True;15.580057526366252
+Los Corrales de Buelna;Los Corrales de Buelna;75000;11087.0;Urbanizable;False;True;6.764679354198611
+Cartes;Cartes;750000;2676.0;Urbano (solar);False;True;280.2690582959641
+Ruiloba;Ruiloba;450000;1512.0;Urbano (solar);False;True;297.6190476190476
+Novales;Alfoz de Lloredo;270000;1507.0;Urbano (solar);False;True;179.163901791639
+Ribamontán al Monte;Ribamontán al Monte;155000;3856.0;Urbanizable;False;True;40.197095435684645
+San Felices de Buelna;San Felices de Buelna;45000;690.0;Urbanizable;False;True;65.21739130434783
+Entrambasaguas;Entrambasaguas;64800;1622.0;No urbanizable;True;False;39.95067817509248
+Ribamontán al Monte;Ribamontán al Monte;82000;428.0;Urbano (solar);False;True;191.58878504672896
+Mazcuerras;Mazcuerras;54000;500.0;Urbano (solar);False;True;108.0
+Puente Viesgo;Puente Viesgo;49000;5001.0;Urbanizable;False;True;9.798040391921615
+Castañeda;Castañeda;26500;8486.0;No urbanizable;False;False;3.1227904784350695
+Santa María de Cayón;Santa María de Cayón;29800;5821.0;No urbanizable;False;False;5.119395292904999
+Puente Viesgo;Puente Viesgo;110000;10749.0;Urbanizable;False;True;10.233510093962229
+Ribamontán al Monte;Ribamontán al Monte;60000;3006.0;Urbanizable;False;True;19.960079840319363
+Heras, Medio Cudeyo;Medio Cudeyo;430000;3518.0;Urbano (solar);False;True;122.22853894258101
+Sobremazas;Medio Cudeyo;90000;2270.0;Urbano (solar);False;True;39.647577092511014
+Coo;Los Corrales de Buelna;700000;13073.0;Urbano (solar);False;True;53.545475407328084
+Loredo;Ribamontán al Mar;250000;6070.0;Urbanizable;False;True;41.18616144975288
+Marina de Cudeyo;Marina de Cudeyo;140000;3000.0;Urbanizable;False;True;46.666666666666664
+Reocín;Reocín;159000;6336.0;Urbano (solar);False;True;25.09469696969697
+Penagos;Penagos;110000;7522.0;Urbanizable;False;True;14.623770273863334
+Herrera de Ibio, Mazcuerras;Mazcuerras;67000;2330.0;No urbanizable;False;False;28.755364806866954
+Guarnizo;Astillero;179900;1185.0;Urbano (solar);False;True;151.81434599156117
+Medio Cudeyo;Medio Cudeyo;60000;673.0;Urbano (solar);False;True;89.15304606240713
+Medio Cudeyo;Medio Cudeyo;90000;2806.0;Urbano (solar);False;True;32.07412687099073
+Medio Cudeyo;Medio Cudeyo;64000;689.0;Urbano (solar);False;True;92.88824383164005
+Ribamontán al Monte;Ribamontán al Monte;100000;7753.0;Urbanizable;False;True;12.898232942086935
+Medio Cudeyo;Medio Cudeyo;87000;970.0;Urbano (solar);False;True;89.69072164948453
+Medio Cudeyo;Medio Cudeyo;60000;711.0;Urbano (solar);False;True;84.38818565400844
+Marina de Cudeyo;Marina de Cudeyo;190000;4468.0;Urbanizable;False;True;42.52461951656222
+Cabezón de la Sal;Cabezón de la Sal;115000;1350.0;Urbano (solar);False;True;85.18518518518519
+Penagos;Penagos;60000;1831.0;Urbanizable;False;True;32.76897870016384
+Argomilla, Santa María de Cayón;Santa María de Cayón;68700;547.0;Urbano (solar);False;True;125.59414990859233
+Puente San Miguel;Reocín;250000;1009.0;Urbano (solar);False;True;247.7700693756194
+Somo;Ribamontán al Mar;170000;500.0;Urbano (solar);False;True;340.0
+Reocín;Reocín;127000;3259.0;Urbano (solar);False;True;38.9690088984351
+Galizano;Ribamontán al Mar;145000;9830.0;Urbano (solar);False;True;14.750762970498474
+Reocín;Reocín;130000;5359.0;Urbano (solar);False;True;24.258257137525657
+Rubayo, Marina de Cudeyo;Marina de Cudeyo;130000;3500.0;Urbano (solar);False;True;37.142857142857146
+Ribamontán al Monte;Ribamontán al Monte;99000;1100.0;Urbanizable;False;True;90.0
+El Astillero;El Astillero;560800;3000.0;Urbano (solar);True;True;186.93333333333334
+Entrambasaguas;Entrambasaguas;89000;1293.0;Urbano (solar);True;True;68.8321732405259
+Ribamontán al Monte;Ribamontán al Monte;73000;2500.0;Urbanizable;False;True;29.2
+Santa María de Cayón;Santa María de Cayón;131500;4810.0;Urbano (solar);False;True;27.33887733887734
+Langre, Ribamontán al Mar;Ribamontán al Mar;390000;1500.0;Urbano (solar);False;True;260.0
+Barrio la Fuente, Solares;Medio Cudeyo (Valdecilla);390000;3600.0;Urbano (solar);False;True;108.33333333333333
+CA-409, Penagos;Penagos;120000;4877.0;No urbanizable;False;False;24.605290137379537
+Barrio la Iglesia, s/n, Alfoz de Lloredo (Novales);Alfoz de Lloredo;636000;3313.0;Urbano (solar);False;True;191.97102324177482
+Barrio Ibio, 64, Mazcuerras;Mazcuerras;163500;2680.0;Urbano (solar);False;True;61.007462686567166
+Barrio Obregón, 144, Villaescusa;Villaescusa;189000;1874.0;Urbano (solar);False;True;100.8537886872999
+San Salvador, 26, Medio Cudeyo;Medio Cudeyo;218000;2180.0;Urbano (solar);False;True;100.0
+Calle la Industria, 32, El Astillero;El Astillero;560800;4363.0;Urbano (solar);False;True;128.53541141416457
+Barrio la Riva, Villaescusa (Villanueva);Villaescusa;565000;8720.0;Urbanizable;False;True;64.79357798165138
+Barrio la Iglesia, 1A, Ribamontán al Monte (Anero - Alto Marín);Ribamontán al Monte;150000;14764.0;Urbanizable;False;True;10.159848279599025
+Cabezón de la Sal (Casar de Periedo);Cabezón de la Sal;59000;304.0;Urbano (solar);False;True;194.07894736842104
+Urbanización la Cabaña, 55, Ribamontán al Monte (Villaverde de Pontones);Ribamontán al Monte;120000;1184.0;Urbano (solar);False;True;101.35135135135135
+Barrio Cuatro Caminos, 170B, Marina de Cudeyo (Elechas);Marina de Cudeyo;110000;714.0;Urbano (solar);False;True;154.06162464985994
+Calle Santander (Ramón y Cajal), Los Corrales de Buelna;Los Corrales de Buelna;140000;1144.0;Urbano (solar);False;True;122.37762237762237
+Barrio Las Tejas, s/n, Santa María de Cayón (Argomilla de Cayón);Santa María de Cayón;50000;2250.0;Urbanizable;False;True;22.22222222222222
+Camino Real, 1048, Bareyo;Bareyo;450000;4613.0;Urbano (solar);False;True;97.55040104053761
+Barrio Puente San Miguel, 7, Villapresente;Reocín;99000;2224.0;Urbanizable;False;True;44.514388489208635
+Castañeda (Pomaluengo);Castañeda;250000;1531.0;Urbano (solar);False;True;163.29196603527106
+Estradas, Ribamontán al Monte (Hoz de Anero);Ribamontán al Monte;80000;1888.0;Urbanizable;False;True;42.3728813559322
+Poblado Riaño, Mazcuerras (Riaño de Ibio);Mazcuerras;212900;3804.0;Urbano (solar);False;True;55.96740273396425
+Avenida Solvay, Barreda, Torrelavega;Torrelavega;114000;1148.0;Urbano (solar);False;True;99.30313588850174
+Barrio Santa Rosa, Villaescusa (Liaño);Villaescusa;590000;6348.0;Urbano (solar);False;True;92.94265910522999
+Lloreda (diseminado), Santa María de Cayón;Santa María de Cayón;390000;5655.0;Urbano (solar);False;True;68.96551724137932
+Barrio Casuso, Alfoz de Lloredo (Novales);Alfoz de Lloredo;45000;8846.0;No urbanizable;False;False;5.087044992086819
+Riva Redonda (Quijas), Reocín;Reocín;75000;3314.0;Urbano (solar);False;True;22.631261315630656
+Calle La Richuela, 132, Penagos (El Arenal);Penagos;51400;668.0;Urbano (solar);False;True;76.94610778443113
+Barrio San Damil, Alfoz de Lloredo (Cóbreces);Alfoz de Lloredo;315000;1836.0;Urbano (solar);False;True;171.5686274509804
+Variés, Udías (Rodezas);Udías;160000;5932.0;Urbanizable;False;True;26.972353337828725
+Vía, Tanos (Viernoles), Torrelavega;Torrelavega;149000;3062.0;Urbanizable;False;True;48.66100587851078
+CA-141, Marina de Cudeyo (Gajano);Marina de Cudeyo;137000;6352.0;Urbano (solar);False;True;21.56801007556675
+Barrio Puente San Miguel, 231, Puente San Miguel;Reocín;149000;1683.0;Urbano (solar);False;True;88.5323826500297
+Camino San Pedruco, s/n, Bareyo;Bareyo;24000;3766.0;No urbanizable;False;False;6.372809346787042
+Barrio Ontoria, 103, Cabezón de la Sal;Cabezón de la Sal;350000;3344.0;Urbano (solar);False;True;104.66507177033493
+Barrio Luzmela-Frankin, 10, Mazcuerras;Mazcuerras;425000;4160.0;Urbanizable;False;True;102.16346153846153
+Barrio Estradas, Ribamontán al Monte (Hoz de Anero);Ribamontán al Monte;85000;3700.0;Urbanizable;False;True;22.972972972972972
+Entrambasaguas (Navajeda);Entrambasaguas;130000;2100.0;Urbano (solar);False;True;61.904761904761905
+Vía, Alfoz de Lloredo (La Busta);Alfoz de Lloredo;23600;13332.0;No urbanizable;False;False;1.7701770177017702
+Barrio Caranceja, 1033, Reocín;Reocín;53900;400.0;Urbanizable;False;True;134.75
+Ribamontán al Monte (Villaverde de Pontones);Ribamontán al Monte;91000;427.0;Urbano (solar);False;True;213.11475409836066
+Cartes (Riocorvo);Cartes;39900;225.0;Urbano (solar);False;True;177.33333333333334
+Santa María de Cayón (La Penilla);Santa María de Cayón;650000;8300.0;Urbano (solar);False;True;78.3132530120482
+Barrio el Llano, 1033, Udías;Udías;45000;378.0;Urbano (solar);False;True;119.04761904761905
+Barrio Padierne, Entrambasaguas (Navajeda);Entrambasaguas;100000;2073.0;Urbano (solar);False;True;48.2392667631452
+Calle la Fuente, 2, Cartes (Mijarrojos);Cartes;65000;2324.0;Urbano (solar);False;True;27.969018932874356
+Barrio Golbardo, 18, Reocín;Reocín;130000;5289.0;Urbano (solar);False;True;24.579315560597465
+Mazcuerras (Sierra de Ibio);Mazcuerras;125000;3922.0;Urbano (solar);False;True;31.87149413564508
+Carandía, Piélagos;Piélagos;45000;1256.0;Urbano (solar);False;True;35.82802547770701
+Calle Joaquín Salas, Santander;Santander;295000;1502.0;Urbano (solar);False;True;196.40479360852197
+Carandía, Piélagos;Piélagos;250000;6874.0;Urbano (solar);False;True;36.36892638929299
+Somarriba, Liencres, Piélagos;Piélagos;180000;1817.0;Urbano (solar);False;True;99.06439185470556
+Santillana del Mar;Santillana del Mar;240000;1800.0;Urbano (solar);False;True;133.33333333333334
+Alisal - Cazoña, Santander;Santander;200000;1200.0;Urbano (solar);False;True;166.66666666666666
+Avenida Prezanes, Bezana;Santa Cruz de Bezana;149000;815.0;Urbano (solar);False;True;182.82208588957056
+Puente Arce, Piélagos;Piélagos;189000;3000.0;Urbanizable;False;True;63.0
+Zurita, Piélagos;Piélagos;48000;3600.0;Urbanizable;False;True;13.333333333333334
+Parbayón, Piélagos;Piélagos;158000;16062.0;No urbanizable;False;False;9.836882081932512
+Maoño, Santa Cruz de Bezana;Santa Cruz de Bezana;110000;395.0;Urbano (solar);False;True;278.4810126582278
+Santillana del Mar;Santillana del Mar;550000;7500.0;Urbano (solar);False;True;73.33333333333333
+Bezana, Santa Cruz de Bezana;Santa Cruz de Bezana;101000;15292.0;No urbanizable;False;False;6.604760659168193
+Barrio Salcedo, Vioño;Piélagos;80000;2300.0;Urbano (solar);False;True;34.78260869565217
+Boo, Piélagos;Piélagos;280000;3167.0;Urbano (solar);False;True;88.4117461319861
+Barrio Menocal, Polanco;Polanco;79000;531.0;Urbano (solar);False;True;148.7758945386064
+Peñacastillo, Santander;Santander;450000;1634.0;Urbano (solar);False;True;275.3977968176255
+Herrera, Camargo;Camargo;150000;701.0;Urbanizable;False;True;213.98002853067047
+Barrio Cianca, Parbayón;Piélagos;121000;13463.0;No urbanizable;False;False;8.98759563247419
+Miengo;Miengo;179000;3421.0;Urbano (solar);False;True;52.323881905875474
+Parbayón, Piélagos;Piélagos;310000;1307.0;Industrial;False;False;237.18439173680184
+Los Castros, Santander;Santander;253000;1050.0;No urbanizable;False;False;240.95238095238096
+Parbayón, Piélagos;Piélagos;32000;3551.0;No urbanizable;False;False;9.011546043368066
+Arce, Piélagos;Piélagos;250000;5160.0;Urbano (solar);False;True;48.44961240310077
+Suances;Suances;84700;1290.0;Urbanizable;False;True;65.65891472868218
+Boo, Piélagos;Piélagos;145000;5612.0;Urbanizable;False;True;25.837491090520313
+Suances;Suances;315000;6500.0;Urbanizable;False;True;48.46153846153846
+Miengo;Miengo;81000;2383.0;Urbanizable;False;True;33.99076793957197
+Igollo, Camargo;Camargo;65000;523.0;Urbano (solar);False;True;124.282982791587
+Maliaño, Camargo;Camargo;60000;361.0;Urbano (solar);False;True;166.2049861495845
+Zurita, Piélagos;Piélagos;80000;1911.0;Urbano (solar);False;True;41.86289900575615
+Rumoroso, Polanco;Polanco;99000;681.0;Urbanizable;False;True;145.37444933920705
+Bezana, Santa Cruz de Bezana;Santa Cruz de Bezana;165000;8940.0;Urbanizable;False;True;18.456375838926174
+Zurita, Piélagos;Piélagos;75000;1467.0;Urbano (solar);False;True;51.124744376278116
+Boo, Piélagos;Piélagos;290000;2440.0;Urbano (solar);False;True;118.85245901639344
+Renedo, Piélagos;Piélagos;85000;815.0;Urbano (solar);False;True;104.29447852760737
+Monte, Santander;Santander;96000;292.0;Urbanizable;False;True;328.7671232876712
+Prezanes, Bezana;Santa Cruz de Bezana;500000;3104.0;Urbano (solar);False;True;161.08247422680412
+Escobedo, Camargo;Camargo;46520;2326.0;No urbanizable;False;False;20.0
+Somarriba, Liencres;Piélagos;180000;1817.0;Urbano (solar);False;True;99.06439185470556
+Polanco;Polanco;185300;3138.0;Urbano (solar);False;True;59.05035054174633
+Arce, Piélagos;Piélagos;189000;2990.0;Urbanizable;False;True;63.21070234113712
+Jesús Otero, Santander;Santander;399000;10921.0;No urbanizable;False;False;36.53511583188353
+Mortera, Piélagos;Piélagos;380000;2000.0;Urbano (solar);False;True;190.0
+Maliaño, Camargo;Camargo;180000;930.0;Urbano (solar);False;True;193.5483870967742
+Mogro;Miengo;180000;6065.0;Urbanizable;False;True;29.67848309975268
+Arce, Piélagos;Piélagos;475000;5184.0;Urbano (solar);False;True;91.62808641975309
+Viveda, Santillana del Mar;Santillana del Mar;450000;6678.0;Urbano (solar);False;True;67.38544474393531
+Oruña, Piélagos;Piélagos;230000;2900.0;Urbano (solar);False;True;79.3103448275862
+Monte, Santander;Santander;190045;4585.0;Urbano (solar);False;True;41.44929116684842
+Viveda, Santillana del Mar;Santillana del Mar;150000;2000.0;Urbano (solar);False;True;75.0
+Suances;Suances;340000;2207.0;Urbano (solar);False;True;154.05527865881288
+Zurita, Piélagos;Piélagos;145000;2762.0;Urbanizable;False;True;52.49818971759594
+Maoño, Santa Cruz de Bezana;Santa Cruz de Bezana;45000;1000.0;No urbanizable;False;False;45.0
+Oruña, Piélagos;Piélagos;80000;1000.0;Urbanizable;False;True;80.0
+Oruña, Piélagos;Piélagos;335000;6609.0;Urbano (solar);False;True;50.688455136934486
+Renedo, Piélagos;Piélagos;204000;1481.0;Urbano (solar);False;True;137.74476704929103
+Maoño, Santa Cruz de Bezana;Santa Cruz de Bezana;115000;885.0;Urbanizable;False;True;129.94350282485877
+Peñacastillo, Santander;Santander;395000;3168.0;Urbano (solar);False;True;124.68434343434343
+Maoño, Santa Cruz de Bezana;Santa Cruz de Bezana;168000;701.0;Urbano (solar);False;True;239.65763195435093
+Zurita, Piélagos;Piélagos;105000;1890.0;Urbano (solar);False;True;55.55555555555556
+Suances;Suances;340000;2823.0;Urbanizable;False;True;120.43924902585901
+Maoño, Santa Cruz de Bezana;Santa Cruz de Bezana;150000;352.0;Urbano (solar);False;True;426.1363636363636
+Santillana del Mar;Santillana del Mar;169500;10508.0;Urbano (solar);False;True;16.130567186905214
+Santillana del Mar;Santillana del Mar;129000;850.0;Urbano (solar);False;True;151.76470588235293
+Viveda, Santillana del Mar;Santillana del Mar;191500;3448.0;Urbanizable;False;True;55.53944315545244
+Santander;Santander;600000;2686.0;Urbano (solar);False;True;223.38049143708116
+Zurita, Piélagos;Piélagos;370000;9873.0;Urbano (solar);False;True;37.47594449508761
+Suances;Suances;115000;500.0;Urbano (solar);False;True;230.0
+Suances;Suances;581945;8953.0;No urbanizable;False;False;65.0
+Boo, Piélagos;Piélagos;250000;1730.0;Urbanizable;False;True;144.50867052023122
+Sancibrián, Bezana;Santa Cruz de Bezana;690000;2935.0;Urbano (solar);False;True;235.09369676320273
+Suances;Suances;24000;300.0;Urbanizable;False;True;80.0
+Polanco;Polanco;118000;12000.0;Urbanizable;False;True;9.833333333333334
+Rinconeda, Polanco;Polanco;234500;1858.0;Urbano (solar);False;True;126.21097954790096
+Carandía, Piélagos;Piélagos;149900;5594.0;Urbanizable;False;True;26.79656775116196
+Boo, Piélagos;Piélagos;192500;2040.0;Urbano (solar);False;True;94.36274509803921
+Boo, Piélagos;Piélagos;140000;1054.0;Urbanizable;False;True;132.82732447817835
+Oruña, Piélagos;Piélagos;149000;12800.0;No urbanizable;False;False;11.640625
+Liencres, Piélagos;Piélagos;347000;3200.0;Urbanizable;False;True;108.4375
+Revilla, Camargo;Camargo;150000;10600.0;No urbanizable;False;False;14.150943396226415
+Polanco;Polanco;293000;4796.0;Urbano (solar);False;True;61.09257714762302
+Peñacastillo, Santander;Santander;136850;7732.0;Industrial;False;False;17.69917227108122
+Miengo;Miengo;75000;7446.0;No urbanizable;False;False;10.07252215954875
+Oruña, Piélagos;Piélagos;76000;1681.0;Urbano (solar);False;True;45.211183819155266
+Vioño, Piélagos;Piélagos;57000;613.0;Urbano (solar);False;True;92.98531810766721
+Monte, Santander;Santander;122000;15774.0;No urbanizable;False;False;7.734246227970077
+Renedo, Piélagos;Piélagos;142450;4954.0;Urbanizable;False;True;28.754541784416634
+Parbayón, Piélagos;Piélagos;30000;12024.0;No urbanizable;False;False;2.4950099800399204
+Zurita, Piélagos;Piélagos;400000;2589.0;Urbano (solar);False;True;154.4998068752414
+Barcenilla de Piélagos;Piélagos;46875;1216.0;Urbano (solar);False;True;38.5485197368421
+Parbayón, Piélagos;Piélagos;300000;3493.0;Urbano (solar);False;True;85.8860578299456
+Polanco;Polanco;99000;681.0;Urbano (solar);False;True;145.37444933920705
+Polanco;Polanco;249000;2009.0;Urbano (solar);False;True;123.94225983076157
+Zurita, Piélagos;Piélagos;77000;2267.0;Urbano (solar);False;True;33.96559329510366
+Peñacastillo, Santander;Santander;80000;1900.0;Urbano (solar);False;True;42.10526315789474
+Igollo, Camargo;Camargo;186000;2000.0;Urbano (solar);False;True;93.0
+Cudón, Miengo;Miengo;72000;2123.0;Urbano (solar);False;True;33.91427225624117
+Arce, Piélagos;Piélagos;375000;4282.0;Urbanizable;False;True;87.57589911256422
+Diseminado Carrejo, 269, Cabezón de la Sal;Cabezón de la Sal;198000;6508.0;Urbanizable;False;True;30.424093423478794
+Bº Cerrazo, 95, Reocín;Reocín;525000;8000.0;Urbano (solar);False;True;65.625
+Barrio Liandres, 18, Ruiloba;Ruiloba;580000;2100.0;Urbano (solar);False;True;276.1904761904762
+Barrio El Costal, Reocín;Reocín;35000;9116.0;No urbanizable;False;False;3.8394032470381747
+Calle Villabáñez, Castañeda;Castañeda;90000;3048.0;Urbanizable;False;True;29.52755905511811
+Riocorvo, 2A, Cartes;Cartes;93000;800.0;Urbano (solar);False;True;116.25
+Barrio la Cotera 88, Medio Cudeyo;Medio Cudeyo;110000;3625.0;Urbano (solar);False;True;30.344827586206897
+Lugar Barrio Ontoria, 103, Cabezón de la Sal;Cabezón de la Sal;350000;3344.0;Urbano (solar);False;True;104.66507177033493
+Camino Real, 966, Bareyo;Bareyo;129900;1207.0;Urbano (solar);False;True;107.62220381110191
+Camino del Yortal, 37, Bareyo;Bareyo;110000;4440.0;Urbanizable;False;True;24.774774774774773
+Hornedo, Entrambasaguas;Entrambasaguas;50000;6058.0;Urbanizable;False;True;8.253549026081215
+Calle Baja, Cartes;Cartes;36000;436.0;Urbano (solar);False;True;82.56880733944953
+Diseminado Heras, Medio Cudeyo;Medio Cudeyo;150000;3900.0;Urbanizable;False;True;38.46153846153846
+Arenal, Penagos;Penagos;36000;310.0;Urbano (solar);False;True;116.12903225806451
+La Vega, Ribamontán al Monte;Ribamontán al Monte;105000;670.0;Urbano (solar);False;True;156.71641791044777
+Torres Arriba, Torrelavega;Torrelavega;75000;979.0;Urbano (solar);False;True;76.60878447395301
+Diseminado Heras, Medio Cudeyo;Medio Cudeyo;150000;3000.0;Urbanizable;False;True;50.0
+Calle Talur, 13, Penagos;Penagos;79500;2097.0;Urbanizable;False;True;37.911301859799714
+Barrio Cubiles, Marina de Cudeyo;Marina de Cudeyo;175000;14600.0;Urbanizable;False;True;11.986301369863014
+Barrio Rubayo, Marina de Cudeyo;Marina de Cudeyo;110000;2570.0;Urbanizable;False;True;42.80155642023346
+Cubiles, Marina de Cudeyo;Marina de Cudeyo;65000;9500.0;Urbanizable;False;True;6.842105263157895
+San Pedro de Rudaguera, Alfoz de Lloredo;Alfoz de Lloredo;70000;4200.0;Urbanizable;False;True;16.666666666666668
+Barrio Vayas, Marina de Cudeyo;Marina de Cudeyo;100000;13000.0;Urbanizable;False;True;7.6923076923076925
+Catañanera, Penagos;Penagos;75000;2277.0;Urbanizable;False;True;32.93807641633729
+Barrio la Pelia, Ribamontán al Monte;Ribamontán al Monte;170000;4991.0;Urbanizable;False;True;34.061310358645564
+CA-131, Alfoz de Lloredo;Alfoz de Lloredo;109000;8386.0;Urbanizable;False;True;12.997853565466253
+Camino de Solorga, Bareyo;Bareyo;134000;1613.0;Urbano (solar);False;True;83.07501549907006
+Pino, Villaescusa;Villaescusa;75000;1158.0;Urbano (solar);False;True;64.76683937823834
+Comillas;Comillas;220000;1244.0;Urbano (solar);False;True;176.84887459807075
+Barrio Pontejos, Marina de Cudeyo;Marina de Cudeyo;190000;4500.0;Urbanizable;False;True;42.22222222222222
+Barrio la Pelia, Ribamontán al Monte;Ribamontán al Monte;137000;4032.0;Urbanizable;False;True;33.9781746031746
+Calle el Quejigal, 1109, Bareyo;Bareyo;115000;1250.0;Urbano (solar);False;True;92.0
+Mies de Haza, Marina de Cudeyo;Marina de Cudeyo;480000;7200.0;No urbanizable;False;False;66.66666666666667
+Calle el Quejigal, 1460, Bareyo;Bareyo;115000;2789.0;Urbanizable;False;True;41.23341699533883
+Castanedo, Ribamontán al Mar;Ribamontán al Mar;130000;1413.0;Urbanizable;False;True;92.00283085633404
+Castanedo, Ribamontán al Mar;Ribamontán al Mar;159000;2600.0;Urbano (solar);False;True;61.15384615384615
+Suesa, Ribamontán al Mar;Ribamontán al Mar;721000;4200.0;Urbano (solar);False;True;171.66666666666666
+Castanedo, Ribamontán al Mar;Ribamontán al Mar;120000;1409.0;Urbanizable;False;True;85.16678495386799
+Ribamontán al Monte;Ribamontán al Monte;300000;10000.0;Urbanizable;False;True;30.0
+Loredo, Ribamontán al Mar;Ribamontán al Mar;500000;13500.0;Urbanizable;False;True;37.03703703703704
+Calle Herrería, Somo;Ribamontán al Mar;180000;500.0;Urbano (solar);False;True;360.0
+Calle Solasierra, Bareyo;Bareyo;90000;1262.0;Urbano (solar);False;True;71.31537242472267
+Calle Solasierra, Bareyo;Bareyo;76000;832.0;Urbano (solar);False;True;91.34615384615384
+Barrio Villanueva de la Peña, Mazcuerras;Mazcuerras;160000;1800.0;Urbanizable;False;True;88.88888888888889
+Alameda Barrio La, Santa María de Cayón;Santa María de Cayón;50000;2500.0;Urbano (solar);False;True;20.0
+Barrio Gajano, Marina de Cudeyo;Marina de Cudeyo;120000;3834.0;Urbanizable;False;True;31.29890453834116
+Villaescusa;Villaescusa;43500;2897.0;Urbanizable;False;True;15.015533310321022
+Barrio Valles, Reocín;Reocín;79000;2058.0;Urbano (solar);False;True;38.38678328474247
+Barrio Cabrojo, Cabezón de la Sal;Cabezón de la Sal;100000;1014.0;Urbanizable;False;True;98.61932938856016
+Castanedo, Ribamontán al Mar;Ribamontán al Mar;395000;3150.0;Urbano (solar);False;True;125.39682539682539
+Barrio Helguera, Reocín;Reocín;50000;561.0;Urbano (solar);False;True;89.12655971479501
+Reocín;Reocín;158000;6486.0;Urbano (solar);False;True;24.360160345359237
+Calle la Industria, El Astillero;El Astillero;560800;4363.0;Urbano (solar);False;True;128.53541141416457
+CA-455, Ribamontán al Monte;Ribamontán al Monte;20000;9967.0;No urbanizable;False;False;2.0066218521119694
+Udías;Udías;190000;1909.0;Urbano (solar);False;True;99.52854897852279
+Los Corrales de Buelna;Los Corrales de Buelna;44500;1012.0;Urbano (solar);False;True;43.972332015810274
+Ruiloba;Ruiloba;400000;1424.0;Urbano (solar);False;True;280.8988764044944
+Alfoz de Lloredo;Alfoz de Lloredo;99000;4813.0;Urbanizable;False;True;20.569291502181592
+Barrio Caranceja, Reocín;Reocín;159000;6636.0;Urbanizable;False;True;23.960216998191683
+Carretera Pedrosa, Marina de Cudeyo;Marina de Cudeyo;150000;3300.0;Urbano (solar);False;True;45.45454545454545
+Diseminado Cóbreces, Alfoz de Lloredo;Alfoz de Lloredo;220000;1993.0;Urbano (solar);False;True;110.38635223281486
+Alfoz de Lloredo;Alfoz de Lloredo;170000;1098.0;Urbano (solar);False;True;154.82695810564664
+Barrio Pontejos, Marina de Cudeyo;Marina de Cudeyo;60000;598.0;Urbano (solar);False;True;100.33444816053512
+Alfoz de Lloredo;Alfoz de Lloredo;150000;1068.0;Urbano (solar);False;True;140.4494382022472
+Galizano, Ribamontán al Mar;Ribamontán al Mar;371000;3000.0;Urbanizable;False;True;123.66666666666667
+Solares;Medio Cudeyo;250000;600.0;Urbano (solar);False;True;416.6666666666667
+Alfoz de Lloredo;Alfoz de Lloredo;165000;4813.0;No urbanizable;False;False;34.282152503635984
+Mazcuerras;Mazcuerras;22000;9324.0;No urbanizable;False;False;2.3595023595023594
+Entrambasaguas;Entrambasaguas;28000;5696.0;No urbanizable;False;False;4.915730337078652
+Los Corrales de Buelna;Los Corrales de Buelna;125000;4000.0;Urbano (solar);False;True;31.25
+Castanedo, Ribamontán al Mar;Ribamontán al Mar;700000;9275.0;Urbanizable;False;True;75.47169811320755
+Barrio Santibáñez, Cabezón de la Sal;Cabezón de la Sal;160000;999.0;Urbano (solar);False;True;160.16016016016016
+Barrio Santibáñez, Cabezón de la Sal;Cabezón de la Sal;120000;839.0;Urbano (solar);False;True;143.0274135876043
+Suesa, Ribamontán al Mar;Ribamontán al Mar;465000;4772.0;Urbano (solar);False;True;97.44341994970662
+Ribamontán al Monte;Ribamontán al Monte;235000;1365.0;Urbano (solar);False;True;172.16117216117217
+Somo;Ribamontán al Mar;395000;1520.0;Urbano (solar);False;True;259.86842105263156
+Somo;Ribamontán al Mar;280000;2115.0;Urbano (solar);False;True;132.38770685579198
+Marina de Cudeyo;Marina de Cudeyo;120000;3060.0;Urbano (solar);False;True;39.21568627450981
+Calle la Callada, Somo;Ribamontán al Mar;420000;1527.0;Urbano (solar);False;True;275.04911591355597
+Puente Viesgo;Puente Viesgo;150000;1429.0;Urbano (solar);False;True;104.96850944716586
+Cabezón de la Sal;Cabezón de la Sal;120000;1218.0;Urbano (solar);False;True;98.52216748768473
+Ribamontán al Monte;Ribamontán al Monte;180000;1000.0;Urbano (solar);False;True;180.0
+Las Salgas, Somo;Ribamontán al Mar;600000;5022.0;Urbano (solar);False;True;119.47431302270012
+Ribamontán al Monte;Ribamontán al Monte;210000;1900.0;Urbano (solar);False;True;110.52631578947368
+Tanos, Torrelavega;Torrelavega;19500;7764.0;No urbanizable;False;False;2.511591962905719
+Ribamontán al Monte;Ribamontán al Monte;55000;7700.0;No urbanizable;False;False;7.142857142857143
+Ribamontán al Monte;Ribamontán al Monte;75000;5200.0;Urbano (solar);False;True;14.423076923076923
+Ribamontán al Monte;Ribamontán al Monte;95000;9300.0;Urbano (solar);False;True;10.21505376344086
+Puente San Miguel;Reocín;65000;3328.0;No urbanizable;False;False;19.53125
+Barrio Ontoria, 103, Cabezón de la Sal;Cabezón de la Sal;340000;3344.0;Urbano (solar);False;True;101.67464114832536
+Polígono Industrial Guarnizo, 73, Guarnizo;Astillero;495000;2332.0;Urbano (solar);False;True;212.26415094339623
+Barrio Zuñeda, Castanedo, Ribamontán al Mar;Ribamontán al Mar;75000;13265.0;No urbanizable;False;False;5.653976630229929
+Barrio Vernejo, 124, Cabezón de la Sal;Cabezón de la Sal;550000;2875.0;Urbano (solar);False;True;191.30434782608697
+Calle Prosperidad, El Astillero;Astillero;210000;1600.0;Urbano (solar);False;True;131.25
+Barrio Concha, 1, Ruiloba;Ruiloba;450000;1615.0;Urbano (solar);False;True;278.6377708978328
+Puente Viesgo;Puente Viesgo;65000;11421.0;Urbanizable;False;True;5.691270466684179
+Barrio Helguera, Reocín;Reocín;325000;5340.0;Urbano (solar);False;True;60.86142322097378
+Barrio Viallan, Alfoz de Lloredo;Alfoz de Lloredo;100000;1354.0;Urbano (solar);False;True;73.85524372230428
+Castañeda;Castañeda;60000;2481.0;Urbanizable;False;True;24.183796856106408
+Barrio la Molina, Comillas;Comillas;350000;2807.0;Urbano (solar);False;True;124.68827930174564
+Calle Las Ventas, 60, Cabezón de la Sal;Cabezón de la Sal;600000;2091.0;Urbano (solar);False;True;286.94404591104734
+Barrio Bustablado, 41, Cabezón de la Sal;Cabezón de la Sal;90000;2296.0;Urbanizable;False;True;39.198606271777
+Quintana, Alfoz de Lloredo;Alfoz de Lloredo;200000;1993.0;Urbano (solar);False;True;100.35122930255896
+Calle Las Presillas, s/n, Puente Viesgo;Puente Viesgo;80000;1857.0;Urbano (solar);False;True;43.08023694130318
+Vernejo, s/n, Cabezón de la Sal;Cabezón de la Sal;295000;3600.0;Urbano (solar);False;True;81.94444444444444
+Barrio Concha, Ruiloba;Ruiloba;240000;898.0;Urbano (solar);False;True;267.260579064588
+Barrio Concha, 36, Ruiloba;Ruiloba;450000;1630.0;Urbano (solar);False;True;276.07361963190186
+Bareyo;Bareyo;130000;1253.0;Urbano (solar);False;True;103.7509976057462
+Reocín;Reocín;90000;400.0;Urbano (solar);False;True;225.0
+Barrio Golbardo, 15 A, Reocín;Reocín;70000;7310.0;Urbanizable;False;True;9.575923392612859
+Reocín;Reocín;130000;5325.0;Urbano (solar);False;True;24.413145539906104
+Los Tocios, 93, Los Corrales de Buelna;Los Corrales de Buelna;55000;6308.0;No urbanizable;True;False;8.719086873811033
+Penagos;Penagos;55000;2397.0;Urbanizable;False;True;22.9453483521068
+El Alta, 1, Penagos;Penagos;80000;3115.0;Urbanizable;False;True;25.682182985553773
+Urb. Club de Campo Nueva Cantabria, Ribamontán al Monte;Ribamontán al Monte;177500;1128.0;Urbano (solar);False;True;157.3581560283688
+Cabezón de la Sal;Cabezón de la Sal;254100;2613.0;Urbano (solar);False;True;97.24454649827784
+Sierrapando, Torrelavega;Torrelavega;58000;12893.0;No urbanizable;False;False;4.498565112851935
+El Astillero;Astillero;560800;4363.0;Urbano (solar);False;True;128.53541141416457
+Diseminado Hijas, Puente Viesgo;Puente Viesgo;15000;5000.0;No urbanizable;False;False;3.0
+Reocín;Reocín;38300;2945.0;Urbano (solar);False;True;13.00509337860781
+Poblado Riocorvo, Cartes;Cartes;270000;3343.0;Urbano (solar);False;True;80.76577924020341
+Guarnizo;Astillero;85000;920.0;Urbano (solar);False;True;92.3913043478261
+Hornedo, Entrambasaguas;Entrambasaguas;45000;1896.0;No urbanizable;False;False;23.734177215189874
+Calle Mies del Corro, Medio Cudeyo;Medio Cudeyo;430000;10500.0;No urbanizable;False;False;40.95238095238095
+Barrio Rucabao, Marina de Cudeyo;Marina de Cudeyo;132000;2122.0;Urbanizable;False;True;62.205466540999055
+Barrio Viérnoles, Tanos, Torrelavega;Torrelavega;51000;630.0;Urbano (solar);True;True;80.95238095238095
+Calle Esles, Santa María de Cayón;Santa María de Cayón;70000;16193.0;No urbanizable;False;False;4.322855554869388
+Barrio Socabarga, Medio Cudeyo;Medio Cudeyo;145000;4865.0;Urbano (solar);False;True;29.804727646454264
+Puente Viesgo;Puente Viesgo;79800;16270.0;No urbanizable;False;False;4.904732636754764
+Hoyo Gómez, Duález, Torrelavega;Torrelavega;97000;5100.0;Urbanizable;False;True;19.019607843137255
+Ontoria, Cabezón de la Sal;Cabezón de la Sal;155000;11691.0;No urbanizable;False;False;13.258061756907022
+Calle Pumarijo, Penagos;Penagos;190000;3143.0;Urbano (solar);False;True;60.45179764556156
+Pumalverde, Udías;Udías;127500;3980.0;Urbanizable;False;True;32.03517587939699
+Lloredo, Alfoz de Lloredo;Alfoz de Lloredo;50000;1000.0;Urbano (solar);False;True;50.0
+Villanueva de la Peña, Mazcuerras;Mazcuerras;490000;8150.0;Urbano (solar);False;True;60.122699386503065
+Barrio Viallan, Alfoz de Lloredo;Alfoz de Lloredo;12500;966.0;No urbanizable;False;False;12.939958592132506
+Calle la Cuesta, Los Corrales de Buelna;Los Corrales de Buelna;26000;4475.0;No urbanizable;False;False;5.810055865921788
+Calle Alfonso Álvarez Miranda, Los Corrales de Buelna;Los Corrales de Buelna;180000;8731.0;Urbano (solar);False;True;20.61619516664758
+Villaescusa;Villaescusa;105000;3000.0;Urbano (solar);False;True;35.0
+La Fuente, Cartes;Cartes;130000;2090.0;Urbano (solar);False;True;62.20095693779904
+Barrio Pontejos, Marina de Cudeyo;Marina de Cudeyo;186000;2000.0;Urbano (solar);False;True;93.0
+Ribamontán al Monte;Ribamontán al Monte;260000;9079.0;Urbanizable;False;True;28.63751514483974
+Reocín;Reocín;339000;4933.0;Urbano (solar);False;True;68.72085951753498
+Reocín;Reocín;88400;2057.0;Urbano (solar);False;True;42.97520661157025
+Cartes;Cartes;45000;1800.0;Urbano (solar);False;True;25.0
+Puente Viesgo;Puente Viesgo;10500;5850.0;No urbanizable;False;False;1.794871794871795
+Barrio Casar, Cabezón de la Sal;Cabezón de la Sal;58000;831.0;Urbano (solar);False;True;69.79542719614922
+Marina de Cudeyo;Marina de Cudeyo;140000;5069.0;Urbanizable;False;True;27.61885973564806
+Bareyo;Bareyo;150000;4087.0;Urbano (solar);False;True;36.701737215561536
+Alfoz de Lloredo;Alfoz de Lloredo;230000;1732.0;Urbano (solar);False;True;132.79445727482678
+Penagos;Penagos;53000;4400.0;Urbanizable;False;True;12.045454545454545
+Barrio Caranceja, Reocín;Reocín;205000;6486.0;Urbano (solar);False;True;31.60653715695344
+Calle la Fuente, Cartes;Cartes;110000;1083.0;Urbano (solar);False;True;101.5697137580794
+Puente San Miguel, Reocín;Reocín;142500;833.0;Urbano (solar);False;True;171.06842737094837
+Santa María de Cayón;Santa María de Cayón;54000;1982.0;No urbanizable;False;False;27.2452068617558
+Reocín;Reocín;49000;7215.0;No urbanizable;False;False;6.791406791406791
+Villaescusa;Villaescusa;349000;4912.0;Urbano (solar);False;True;71.05048859934854
+Penagos;Penagos;100000;5081.0;Urbanizable;False;True;19.681165124975397
+Calle José María Cabañas, Torrelavega;Torrelavega;269000;1305.0;Urbano (solar);False;True;206.1302681992337
+Barrio La Cotera, Mazcuerras;Mazcuerras;75000;2045.0;Urbano (solar);False;True;36.67481662591687
+Hoznayo;Entrambasaguas;70000;11682.0;No urbanizable;False;False;5.9921246361924325
+Castañeda;Castañeda;60000;5400.0;Urbanizable;False;True;11.11111111111111
+Alfoz de Lloredo;Alfoz de Lloredo;140000;4681.0;Urbanizable;False;True;29.908139286477248
+Marina de Cudeyo;Marina de Cudeyo;150000;3360.0;Urbanizable;False;True;44.642857142857146
+Penagos;Penagos;69000;1505.0;Urbano (solar);False;True;45.84717607973422
+Marina de Cudeyo;Marina de Cudeyo;70000;1700.0;Urbanizable;False;True;41.1764705882353
+Carriazo, Ribamontán al Mar;Ribamontán al Mar;20000;6750.0;No urbanizable;False;False;2.962962962962963
+Marina de Cudeyo;Marina de Cudeyo;200000;4468.0;Urbanizable;False;True;44.76275738585497
+Barrio la Quintana, Los Corrales de Buelna;Los Corrales de Buelna;44392;958.0;Urbano (solar);False;True;46.33820459290188
+Puente Viesgo;Puente Viesgo;40000;4048.0;No urbanizable;False;False;9.881422924901186
+Villaescusa;Villaescusa;85000;5000.0;Urbanizable;False;True;17.0
+Medio Cudeyo;Medio Cudeyo;80000;626.0;Urbanizable;False;True;127.79552715654953
+Los Corrales de Buelna;Los Corrales de Buelna;20000;10214.0;No urbanizable;False;False;1.9580967299784608
+Calle Concha Espina, Cabezón de la Sal;Cabezón de la Sal;75000;1140.0;Urbano (solar);False;True;65.78947368421052
+Entrambasaguas;Entrambasaguas;120000;2500.0;Urbanizable;False;True;48.0
+Reocín;Reocín;81500;4493.0;Urbano (solar);False;True;18.13932784331182
+Entrambasaguas;Entrambasaguas;100000;2073.0;Urbano (solar);False;True;48.2392667631452
+Santa María de Cayón;Santa María de Cayón;124000;624.0;Urbano (solar);False;True;198.71794871794873
+Somo, Ribamontán al Mar;Ribamontán al Mar;650000;6000.0;Urbanizable;False;True;108.33333333333333
+Santa María de Cayón;Santa María de Cayón;29900;1895.0;Urbanizable;False;True;15.778364116094988
+Marina de Cudeyo;Marina de Cudeyo;55000;2367.0;Urbanizable;False;True;23.236163920574565
+Marina de Cudeyo;Marina de Cudeyo;88000;1742.0;Urbanizable;False;True;50.51664753157291
+Mazcuerras;Mazcuerras;150000;1229.0;Urbano (solar);False;True;122.05044751830756
+Udías;Udías;120000;2340.0;Urbanizable;False;True;51.282051282051285
+Avenida Santiago Galas, Cabezón de la Sal;Cabezón de la Sal;254100;2613.0;Urbano (solar);False;True;97.24454649827784
+Alfoz de Lloredo;Alfoz de Lloredo;155000;3100.0;Urbanizable;False;True;50.0
+Hoznayo;Entrambasaguas;75000;1139.0;Urbano (solar);False;True;65.84723441615452
+Lloredo de Rudagüera, Alfoz de Lloredo;Alfoz de Lloredo;50000;1000.0;Urbano (solar);False;True;50.0
+Campuzano, Torrelavega;Torrelavega;50000;451.0;Urbano (solar);False;True;110.86474501108647
+Santa María de Cayón;Santa María de Cayón;18000;2237.0;No urbanizable;False;False;8.046490835940993
+Castañeda;Castañeda;29000;3344.0;No urbanizable;False;False;8.67224880382775
+Marina de Cudeyo;Marina de Cudeyo;110000;2265.0;Urbanizable;False;True;48.565121412803535
+Marina de Cudeyo;Marina de Cudeyo;120000;544.0;Urbano (solar);False;True;220.58823529411765
+Entrambasaguas;Entrambasaguas;36500;11361.0;No urbanizable;False;False;3.212745356922806
+Marina de Cudeyo;Marina de Cudeyo;130000;3114.0;Urbanizable;False;True;41.746949261400125
+Reocín;Reocín;148000;1496.0;Urbano (solar);False;True;98.93048128342247
+Torrelavega;Torrelavega;115000;4930.0;Urbano (solar);False;True;23.32657200811359
+Los Corrales de Buelna;Los Corrales de Buelna;35000;1106.0;Urbano (solar);False;True;31.645569620253166
+Penagos;Penagos;500000;8410.0;Urbano (solar);False;True;59.45303210463734
+Puente Viesgo;Puente Viesgo;25000;4242.0;No urbanizable;False;False;5.893446487505893
+Udías;Udías;6500;1035.0;No urbanizable;False;False;6.280193236714976
+Villaescusa;Villaescusa;240000;2000.0;Urbano (solar);False;True;120.0
+Los Corrales de Buelna;Los Corrales de Buelna;75000;1020.0;Urbanizable;False;True;73.52941176470588
+Alfoz de Lloredo;Alfoz de Lloredo;80000;4000.0;No urbanizable;False;False;20.0
+Bareyo;Bareyo;126500;4614.0;Urbanizable;False;True;27.41655830082358
+Ribamontán al Monte;Ribamontán al Monte;80000;1888.0;Urbanizable;False;True;42.3728813559322
+Alfoz de Lloredo;Alfoz de Lloredo;400000;3607.0;Urbano (solar);False;True;110.89548100914888
+Ribamontán al Mar;Ribamontán al Mar;150000;4804.0;No urbanizable;False;False;31.22398001665279
+Santa María de Cayón;Santa María de Cayón;33000;834.0;No urbanizable;False;False;39.568345323741006
+Reocín;Reocín;12750;4350.0;No urbanizable;False;False;2.9310344827586206
+Entrambasaguas;Entrambasaguas;50000;3000.0;No urbanizable;False;False;16.666666666666668
+Los Corrales de Buelna;Los Corrales de Buelna;60000;447.0;Urbano (solar);False;True;134.2281879194631
+San Felices de Buelna;San Felices de Buelna;100000;1500.0;Urbano (solar);False;True;66.66666666666667
+Carriazo, Ribamontán al Mar;Ribamontán al Mar;160000;2363.0;Urbanizable;False;True;67.71053745239102
+Alfoz de Lloredo;Alfoz de Lloredo;115000;2360.0;No urbanizable;False;False;48.728813559322035
+Ribamontán al Monte;Ribamontán al Monte;170000;4991.0;Urbanizable;False;True;34.061310358645564
+Marina de Cudeyo;Marina de Cudeyo;40000;8140.0;No urbanizable;False;False;4.914004914004914
+Reocín;Reocín;35000;850.0;No urbanizable;False;False;41.1764705882353
+Santa María de Cayón;Santa María de Cayón;60000;1400.0;Urbano (solar);False;True;42.857142857142854
+Bareyo;Bareyo;119000;2848.0;Urbano (solar);False;True;41.78370786516854
+Torrelavega;Torrelavega;70000;2214.0;Urbano (solar);False;True;31.616982836495033
+Santa María de Cayón;Santa María de Cayón;110000;4400.0;Urbano (solar);False;True;25.0
+Comillas;Comillas;460000;3600.0;Urbano (solar);False;True;127.77777777777777
+Barrio Caranceja, Reocín;Reocín;65000;1298.0;Urbano (solar);False;True;50.07704160246533
+Alfoz de Lloredo;Alfoz de Lloredo;90000;867.0;Urbano (solar);False;True;103.80622837370242
+Ribamontán al Monte;Ribamontán al Monte;35000;10436.0;No urbanizable;False;False;3.3537753928708316
+Vía, Reocín;Reocín;65000;1501.0;Urbano (solar);False;True;43.30446369087275
+Penagos;Penagos;94000;7979.0;Urbanizable;False;True;11.780924927935832
+Penagos;Penagos;99000;2249.0;Urbanizable;False;True;44.019564250778124
+Cabezón de la Sal;Cabezón de la Sal;11000;2184.0;No urbanizable;False;False;5.0366300366300365
+Cabezón de la Sal;Cabezón de la Sal;50000;2400.0;No urbanizable;False;False;20.833333333333332
+Alfoz de Lloredo;Alfoz de Lloredo;250000;3615.0;Urbano (solar);False;True;69.15629322268326
+Marina de Cudeyo;Marina de Cudeyo;15000;2500.0;No urbanizable;False;False;6.0
+San Felices de Buelna;San Felices de Buelna;149500;5743.0;Urbano (solar);False;True;26.031690753961346
+San Felices de Buelna;San Felices de Buelna;23000;351.0;Urbano (solar);False;True;65.52706552706553
+Medio Cudeyo;Medio Cudeyo;10350;4050.0;No urbanizable;False;False;2.5555555555555554
+Udías;Udías;34000;235.0;Urbanizable;False;True;144.68085106382978
+Barrio la Veguilla, 7, Puente San Miguel;Reocín;97000;2743.0;Urbano (solar);False;True;35.36274152387897
+Diseminado Casar, Cabezón de la Sal;Cabezón de la Sal;18000;3727.0;No urbanizable;False;False;4.829621679635095
+Lugar Barrio Quijas, Reocín;Reocín;12000;3590.0;No urbanizable;False;False;3.3426183844011144
+Barrio Rivero, San Felices de Buelna;San Felices de Buelna;95000;1050.0;Urbano (solar);True;True;90.47619047619048
+Reocín;Reocín;180000;2100.0;Urbano (solar);False;True;85.71428571428571
+Barrio las Ventas, Cabezón de la Sal;Cabezón de la Sal;600000;2091.0;Urbano (solar);False;True;286.94404591104734
+Camino Vial, 27, Hoznayo;Entrambasaguas;80000;4481.0;No urbanizable;False;False;17.853157777281858
+Via Sin Nombre, s/n, Puente Viesgo;Puente Viesgo;15000;4000.0;No urbanizable;False;False;3.75
+Barrio Sierra, Ruiloba;Ruiloba;150000;1500.0;Urbanizable;False;True;100.0
+Barrio la Penilla, Santa Maria de Cayon;Santa María de Cayón;700000;4606.0;Urbanizable;False;True;151.9756838905775
+Calle Villabáñez, 78 C, Castañeda;Castañeda;50000;3900.0;Urbano (solar);False;True;12.820512820512821
+Barrio Villanueva, Ribamontán al Monte;Ribamontán al Monte;57000;7100.0;Urbanizable;True;True;8.028169014084508
+Penagos;Penagos;36000;8000.0;No urbanizable;False;False;4.5
+Santa Maria de Cayon;Santa María de Cayón;39000;15120.0;No urbanizable;False;False;2.5793650793650795
+Calle Mijares, Cartes;Cartes;160000;1083.0;Urbano (solar);False;True;147.73776546629733
+Diseminado Lloreda, Santa Maria de Cayon;Santa María de Cayón;50000;1800.0;No urbanizable;False;False;27.77777777777778
+Barrio la Drea, Villapresente;Reocín;220000;1446.0;Urbano (solar);False;True;152.14384508990318
+Paraje la Sierra, Cabezón de la Sal;Cabezón de la Sal;26000;14365.0;No urbanizable;False;False;1.8099547511312217
+CA-283, Cartes;Cartes;45000;8880.0;No urbanizable;False;False;5.0675675675675675
+Calle La Llamosa, Galizano;Ribamontán al Mar;750000;10000.0;Urbanizable;False;True;75.0
+Padierne, Entrambasaguas;Entrambasaguas;130000;7740.0;Urbanizable;False;True;16.795865633074936
+Lloreda diseminado, Santa Maria de Cayon;Santa María de Cayón;96000;10000.0;Urbanizable;False;True;9.6
+Diseminado Sobarzo, Penagos;Penagos;29000;2038.0;No urbanizable;False;False;14.22963689892051
+Barrio Virgen de la Peña, Cabezón de la Sal;Cabezón de la Sal;594000;9237.0;Urbano (solar);False;True;64.30659304969146
+Barrio San Ramón, Barreda, Torrelavega;Torrelavega;175000;6000.0;Urbanizable;False;True;29.166666666666668
+Barrio el Picon, Puente San Miguel;Reocín;100000;3500.0;Urbanizable;False;True;28.571428571428573
+Reocín;Reocín;167000;2400.0;Urbano (solar);False;True;69.58333333333333
+Barrio Lloredo, Alfoz de Lloredo;Alfoz de Lloredo;22000;5000.0;No urbanizable;False;False;4.4
+Tempano, Santa Maria de Cayon;Santa María de Cayón;30000;2600.0;No urbanizable;False;False;11.538461538461538
+Barrio la Sota, Ribamontán al Monte;Ribamontán al Monte;180000;10000.0;Urbanizable;False;True;18.0
+Barrio el Corro, Santa Maria de Cayon;Santa María de Cayón;35000;2864.0;No urbanizable;False;False;12.220670391061452
+Barrio Rubayo-Arriba, Marina de Cudeyo;Marina de Cudeyo;90000;1800.0;Urbanizable;False;True;50.0
+Calle Berracabras, Cabezón de la Sal;Cabezón de la Sal;640000;5631.0;Urbanizable;False;True;113.65654413070503
+CA-142, Villaescusa;Villaescusa;85000;6200.0;Urbanizable;False;True;13.709677419354838
+Barrio Alto el Postillo, Marina de Cudeyo;Marina de Cudeyo;250000;3994.0;Urbano (solar);False;True;62.59389083625438
+N-634, Cabezón de la Sal;Cabezón de la Sal;40000;2900.0;No urbanizable;False;False;13.793103448275861
+Barrio San Roque, Castañeda;Castañeda;85000;4170.0;Urbanizable;False;True;20.38369304556355
+Barrio Padierne, Entrambasaguas;Entrambasaguas;100000;2100.0;Urbano (solar);False;True;47.61904761904762
+el cotero, Alfoz de Lloredo;Alfoz de Lloredo;38000;2148.0;No urbanizable;False;False;17.690875232774673
+Herminio Fernández Caballero, Guarnizo;Astillero;180000;1500.0;Urbano (solar);False;True;120.0
+Calle Rotizas, Penagos;Penagos;99000;1400.0;Urbano (solar);False;True;70.71428571428571
