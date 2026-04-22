@@ -12,23 +12,23 @@ Cuatro Caminos;Santander;Cuatro Caminos;800;2;90;2.0;1.0;0.0;0;0;0;0;0;;sin asce
 Calle el Recial;Santander;Valdenoja;1100;3;115;2.0;1.0;1.0;1;0;0;0;0;;reformado trastero;True;False;False;False;False;False;False;False;False;False;0
 Floranes;Santander;Numancia-San Fernando;850;2;67;4.0;1.0;1.0;0;0;0;0;0;;max 2 personas;True;False;False;False;False;False;False;False;False;False;0
 Ruiz Zorrilla;Santander;Castilla-Hermida;850;3;115;1.0;1.0;1.0;0;0;0;0;0;;alquiler fijo;True;False;False;False;False;False;False;False;False;False;0
-Magallanes;Santander;Numancia-San Fernando;870;2;65;2.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Magallanes;Santander;Numancia-San Fernando;870;2;65;2.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Barrio Aguilera;Piélagos;Parbayón;2300;3;252;;;;1;0;1;0;0;;parcela 5000 m2;False;False;False;True;False;False;False;False;False;False;0
-Amos de Escalante;Santander;Centro-Ayuntamiento;950;2;80;7.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;True;False;False;0
+Amos de Escalante;Santander;Centro-Ayuntamiento;950;2;80;7.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;True;False;False;0
 Francisco Palazuelos;Santander;General Dávila;3000;3;75;0.0;1.0;0.0;0;0;1;1;0;;quincenas julio-agosto;True;False;False;False;False;False;False;False;False;False;1
 Paseo Menéndez Pelayo;Santander;Puerto Chico;850;1;50;2.0;1.0;1.0;1;0;0;0;0;;apartamento;True;False;False;False;False;False;False;False;False;False;0
 Calle de la Ronda;Castro-Urdiales;Centro;1100;3;90;4.0;1.0;1.0;1;0;1;0;0;;hasta junio;True;False;False;False;False;False;False;False;False;False;0
-Calle Bonifaz;Santander;Puerto Chico;800;1;55;5.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Avenida de Bilbao;Camargo;Muriedas;750;2;60;2.0;1.0;1.0;1;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Calle Bonifaz;Santander;Puerto Chico;800;1;55;5.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Avenida de Bilbao;Camargo;Muriedas;750;2;60;2.0;1.0;1.0;1;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 José Simón Cabarga;Santander;El Sardinero;1100;2;80;5.0;1.0;1.0;0;1;0;0;0;;garaje opcional 100€;True;False;False;False;False;False;False;False;False;False;0
 Bo Liandres;Ruiloba;;6000;5;450;;;;1;0;1;1;1;;no agosto parcial;False;False;False;True;False;False;False;False;False;False;1
-Barrio Sangazo;Castro-Urdiales;Sámano;1200;3;215;;;;1;0;0;0;0;;;False;False;False;True;False;False;False;False;False;False;0
+Barrio Sangazo;Castro-Urdiales;Sámano;1200;3;215;;;;1;0;0;0;0;;nan;False;False;False;True;False;False;False;False;False;False;0
 Calle Burgos;Santander;Numancia-San Fernando;650;1;45;5.0;1.0;0.0;0;0;0;0;0;;sin ascensor;True;False;False;False;False;False;False;False;False;True;0
 Villa de Foz;Laredo;Centro;3500;4;160;6.0;1.0;1.0;0;0;1;1;1;;agosto 3000 quincena;True;False;False;False;False;False;False;False;False;False;1
 Derechos Humanos;Laredo;El Puntal;3500;3;225;;;;1;0;1;1;0;;vacacional;False;True;False;False;False;False;False;False;False;False;0
-Avenida Libertad;Laredo;El Puntal;1360;0;40;1.0;1.0;1.0;0;0;1;0;0;;;True;False;False;False;False;False;False;False;True;False;0
+Avenida Libertad;Laredo;El Puntal;1360;0;40;1.0;1.0;1.0;0;0;1;0;0;;nan;True;False;False;False;False;False;False;False;True;False;0
 Bareyo;Bareyo;Güemes;1200;5;210;;;;1;0;0;0;0;;fijo anual;False;False;False;True;False;False;False;False;False;False;0
-Santoña;Santoña;;750;3;100;3.0;1.0;0.0;1;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Santoña;Santoña;;750;3;100;3.0;1.0;0.0;1;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Rosalía de Castro 13;Santander;Peñacastillo-Nuevamontaña;1200;3;90;4.0;1.0;1.0;1;0;0;0;0;;obra nueva a estrenar edificio copérnico alquiler fijo posible amueblado;True;False;False;False;False;False;False;False;False;False;0
 Paseo General Dávila-Grupo San Francisco 6;Santander;Los Castros;800;2;57;0.0;1.0;0.0;0;0;0;0;0;1.0;bajo con entrada independiente amueblado pide solvencia/aval;True;False;False;False;False;False;False;False;False;False;0
 Fernández de Isla 5;Santander;Centro-Ayuntamiento;1000;4;100;4.0;1.0;0.0;0;0;0;0;0;;sin ascensor 4 dormitorios;True;False;False;False;False;False;False;False;False;False;0
@@ -124,7 +124,7 @@ Avenida Alisas 13;Solares;;575;1;48;1.0;1.0;0.0;0;0;0;0;0;1.0;texto dice que dis
 Calle Honduras;Santander;Los Castros;1150;3;118;6.0;1.0;1.0;1;0;0;0;0;;2 hab + sala convertible a 3ª orientación sur;True;False;False;False;False;False;False;False;False;False;0
 Avenida Enrique Mowinkel (dúplex julio);Laredo;Zona Playa;3300;2;75;5.0;1.0;1.0;0;0;1;1;1;;solo julio mes segunda línea vistas mar lujo;True;False;False;False;False;False;False;False;False;False;1
 Barrio Entrambasaguas 86;Entrambasaguas;;790;2;104;0.0;1.0;1.0;1;0;0;0;0;1.0;bajo con terraza >30m2 amueblado salvo 2ª hab;True;False;False;False;False;False;False;False;False;False;0
-Paseo de Altamira (78m2);Santander;General Dávila;1000;2;78;4.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Paseo de Altamira (78m2);Santander;General Dávila;1000;2;78;4.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Calle Valdenoja (hasta 30/06/2026);Santander;Valdenoja;900;2;78;1.0;1.0;1.0;0;0;1;0;0;1.0;temporal hasta 30 junio 2026 rebaja 1000->900;True;False;False;False;False;False;False;False;False;False;0
 Fernández Rañada 3;Solares;;650;2;73;3.0;1.0;1.0;0;0;0;0;0;;incluye despacho no mascotas condiciones: fianza+mes+seguro;True;False;False;False;False;False;False;False;False;False;0
 Zona Playa (quincenas julio bajas);Laredo;Zona Playa;1600;1;65;3.0;;1.0;0;0;1;0;1;;precio no comparable: indica quincenas (deberías normalizar a €/día o €/quincena);True;False;False;False;False;False;False;False;False;False;1
@@ -145,7 +145,7 @@ Miguel Delibes 4 (Suances);Suances;;6500;3;80;1.0;1.0;1.0;1;0;1;1;0;;temporal lu
 La Calleja 32 (Soto);Santa Cruz de Bezana;Soto de la Marina;900;3;125;3.0;1.0;1.0;1;0;1;0;0;;temporal hasta junio 2026 ático con terraza;True;False;False;False;False;False;False;False;False;True;0
 Calle del Monte;Santander;Centro-Ayuntamiento;1070;1;50;2.0;1.0;0.0;0;0;0;0;0;;fijo sin muebles (salvo cocina);True;False;False;False;False;False;False;False;False;False;0
 Avenida de Valdecilla 1;Santander;Cuatro Caminos;1200;3;111;1.0;1.0;1.0;0;1;0;0;0;;solo sanitario/funcionarios garaje opcional 100€;True;False;False;False;False;False;False;False;False;False;0
-Francisco Tomás y Valiente;Santander;Peñacastillo-Nuevamontaña;1200;3;110;1.0;1.0;1.0;1;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Francisco Tomás y Valiente;Santander;Peñacastillo-Nuevamontaña;1200;3;110;1.0;1.0;1.0;1;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Bo Puente (Oruña);Piélagos;Oruña;750;3;121;1.0;1.0;0.0;1;0;0;0;0;;rebaja 800->750 sin ascensor;True;False;False;False;False;False;False;True;False;False;0
 Avenida Reina Victoria (Arrenda);Santander;Puerto Chico;900;2;75;3.0;1.0;1.0;0;0;0;0;0;1.0;amueblado reformado;True;False;False;False;False;False;False;False;False;False;0
 Calle de la Arnia (ACERO);Santa Cruz de Bezana;Soto de la Marina;900;1;60;0.5;1.0;0.0;0;0;0;0;0;1.0;amueblado baño reformado trastero;True;False;False;False;False;False;False;False;False;False;0
@@ -194,13 +194,13 @@ Los Castros (920€);Santander;Los Castros;920;3;108;2.0;1.0;1.0;1;0;0;0;0;;cerc
 Camilo Alonso Vega 6 (WEHOMES);Santander;Cuatro Caminos;850;2;75;7.0;1.0;1.0;0;0;1;0;0;;temporal oct a mayo/jun 2026;True;False;False;False;False;False;False;False;False;False;0
 Cóbreces 42;Alfoz de Lloredo;;800;2;70;0.0;1.0;0.0;1;0;1;0;0;;temporal sep/oct a mayo/jun 2026 terraza piscina pádel;True;False;False;False;False;False;False;False;False;False;0
 General Dávila 228 (WEHOMES);Santander;General Dávila;1100;1;65;3.0;1.0;0.0;0;0;1;0;1;;temporal vistas mar;True;False;False;False;False;False;False;False;False;False;0
-Tres de Noviembre (33 Elefantes);Santander;Numancia-San Fernando;900;2;65;1.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Tres de Noviembre (33 Elefantes);Santander;Numancia-San Fernando;900;2;65;1.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Marcelino Sanz de Sautuola 11;Santander;Centro-Ayuntamiento;1200;2;85;3.0;1.0;0.0;0;0;1;0;0;;temporal premium;True;False;False;False;False;False;False;False;False;False;0
 Cuatro Caminos (temporal);Santander;Cuatro Caminos;750;2;73;4.0;1.0;0.0;0;0;1;0;0;;temporal sanitario/profesores;True;False;False;False;False;False;False;True;False;False;0
 Manuel Ruiz de Quevedo 41;Santander;Peñacastillo-Nuevamontaña;900;2;87;3.0;1.0;1.0;1;0;0;0;0;;fijo desde 1 septiembre obra nueva varios pisos;True;False;False;False;False;False;False;False;False;False;0
 Joaquín Costa 18a (WEHOMES);Santander;El Sardinero;900;1;60;3.0;1.0;1.0;0;0;1;0;0;;temporal sep/oct a mayo/jun 2026;True;False;False;False;False;False;False;False;False;False;0
 Paseo de Altamira (viBe);Santander;General Dávila;1050;2;93;8.0;1.0;1.0;1;0;0;0;0;;garaje incluido;True;False;False;False;False;False;False;False;False;False;0
-Paseo Canalejas 11;Santander;Puerto Chico;1300;4;127;1.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Paseo Canalejas 11;Santander;Puerto Chico;1300;4;127;1.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Barrio Cerdigo;Castro-Urdiales;Oriñón-Allendagua;1495;3;293;;;;1;0;0;0;1;;vistas mar;False;False;False;False;True;False;False;False;False;False;0
 Cabuérniga (Campoo de Enmedio);Campoo de Enmedio;;1100;3;90;2.0;1.0;0.0;0;0;1;0;0;;texto dice edificio con ascensor pero cabecera sin ascensor -> ascensor=null recomendado;True;False;False;False;False;False;False;False;False;False;0
 Avenida Santander 9;Noja;Tregadín;700;2;60;0.0;1.0;1.0;1;0;1;0;0;;temporal oct-jun;True;False;False;False;False;False;False;False;False;False;0
@@ -209,69 +209,69 @@ Vargas 11 (WEHOMES);Santander;Numancia-San Fernando;950;2;75;1.0;1.0;0.0;0;0;1;0
 Paseo Menéndez Pelayo (Brazomar);Castro-Urdiales;Brazomar;1800;4;115;4.0;1.0;1.0;0;0;1;0;1;;temporal hasta junio rebaja 1900->1800;True;False;False;False;False;False;False;False;False;False;0
 Plaza Constitución (Muriedas);Camargo;Muriedas;1300;4;100;1.0;1.0;1.0;0;0;0;0;0;;solo empresas/traslados;True;False;False;False;False;False;False;False;False;False;0
 Avenida Infantes 22;Santander;General Dávila;1600;3;100;3.0;1.0;1.0;0;0;1;0;0;1.0;temporal sep 2026 a mayo/jun 2027;True;False;False;False;False;False;False;False;False;False;0
-CL Concha Espina;Los Corrales de Buelna;;650;1;53;1.0;1.0;1.0;1;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
+CL Concha Espina;Los Corrales de Buelna;;650;1;53;1.0;1.0;1.0;1;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Calle del Pocillo 11;Castro-Urdiales;Cotolino;1500;2;82;3.0;1.0;1.0;1;0;0;0;0;;obra nueva;True;False;False;False;False;False;False;False;False;False;0
 Barrio Santullán 21D;Castro-Urdiales;Mioño-Santullán;1100;3;150;;;;1;0;0;0;0;;larga estancia restricción ingresos >3000€;False;True;False;False;False;False;False;False;False;False;0
 Barrio Cóbreces;Alfoz de Lloredo;;12472;4;274;;;;1;0;1;1;1;;precio por noche vacacional (no mensual comparable);False;False;False;True;False;False;False;False;False;False;0
 Calle Ernest Lluch 9;Santander;La Pereda;950;2;120;2.0;1.0;1.0;1;0;1;0;0;;temporal;True;False;False;False;False;False;False;False;False;False;0
-Amos de Escalante;Santander;Centro-Ayuntamiento;960;2;78;7.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;True;False;False;0
+Amos de Escalante;Santander;Centro-Ayuntamiento;960;2;78;7.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;True;False;False;0
 República Costa Rica 16;Laredo;Zona Playa;1800;2;50;3.0;1.0;1.0;1;0;1;0;0;;precio quincena/semana verano no mensual;True;False;False;False;False;False;False;False;False;False;1
 Manuel Ruiz de Quevedo 41;Santander;Peñacastillo-Nuevamontaña;900;2;80;3.0;1.0;1.0;1;0;0;0;0;;larga estancia;True;False;False;False;False;False;False;False;False;False;0
 Calle Acebedos;Santander;Centro-Ayuntamiento;875;3;85;2.0;1.0;1.0;0;0;0;0;0;;restricción perfil inquilino;True;False;False;False;False;False;False;False;False;False;0
-Calle Vargas;Santander;Numancia-San Fernando;890;2;79;8.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Calle Vargas;Santander;Numancia-San Fernando;890;2;79;8.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Antonio López 62;Santander;Castilla-Hermida;1200;3;130;7.0;1.0;1.0;0;0;1;0;1;;temporal ene-jun 2026 vistas mar;True;False;False;False;False;False;False;False;False;False;0
 Calle Artiñano 1;Castro-Urdiales;Centro;800;1;45;3.0;1.0;0.0;0;0;1;0;0;1.0;temporal;True;False;False;False;False;False;False;False;False;False;0
 Francisco Giner Ríos 24;San Vicente de la Barquera;;1000;3;110;3.0;1.0;1.0;1;0;1;0;0;;temporal invierno;True;False;False;False;False;False;False;True;False;False;0
-Calle Enseñanza 6;Santander;Centro-Ayuntamiento;1000;3;130;3.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Calle Enseñanza 6;Santander;Centro-Ayuntamiento;1000;3;130;3.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Federico Vial 4;Santander;Castilla-Hermida;800;2;79;5.0;0.0;1.0;0;0;0;0;0;;interior;True;False;False;False;False;False;False;False;False;False;0
-Avenida Reina Victoria;Santander;Puerto Chico;1150;2;65;9.0;1.0;1.0;0;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;True;0
+Avenida Reina Victoria;Santander;Puerto Chico;1150;2;65;9.0;1.0;1.0;0;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;True;0
 Cuesta del Hospital 7;Santander;Centro-Ayuntamiento;3000;3;70;3.0;1.0;0.0;0;0;1;1;0;;precio verano semanas/quincenas;True;False;False;False;False;False;False;False;False;False;1
 Calle Quintana;Suances;;700;2;60;1.0;1.0;0.0;0;0;0;0;1;1.0;fijo vistas mar;True;False;False;False;False;False;False;False;False;False;0
 Avenida Stadium 19;Santander;El Sardinero;950;2;70;2.0;1.0;1.0;1;0;0;0;0;0.0;fijo sin muebles;True;False;False;False;False;False;False;False;False;False;0
-CL Floranes;Santander;Numancia-San Fernando;1000;3;97;2.0;1.0;1.0;1;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+CL Floranes;Santander;Numancia-San Fernando;1000;3;97;2.0;1.0;1.0;1;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Los Templarios 6;Castro-Urdiales;Playa Ostende;1100;3;100;1.0;1.0;1.0;1;0;1;0;0;;temporal 11 meses;True;False;False;False;False;False;False;False;False;False;0
 Avenida los Infantes;Santander;El Sardinero;1500;2;87;0.0;0.0;1.0;1;0;1;0;0;1.0;temporal bajo interior;True;False;False;False;False;False;False;False;False;False;0
 Paseo Marina Española 15;Suances;;1000;4;110;2.0;1.0;1.0;1;0;1;0;1;;precio verano por semana;True;False;False;False;False;False;False;True;False;False;1
 Francisco Giner Ríos 32;San Vicente de la Barquera;;1000;2;95;3.0;1.0;1.0;0;1;1;0;0;;garaje opcional 50€;True;False;False;False;False;False;False;True;False;False;0
 Calle Helgueras 14;Noja;;700;2;85;1.0;1.0;1.0;0;0;1;0;0;;temporal sep-jun;True;False;False;False;False;False;False;False;False;False;0
 República Colombia 18;Laredo;Zona Playa;600;2;55;10.0;1.0;1.0;1;0;1;0;0;;precio por quincena verano;True;False;False;False;False;False;False;False;False;False;1
-Francisco de Quevedo;Santander;Centro-Ayuntamiento;800;1;71;4.0;1.0;0.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Vargas 5;Santander;Numancia-San Fernando;680;1;40;6.0;1.0;0.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Avenida Menicenses;Miengo;;900;2;75;1.0;1.0;1.0;1;0;0;0;0;;;True;False;False;False;False;False;False;True;False;False;0
+Francisco de Quevedo;Santander;Centro-Ayuntamiento;800;1;71;4.0;1.0;0.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Vargas 5;Santander;Numancia-San Fernando;680;1;40;6.0;1.0;0.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Avenida Menicenses;Miengo;;900;2;75;1.0;1.0;1.0;1;0;0;0;0;;nan;True;False;False;False;False;False;False;True;False;False;0
 Río de la Pila 19;Santander;General Dávila;1250;4;134;1.0;1.0;1.0;0;0;1;0;0;;temporal;True;False;False;False;False;False;False;False;False;False;0
-Vista Alegre 35;Santander;General Dávila;900;2;70;;1.0;0.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Vista Alegre 35;Santander;General Dávila;900;2;70;;1.0;0.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Ocharan Mazas;Castro-Urdiales;Centro;1650;4;180;1.0;1.0;1.0;0;0;1;0;1;;primera línea mar temporal;True;False;False;False;False;False;False;False;False;False;0
 Avenida Castros;Santander;Los Castros;850;2;79;7.0;1.0;1.0;1;0;1;0;0;;temporal sep-jun;True;False;False;False;False;False;False;False;False;False;0
 Avenida Cantabria 8;Santander;La Pereda;1400;3;90;3.0;1.0;1.0;1;0;0;0;0;;precio alternativo temporada 1300;True;False;False;False;False;False;False;False;False;False;0
-Marcel Pirón;Torrelavega;Barreda;850;4;89;1.0;1.0;0.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Marcel Pirón;Torrelavega;Barreda;850;4;89;1.0;1.0;0.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Calle Luis Martínez;Santander;El Sardinero;7000;6;470;;;;1;0;0;1;0;;lujo;False;False;False;True;False;False;False;False;False;False;0
 Calle Hernán Cortés;Santander;Centro-Ayuntamiento;1400;3;112;4.0;1.0;1.0;0;0;0;0;0;1.0;fijo;True;False;False;False;False;False;False;True;False;False;0
-Barrio Cuartas 9;Renedo-Piélagos;;680;3;90;2.0;1.0;1.0;1;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Miguel Artigas;Santander;Centro-Ayuntamiento;1200;3;100;5.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-CL San Fernando 22;Santander;Numancia-San Fernando;1200;3;130;5.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Barrio Cuartas 9;Renedo-Piélagos;;680;3;90;2.0;1.0;1.0;1;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Miguel Artigas;Santander;Centro-Ayuntamiento;1200;3;100;5.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+CL San Fernando 22;Santander;Numancia-San Fernando;1200;3;130;5.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 CL Gerona;Santander;Puerto Chico;680;3;65;4.0;1.0;0.0;0;0;1;0;0;;temporal sep-jun estudiantes;True;False;False;False;False;False;False;False;False;False;0
 Calle San Fernando;Santander;Cuatro Caminos;850;1;68;4.0;1.0;1.0;0;0;1;0;0;;temporal sep-jun;True;False;False;False;False;False;False;False;False;False;0
 Calle Tantín;Santander;Centro-Ayuntamiento;760;2;50;5.0;1.0;0.0;0;0;0;0;0;;fijo posibilidad compra;True;False;False;False;False;False;False;False;False;True;0
-Barrio Cumbrales;Polanco;;800;2;82;;;;1;0;0;0;0;;;False;True;False;False;False;False;False;False;False;False;0
+Barrio Cumbrales;Polanco;;800;2;82;;;;1;0;0;0;0;;nan;False;True;False;False;False;False;False;False;False;False;0
 Calle la Brava 29;Noja;Ris;4100;5;320;;;;1;0;1;1;0;;temporal lujo verano;False;False;False;False;True;False;False;False;False;False;1
-Calle Lealtad;Santander;Centro-Ayuntamiento;1600;4;160;7.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Calle Lealtad;Santander;Centro-Ayuntamiento;1600;4;160;7.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Calle Juan de Herrera;Los Corrales de Buelna;;750;1;67;;;;0;0;1;0;0;;corta estancia;False;False;False;True;False;False;False;False;False;False;0
 Urbanización Parque Mar;Barcena de Cicero;;750;1;65;1.0;1.0;1.0;1;0;1;0;0;;corta estancia;True;False;False;False;False;False;False;False;False;False;0
 Calle Peñas Blancas;Somo;Ribamontan al Mar;750;2;85;1.0;1.0;0.0;1;0;1;0;0;;corta estancia;True;False;False;False;False;False;False;False;False;False;0
 Calle El Mazuco 8;Somo;Ribamontan al Mar;1000;1;50;0.0;1.0;0.0;0;0;1;0;0;;temporal jardín;True;False;False;False;False;False;False;False;False;False;0
-Calle General Espartero;Ramales de la Victoria;;700;3;70;3.0;1.0;0.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Calle General Espartero;Ramales de la Victoria;;700;3;70;3.0;1.0;0.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Barrio las Quintas 20;Viveda;;500;1;40;0.0;1.0;0.0;0;0;1;0;0;1.0;temporal hasta mayo 2026;True;False;False;False;False;False;False;True;False;False;0
 Ca-136;Santillana del Mar;;1300;4;140;;;;1;0;1;0;0;;temporal sep-jun;False;False;False;True;False;False;False;False;False;False;0
 Bo Iglesia;Liencres;Piélagos;900;2;80;0.0;1.0;0.0;0;0;1;0;0;;temporal no mascotas;True;False;False;False;False;False;False;False;False;False;0
 Barrio las Quintas 20 (2);Viveda;;550;2;50;0.0;1.0;0.0;0;0;1;0;0;1.0;temporal hasta mayo 2026;True;False;False;False;False;False;False;False;False;False;0
 Calle Emilio Pino;Santander;Centro-Ayuntamiento;1600;5;157;4.0;1.0;1.0;0;0;0;0;0;;sin amueblar;True;False;False;False;False;False;False;False;False;False;0
-Calle Emilio Pino (2);Santander;Centro-Ayuntamiento;1290;3;118;4.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Calle Emilio Pino (2);Santander;Centro-Ayuntamiento;1290;3;118;4.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Amos de Escalante;Santander;Centro-Ayuntamiento;950;2;80;7.0;1.0;1.0;0;0;0;0;0;1.0;fijo;True;False;False;False;False;False;False;True;False;False;0
 Profesor Jiménez Díaz;Santander;Cuatro Caminos;575;1;40;0.0;1.0;0.0;0;0;1;0;0;;temporal ene-jun;True;False;False;False;False;False;False;False;False;False;0
-Avenida Menéndez Pelayo;Muriedas;Camargo;980;3;107;5.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Avenida Menéndez Pelayo;Muriedas;Camargo;980;3;107;5.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Brazomar;Castro-Urdiales;Brazomar;2000;4;121;2.0;1.0;1.0;1;0;1;0;1;;temporal vistas mar;True;False;False;False;False;False;False;True;False;False;0
 Avenida Menicenses;Miengo;;1250;4;191;;;;0;0;1;0;0;;temporal oct-jun;False;True;False;False;False;False;False;False;False;False;0
-Barrio Sámano;Castro-Urdiales;Sámano;1700;3;188;;;;1;0;0;0;0;;;False;False;False;False;True;False;False;False;False;False;0
+Barrio Sámano;Castro-Urdiales;Sámano;1700;3;188;;;;1;0;0;0;0;;nan;False;False;False;False;True;False;False;False;False;False;0
 Voto;;Voto;600;2;87;2.0;;1.0;1;0;1;0;0;;temporal sep-jun;True;False;False;False;False;False;False;False;False;False;0
 Sobremazas;;;1500;2;65;;;;1;0;1;0;0;;vacacional precio orientativo;False;False;True;False;False;False;False;False;False;False;0
 Paseo Garelly;Comillas;;900;3;120;2.0;1.0;1.0;1;0;1;0;0;1.0;temporal nueva construcción;True;False;False;False;False;False;False;False;False;False;0
@@ -279,40 +279,40 @@ Paseo Antonio Garelly;Comillas;;800;2;85;0.0;1.0;1.0;1;0;1;0;0;;temporal;True;Fa
 Calle Montevideo;Santander;Cuatro Caminos;900;2;100;0.0;1.0;0.0;0;0;1;0;0;;temporal ene-jun;True;False;False;False;False;False;False;False;False;False;0
 Los Caserios 8;Castro-Urdiales;Centro;900;2;80;2.0;1.0;1.0;1;0;1;0;0;;temporal piscina;True;False;False;False;False;False;False;False;False;False;0
 Urbanización Monte Corona;Comillas;;750;2;50;;;;1;0;1;0;1;;temporal oyambre;False;False;False;False;True;False;False;False;False;False;0
-Calle Valle de Campoo;Torrelavega;Ciudad Nueva;620;2;60;2.0;1.0;0.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Barrio Mar;Polanco;;1750;4;170;;;;1;0;0;0;0;;;False;True;False;False;False;False;False;False;False;False;0
-Avenida Herrera Oria;Santander;Alisal-Cazoña;950;3;90;9.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Calle Cervantes;Santander;Centro-Ayuntamiento;950;3;85;1.0;1.0;0.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Calle José Simón Cabarga;Santander;El Sardinero;1100;2;80;5.0;1.0;1.0;0;1;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Calle Valle de Campoo;Torrelavega;Ciudad Nueva;620;2;60;2.0;1.0;0.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Barrio Mar;Polanco;;1750;4;170;;;;1;0;0;0;0;;nan;False;True;False;False;False;False;False;False;False;False;0
+Avenida Herrera Oria;Santander;Alisal-Cazoña;950;3;90;9.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Calle Cervantes;Santander;Centro-Ayuntamiento;950;3;85;1.0;1.0;0.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Calle José Simón Cabarga;Santander;El Sardinero;1100;2;80;5.0;1.0;1.0;0;1;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Barrio Redo;Camaleño;;690;3;118;;;;0;0;1;0;0;;temporal;False;False;False;False;True;False;False;False;False;False;0
 Calle Claudio López;Comillas;;1200;2;74;2.0;1.0;0.0;1;0;1;0;0;;temporal;True;False;False;False;False;False;False;False;False;False;0
-Calle Floranes;Santander;Numancia-San Fernando;850;2;67;4.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Paseo Menéndez Pelayo;Santander;Puerto Chico;850;1;50;2.0;1.0;1.0;1;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Calle Floranes;Santander;Numancia-San Fernando;850;2;67;4.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Paseo Menéndez Pelayo;Santander;Puerto Chico;850;1;50;2.0;1.0;1.0;1;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Calle Silvestre Ochoa;Castro-Urdiales;Playa Ostende;890;2;79;2.0;1.0;1.0;1;0;1;0;0;;temporal;True;False;False;False;False;False;False;False;False;False;0
 Calle Camilo Alonso Vega;Santander;General Dávila;800;2;74;3.0;1.0;1.0;0;0;1;0;0;;temporal;True;False;False;False;False;False;False;False;False;False;0
-Calle Bonifaz;Santander;Puerto Chico;800;1;55;5.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Calle Bonifaz;Santander;Puerto Chico;800;1;55;5.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Calle la Universidad;Santander;Los Castros;850;2;66;5.0;1.0;0.0;0;0;1;0;0;;temporal;True;False;False;False;False;False;False;False;False;False;0
-Calle Juan de la Cosa;Santander;Puerto Chico;970;2;80;5.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Calle Juan de la Cosa;Santander;Puerto Chico;970;2;80;5.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Av Francisco Giner de los Ríos;San Vicente de la Barquera;;1400;3;100;3.0;1.0;1.0;1;0;1;0;0;;temporal;True;False;False;False;False;False;False;True;False;False;0
-Calle Antonio López;Santander;Castilla-Hermida;850;1;70;1.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Numancia-San Fernando;Santander;Numancia-San Fernando;875;2;72;1.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
+Calle Antonio López;Santander;Castilla-Hermida;850;1;70;1.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Numancia-San Fernando;Santander;Numancia-San Fernando;875;2;72;1.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
 Cudón;Miengo;;700;2;79;1.0;1.0;0.0;1;0;1;0;0;;temporal;True;False;False;False;False;False;False;False;False;False;0
 Cotolino;Castro-Urdiales;Cotolino;800;2;70;0.0;1.0;1.0;0;0;1;0;0;;temporal;True;False;False;False;False;False;False;False;False;False;0
-Castilla-Hermida;Santander;Castilla-Hermida;1000;3;100;4.0;1.0;1.0;0;1;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Numancia-San Fernando;Santander;Numancia-San Fernando;900;3;95;3.0;1.0;0.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Numancia-San Fernando;Santander;Numancia-San Fernando;2000;3;164;9.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Maliaño;Camargo;Maliaño;1600;4;232;3.0;1.0;1.0;0;0;0;0;1;;;True;False;False;False;False;False;False;True;False;False;0
-Numancia-San Fernando;Santander;Numancia-San Fernando;1100;2;88;3.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Calle Somorrostro;Santander;Centro-Ayuntamiento;750;1;60;3.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Calle San Fernando;Santander;Numancia-San Fernando;850;2;100;5.0;1.0;1.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-General Dávila;Santander;General Dávila;875;2;70;2.0;1.0;0.0;0;0;0;0;0;;;True;False;False;False;False;False;False;False;False;False;0
-Barrio Alto de Torres;Torrelavega;;900;2;160;1.0;1.0;0.0;1;0;0;0;0;;;True;False;False;False;False;False;False;False;False;True;0
+Castilla-Hermida;Santander;Castilla-Hermida;1000;3;100;4.0;1.0;1.0;0;1;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Numancia-San Fernando;Santander;Numancia-San Fernando;900;3;95;3.0;1.0;0.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Numancia-San Fernando;Santander;Numancia-San Fernando;2000;3;164;9.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Maliaño;Camargo;Maliaño;1600;4;232;3.0;1.0;1.0;0;0;0;0;1;;nan;True;False;False;False;False;False;False;True;False;False;0
+Numancia-San Fernando;Santander;Numancia-San Fernando;1100;2;88;3.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Calle Somorrostro;Santander;Centro-Ayuntamiento;750;1;60;3.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Calle San Fernando;Santander;Numancia-San Fernando;850;2;100;5.0;1.0;1.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+General Dávila;Santander;General Dávila;875;2;70;2.0;1.0;0.0;0;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;False;0
+Barrio Alto de Torres;Torrelavega;;900;2;160;1.0;1.0;0.0;1;0;0;0;0;;nan;True;False;False;False;False;False;False;False;False;True;0
 Calle Los Caseríos;Castro-Urdiales;Centro;950;2;65;2.0;1.0;1.0;1;0;1;0;0;;temporal;True;False;False;False;False;False;False;False;False;False;0
 Avenida Francisco Giner de los Ríos 26;San Vicente de la Barquera;;800;1;53;1.0;1.0;1.0;0;0;1;0;0;1.0;temporal;True;False;False;False;False;False;False;False;False;False;0
 Avenida de los Castros 30;Santander;El Sardinero;1300;4;100;3.0;1.0;0.0;1;0;1;0;1;1.0;estudiantes medicina;True;False;False;False;False;False;False;False;False;False;0
 Plaza de Viares 5;Suances;;1000;2;60;2.0;1.0;1.0;1;0;1;0;1;1.0;temporal;True;False;False;False;False;False;False;False;False;False;0
 Calle Andrés del Río 1;Santander;Puerto Chico;1400;3;100;1.0;1.0;1.0;0;1;1;0;0;1.0;curso escolar;True;False;False;False;False;False;False;False;False;False;0
-Val de San Vicente (Unquera);Val de San Vicente;;650;3;80;3.0;1.0;0.0;0;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
+Val de San Vicente (Unquera);Val de San Vicente;;650;3;80;3.0;1.0;0.0;0;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Calle Zancajo Osorio 2;Santander;Castilla-Hermida;750;2;70;6.0;1.0;1.0;0;0;1;0;0;1.0;temporal estudiantes;True;False;False;False;False;False;False;False;False;False;0
 Barrio Los Prados 39;Liérganes;;3000;4;150;;;;1;0;1;1;0;1.0;lujo;False;False;False;False;False;True;False;False;False;False;0
 Calle Ardigales 25;Castro-Urdiales;Centro;790;2;60;2.0;1.0;0.0;0;0;1;0;0;1.0;temporal;True;False;False;False;False;False;False;False;False;False;0
@@ -320,21 +320,21 @@ Calle Bonifaz 19;Santander;Puerto Chico;1200;2;80;3.0;1.0;0.0;0;0;1;0;0;1.0;temp
 Calle El Puntal 9;Somo;;1700;2;65;3.0;1.0;0.0;1;0;1;0;1;1.0;temporal;True;False;False;False;False;False;False;False;False;True;0
 Avenida de la Libertad 81;Laredo;El Puntal;650;1;55;2.0;0.0;0.0;0;0;1;0;0;1.0;vacacional;True;False;False;False;False;False;False;False;False;False;0
 Calle Guevara;Santander;Centro-Ayuntamiento;700;1;40;5.0;1.0;0.0;0;0;1;0;0;1.0;temporal;True;False;False;False;False;False;False;False;False;False;0
-Calle Somorrostro;Santander;Centro-Ayuntamiento;900;1;65;3.0;1.0;1.0;0;0;0;0;0;0.0;;True;False;False;False;False;False;False;False;False;False;0
+Calle Somorrostro;Santander;Centro-Ayuntamiento;900;1;65;3.0;1.0;1.0;0;0;0;0;0;0.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Calle Alta 53;Santander;Numancia-San Fernando;900;2;50;5.0;1.0;1.0;0;0;1;0;0;1.0;temporal;True;False;False;False;False;False;False;False;False;False;0
 Paseo de Altamira;Santander;General Dávila;650;2;60;2.0;1.0;0.0;0;0;1;0;0;1.0;temporal;True;False;False;False;False;False;False;False;False;False;0
-Calle Matilde de la Torre 9;El Astillero;;1000;2;80;1.0;1.0;1.0;1;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
+Calle Matilde de la Torre 9;El Astillero;;1000;2;80;1.0;1.0;1.0;1;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Calle Bonifaz 16;Santander;Puerto Chico;800;1;55;5.0;1.0;1.0;0;0;0;0;0;1.0;larga estancia;True;False;False;False;False;False;False;False;False;False;0
-Calle Gravina;Santander;Centro-Ayuntamiento;975;2;91;2.0;1.0;0.0;0;0;0;0;0;0.0;;True;False;False;False;False;False;False;False;False;False;0
+Calle Gravina;Santander;Centro-Ayuntamiento;975;2;91;2.0;1.0;0.0;0;0;0;0;0;0.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Calle Respuela;Santa Cruz de Bezana;Bezana;600;2;65;3.0;1.0;1.0;1;0;1;0;0;1.0;temporal;True;False;False;False;False;False;False;False;False;False;0
-Calle San Martín del Pino;Santander;Peñacastillo;1200;2;65;4.0;1.0;1.0;0;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
+Calle San Martín del Pino;Santander;Peñacastillo;1200;2;65;4.0;1.0;1.0;0;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Calle Rualasal 17;Santander;Centro-Ayuntamiento;1200;3;100;6.0;1.0;1.0;0;0;0;0;0;1.0;larga estancia;True;False;False;False;False;False;False;False;False;False;0
-Avenida de Cantabria 16;Santander;La Pereda;915;2;72;3.0;1.0;1.0;1;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
-Calle Benidorm 2;Santander;Los Castros;950;3;67;3.0;1.0;1.0;0;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
+Avenida de Cantabria 16;Santander;La Pereda;915;2;72;3.0;1.0;1.0;1;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
+Calle Benidorm 2;Santander;Los Castros;950;3;67;3.0;1.0;1.0;0;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Calle Ría Cubas 1;Somo;;1000;1;52;3.0;1.0;1.0;0;0;0;0;0;1.0;larga estancia;True;False;False;False;False;False;False;False;False;False;0
-Calle Vargas 65;Santander;Cuatro Caminos;950;3;90;2.0;1.0;1.0;0;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
-Avenida Pérez Galdós 17;Santander;El Sardinero;1975;3;125;3.0;1.0;1.0;1;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
-Calle Castilla 19;Santander;Castilla-Hermida;850;2;65;2.0;1.0;1.0;0;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
+Calle Vargas 65;Santander;Cuatro Caminos;950;3;90;2.0;1.0;1.0;0;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
+Avenida Pérez Galdós 17;Santander;El Sardinero;1975;3;125;3.0;1.0;1.0;1;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
+Calle Castilla 19;Santander;Castilla-Hermida;850;2;65;2.0;1.0;1.0;0;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Calle Rualasal 11;Santander;Centro-Ayuntamiento;1450;3;115;2.0;1.0;1.0;0;0;0;0;0;1.0;larga estancia;True;False;False;False;False;False;False;False;False;False;0
 Calle Magallanes 36;Santander;Numancia-San Fernando;870;2;85;2.0;1.0;1.0;0;0;0;0;0;1.0;larga estancia;True;False;False;False;False;False;False;False;False;False;0
 Avenida de los Castros 141;Santander;Los Castros;1100;3;90;1.0;1.0;1.0;0;1;0;0;0;1.0;larga duración;True;False;False;False;False;False;False;False;False;False;0
@@ -393,7 +393,7 @@ Piso en Calle Comillas 68;Suances;Suances;600;1;45;1.0;1.0;0.0;0;0;1;0;0;1.0;oct
 Piso en Barrio la Arena Miengo;Miengo;Miengo;650;2;65;0.0;1.0;0.0;1;0;0;0;0;0.0;disponible fijo marzo;True;False;False;False;False;False;False;False;False;False;0
 Casa en Calle la Aldea 32;Suances;Suances;1200;1;40;;1.0;;0;0;1;0;0;0.0;verano;False;False;False;True;False;False;False;False;False;False;1
 Piso en Calle Playa Usil 334;Miengo;Mogro;700;1;50;1.0;1.0;0.0;1;0;1;0;1;0.0;temporal vistas mar;True;False;False;False;False;False;False;False;False;False;0
-Piso en Calle Playa Usil 14;Miengo;Mogro;650;1;62;0.0;1.0;0.0;0;0;0;0;0;0.0;;True;False;False;False;False;False;False;False;False;False;0
+Piso en Calle Playa Usil 14;Miengo;Mogro;650;1;62;0.0;1.0;0.0;0;0;0;0;0;0.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Piso en Calle Acacio Gutiérrez 130;Suances;Suances;2100;3;110;0.0;1.0;0.0;0;0;1;0;1;0.0;primera línea mar;True;False;False;False;False;False;False;False;False;False;0
 Piso en Barrio Rodil Mortera;Piélagos;Mortera;900;2;85;1.0;1.0;1.0;1;0;0;0;0;0.0;urbanización con piscina;True;False;False;False;False;False;False;False;False;False;0
 Piso en Plaza Viares 5;Suances;Suances;1000;2;60;2.0;1.0;1.0;1;0;1;0;1;0.0;vistas mar 200m playa;True;False;False;False;False;False;False;False;False;False;0
@@ -401,17 +401,17 @@ Piso en Miguel Delibes 4;Suances;Suances;650;2;70;1.0;1.0;1.0;0;0;1;0;0;0.0;temp
 Piso en Las Pedregueras 474;Miengo;Mogro;2500;2;61;1.0;1.0;0.0;1;0;1;0;0;0.0;casa rural piscina;True;False;False;False;False;False;False;False;False;False;0
 Chalet en Suances;Suances;Suances;1200;3;200;;1.0;;1;0;0;0;0;0.0;vistas ría san martin;False;False;False;True;False;False;False;False;False;False;0
 Casa rural en Calle Mies Dehesa 51;Miengo;Miengo;2000;11;540;;1.0;;1;0;1;0;0;0.0;hotel rural;False;False;False;False;False;True;False;False;False;False;0
-Piso en Miengo Marzán;Miengo;Miengo;675;2;70;1.0;1.0;0.0;0;0;0;0;0;0.0;;True;False;False;False;False;False;False;False;False;False;0
+Piso en Miengo Marzán;Miengo;Miengo;675;2;70;1.0;1.0;0.0;0;0;0;0;0;0.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Piso en CA-326 Cuchía;Miengo;Cuchia;700;3;103;2.0;1.0;0.0;1;0;0;0;0;0.0;garaje cerrado;True;False;False;False;False;False;False;False;False;False;0
 Piso en Suances zona playa;Suances;Suances;650;2;65;1.0;1.0;1.0;1;0;1;0;0;0.0;temporal septiembre-junio;True;False;False;False;False;False;False;False;False;False;0
 Piso en Paseo Marina Española 8;Suances;Suances;1200;2;75;2.0;1.0;1.0;1;0;1;0;0;0.0;frente playa teletrabajo;True;False;False;False;False;False;False;False;False;False;0
-Piso en Calle Sogandara 4;Suances;Suances;690;2;64;2.0;1.0;1.0;1;0;0;0;0;0.0;;True;False;False;False;False;False;False;False;False;False;0
+Piso en Calle Sogandara 4;Suances;Suances;690;2;64;2.0;1.0;1.0;1;0;0;0;0;0.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Piso en Playa 2;Suances;Suances;600;2;45;2.0;1.0;1.0;0;0;1;0;0;1.0;cerca playa concha;True;False;False;False;False;False;False;False;False;False;0
 Piso en Calle Playa Usil 532;Miengo;Mogro;750;2;70;1.0;1.0;0.0;1;0;1;0;1;0.0;vistas mar;True;False;False;False;False;False;False;False;False;False;0
 Piso en Calle Quintana 104;Suances;Suances;650;2;75;2.0;1.0;1.0;1;0;1;0;0;0.0;piscina urbanización;True;False;False;False;False;False;False;False;False;False;0
 Piso en Abra del Pas 1129;Miengo;Mogro;700;2;63;2.0;1.0;0.0;1;0;1;0;0;0.0;septiembre-junio;True;False;False;False;False;False;False;False;False;False;0
-Chalet en Calle Redondo 6;Suances;Suances;700;2;65;;1.0;;0;0;1;0;0;0.0;;False;False;False;False;True;False;False;False;False;False;0
-Chalet en Calle Redondo 6;Suances;Suances;580;1;60;;1.0;;0;0;1;0;0;0.0;;False;False;False;False;True;False;False;False;False;False;0
+Chalet en Calle Redondo 6;Suances;Suances;700;2;65;;1.0;;0;0;1;0;0;0.0;nan;False;False;False;False;True;False;False;False;False;False;0
+Chalet en Calle Redondo 6;Suances;Suances;580;1;60;;1.0;;0;0;1;0;0;0.0;nan;False;False;False;False;True;False;False;False;False;False;0
 Piso en Calle Comillas 56;Suances;Suances;2000;2;76;3.0;1.0;0.0;1;0;1;0;0;0.0;50m playa;True;False;False;False;False;False;False;False;False;False;0
 Piso en Calle Quintana 26;Suances;Suances;550;1;40;1.0;1.0;1.0;1;0;1;0;0;1.0;solo profesores;True;False;False;False;False;False;False;False;False;False;0
 Piso en AC 136;Suances;Suances;900;2;70;1.0;1.0;0.0;0;0;1;0;1;0.0;vistas mar;True;False;False;False;False;False;False;False;False;False;0
@@ -424,7 +424,7 @@ Piso en Calle Villa de Foz 1;Laredo;Centro;3500;4;160;6.0;1.0;1.0;0;0;1;1;1;0.0;
 Chalet en Avenida Derechos Humanos 42;Laredo;El Puntal;3500;3;225;;1.0;;1;0;1;1;0;0.0;vacacional garaje;False;True;False;False;False;False;False;False;False;False;0
 Estudio en Avenida Libertad El Puntal;Laredo;El Puntal;1360;0;40;1.0;1.0;1.0;0;0;1;0;0;1.0;100m playa;True;False;False;False;False;False;False;False;True;False;0
 Chalet en Bareyo;Bareyo;Bareyo;1200;5;210;;1.0;;1;0;0;0;0;0.0;alquiler fijo;False;False;False;True;False;False;False;False;False;False;0
-Piso en Santoña;Santoña;Santoña;750;3;100;3.0;1.0;0.0;1;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
+Piso en Santoña;Santoña;Santoña;750;3;100;3.0;1.0;0.0;1;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Piso en Pedro Camino Mijarazo 22;Ajo;Ajo;700;2;80;2.0;1.0;1.0;1;0;0;0;0;1.0;alquiler anual;True;False;False;False;False;False;False;False;False;False;0
 Piso en Padre Ignacio Ellacuria;Laredo;Carlos V;4500;4;130;1.0;1.0;1.0;1;0;1;1;0;0.0;julio-agosto;True;False;False;False;False;False;False;False;False;False;1
 Piso en Virgen del Carmen;Santoña;Santoña;900;3;95;3.0;1.0;1.0;1;0;1;0;0;1.0;septiembre-junio;True;False;False;False;False;False;False;False;False;False;0
@@ -465,7 +465,7 @@ Piso en Calle San Lorenzo 12;Laredo;Centro;1500;3;85;;1.0;0.0;0;0;1;0;0;0.0;cent
 Piso en Helgueras 14;Noja;Helgueras;700;2;85;1.0;1.0;1.0;0;0;1;0;0;1.0;temporal;True;False;False;False;False;False;False;False;False;False;0
 Piso en Paseo Trengandin;Noja;Tregadin;550;2;62;1.0;1.0;0.0;1;0;1;0;1;1.0;vistas mar;True;False;False;False;False;False;False;False;False;False;0
 Piso en Avenida España;Laredo;Centro;1000;2;75;2.0;1.0;0.0;1;0;1;0;0;1.0;cerca playa;True;False;False;False;False;False;False;False;False;False;0
-Chalet en Pintor Angel Alonso;Laredo;El Puntal;1450;4;200;;1.0;;1;0;0;0;0;0.0;;False;True;False;False;False;False;False;False;False;False;0
+Chalet en Pintor Angel Alonso;Laredo;El Puntal;1450;4;200;;1.0;;1;0;0;0;0;0.0;nan;False;True;False;False;False;False;False;False;False;False;0
 Piso en Paseo Maritimo Mogro;Miengo;Mogro;1000;2;80;1.0;1.0;0.0;1;0;1;0;0;1.0;vacacional;True;False;False;False;False;False;False;False;False;False;0
 Piso en Calle la Paz 6;Santoña;Santoña;650;3;95;2.0;1.0;0.0;0;0;1;0;0;0.0;marzo-junio;True;False;False;False;False;False;False;False;False;False;1
 Piso en Calle Jose Felipe Quijano 6;Torrelavega;Centro;580;1;45;3.0;1.0;0.0;0;0;0;0;0;1.0;centro peatonal;True;False;False;False;False;False;False;False;False;False;0
@@ -477,17 +477,17 @@ Piso en Barrio las Lastras 24;Viveda;Viveda;625;2;60;1.0;1.0;0.0;0;0;1;0;0;1.0;t
 Piso en Julio Ruiz Salazar 51;Torrelavega;Covadonga;900;3;75;2.0;1.0;0.0;0;0;0;0;0;1.0;solo empresas;True;False;False;False;False;False;False;False;False;False;0
 Piso en Calle Pintor Modinos;Torrelavega;Centro;1000;3;89;1.0;1.0;1.0;0;0;1;0;0;1.0;temporal empresas;True;False;False;False;False;False;False;False;False;False;0
 Casa en Barrio Cobreces;Alfoz de Lloredo;Cobreces;12472;4;274;;1.0;;1;0;1;1;1;0.0;vacacional lujo vistas;False;False;False;True;False;False;False;False;False;False;0
-Piso en Calle Marcel Piron;Torrelavega;Barreda;850;4;89;1.0;1.0;0.0;0;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
+Piso en Calle Marcel Piron;Torrelavega;Barreda;850;4;89;1.0;1.0;0.0;0;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Piso en Plaza San Bartolome 9;Torrelavega;Barreda;1100;5;164;1.0;1.0;0.0;0;0;0;0;0;1.0;solo empresas;True;False;False;False;False;False;False;False;False;False;0
-Piso en Joaquin Fernandez Vallejo 14;Torrelavega;Ciudad Nueva;1000;3;98;2.0;1.0;1.0;0;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
+Piso en Joaquin Fernandez Vallejo 14;Torrelavega;Ciudad Nueva;1000;3;98;2.0;1.0;1.0;0;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Chalet en Barrio Cumbrales;Polanco;Polanco;800;2;82;;1.0;;1;0;0;0;0;0.0;piscina;False;True;False;False;False;False;False;False;False;False;0
 Piso en Barrio las Quintas 20;Viveda;Viveda;550;2;50;0.0;1.0;0.0;0;0;0;0;0;1.0;temporal;True;False;False;False;False;False;False;False;False;False;0
 Duplex en Barrio las Quintas 20;Viveda;Viveda;500;1;40;0.0;1.0;0.0;0;0;0;0;0;1.0;temporal;True;False;False;False;False;False;False;True;False;False;0
 Piso en Sierrapando;Torrelavega;Sierrapando;630;1;62;1.0;1.0;1.0;0;0;0;0;0;1.0;alquiler fijo;True;False;False;False;False;False;False;False;False;False;0
 Chalet en Urbanizacion Playa Cobreces;Alfoz de Lloredo;Cobreces;2500;4;130;;1.0;;0;0;1;0;1;0.0;vistas mar;False;False;False;False;True;False;False;False;False;False;0
 Estudio en Barrio Viallan 254;Alfoz de Lloredo;Oreña;600;0;60;1.0;1.0;0.0;0;0;1;0;0;1.0;turistico;True;False;False;False;False;False;False;False;True;False;0
-Piso en Calle Valle Campoo;Torrelavega;Ciudad Nueva;620;2;60;2.0;1.0;0.0;0;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
-Chalet en Barrio Mar 13;Polanco;Polanco;1750;4;170;;1.0;;1;0;0;0;0;0.0;;False;True;False;False;False;False;False;False;False;False;0
+Piso en Calle Valle Campoo;Torrelavega;Ciudad Nueva;620;2;60;2.0;1.0;0.0;0;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
+Chalet en Barrio Mar 13;Polanco;Polanco;1750;4;170;;1.0;;1;0;0;0;0;0.0;nan;False;True;False;False;False;False;False;False;False;False;0
 Casa en Polanco;Polanco;Polanco;990;3;217;;1.0;;0;0;1;0;0;0.0;temporal;False;False;False;True;False;False;False;False;False;False;0
 Atico en Barrio Alto Torres 29;Torrelavega;Torres;900;2;160;1.0;1.0;0.0;1;0;0;0;0;1.0;gran terraza;True;False;False;False;False;False;False;False;False;True;0
 Casa en Alfoz Lloredo;Alfoz de Lloredo;Alfoz;7301;3;184;;1.0;;1;0;1;1;0;0.0;vacacional lujo;False;False;False;True;False;False;False;False;False;False;0
@@ -500,16 +500,16 @@ Piso en Antigua Ferretera 1;Torrelavega;Barreda;800;3;96;0.0;1.0;1.0;0;0;1;0;0;1
 Piso en Viveda;Viveda;Viveda;590;2;45;0.0;1.0;0.0;1;0;1;0;0;1.0;temporal;True;False;False;False;False;False;False;False;False;False;0
 Piso en El Parque Zapaton;Torrelavega;Zapaton;990;3;120;1.0;1.0;1.0;0;0;0;0;0;1.0;duplex;True;False;False;False;False;False;False;False;False;False;0
 Piso en Cartes;Cartes;Cartes;620;2;80;0.0;1.0;1.0;0;0;1;0;0;1.0;temporal;True;False;False;False;False;False;False;False;False;False;0
-Piso en Joaquin Cayon 14;Torrelavega;Zapaton;850;3;90;3.0;1.0;1.0;0;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
-Piso en Parque 1;Torrelavega;Centro;825;1;65;2.0;1.0;1.0;0;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
+Piso en Joaquin Cayon 14;Torrelavega;Zapaton;850;3;90;3.0;1.0;1.0;0;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
+Piso en Parque 1;Torrelavega;Centro;825;1;65;2.0;1.0;1.0;0;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Piso en Jose Maria Pereda 27;Torrelavega;Zapaton;750;1;45;3.0;1.0;1.0;0;0;1;0;0;1.0;septiembre-junio;True;False;False;False;False;False;False;False;False;False;0
 Casa en Barrio Canales 49;Udias;Udias;580;1;55;;1.0;;1;0;1;0;1;0.0;vistas mar;False;False;True;False;False;False;False;False;False;False;0
 Casa rural en Autovia 634;Reocin;Caranceja;750;2;100;;1.0;;1;0;1;0;0;0.0;rural;False;False;False;False;False;True;False;False;False;False;0
-Piso en Villapresente;Villapresente;Villapresente;690;3;97;0.0;1.0;0.0;0;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
+Piso en Villapresente;Villapresente;Villapresente;690;3;97;0.0;1.0;0.0;0;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Casa en Barrio Valles;Reocin;Reocin;850;4;144;;1.0;;0;0;1;0;0;0.0;temporal;False;False;True;False;False;False;False;False;False;False;0
 Piso en Barrio Cobreces 6;Alfoz de Lloredo;Cobreces;700;3;70;2.0;1.0;0.0;0;0;1;0;0;1.0;temporal;True;False;False;False;False;False;False;False;False;False;0
-Piso en Julian Ceballos 1;Torrelavega;Centro;750;3;90;3.0;1.0;1.0;0;0;0;0;0;1.0;;True;False;False;False;False;False;False;False;False;False;0
+Piso en Julian Ceballos 1;Torrelavega;Centro;750;3;90;3.0;1.0;1.0;0;0;0;0;0;1.0;nan;True;False;False;False;False;False;False;False;False;False;0
 Casa rural en Quijas;Reocin;Quijas;750;1;45;;1.0;;0;0;1;0;0;0.0;duplex;False;False;False;False;False;True;False;False;False;False;0
-Chalet en Urb Pico Torre;Cabezon de la Sal;Cabezon;1300;4;244;;1.0;;1;0;0;0;0;0.0;;False;True;False;False;False;False;False;False;False;False;0
+Chalet en Urb Pico Torre;Cabezon de la Sal;Cabezon;1300;4;244;;1.0;;1;0;0;0;0;0.0;nan;False;True;False;False;False;False;False;False;False;False;0
 Casa en Udias;Udias;Udias;800;2;85;;1.0;;0;0;1;0;0;0.0;temporal;False;False;False;True;False;False;False;False;False;False;0
 Chalet en Barrio Sierrapando;Torrelavega;Tanos;850;2;60;;1.0;;0;0;1;0;0;0.0;temporal;False;True;False;False;False;False;False;False;False;False;0
