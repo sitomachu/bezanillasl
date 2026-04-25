@@ -1,6 +1,6 @@
 {
   "notebook": "53_boost_sale_optuna",
-  "generated_at": "2026-04-25T22:56:07",
+  "generated_at": "2026-04-25T23:07:27",
   "target_col": "log_precio",
   "random_state": 42,
   "test_size": 0.2,
