@@ -1,9 +1,0 @@
-variable,coef,std_error,t_value,p_value
-const,1140.693182,23.346761,48.858734,0.0
-superficie_construida_m2,198.984918,40.700469,4.889008,2e-06
-numero_dormitorios,44.490222,35.19323,1.26417,0.207022
-numero_banos,6.23168,33.420317,0.186464,0.852191
-dummy_tipologia_unifamiliar,-43.36553,26.123245,-1.660036,0.097816
-tiene_garaje_bin,1.159547,24.172574,0.04797,0.961768
-obra_nueva_bin,0.0,0.0,,
-precio_m2_municipio,255.815027,23.686246,10.800151,0.0

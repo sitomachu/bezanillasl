@@ -631,35 +631,90 @@ Sin gráficas — notebooks de predicción con output exclusivamente textual.
 
 Se usa `model.feature_importances_` (gain-based, defecto en XGBoost). No se usa SHAP ni ninguna otra librería de interpretabilidad.
 
-#### Feature importance — Modelo RENT (tras corrección del espacio Optuna)
+#### Feature importance — Modelo RENT (top 20)
 
-Cambio notable respecto a versiones anteriores: `numero_dormitorios` y `numero_banos` lideran las importancias (antes lo hacía `superficie_construida_m2`). Esto refleja que el mercado de alquiler en Cantabria valora más el número de habitaciones que el tamaño bruto del inmueble.
-
-| Feature | Importancia | Notas |
-|---------|------------|-------|
-| `numero_dormitorios` | 0.143 | Feature más importante en rent actual |
-| `numero_banos` | 0.117 | |
-| `superficie_construida_m2` | 0.113 | |
-| `municipio_Santander` | 0.078 | Municipio más relevante |
-| `tiene_ascensor_piso` | 0.055 | XGBoost aprende correctamente con NaN para unifamiliares |
-| `municipio_otro` | 0.054 | Agrupa municipios con < 10 obs |
-| *(resto de features)* | *ver notebook* | |
-| `obra_nueva` | ~0.000 | Importancia cero — insuficiente señal en datos de rent |
-
-> `obra_nueva` tiene importancia ≈ 0 en el modelo actual de rent, lo que indica que no hay suficiente señal en el conjunto de datos de alquiler para que este feature contribuya. Esto podría reflejar escasez de obra nueva en el mercado de alquiler de Cantabria, o que el precio no difiere significativamente entre obra nueva y segunda mano en alquiler.
-
-> Las importancias de los municipios individuales aumentaron respecto a la versión anterior gracias a la corrección del espacio de búsqueda de Optuna (ver sección 13.7). Con `gamma` y `min_child_weight` más bajos, XGBoost puede ahora utilizar los dummies de municipio efectivamente.
-
-#### Feature importance — Modelo SALE (top features)
+`numero_dormitorios` y `numero_banos` lideran las importancias, reflejando que en el mercado de alquiler de Cantabria el número de habitaciones pesa más que el tamaño bruto del inmueble. `obra_nueva` no aparece en el top 20 (importancia ≈ 0), lo que indica que en el mercado de alquiler de Cantabria el precio no difiere significativamente entre obra nueva y segunda mano.
 
 | Feature | Importancia | Notas |
 |---------|------------|-------|
-| `tipologia_unificada_unifamiliar` | 0.154 | Feature más importante en sale actual |
-| `tiene_ascensor_piso` | 0.112 | Alto impacto en precio de venta |
-| `superficie_construida_m2` | 0.098 | |
-| *(resto de features)* | *ver notebook* | |
+| `numero_dormitorios` | 0.132775 | Feature más importante en rent |
+| `numero_banos` | 0.111843 | |
+| `superficie_construida_m2` | 0.105338 | |
+| `tiene_ascensor_piso` | 0.082055 | NaN para unifamiliar — ver explicación abajo |
+| `municipio_Santander` | 0.068127 | Municipio más relevante |
+| `tipologia_unificada_unifamiliar` | 0.059358 | Sigue presente (ver nota sobre rent vs sale) |
+| `municipio_otro` | 0.051308 | Agrupa municipios con < 10 obs |
+| `tipologia_unificada_piso` | 0.037764 | |
+| `distancia_min_playa_km` | 0.034964 | |
+| `es_exterior_piso` | 0.032622 | |
+| `municipio_Camargo` | 0.030430 | |
+| `municipio_Piélagos` | 0.030196 | |
+| `planta_num` | 0.029031 | |
+| `score_cercania_servicios` | 0.025521 | |
+| `municipio_Castro-Urdiales` | 0.024871 | |
+| `interaccion_planta_sin_ascensor_piso` | 0.024372 | |
+| `tiene_garaje` | 0.023827 | |
+| `distancia_min_colegio_km` | 0.022749 | |
+| `municipio_El Astillero` | 0.021733 | |
+| `municipio_Torrelavega` | 0.017373 | |
 
-> En sale, la tipología (unifamiliar vs piso) es el predictor más importante, seguido de la presencia de ascensor. El ascensor tiene mayor importancia en sale (11.2%) que su equivalente en rent, probablemente porque en venta el comprador valora más la comodidad a largo plazo.
+> Las importancias de los municipios recuperaron señal respecto a la versión anterior del modelo gracias a la corrección del espacio de búsqueda de Optuna (ver sección 13.7). Con `gamma ≤ 0.05` y `min_child_weight ≤ 6`, XGBoost puede ahora utilizar los dummies de municipio en propiedades con pocas observaciones.
+
+> **Rent vs. Sale — diferencia en el efecto del NaN:** En sale, `tipologia_unificada_unifamiliar` y `tipologia_unificada_piso` desaparecen del top 20 porque `tiene_ascensor_piso = NaN` captura toda la separación unifamiliar/piso. En rent, ambas tipologías **siguen presentes** (posiciones 6 y 8). Esto se debe a que el dataset de rent es más pequeño (661 filas vs. 2532) y tiene proporcionalmente menos unifamiliares, por lo que el modelo necesita la señal explícita de tipología además del split por NaN para separar correctamente los segmentos de mercado.
+
+#### Feature importance — Modelo SALE (top 20)
+
+| Feature | Importancia | Notas |
+|---------|------------|-------|
+| `tiene_ascensor_piso` | 0.176258 | Feature más importante en sale |
+| `superficie_construida_m2` | 0.121290 | |
+| `numero_banos` | 0.086694 | |
+| `municipio_Santoña` | 0.049035 | Municipio individual más relevante |
+| `tiene_garaje` | 0.043889 | |
+| `precio_m2_municipio_media` | 0.043865 | |
+| `es_exterior_piso` | 0.036774 | |
+| `numero_dormitorios` | 0.034529 | |
+| `municipio_Santander` | 0.025505 | |
+| `municipio_Ribamontan al Mar` | 0.024410 | |
+| `municipio_Torrelavega` | 0.019664 | |
+| `distancia_min_playa_km` | 0.019631 | |
+| `planta_num` | 0.019054 | |
+| `obra_nueva` | 0.018790 | |
+| `municipio_Castro-Urdiales` | 0.015290 | |
+| `municipio_Camargo` | 0.015135 | |
+| `municipio_Polanco` | 0.014522 | |
+| `municipio_Guarnizo` | 0.013865 | |
+| `score_cercania_servicios` | 0.013383 | |
+| `distancia_centro_municipio_km` | 0.012269 | |
+
+> Nótese que `tipologia_unificada_unifamiliar` y `tipologia_unificada_piso` **han desaparecido del top 20** respecto a versiones anteriores del modelo. Este es el efecto directo del manejo de NaN explicado a continuación.
+
+#### Por qué `tiene_ascensor_piso` lidera las importancias tras el manejo de NaN
+
+Antes de introducir NaN para propiedades unifamiliares, el modelo necesitaba **dos features** para separar correctamente los tres segmentos del mercado: `tipologia_unificada_unifamiliar` (¿es unifamiliar?) y `tiene_ascensor_piso` (¿tiene ascensor?).
+
+Con NaN asignado a unifamiliares en las features específicas de piso, **`tiene_ascensor_piso` codifica ahora tres estados distintos** que XGBoost puede separar con un único nodo de decisión:
+
+```
+             ┌─────────────────────────────────────────────┐
+             │         tiene_ascensor_piso                  │
+             └─────────────────────────────────────────────┘
+                  NaN ↙           0 ↓            1 ↘
+         ┌──────────────┐   ┌──────────────┐  ┌──────────────┐
+         │  UNIFAMILIAR  │   │   PISO       │  │   PISO       │
+         │  (chalet,     │   │   sin        │  │   con        │
+         │   adosado…)   │   │   ascensor   │  │   ascensor   │
+         │               │   │              │  │              │
+         │  precio alto  │   │  precio bajo │  │ precio alto  │
+         │  por m²       │   │  penalizado  │  │ premium      │
+         └──────────────┘   └──────────────┘  └──────────────┘
+```
+
+XGBoost trata el NaN como una tercera dirección de split aprendida durante el entrenamiento: en cada nodo, el algoritmo optimiza si los registros con NaN deben ir a la rama izquierda o derecha, y elige la dirección que maximiza la ganancia. En este caso, unifamiliares (NaN) forman un grupo tan diferente en precio que el modelo aprende a separarlos primero usando `tiene_ascensor_piso = NaN`, eliminando la necesidad de `tipologia_unificada_unifamiliar` como feature separada.
+
+**Antes del NaN:** el modelo necesitaba `tipologia_unificada_unifamiliar` (8% de importancia) + `tiene_ascensor_piso` (~11%) = ~19% combinado para hacer esta separación.
+
+**Después del NaN:** `tiene_ascensor_piso` hace toda la separación solo (17.6%), consolidando la señal en un único feature. `tipologia_unificada_unifamiliar` pierde relevancia y sale del top 20.
 
 ### 9.2 SHAP
 

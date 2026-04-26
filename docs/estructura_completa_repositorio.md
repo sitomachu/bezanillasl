@@ -1,9 +1,9 @@
 # Estructura Completa del Repositorio — BezanillaSL
 
-**Versión:** 1.2
-**Fecha de generación:** 2026-04-22
-**Rama analizada:** `feat/ML_terrenos` (HEAD: `e7471c2`)
-**Estado del repositorio:** con cambios no confirmados (notebooks ML terrenos y transformación scraping_processed_to_gold)
+**Versión:** 1.3
+**Fecha de generación:** 2026-04-26
+**Rama analizada:** `feat/ML_mejorado_y_terrenos` (HEAD: `4abd4db`)
+**Estado del repositorio:** actualizado con modelos XGBoost definitivos (53_boost_rent, 53_boost_sale_optuna), pipeline de outliers migrado upstream, tratamiento de NaN para propiedades unifamiliares, sistema de persistencia de parámetros JSON y extensión de municipios de alquiler en notebooks de predicción
 
 > **Convención de etiquetas utilizadas en este documento:**
 > - `[Verificado]` — observado directamente en archivos, rutas o código fuente.
@@ -132,12 +132,15 @@ BezanillaSL/                          ← Raíz del proyecto
 │   │   ├── final_rent_idealistaAPI.csv  ← Dataset alquiler solo fuente API [Verificado]
 │   │   └── final_land_scraping.csv      ← Dataset terrenos scraping gold (686 obs. × 9 cols) [Añadido v1.2]
 │   │
-│   └── ML/                          ← Outputs analíticos de experimentos ML
-│       ├── linear_regression/
-│       │   ├── sale/                ← M01_raw … M24_log (24 variantes)
-│       │   └── rent/                ← M01_raw … M24_log (24 variantes)
-│       │   │   └── summary_models.csv, summary_models_full.csv, summary_models_visual.html
-│       └── random_forest/           ← [Verificado: directorio vacío — sin outputs persistidos]
+│   ├── ML/                          ← Outputs analíticos de experimentos ML
+│   │   ├── linear_regression/
+│   │   │   ├── sale/                ← M01_raw … M24_log (24 variantes)
+│   │   │   └── rent/                ← M01_raw … M24_log (24 variantes)
+│   │   │       └── summary_models.csv, summary_models_full.csv, summary_models_visual.html
+│   │   └── random_forest/           ← [Verificado: directorio vacío — sin outputs persistidos]
+│   └── model_results/               ← Parámetros y métricas de modelos XGBoost definitivos [Añadido v1.3]
+│       ├── params_sale.json         ← Hiperparámetros, features, métricas y medias municipales M-SALE
+│       └── params_rent.json         ← Hiperparámetros, features, métricas y medias municipales M-RENT
 │
 ├── docs/                            ← Documentación técnica y diagramas
 │   ├── diagrams/
@@ -284,8 +287,29 @@ graph LR
 
 - Normalización de JSON de la API a CSV mediante `pd.json_normalize()` en `src/idealistaAPI/processing/clean_idealista.py`, orquestado por `notebooks/02_idealista_API_processing/idealistaAPI_raw_to_preprocess.ipynb`
 - Limpieza y validación de datos API en `notebooks/02_idealista_API_processing/idealistaAPI_data.ipynb` (venta + alquiler unificados en un único notebook)
-- Eliminación de outliers mediante regla IQR×1.5 en `notebooks/02_idealista_API_processing/idealistaAPI_processing_outliers.ipynb` (movido de la carpeta 04_EDA) `[Verificado]`
+- Eliminación de outliers en `notebooks/02_idealista_API_processing/idealistaAPI_processing_outliers.ipynb` — pipeline completo de filtrado (ver detalle abajo) `[Verificado]`
 - Los resultados de todas las ejecuciones se consolidan en `data/processed/idealistaAPI/total_sale_cantabria_outliers.csv` y `total_rent_cantabria_outliers.csv`
+
+**Pipeline de tratamiento de outliers — detalle por mercado** `[Verificado — actualizado v1.3]`
+
+El tratamiento difiere según la familia de modelos y el mercado. En los modelos lineales explorados, el ajuste por mínimos cuadrados es sensible a observaciones extremas, por lo que se aplicó un filtro IQR×1.5 sobre `log_precio` antes de la partición. En los modelos XGBoost definitivos, los árboles son inherentemente robustos a outliers (las particiones dependen del orden relativo, no de la magnitud absoluta), pero se combinan igualmente dos criterios de filtrado para garantizar coherencia con el dominio inmobiliario:
+
+**Alquiler** — tres pasos aplicados en secuencia:
+
+| Paso | Filtro | Criterio | Filas eliminadas |
+|------|--------|----------|-----------------|
+| 1 | Filtro vacacional | `precio_m2 > 18 €/m²/mes` | ~8.1% — alquileres turísticos que mezclarían dos poblaciones distintas y sobreestimarían sistemáticamente los alquileres residenciales en zonas costeras |
+| 2 | Filtro suelo | `precio_m2 < 6 €/m²/mes` | ~1.7% — garajes, locales mal clasificados o propiedades con precio no de mercado |
+| 3 | IQR×1.5 sobre `log_precio` | Extremos de precio absoluto | ~2.8% — red de seguridad estadística |
+
+**Venta** — dos pasos:
+
+| Paso | Filtro | Criterio | Filas eliminadas |
+|------|--------|----------|-----------------|
+| 1 | IQR×1.5 sobre `log_precio` | Extremos de precio absoluto | 0% — la distribución de venta no tiene outliers en precio absoluto |
+| 2 | Suelo coherencia económica | `precio_m2 >= 1000 €/m²` | ~5.6% — ruinas, no residencial, errores de registro; estas propiedades generaban residuos extremos (hasta −1.25) en el Q-Q plot |
+
+> **Nota adicional (gold notebook):** el notebook `idealistaAPI_processed_to_gold.ipynb` aplica también un filtro exacto de `precio_m2` para capturar casos límite del redondeo del campo `priceByArea` de la API de Idealista (diferencias de centésimas de €/m² en el límite del umbral).
 - Limpieza de datos scraping en `notebooks/01_manual_scraping_processing/` (3 notebooks renombrados)
 - Tratamiento de outliers para terrenos centralizado en `notebooks/01_manual_scraping_processing/scraping_land_processing_outliers.ipynb` en cuatro etapas: (1) **Regla fija** — precio, superficie y precio/m² dentro de rangos del mercado cántabro; (2) **IQR×3.0 multivariante** sobre `precio_eur`, `superficie_m2` y `precio_m2`; (3) **Regla de negocio** — eliminación de precios > 300.000 €; (4) **IQR×1.5 sobre `precio_eur`** — ajuste estadístico final. Output: `data/processed/scraping_manual/total_land_cantabria_outliers.csv`. `[Verificado — actualizado en v1.3]`
 
@@ -312,14 +336,31 @@ La carpeta `04_EDA` ha sido renombrada a `04_transformations` y simplificada. El
 
 ### 3.6 Feature engineering
 
-- Realizado en `notebooks/04_transformations/idealistaAPI_processed_to_gold.ipynb` `[Verificado]`
-- Variables creadas (presentes en `final_sale.csv` y `final_rent.csv`):
-  - `log_precio` — variable objetivo transformada (log natural del precio)
-  - `precio_m2_municipio_media` — precio medio por m² a nivel municipal `[Inferido]`
-  - Dummies de tipología: `tipologia_unificada_piso`, `tipologia_unificada_unifamiliar`
-  - Dummies de municipio: 13–14 variables para venta, 9 para alquiler
-  - `score_cercania_servicios` — índice compuesto de proximidad a servicios
-  - `tiene_garaje`, `obra_nueva` — características binarias del inmueble
+**Feature engineering en el gold layer** — realizado en `notebooks/04_transformations/idealistaAPI_processed_to_gold.ipynb` `[Verificado]`
+
+Variables creadas en el gold layer (presentes en `final_sale_idealistaAPI.csv` y `final_rent_idealistaAPI.csv`):
+- `log_precio` — variable objetivo transformada (log natural del precio)
+- `precio_m2_municipio_media` — precio medio de venta por m² a nivel municipal. No genera leakage porque se calcula como agregado municipal sobre el mercado de venta, sin depender del precio del registro individual, lo que la convierte en una señal suave del nivel de precio zonal
+- `interaccion_planta_sin_ascensor_piso` — variable derivada: `planta_num × (1 - tiene_ascensor_piso)`, penalización de accesibilidad para pisos en planta alta sin ascensor
+- Dummies de tipología: `tipologia_unificada_piso`, `tipologia_unificada_unifamiliar`
+- Dummies de municipio: ~30 columnas para venta, 7 para alquiler (municipios con ≥ 10 observaciones reciben columna propia; los de menor representación se colapsan en `municipio_otro`)
+- `score_cercania_servicios` — índice compuesto de proximidad a servicios
+- `tiene_garaje`, `obra_nueva` — características binarias del inmueble
+- `es_exterior_piso`, `tiene_ascensor_piso`, `planta_num` — características específicas de piso
+
+> **Variables eliminadas en versión actual respecto a versiones anteriores:** `ratio_dormitorios_superficie` (dormitorios/m²), `ratio_banos_superficie` (baños/m²), `latitud`, `longitud` (coordenadas eliminadas del modelo de venta). La imputación se realiza por mediana columnar; no se aplica estandarización ya que los árboles XGBoost son invariantes a transformaciones monotónicas de las variables de entrada.
+
+**Feature engineering en los notebooks ML** — función `build_X()` en `notebooks/05_ML_idealistaAPI/53_boost_*.ipynb` y `55_*.ipynb`
+
+Además del gold layer, los notebooks ML realizan preprocesado adicional en la función `build_X()`:
+
+1. **Colapso dinámico de municipios:** municipios con < `MIN_MUNI_OBS = 10` observaciones en el split activo se colapsan en `municipio_otros` (distinto de `municipio_otro` del gold)
+2. **Tratamiento de NaN para propiedades unifamiliares** `[Nuevo — v1.3]`: las features específicas de piso (`planta_num`, `es_exterior_piso`, `tiene_ascensor_piso`, `interaccion_planta_sin_ascensor_piso`) reciben `NaN` en registros de tipología unifamiliar, en lugar de ser imputadas con la mediana. XGBoost aprende nativamente la dirección del NaN en cada nodo de decisión — esto permite que un único feature como `tiene_ascensor_piso` codifique tres estados: `NaN` (unifamiliar), `0` (piso sin ascensor), `1` (piso con ascensor), eliminando la necesidad de un dummy de tipología separado en el modelo de venta
+3. **Imputación por mediana:** `SimpleImputer(strategy="median")` solo se aplica a features no-piso, para nulos genuinos del dataset
+
+**Sistema de persistencia de parámetros JSON** `[Nuevo — v1.3]`
+
+Los notebooks `53_boost_rent.ipynb` y `53_boost_sale_optuna.ipynb` exportan al finalizar Optuna un JSON completo (`data/model_results/params_rent.json`, `params_sale.json`) con: hiperparámetros óptimos, features usadas, métricas de test, CV-RMSE y medianas de precio municipal. Los notebooks `55_*` leen estos JSON en lugar de hardcodear parámetros, garantizando consistencia entre todos los notebooks de predicción.
 
 ### 3.7 Modelado ML
 
@@ -504,11 +545,13 @@ flowchart TD
 
 **Datasets gold activos (v1.2)** `[Verificado]`:
 
-| Fichero | Descripción | Observaciones | Columnas | Variable objetivo | Features ML |
+| Fichero | Descripción | Observaciones | Columnas | Variable objetivo | Features ML (XGBoost definitivo) |
 |---|---|---|---|---|---|
-| `final_sale_idealistaAPI.csv` | Venta API Idealista (2 runs) — con feature engineering completo | 2.694 | 71 | `log_precio` | 61 |
-| `final_rent_idealistaAPI.csv` | Alquiler API Idealista (4 runs) — con feature engineering completo | 754 | 50 | `log_precio` | 40 |
+| `final_sale_idealistaAPI.csv` | Venta API Idealista (2 runs) — con feature engineering completo | **2.532** (tras outlier removal upstream) | 70 | `log_precio` | **~47** (17 base + ~30 municipio OHE) |
+| `final_rent_idealistaAPI.csv` | Alquiler API Idealista (4 runs) — con feature engineering completo | **661** (tras outlier removal upstream) | 47 | `log_precio` | **23** (16 base + 7 municipio OHE) |
 | `final_land_scraping.csv` | Terrenos scraping manual — con outlier removal en 2 etapas y encoding | 686 | 9 | `log_precio` | 7 |
+
+> **Nota v1.3:** los conteos de observaciones de viviendas reflejan el estado tras el pipeline completo de outlier removal en `idealistaAPI_processing_outliers.ipynb`. Los counts anteriores (2.694 venta, 754 alquiler) eran anteriores al filtrado completo.
 
 ### 5.4 `data/ML/`
 
@@ -591,13 +634,14 @@ Esta carpeta (antes llamada `04_EDA`) contiene ahora un único notebook de trans
 | `53_boost_def.ipynb` | **DEFINITIVO v1** — XGBoost, GBR, AdaBoost con GridSearchCV | `data/gold/` | Sin outputs persistidos | ML | **Productivo-definitivo** |
 | `53_boost_def_2.ipynb` | **DEFINITIVO v2** — XGBoost optimizado con Optuna | `data/gold/` | Sin outputs persistidos | ML | **Productivo-definitivo** |
 | `53_boost_def_3.ipynb` | **DEFINITIVO v3** — XGBoost optimizado individualmente por operación | `data/gold/` | Sin outputs persistidos | ML | **Productivo-definitivo** |
-| `53_boost_sale.ipynb` | XGBoost optimizado con Optuna específicamente para venta | `data/gold/final_sale.csv` | Sin outputs persistidos | ML | **Productivo-definitivo** |
-| `53_boost_rent.ipynb` | XGBoost optimizado con Optuna específicamente para alquiler | `data/gold/final_rent.csv` | Sin outputs persistidos | ML | **Productivo-definitivo** |
+| `53_boost_sale.ipynb` | XGBoost optimizado con Optuna específicamente para venta (versión anterior a `53_boost_sale_optuna`) | `data/gold/final_sale_idealistaAPI.csv` | Sin outputs persistidos | ML | Obsoleto/experimental |
+| `53_boost_sale_optuna.ipynb` | **DEFINITIVO SALE** — XGBoost + Optuna 100 trials para M-SALE. EDA + limpieza (outliers ya eliminados upstream) + búsqueda de hiperparámetros + evaluación. Exporta `data/model_results/params_sale.json` con todos los parámetros y métricas. Trial ganador: #68, CV-RMSE=0.23445, test R²=0.8313 | `data/gold/final_sale_idealistaAPI.csv` | `data/model_results/params_sale.json` | ML | **Productivo-definitivo** `[Actualizado v1.3]` |
+| `53_boost_rent.ipynb` | **DEFINITIVO RENT** — XGBoost + Optuna 100 trials para M-RENT. EDA + limpieza (outliers ya eliminados upstream) + búsqueda de hiperparámetros con espacio corregido (gamma≤0.05, min_child_weight≤6, subsample≤0.85 para evitar importancias cero en municipios). Exporta `data/model_results/params_rent.json`. Trial ganador: #62, CV-RMSE=0.14791, test R²=0.59922 | `data/gold/final_rent_idealistaAPI.csv` | `data/model_results/params_rent.json` | ML | **Productivo-definitivo** `[Actualizado v1.3]` |
 | `54_hibrido.ipynb` | Ensemble híbrido combinando familias de modelos | `data/gold/` | `[No verificado]` | ML | Experimental |
 | `54_hibrido_2.ipynb` | Ensemble híbrido v2 | `data/gold/` | `[No verificado]` | ML | Experimental |
-| `55_input_result.ipynb` | Comparación de resultados de modelos con distintos datasets de entrada (k-fold) | `data/gold/` | Tablas comparativas | ML | Análisis |
-| `55_input_result_no_k_fold.ipynb` | Comparación de resultados sin k-fold cross-validation | `data/gold/` | Tablas comparativas | ML | Análisis |
-| `55_sale_rent_models.ipynb` | Comparación final de modelos de venta y alquiler entre sí | `data/gold/` | Resumen global de modelos | ML | Análisis |
+| `55_sale_rent_models.ipynb` | **EVALUACIÓN CONJUNTA** — lee `params_sale.json` y `params_rent.json`, reentrena M-SALE y M-RENT con los mismos parámetros y split 80/20, y produce evaluación comparativa con métricas, diagnósticos de residuos e importancias de features para ambos modelos | `data/gold/final_sale/rent_idealistaAPI.csv`, `data/model_results/params_*.json` | Métricas, gráficas, importancias | ML | **Productivo-definitivo** `[Actualizado v1.3]` |
+| `55_input_result.ipynb` | **PREDICCIÓN INDIVIDUAL (80/20)** — herramienta interactiva de estimación de precio de venta + alquiler + rentabilidad bruta para un inmueble dado. Lee params JSON, entrena sobre 80% datos, usa RMSE_test como intervalo ±1σ. Geo_ref de alquiler extendido a ~54 municipios via join por coordenadas | `data/gold/*.csv`, `data/model_results/params_*.json`, `data/processed/idealistaAPI/total_rent_cantabria_outliers.csv` | Output textual con precios e intervalos | ML | **Productivo-definitivo** `[Actualizado v1.3]` |
+| `55_input_result_no_k_fold.ipynb` | **PREDICCIÓN INDIVIDUAL (100% datos)** — igual que `55_input_result` pero entrena sobre el 100% de los datos limpios y usa CV-RMSE del JSON como intervalo. Más robusto para producción | `data/gold/*.csv`, `data/model_results/params_*.json`, `data/processed/idealistaAPI/total_rent_cantabria_outliers.csv` | Output textual con precios e intervalos | ML | **Productivo-definitivo** `[Actualizado v1.3]` |
 
 #### `notebooks/06_ML_scraping_land/` — Experimentos ML sobre datos de terrenos
 
@@ -757,37 +801,37 @@ src/geospatial_expansion/
 
 **Fenómeno notable:** Extra Trees base presenta overfitting extremo (R²_train=0.9999, R²_test≈0.70). El modelo óptimo tras GridSearchCV lo mitiga parcialmente. 4 experimentos documentados sobre este fenómeno. `[Verificado]`
 
-#### Boosting (`53_boost_def.ipynb` → `53_boost_sale.ipynb` / `53_boost_rent.ipynb`)
+#### Boosting (`53_boost_def.ipynb` → `53_boost_sale_optuna.ipynb` / `53_boost_rent.ipynb`) `[Actualizado v1.3]`
 
-Los modelos de boosting han evolucionado significativamente: de GridSearchCV en `53_boost_def` a optimización con **Optuna** en versiones posteriores, con modelos entrenados y optimizados de forma **independiente para venta y alquiler** (notebooks `53_boost_sale.ipynb` y `53_boost_rent.ipynb`).
+Los modelos de boosting han evolucionado de GridSearchCV en `53_boost_def` a optimización con **Optuna** (100 trials, TPESampler, 5-fold CV-RMSE) en versiones definitivas independientes por operación. Los resultados definitivos del XGBoost con Optuna son los mejores de todo el proyecto:
 
-| Modelo | Operación | R²_test | Nota |
-|---|---|---|---|
-| XGBoost base | Venta | 0.5790 | Overfitting severo (R²_train=0.9998) |
-| XGBoost óptimo (GridSearch) | Venta | 0.6351 | lr=0.05, max_depth=3, subsample=0.7 |
-| GBR base | Venta | 0.6370 | Mejor que XGBoost base sin tuning |
-| AdaBoost óptimo | Venta | **0.6407** | Mejor boosting en venta (versión _def) |
-| XGBoost + Optuna (venta) | Venta | `[Pendiente verificación]` | Optimizado individualmente vía `53_boost_sale.ipynb` |
-| XGBoost óptimo | Alquiler | 0.3880 | Boosting limitado en alquiler (versión _def) |
-| XGBoost + Optuna (alquiler) | Alquiler | `[Pendiente verificación]` | Optimizado individualmente vía `53_boost_rent.ipynb` |
+| Modelo | Operación | CV-RMSE | RMSE_test | R²_test | Nota |
+|---|---|---|---|---|---|
+| XGBoost base | Venta | — | — | 0.5790 | Overfitting severo (R²_train=0.9998) |
+| XGBoost óptimo (GridSearch) | Venta | — | — | 0.6351 | lr=0.05, max_depth=3, subsample=0.7 |
+| GBR base | Venta | — | — | 0.6370 | — |
+| AdaBoost óptimo | Venta | — | — | 0.6407 | Mejor boosting pre-Optuna |
+| **XGBoost + Optuna (`53_boost_sale_optuna`)** | Venta | **0.23445** | **0.23498** | **0.8313** | **Mejor modelo global del proyecto** — trial #68, max_depth=6, n_est=900 |
+| XGBoost óptimo | Alquiler | — | — | 0.3880 | Boosting limitado en alquiler (versión _def) |
+| **XGBoost + Optuna (`53_boost_rent`)** | Alquiler | **0.14791** | **0.15489** | **0.59922** | **Mejor modelo de alquiler** — trial #62, max_depth=4, n_est=962; espacio Optuna corregido |
 
-### 8.4 Ranking global de modelos
+### 8.4 Ranking global de modelos `[Actualizado v1.3]`
 
 **VENTA — Mejor a peor:**
-1. Extra Trees óptimo (R²=0.707) ← **MEJOR GLOBAL**
-2. RF óptimo (R²=0.657)
-3. AdaBoost óptimo (R²=0.641)
-4. Ridge (R²=0.638)
-5. GBR base (R²=0.637)
+1. **XGBoost + Optuna (R²=0.831)** ← **NUEVO MEJOR GLOBAL** `[Actualizado v1.3]`
+2. Extra Trees óptimo (R²=0.707)
+3. RF óptimo (R²=0.657)
+4. AdaBoost óptimo (R²=0.641)
+5. Ridge (R²=0.638)
 
 **ALQUILER — Mejor a peor:**
-1. Lasso+OLS (R²=0.576) ← **MODELOS LINEALES DOMINAN EN ALQUILER**
-2. OLS Base (R²=0.564)
-3. Ridge (R²=0.561)
-4. RF óptimo (R²=0.450)
-5. XGBoost óptimo (R²=0.388)
+1. **XGBoost + Optuna (R²=0.599)** ← **NUEVO MEJOR DE ALQUILER** `[Actualizado v1.3]`
+2. Lasso+OLS (R²=0.576)
+3. OLS Base (R²=0.564)
+4. Ridge (R²=0.561)
+5. RF óptimo (R²=0.450)
 
-**Insight clave:** los modelos lineales superan a los ensembles en la predicción de alquiler, probablemente por el menor tamaño del dataset (n=477) y relaciones más lineales en el mercado de arrendamiento. `[Inferido — consistente con la literatura de ML]`
+**Insight clave:** el XGBoost con Optuna y espacio de búsqueda corregido supera a todos los modelos previos en ambas operaciones. En alquiler, el cambio más relevante fue la corrección del espacio de Optuna (gamma, min_child_weight, subsample) que permitía soluciones degeneradas con importancias cero en municipios. Con el espacio corregido y el tratamiento de NaN para unifamiliares, el XGBoost supera por primera vez a los modelos lineales en alquiler. `[Verificado — v1.3]`
 
 ### 8.5 Relación entre capas de datos y modelos
 
@@ -862,34 +906,38 @@ Los datos de terrenos siguen un pipeline ML independiente de los datos de la API
 
 ### 8.8 Observaciones finales por dataset y conteo de features por modelo
 
-#### A. Dataset de viviendas en venta — `final_sale_idealistaAPI.csv`
+#### A. Dataset de viviendas en venta — `final_sale_idealistaAPI.csv` `[Actualizado v1.3]`
 
 | Aspecto | Valor |
 |---|---|
 | Fuente | API Idealista — 2 ejecuciones (20260218 + 20260331) |
-| Observaciones raw → processed | ~3.500 → 2.694 (tras outlier removal IQR×1.5 sobre log precio) |
-| Observaciones gold | **2.694 filas** |
-| Columnas totales gold | 71 |
+| Observaciones raw → gold | ~3.500 → **2.532** (tras pipeline outlier removal completo: IQR×1.5 + suelo precio/m² ≥ 1.000 €) |
+| Columnas totales gold | 70 |
 | Variable objetivo | `log_precio` |
-| Columnas excluidas en ML | `log_precio` (target), `precio`, `precio_m2`, `precio_m2_raw`, `latitud`, `longitud`, `provincia`, `distrito`, `tipologia`, `subtipologia` (10 cols) |
-| **Features disponibles para ML** | **61** |
-| Grupos de features | Estructurales (superficie, dormitorios, baños), tipología (piso, unifamiliar), características (garaje, obra nueva), geoespaciales (distancias POI + distancia centro municipio + score_cercania), mercado (precio_m2_municipio_media), interacciones polinómicas (lat², lon², lat×lon, sup², baños², dorm²), dummies de municipio (30 vars) |
-| Outlier removal | IQR×1.5 sobre `log(precio)` — realizado en capa `processed` (`idealistaAPI_processing_outliers.ipynb`) |
-| Mejor modelo | **Extra Trees óptimo** — R²=0.707 |
+| **Features XGBoost definitivo (M-SALE)** | **~47** (17 base + ~30 dummies municipio OHE) |
+| Features base | Estructurales (superficie, dormitorios, baños, planta), tipología (piso, unifamiliar), características (garaje, obra nueva, exterior, ascensor), geoespaciales (distancias POI + distancia centro municipio + score_cercania), mercado (precio_m2_municipio_media), derivadas (interaccion_planta_sin_ascensor_piso) |
+| Features eliminadas vs. versión anterior | `latitud`, `longitud`, `ratio_dormitorios_superficie`, `ratio_banos_superficie` |
+| Tratamiento NaN | Unifamiliares reciben NaN en `planta_num`, `es_exterior_piso`, `tiene_ascensor_piso`, `interaccion_planta_sin_ascensor_piso` — XGBoost aprende la dirección del NaN nativamente |
+| Outlier removal | IQR×1.5 + suelo precio/m² — realizado en `idealistaAPI_processing_outliers.ipynb` (upstream a los notebooks ML) |
+| Mejor modelo | **XGBoost + Optuna** — R²=0.831, RMSE=0.235 (±26.5% en escala €) `[Actualizado v1.3]` |
+| Feature más importante | `tiene_ascensor_piso` (17.6%) — codifica 3 estados: NaN=unifamiliar, 0=sin ascensor, 1=con ascensor |
 
-#### B. Dataset de viviendas en alquiler — `final_rent_idealistaAPI.csv`
+#### B. Dataset de viviendas en alquiler — `final_rent_idealistaAPI.csv` `[Actualizado v1.3]`
 
 | Aspecto | Valor |
 |---|---|
 | Fuente | API Idealista — 4 ejecuciones (20260220, 20260310, 20260401, 20260405) |
-| Observaciones gold | **754 filas** |
-| Columnas totales gold | 50 |
+| Observaciones raw → gold | ~900 → **661** (filtrado vacacional >18€/m²/mes + suelo <6€/m²/mes + IQR×1.5) |
+| Columnas totales gold | 47 |
 | Variable objetivo | `log_precio` |
-| Columnas excluidas en ML | Mismas 10 que en venta |
-| **Features disponibles para ML** | **40** |
-| Diferencia con venta | Menor cobertura municipal: 9 dummies de municipio vs 30 en venta; dataset 3.6× más pequeño |
-| Outlier removal | IQR×1.5 sobre `log(precio)` — capa `processed` |
-| Mejor modelo | **Lasso+OLS** — R²=0.576 (modelos lineales superan a ensembles en alquiler; n pequeño + relaciones más lineales) |
+| **Features XGBoost definitivo (M-RENT)** | **23** (16 base + 7 dummies municipio OHE) |
+| Features base | Estructurales (superficie, dormitorios, baños, planta), características (garaje, obra nueva, exterior, ascensor), geoespaciales (distancias POI + centro municipio + score_cercania), tipología (piso, unifamiliar), derivadas (interaccion_planta_sin_ascensor_piso) |
+| Features eliminadas vs. versión anterior | `precio_m2_municipio_media`, `ratio_dormitorios_superficie`, `ratio_banos_superficie` |
+| Municipios OHE propios | Camargo, Castro-Urdiales, El Astillero, Piélagos, Santander, Torrelavega + `municipio_otro` |
+| Municipios disponibles en predicción | ~54 (extendido via join lat/lon entre CSV processed y gold) |
+| Outlier removal | Pipeline 3 pasos (vacacional + suelo + IQR×1.5) — en `idealistaAPI_processing_outliers.ipynb` |
+| Mejor modelo | **XGBoost + Optuna** — R²=0.599, RMSE=0.155 (±16.7% en escala €) `[Actualizado v1.3]` |
+| Feature más importante | `numero_dormitorios` (13.3%) |
 
 #### C. Dataset de terrenos — `final_land_scraping.csv`
 
@@ -908,15 +956,74 @@ Los datos de terrenos siguen un pipeline ML independiente de los datos de la API
 | Outlier removal | 2 etapas: reglas fijas de negocio (>300k €, negativos) + IQR×1.5 sobre `precio_eur` en escala original |
 | Mejor modelo (estimado) | **Ridge** — naturaleza quasi-lineal del problema con 7 features y encoding por media |
 
-#### Resumen comparativo: features por modelo y dataset
+#### Resumen comparativo: features por modelo y dataset `[Actualizado v1.3]`
 
 | Familia de modelos | Dataset venta | Dataset alquiler | Dataset terrenos |
 |---|---|---|---|
-| Regresión lineal (Ridge / Lasso) | **61 features** | **40 features** | **7 features** |
-| Bagging (RF / Extra Trees + Optuna) | **61 features** | **40 features** | **7 features** |
-| Boosting (XGBoost + Optuna) | **61 features** | **40 features** | **7 features** |
+| Regresión lineal (Ridge / Lasso) | 61 features (versión anterior) | 40 features (versión anterior) | **7 features** |
+| Bagging (RF / Extra Trees + Optuna) | 61 features (versión anterior) | 40 features (versión anterior) | **7 features** |
+| **XGBoost + Optuna (definitivo)** | **~47 features** | **23 features** | **7 features** |
 
-> **Nota:** todos los modelos de una misma operación usan el mismo conjunto de features del gold dataset. La selección efectiva de features ocurre implícitamente: regularización L2/L1 en Ridge/Lasso, importancia de variables en árboles. No hay paso explícito de feature selection previo al entrenamiento.
+> **Nota:** el XGBoost definitivo usa un subconjunto depurado del gold dataset (sin lat/lon, sin ratio features) con preprocesado adicional en `build_X()` (NaN para unifamiliares, colapso dinámico de municipios). Los modelos lineales y de bagging usaban el conjunto completo de 61/40 features de versiones anteriores del gold.
+
+### 8.9 Pipeline definitivo XGBoost: arquitectura y mejoras clave `[Nuevo — v1.3]`
+
+El modelo XGBoost definitivo representa la culminación del pipeline ML y supera a todos los modelos anteriores. Sus características arquitectónicas diferenciadoras son:
+
+#### Flujo de notebooks
+
+```
+idealistaAPI_processing_outliers.ipynb
+  └─ Outlier removal (upstream) → total_sale/rent_cantabria_outliers.csv
+       ↓
+idealistaAPI_processed_to_gold.ipynb
+  └─ Feature engineering → final_sale/rent_idealistaAPI.csv
+       ↓
+53_boost_sale_optuna.ipynb          53_boost_rent.ipynb
+  └─ Optuna 100 trials               └─ Optuna 100 trials (espacio corregido)
+  └─ Exporta params_sale.json        └─ Exporta params_rent.json
+       ↓                                   ↓
+55_sale_rent_models.ipynb  ←───────────────┘
+  └─ Lee ambos JSON, reentrena, evalúa conjuntamente
+       ↓
+55_input_result.ipynb / 55_input_result_no_k_fold.ipynb
+  └─ Lee params JSON, herramienta de predicción interactiva individual
+  └─ Geo_ref rent extendido a ~54 municipios via join lat/lon
+```
+
+#### Mejoras técnicas clave incorporadas en v1.3
+
+| Mejora | Impacto |
+|--------|---------|
+| Outlier removal migrado a notebook upstream (`02_*`) | Los notebooks ML cargan datos ya limpios; no hay duplicación de lógica |
+| NaN para unifamiliares en features piso-only | `tiene_ascensor_piso` pasa a ser feature #1 en venta (17.6%); elimina necesidad de dummy de tipología separado |
+| Corrección espacio Optuna rent (`gamma≤0.05`, `min_child_weight≤6`, `subsample≤0.85`) | Elimina importancias cero en municipios; XGBoost supera por primera vez a modelos lineales en alquiler |
+| Sistema params JSON | Consistencia garantizada entre todos los notebooks `55_*`; no más hardcoding de parámetros |
+| Geo_ref alquiler extendido (join lat/lon) | Santa Cruz de Bezana y ~48 municipios adicionales disponibles para predicción de alquiler (de 7 a ~54) |
+| Bug fix `municipio_otros` → `municipio_otro` en `_build_row()` | Municipios colapsados en el gold (< 10 obs.) recibían dummy incorrecto en predicción |
+
+#### Parámetros óptimos (fuente: JSON files)
+
+| Parámetro | M-SALE (`params_sale.json`) | M-RENT (`params_rent.json`) |
+|-----------|---------------------------|---------------------------|
+| `n_estimators` | 900 | 962 |
+| `max_depth` | 6 | 4 |
+| `learning_rate` | 0.01369 | 0.01482 |
+| `subsample` | 0.6251 | 0.7067 |
+| `colsample_bytree` | 0.7441 | 0.5183 |
+| `min_child_weight` | 1 | 2 |
+| `reg_lambda` | 0.804 | 8.302 |
+| `reg_alpha` | 0.222 | 0.00114 |
+| `gamma` | 0.00104 | 0.0480 |
+| CV-RMSE (5-fold) | **0.23445** | **0.14791** |
+| Test R² | **0.8313** | **0.59922** |
+| Test RMSE | **0.23498** | **0.15489** |
+
+#### Feature importances top (XGBoost definitivo)
+
+**M-SALE:** `tiene_ascensor_piso` (17.6%) > `superficie_construida_m2` (12.1%) > `numero_banos` (8.7%) > `municipio_Santoña` (4.9%). `tipologia_unificada_unifamiliar` y `tipologia_unificada_piso` desaparecen del top 20 — su señal queda absorbida por el NaN split de `tiene_ascensor_piso`.
+
+**M-RENT:** `numero_dormitorios` (13.3%) > `numero_banos` (11.2%) > `superficie_construida_m2` (10.5%) > `tiene_ascensor_piso` (8.2%) > `municipio_Santander` (6.8%). A diferencia de venta, `tipologia_unificada_unifamiliar` (5.9%) sigue presente en el top 20 por la menor proporción de unifamiliares en el dataset de alquiler.
 
 ---
 
@@ -927,7 +1034,7 @@ Los datos de terrenos siguen un pipeline ML independiente de los datos de la API
 | Rama | Estado | Propósito inferido |
 |---|---|---|
 | `main` | Local + remota | Rama de integración y producción |
-| `feat/ML_terrenos` | **Actual** (HEAD) `[Añadido v1.2]` | Modelado ML sobre datos de terrenos scraping: `scraping_processed_to_gold.ipynb` + notebooks 61/62/63 |
+| `feat/ML_mejorado_y_terrenos` | **Actual** (HEAD) `[Actualizado v1.3]` | Modelos XGBoost definitivos (53_boost_sale_optuna, 53_boost_rent), pipeline outliers upstream, NaN unifamiliares, params JSON, extensión municipios alquiler + terrenos ML (notebooks 61/62/63) |
 | `feat/final_data_and_md_structure` | Activa (anterior HEAD) | Datos finales, estructura de carpetas y actualización de documentación |
 | `feat/ML` | Local + remota | Experimentos ML, boosting, RF, modelos definitivos (mergeada parcialmente) |
 | `feat/EDA` | Local + remota | Análisis exploratorio, feature engineering |
