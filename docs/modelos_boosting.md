@@ -832,3 +832,574 @@ data/gold/
 | **Rent** | **XGBoost óptimo** | 0.289 | 0.388 | 0.298 | Mejor en todas las métricas para rent. El CV_RMSE (0.298) es el más bajo de todos los ensembles en rent |
 
 **Contexto general:** para rent, los modelos lineales del notebook 51 siguen siendo superiores (Lasso+OLS R²=0.576 vs 0.388 de XGBoost). El boosting aporta valor principalmente en sale, donde los no-linealismos son más capturables. En rent, con el tamaño muestral disponible (n=477), la regularización lineal generaliza mejor que la complejidad de los árboles.
+
+---
+
+## Notebooks definitivos — Dataset API Idealista (versión final)
+
+Los notebooks documentados en las secciones anteriores trabajan sobre los datasets combinados (`final_sale.csv`, `final_rent.csv`) con muestras de 588 y 477 observaciones respectivamente. Los notebooks definitivos de esta sección trabajan sobre los gold datasets exclusivos de la API de Idealista (`final_sale_idealistaAPI.csv`, `final_rent_idealistaAPI.csv`), con muestras significativamente mayores (2.543 y 662 observaciones tras limpieza) y feature engineering más extenso (48 y 27 features). Los resultados son sustancialmente mejores y estos notebooks constituyen el **modelo definitivo del proyecto**.
+
+---
+
+## Notebook: `53_boost_sale.ipynb`
+
+Implementa XGBoost para la predicción de precios de **compra-venta** sobre el dataset API Idealista completo. Los hiperparámetros están fijados a partir del modelo óptimo obtenido en `53_boost_def_3.ipynb` — no se realiza búsqueda de hiperparámetros en este notebook, ya que los parámetros provienen de la experimentación previa. El objetivo es entrenar el modelo definitivo con el dataset más completo disponible y documentar su rendimiento final.
+
+### Configuración global
+
+```python
+RANDOM_STATE   = 42
+TEST_SIZE      = 0.20
+TARGET_COL     = "log_precio"
+IQR_FACTOR     = 1.5
+CV_FOLDS       = 5
+```
+
+---
+
+### Dataset y limpieza
+
+Fuente: `data/gold/final_sale_idealistaAPI.csv`
+
+| Paso | Criterio | Filas eliminadas | % | Razón |
+|------|---------|-----------------|---|-------|
+| Carga inicial | — | — | — | 2.694 filas, 71 columnas |
+| Paso 1: IQR×1.5 sobre `log_precio` | Fuera de [Q1-1.5×IQR, Q3+1.5×IQR] | 0 | 0.0% | Rango válido: [53.914€, 1.550.605€] — engloba toda la muestra |
+| Paso 2: Suelo `precio_m2 < 1.000 €/m²` | Propiedades anómalamente baratas por m² | 151 | 5.6% | Ruinas, errores de entrada o propiedades no residenciales — responsables de la cola inferior del Q-Q plot |
+| **Filas tras limpieza** | | 151 | 5.6% | **2.543 filas** |
+
+> El IQR sobre `log_precio` no elimina ningún registro en venta — el único filtro activo es el de `precio_m2`. El suelo de 1.000 €/m² actúa como umbral de coherencia: propiedades por debajo de ese valor son sistemáticamente anómalas (no reflejan el mercado residencial).
+
+---
+
+### Features
+
+#### Grupos de features
+
+| Categoría | Features |
+|-----------|---------|
+| **Físicas** | `superficie_construida_m2`, `numero_dormitorios`, `numero_banos`, `planta_num` |
+| **Características** | `tiene_garaje`, `obra_nueva` |
+| **Geoespaciales** | `distancia_min_playa_km`, `distancia_min_supermercado_km`, `distancia_min_colegio_km`, `distancia_centro_municipio_km`, `score_cercania_servicios` |
+| **Mercado** | `precio_m2_municipio_media` |
+| **Interacciones / ratios** | `ratio_dormitorios_superficie`, `ratio_banos_superficie`, `interaccion_planta_sin_ascensor_piso` |
+| **Tipología** | `tipologia_unificada_piso`, `tipologia_unificada_unifamiliar` |
+| **Municipio (OHE)** | 31 dummies del gold: `municipio_Ampuero`, `municipio_Barcena de Cicero`, `municipio_Camargo`, `municipio_Castro-Urdiales`, `municipio_Colindres`, `municipio_Cudon`, `municipio_El Astillero`, `municipio_Guarnizo`, `municipio_Laredo`, `municipio_Liendo`, `municipio_Limpias`, `municipio_Marina de Cudeyo`, `municipio_Miengo`, `municipio_Mogro`, `municipio_Noja`, `municipio_Ortuella`, `municipio_Piélagos`, `municipio_Polanco`, `municipio_Ribamontan al Mar`, `municipio_Ribamontan al Monte`, `municipio_Santa Cruz de Bezana`, `municipio_Santander`, `municipio_Santillana del Mar`, `municipio_Santoña`, `municipio_Santurtzi`, `municipio_Suances`, `municipio_Torrelavega`, `municipio_Villaescusa`, `municipio_Viveda`, `municipio_Voto`, `municipio_otro` |
+
+**Total features activas: 48**
+
+**Features comentadas (excluidas):** `latitud`, `longitud`, `es_exterior_piso`, `tiene_ascensor_piso`. Las coordenadas brutas añaden ruido sin mejora con este tamaño de muestra; `es_exterior_piso` y `tiene_ascensor_piso` son relevantes en alquiler pero no en venta.
+
+#### Correlaciones relevantes con `log_precio` (documentadas en el notebook)
+
+| Feature | Correlación |
+|---------|------------|
+| `superficie_construida_m2` | 0.6945 |
+| `numero_banos` | 0.6228 |
+| `numero_dormitorios` | 0.5500 |
+| `precio_m2_municipio_media` | 0.1335 |
+
+> `numero_banos` tiene la segunda correlación más alta con `log_precio` (0.623) — su alta importancia en el modelo es legítima, no un artefacto.
+
+#### Preprocesado
+
+Función `prepare_X()`: imputación por **mediana** de columna (`SimpleImputer(strategy="median")`). Sin estandarización — los árboles son invariantes a la escala.
+
+---
+
+### Split train/test
+
+```
+Train: 2.034 | Test: 509 | Features: 48
+```
+
+Proporción 80/20, `random_state=42`.
+
+---
+
+### Hiperparámetros XGBoost (hardcoded desde `53_boost_def_3`)
+
+No hay búsqueda de hiperparámetros — los parámetros están fijados a partir de la experimentación previa.
+
+```python
+XGB_PARAMS = dict(
+    n_estimators     = 400,
+    max_depth        = 4,
+    learning_rate    = 0.05,
+    subsample        = 0.8,
+    colsample_bytree = 0.8,
+    min_child_weight = 3,
+    reg_lambda       = 3,
+    random_state     = 42,
+    n_jobs           = -1,
+    verbosity        = 0,
+)
+```
+
+> `max_depth=4` (vs `max_depth=3` del GridSearch en `53_boost_def`) — un nivel más de profundidad, justificado por el mayor tamaño de muestra (2.034 vs 470 en train). `reg_lambda=3` mantiene regularización L2 moderada. `learning_rate=0.05` con 400 árboles garantiza convergencia gradual.
+
+Se aplica validación cruzada sobre el conjunto de train para estimar el error antes de evaluar en test:
+
+```
+CV-RMSE (5-fold, train): 0.25111
+```
+
+---
+
+### Resultados — SALE
+
+```
+split     MSE    RMSE     MAE      R2    MAPE
+train 0.02480 0.15747 0.11509 0.92387 0.00918
+   CV     NaN 0.25111     NaN     NaN     NaN
+ test 0.06033 0.24562 0.18063 0.82054 0.01451
+
+Sobreajuste → ratio RMSE test/train: 1.5598 | delta R²: 0.1033
+```
+
+El modelo definitivo de venta alcanza **R²_test=0.820**, mejora de +17.9 puntos sobre el mejor resultado anterior (AdaBoost óptimo, R²=0.641 en `53_boost_def`). Esta mejora se explica principalmente por el mayor tamaño de muestra (2.034 vs 470 en train) y las features adicionales (`precio_m2_municipio_media`, ratios, interacciones). El sobreajuste es moderado (ratio=1.56, delta_R²=0.10) — significativamente menor que el AdaBoost óptimo del notebook anterior (ratio=2.90, delta_R²=0.32).
+
+---
+
+### Feature importances — SALE (top 10)
+
+| Feature | Importancia | Nota |
+|---------|------------|------|
+| `superficie_construida_m2` | 0.2302 | Predictor dominante (23%) |
+| `numero_banos` | 0.1162 | Segunda feature — correlación legítima alta |
+| `interaccion_planta_sin_ascensor_piso` | 0.0780 | Penalización pisos altos sin ascensor |
+| `tiene_garaje` | 0.0654 | Alta en venta vs alquiler |
+| `numero_dormitorios` | 0.0617 | — |
+| `precio_m2_municipio_media` | 0.0607 | Nivel de precio medio del municipio |
+| `distancia_min_playa_km` | 0.0244 | Efecto costero en Cantabria |
+| `municipio_Santander` | 0.0233 | Mayor mercado de la región |
+
+> Con regularización correcta, `superficie_construida_m2` domina con un 23% — muy diferente del 13% del modelo anterior. La feature `interaccion_planta_sin_ascensor_piso` emerge como tercer predictor (7.8%), capturando un efecto estructural de depreciación. `precio_m2_municipio_media` aparece en el top-6, complementando las dummies de municipio con información continua del mercado zonal.
+
+---
+
+### Resumen — `53_boost_sale.ipynb`
+
+| Métrica | Valor |
+|---------|-------|
+| Dataset | `final_sale_idealistaAPI.csv` |
+| Filas tras limpieza | **2.543** |
+| Train / Test | 2.034 / 509 |
+| Features | **48** |
+| Estrategia de tuning | Hiperparámetros fijos (procedentes de `53_boost_def_3`) |
+| CV-RMSE (5-fold, train) | 0.25111 |
+| **Test RMSE (log)** | **0.24562** |
+| **Test R²** | **0.82054** |
+| Test MAE (log) | 0.18063 |
+| Error mediano aprox. | e^0.181 − 1 ≈ **+19.8%** |
+| Ratio RMSE test/train | 1.56 |
+| delta R² | 0.103 |
+
+---
+
+## Notebook: `53_boost_rent.ipynb`
+
+Implementa XGBoost para la predicción de precios de **alquiler** sobre el dataset API Idealista, con limpieza específica para detectar alquileres vacacionales y búsqueda de hiperparámetros mediante **Optuna** (100 trials). Incluye comparación entre dos targets alternativos (`log_precio` vs `log_precio_m2`).
+
+### Configuración global
+
+```python
+RANDOM_STATE                = 42
+TEST_SIZE                   = 0.20
+TARGET_COL                  = "log_precio"   # seleccionado tras comparación
+CV_FOLDS                    = 5
+IQR_FACTOR                  = 1.5
+PRECIO_M2_VACACIONAL_UMBRAL = 18.0           # €/m²/mes
+PRECIO_M2_MINIMO            = 6.0            # €/m²/mes
+```
+
+---
+
+### Dataset y limpieza
+
+Fuente: `data/gold/final_rent_idealistaAPI.csv`
+
+El alquiler requiere **tres pasos** de limpieza en lugar de dos, dado que la distribución de `precio_m2` muestra una cola derecha con alquileres turísticos y una cola izquierda con anomalías baratas.
+
+| Paso | Criterio | Filas eliminadas | % | Razón |
+|------|---------|-----------------|---|-------|
+| Carga inicial | — | — | — | 754 filas, 50 columnas |
+| Paso 1: Vacacionales | `precio_m2 > 18.0 €/m²/mes` | 61 | 8.1% | Alquileres turísticos que distorsionan la señal del mercado residencial |
+| Paso 2: Anomalías baratas | `precio_m2 < 6.0 €/m²/mes` | 12 | 1.7% | Garajes, errores de entrada o propiedades no residenciales |
+| Paso 3: IQR×1.5 | Sobre `log_precio` | 19 | 2.8% | Outliers extremos de precio absoluto tras filtrar vacacionales |
+| **Filas tras limpieza** | | 92 | 12.2% | **662 filas** |
+
+> La detección de vacacionales por `precio_m2 > 18€/m²/mes` es la diferencia principal con el pipeline de venta. Sin este paso, el modelo sobreestima precios en zonas costeras (mezcla demanda turística + residencial). El umbral de 18€ separa la distribución bimodal observable en el histograma de `precio_m2`.
+
+---
+
+### Comparación de targets
+
+Se comparan dos targets alternativos con XGBoost base (sin tuning) antes de lanzar Optuna:
+
+| Target | CV-RMSE | CV-R² | Selección |
+|--------|---------|-------|-----------|
+| `log_precio` | **0.14070** | **0.67246** | ✓ Seleccionado |
+| `log_precio_m2` | 0.14430 | 0.56896 | — |
+
+> `log_precio` produce menor CV-RMSE y mayor CV-R² que `log_precio_m2`. Predecir el precio total es más preciso que predecir el precio por m² porque la superficie ya está capturada en las features. **Importante:** `precio_m2`, `precio` y `log_precio_m2` nunca entran como features — son derivadas del target y causarían data leakage.
+
+---
+
+### Features
+
+| Categoría | Features |
+|-----------|---------|
+| **Físicas** | `superficie_construida_m2`, `numero_dormitorios`, `numero_banos`, `planta_num` |
+| **Habitabilidad** | `es_exterior_piso`, `tiene_ascensor_piso` *(activos en rent; excluidos en sale)* |
+| **Características** | `tiene_garaje`, `obra_nueva` |
+| **Geoespaciales** | `distancia_min_playa_km`, `distancia_min_supermercado_km`, `distancia_min_colegio_km`, `distancia_centro_municipio_km`, `score_cercania_servicios` |
+| **Mercado** | `precio_m2_municipio_media` |
+| **Interacciones / ratios** | `ratio_dormitorios_superficie`, `ratio_banos_superficie`, `interaccion_planta_sin_ascensor_piso` |
+| **Tipología** | `tipologia_unificada_piso`, `tipologia_unificada_unifamiliar` |
+| **Municipio (OHE)** | 9 dummies: `municipio_Camargo`, `municipio_Castro-Urdiales`, `municipio_El Astillero`, `municipio_Laredo`, `municipio_Piélagos`, `municipio_Santa Cruz de Bezana`, `municipio_Santander`, `municipio_Suances`, `municipio_Torrelavega` + `municipio_otro` |
+
+**Total features activas: 27**
+
+> Rent incluye `es_exterior_piso` y `tiene_ascensor_piso` (excluidas en sale) — en alquiler la habitabilidad cotidiana importa más que en una decisión de compra. La cobertura municipal es menor (9 municipios + otro) porque muchos tienen < mínimo de observaciones en la muestra de alquiler.
+
+---
+
+### Split train/test
+
+```
+Train: 529 | Test: 133 | Features: 27
+```
+
+Proporción 80/20, `random_state=42`.
+
+---
+
+### Búsqueda de hiperparámetros con Optuna
+
+A diferencia de `53_boost_sale`, en alquiler se usa **Optuna** para optimizar los hiperparámetros directamente sobre el dataset actual.
+
+**Protocolo:**
+- **Framework:** Optuna con `TPESampler` (por defecto)
+- **Función objetivo:** minimizar CV-RMSE (5-fold) sobre el conjunto de train
+- **El test no se toca durante la búsqueda** — evaluación holdout estricta
+- **Número de trials:** 100
+
+**Espacio de búsqueda:**
+
+```python
+def objective(trial: optuna.Trial) -> float:
+    params = dict(
+        n_estimators     = trial.suggest_int("n_estimators", 200, 1000, step=50),
+        max_depth        = trial.suggest_int("max_depth", 3, 7),
+        learning_rate    = trial.suggest_float("learning_rate", 0.01, 0.20, log=True),
+        subsample        = trial.suggest_float("subsample", 0.5, 1.0),
+        colsample_bytree = trial.suggest_float("colsample_bytree", 0.5, 1.0),
+        min_child_weight = trial.suggest_int("min_child_weight", 1, 10),
+        reg_lambda       = trial.suggest_float("reg_lambda", 0.1, 10.0, log=True),
+        reg_alpha        = trial.suggest_float("reg_alpha", 0.0, 5.0),
+        gamma            = trial.suggest_float("gamma", 0.0, 1.0),
+    )
+    # CV 5-fold sobre train; score: neg. RMSE
+```
+
+> `learning_rate` se muestrea en escala logarítmica (`log=True`) para explorar con mayor densidad los valores bajos (0.01–0.05). `reg_alpha` añade regularización L1 sobre los pesos de las hojas, complementando a `reg_lambda` (L2). `gamma` es el gain mínimo de split para abrir un nodo — regulariza la estructura del árbol directamente.
+
+**Resultado de la búsqueda:**
+
+```
+Best trial: 97.  Best value (CV-RMSE): 0.14622
+100 trials completados
+```
+
+**Mejores hiperparámetros encontrados por Optuna:**
+
+```python
+BEST_PARAMS = {
+    "n_estimators"    : 1000,
+    "max_depth"       : 6,
+    "learning_rate"   : 0.011737724486287017,
+    "subsample"       : 0.6046283826235364,
+    "colsample_bytree": 0.8531891359517659,
+    "min_child_weight": 6,
+    "reg_lambda"      : 3.378990393436524,
+    "reg_alpha"       : 0.06467616791725625,
+    "gamma"           : 0.03464694507245766,
+}
+```
+
+> Optuna selecciona `max_depth=6` (más profundo que venta) y `n_estimators=1000` con `learning_rate≈0.012` (muy bajo). Esta combinación de learning rate bajo + muchos árboles + profundidad alta es característica de datasets pequeños: el modelo necesita más iteraciones para acumular correcciones graduales. `min_child_weight=6` (vs 3 en sale) exige hojas con más observaciones — el modelo es más conservador dado el tamaño reducido.
+
+---
+
+### Resultados — RENT
+
+```
+Target seleccionado: log_precio
+
+split     MSE    RMSE     MAE      R2    MAPE
+train 0.00864 0.09295 0.07143 0.86194 0.01043
+   CV     NaN 0.14622     NaN     NaN     NaN
+ test 0.02096 0.14478 0.11452 0.61790 0.01677
+
+Sobreajuste → ratio RMSE test/train: 1.5576 | delta R²: 0.2440
+```
+
+El modelo definitivo de alquiler alcanza **R²_test=0.618** y **RMSE_test=0.145**. Respecto al mejor resultado anterior (XGBoost óptimo GridSearch en `53_boost_def`, R²=0.388), la mejora es de **+23.0 puntos** — la mayor mejora absoluta de cualquier modelo en cualquier dataset del proyecto. El sobreajuste es moderado y comparable al de venta (ratio≈1.56 en ambos casos).
+
+> Los modelos lineales del notebook 51 obtenían R²=0.576 (Lasso+OLS) con el dataset combinado. El XGBoost definitivo con el dataset API-only obtiene R²=0.618 — los modelos de boosting superan finalmente a los lineales en alquiler cuando se dispone de más datos y mejor feature engineering.
+
+---
+
+### Feature importances — RENT (top 10)
+
+| Feature | Importancia | Nota |
+|---------|------------|------|
+| `superficie_construida_m2` | 0.1803 | Predictor dominante |
+| `numero_dormitorios` | 0.1142 | Alta relevancia en alquiler |
+| `numero_banos` | 0.0800 | — |
+| `precio_m2_municipio_media` | 0.0684 | Nivel de precio medio del municipio |
+| `municipio_Camargo` | 0.0582 | Mercado diferencial Camargo |
+| `municipio_Santander` | 0.0510 | Capital de provincia |
+| `municipio_otro` | 0.0422 | Municipios con baja representación |
+| `distancia_min_playa_km` | 0.0343 | Efecto costero en alquiler |
+
+> En alquiler, `superficie_construida_m2` sigue siendo la feature más importante (18.0%) pero no domina como en venta. `numero_dormitorios` (11.4%) tiene más peso relativo que en sale — en alquiler la configuración de habitaciones es un criterio de búsqueda primario. Los municipios tienen importancias más equilibradas que en `53_boost_def` — señal de que la regularización de Optuna evita la memorización de patrones municipales.
+
+---
+
+### Resumen — `53_boost_rent.ipynb`
+
+| Métrica | Valor |
+|---------|-------|
+| Dataset | `final_rent_idealistaAPI.csv` |
+| Filas tras limpieza | **662** |
+| Train / Test | 529 / 133 |
+| Features | **27** |
+| Estrategia de tuning | Optuna (100 trials, TPESampler, CV-RMSE 5-fold) |
+| Best trial | 97 |
+| CV-RMSE (Optuna, train) | 0.14622 |
+| **Test RMSE (log)** | **0.14478** |
+| **Test R²** | **0.61790** |
+| Test MAE (log) | 0.11452 |
+| Error mediano aprox. | e^0.115 − 1 ≈ **+12.2%** |
+| Ratio RMSE test/train | 1.56 |
+| delta R² | 0.244 |
+
+---
+
+## Notebook: `55_sale_rent_models.ipynb`
+
+Notebook que centraliza y replica los modelos definitivos de `53_boost_sale` y `53_boost_rent` en un único lugar, documentando los hiperparámetros exportables y sirviendo como referencia consolidada de producción.
+
+### Descripción de modelos integrados
+
+| Aspecto | Sale | Rent |
+|---------|------|------|
+| Dataset | `final_sale_idealistaAPI.csv` | `final_rent_idealistaAPI.csv` |
+| Hiperparámetros | Hardcodeados (de `53_boost_def_3`) | Optuna — transferidos de `53_boost_rent` |
+| Target | `log_precio` | `log_precio` |
+| Features | 48 | 27 |
+| Limpieza | IQR×1.5 + suelo `precio_m2 ≥ 1.000 €/m²` | Vacacionales (`>18 €/m²`) + baratos (`<6 €/m²`) + IQR×1.5 |
+| Train | 2.034 | 529 |
+| Test | 509 | 133 |
+
+### Hiperparámetros documentados
+
+**Sale — XGBoost (hardcoded):**
+```python
+XGB_PARAMS_SALE = {
+    "n_estimators": 400, "max_depth": 4, "learning_rate": 0.05,
+    "subsample": 0.8, "colsample_bytree": 0.8, "min_child_weight": 3,
+    "reg_lambda": 3, "random_state": 42
+}
+```
+
+**Rent — XGBoost (Optuna):**
+```python
+XGB_PARAMS_RENT = {
+    "n_estimators": 1000, "max_depth": 6, "learning_rate": 0.011737724486287017,
+    "subsample": 0.6046283826235364, "colsample_bytree": 0.8531891359517659,
+    "min_child_weight": 6, "reg_lambda": 3.378990393436524,
+    "reg_alpha": 0.06467616791725625, "gamma": 0.03464694507245766,
+    "random_state": 42
+}
+```
+
+### Resultados consolidados
+
+| Dataset | Filas tras limpieza | Features | CV-RMSE | Test RMSE | Test R² | Error aprox. |
+|---------|---------------------|----------|---------|----------|---------|--------------|
+| Sale | 2.543 | 48 | 0.25111 | **0.24562** | **0.82054** | ±27.8% |
+| Rent | 662 | 27 | 0.14622 | **0.14478** | **0.61790** | ±15.6% |
+
+> El error aproximado se calcula como e^RMSE − 1 en escala logarítmica — es el margen de error porcentual medio. Para una vivienda de 200.000€: error de venta ≈ ±55.600€. Para 1.000€/mes de alquiler: error ≈ ±156€/mes.
+
+### Funciones auxiliares
+
+| Función | Descripción |
+|---------|-------------|
+| `get_metrics(y_real, y_pred)` | MSE, RMSE, MAE, R², MAPE — devuelve DataFrame de 1 fila |
+| `remove_outliers_iqr(df)` | IQR×1.5 sobre `log_precio` — devuelve df filtrado |
+| `build_X(df, base_features)` | Construye X: features base + municipio_* OHE + imputación mediana |
+| `build_geo_ref(df)` | Mediana de variables geográficas por municipio (para el estimador) |
+
+---
+
+## Notebook: `55_input_result.ipynb`
+
+Estimador de precio interactivo que combina los modelos definitivos (sale + rent) para obtener, dado un conjunto de características de una vivienda, el **precio de venta estimado**, el **alquiler mensual estimado** y la **rentabilidad bruta**.
+
+### Protocolo de entrenamiento
+
+Los modelos se re-entrenan al completo dentro del notebook con los mismos parámetros que `55_sale_rent_models.ipynb`:
+- Split 80/20 para evaluación holdout reproducible
+- Sale: 2.034 train + 509 test | Rent: 529 train + 133 test
+
+```
+Sale  — test RMSE (log): 0.2456  →  ±27.8%
+Rent  — test RMSE (log): 0.1448  →  ±15.6%
+```
+
+### Cobertura geográfica
+
+El estimador construye una **referencia geográfica** por municipio (mediana de distancias POI y `precio_m2_municipio_media`) a partir del propio dataset limpio.
+
+| Modelo | Municipios disponibles (n) |
+|--------|--------------------------|
+| **Sale** | 31: Ampuero, Barcena de Cicero, Camargo, Castro-Urdiales, Colindres, Cudon, El Astillero, Guarnizo, Laredo, Liendo, Limpias, Marina de Cudeyo, Miengo, Mogro, Noja, Ortuella, Piélagos, Polanco, Ribamontan al Mar, Ribamontan al Monte, Santa Cruz de Bezana, Santander, Santillana del Mar, Santoña, Santurtzi, Suances, Torrelavega, Villaescusa, Viveda, Voto, otro |
+| **Rent** | 10: Camargo, Castro-Urdiales, El Astillero, Laredo, Piélagos, Santa Cruz de Bezana, Santander, Suances, Torrelavega, otro |
+
+### Input del estimador
+
+El usuario configura los atributos de la vivienda en una celda:
+
+```python
+MUNICIPIO      = "Santa Cruz de Bezana"   # nombre exacto de la lista anterior
+SUPERFICIE_M2  = 90
+DORMITORIOS    = 3
+BANOS          = 2
+PLANTA         = 1
+TIPO           = "piso"          # "piso" | "unifamiliar"
+ES_EXTERIOR    = True
+TIENE_ASCENSOR = True
+TIENE_GARAJE   = True
+OBRA_NUEVA     = True
+```
+
+### Ejemplo de estimación
+
+```
+══════════════════════════════════════════════════════════
+  90 m²  ·  3 dorm.  ·  2 baños  —  Santa Cruz de Bezana
+  PISO  ·  Planta 1 · exterior · con ascensor · garaje · obra nueva
+══════════════════════════════════════════════════════════
+
+  Precio de venta estimado   :      314.381 €
+  Intervalo error (±1σ)      : [   245.914 €  —     401.910 €]  (±28%)
+
+  Alquiler mensual estimado  :        1.039 €/mes
+  Intervalo error (±1σ)      : [       899 €/mes  —       1.201 €/mes]  (±16%)
+
+  Rentabilidad bruta estim.  :         4.0 %
+```
+
+> El intervalo de error se calcula como `precio × (e^RMSE − 1)` usando el RMSE del modelo en escala logarítmica.
+
+---
+
+## Notebook: `55_input_result_no_k_fold.ipynb`
+
+Variante de `55_input_result` que entrena los modelos sobre el **100% de las observaciones** (sin reservar test) para maximizar la información disponible en la predicción.
+
+### Diferencia clave con `55_input_result`
+
+| Aspecto | `55_input_result` | `55_input_result_no_k_fold` |
+|---------|-----------------|--------------------------|
+| Split | 80/20 (train/test) | Sin split — 100% de datos para entrenar |
+| Evaluación interna | Test RMSE (holdout) | CV-RMSE (5-fold, from 53_boost notebooks) |
+| Uso recomendado | Auditoría / comparación de modelos | Predicción de viviendas reales (maximiza datos) |
+
+### CV-RMSE de referencia (transferidos desde notebooks 53)
+
+| Modelo | Observaciones | Features | CV-RMSE | Error aprox. |
+|--------|--------------|----------|---------|--------------|
+| Sale (100% datos) | 2.543 | 48 | **0.25922** | ±29.6% |
+| Rent (100% datos) | 662 | 27 | **0.14622** | ±16.8% |
+
+### Ejemplo de estimación (misma vivienda)
+
+```
+══════════════════════════════════════════════════════════
+  90 m²  ·  3 dorm.  ·  2 baños  —  Santa Cruz de Bezana
+  PISO  ·  Planta 1 · exterior · con ascensor · garaje · obra nueva
+══════════════════════════════════════════════════════════
+
+  Precio de venta estimado   :      317.039 €
+  Intervalo error (±1σ)      : [   244.644 €  —     410.857 €]  (±30%)
+
+  Alquiler mensual estimado  :          994 €/mes
+  Intervalo error (±1σ)      : [       859 €/mes  —       1.151 €/mes]  (±16%)
+
+  Rentabilidad bruta estim.  :         3.8 %
+```
+
+> La estimación varía ligeramente respecto al modelo con split (314.381€ vs 317.039€ en venta) — el modelo entrenado sobre el 100% de los datos ajusta de forma marginalmente diferente. El intervalo es algo más amplio (±30% vs ±28%) al usar CV-RMSE en lugar de test RMSE.
+
+---
+
+## Resumen global definitivo — Modelos boosting finales
+
+### Evolución de resultados: `53_boost_def` → modelos definitivos API
+
+| Dataset | Notebook | Gold dataset | n_train | Mejor modelo | R²_test | RMSE_test | Mejora R² |
+|---------|---------|-------------|---------|-------------|---------|----------|-----------|
+| Sale | `53_boost_def.ipynb` | `final_sale.csv` (588 obs.) | 470 | AdaBoost óptimo | 0.641 | 0.313 | — |
+| Sale | **`53_boost_sale.ipynb`** | `final_sale_idealistaAPI.csv` (2.543 obs.) | 2.034 | **XGBoost** | **0.821** | **0.246** | **+17.9pp** |
+| Rent | `53_boost_def.ipynb` | `final_rent.csv` (477 obs.) | 381 | XGBoost óptimo | 0.388 | 0.289 | — |
+| Rent | **`53_boost_rent.ipynb`** | `final_rent_idealistaAPI.csv` (662 obs.) | 529 | **XGBoost** | **0.618** | **0.145** | **+23.0pp** |
+
+### Modelo definitivo recomendado (versión final)
+
+| Dataset | Modelo | Tuning | Test RMSE | Test R² | CV-RMSE | Error en euros |
+|---------|--------|--------|----------|---------|---------|----------------|
+| **Sale** | XGBoost | Hardcoded | **0.2456** | **0.8205** | 0.2511 | ±27.8% (≈±49k€ para 175k€) |
+| **Rent** | XGBoost | Optuna (100 trials) | **0.1448** | **0.6179** | 0.1462 | ±15.6% (≈±156€ para 1.000€/mes) |
+
+### Posición en el ranking global del proyecto
+
+**Sale — XGBoost definitivo (R²=0.821):**
+- Supera al anterior líder global Extra Trees (R²=0.707 en notebook 52) por +11.4 puntos.
+- Es el **mejor modelo del proyecto para venta**.
+- Factor principal: muestra 4.3× más grande en train (2.034 vs 470) + features adicionales de mercado y de interacción.
+
+**Rent — XGBoost definitivo (R²=0.618):**
+- Supera a los modelos lineales anteriores (Lasso+OLS, R²=0.576) por +4.2 puntos.
+- **Primera vez que un modelo no-lineal supera a los lineales en alquiler** en este proyecto.
+- Factor principal: muestra mayor (529 vs 381 en train) + eliminación de vacacionales + feature `precio_m2_municipio_media`.
+
+### Análisis comparativo de hiperparámetros: sale vs rent (modelos definitivos)
+
+| Hiperparámetro | Sale | Rent | Interpretación |
+|---------------|------|------|----------------|
+| `n_estimators` | 400 | 1000 | Rent necesita más árboles con learning rate más bajo |
+| `max_depth` | 4 | 6 | Rent permite árboles más profundos — más observaciones por árbol relativas al espacio de features |
+| `learning_rate` | 0.050 | 0.0117 | Shrinkage mucho más agresivo en rent — compensado por más árboles |
+| `subsample` | 0.8 | 0.60 | Rent muestrea menos filas por árbol — más conservador con n pequeño |
+| `colsample_bytree` | 0.8 | 0.85 | Similar en ambos |
+| `min_child_weight` | 3 | 6 | Rent exige hojas más densas — regularización más fuerte |
+| `reg_lambda` | 3.0 | 3.38 | L2 similar en ambos — parámetro robusto |
+| `reg_alpha` | — | 0.065 | L1 solo en rent (Optuna lo encuentra útil) |
+| `gamma` | — | 0.035 | Split gain mínimo solo en rent (Optuna) |
+
+### Decisiones de diseño específicas de los notebooks definitivos
+
+| Decisión | Notebook | Justificación |
+|----------|---------|--------------|
+| Hiperparámetros fijos en sale | `53_boost_sale` | Los params de `53_boost_def_3` ya fueron optimizados — re-buscar con GridSearch en 2.034 obs. sería costoso sin garantía de mejora |
+| Optuna en rent | `53_boost_rent` | El dataset de alquiler con limpieza de vacacionales es diferente al usado en `53_boost_def` — justifica re-optimizar desde cero |
+| Filtro `precio_m2 < 1.000 €/m²` en sale | `53_boost_sale` | Detecta ruinas y errores que el IQR sobre `log_precio` no elimina (precios bajos con superficies altas que distorsionan el Q-Q plot) |
+| Filtro vacacionales `precio_m2 > 18 €/m²/mes` | `53_boost_rent` | Sin este paso el modelo mezcla demanda turística y residencial — umbral que separa la distribución bimodal |
+| Todas las OHE del gold en sale | `53_boost_sale` | El gold API tiene 30 municipios con representación suficiente — se usan directamente sin colapsar |
+| `precio_m2_municipio_media` en ambos | Ambos | Feature continua de mercado que complementa las dummies OHE, capturando el nivel de precio zonal de forma suave |
+| `es_exterior_piso`/`tiene_ascensor_piso` en rent | `53_boost_rent` | Relevantes para arrendatarios (habitabilidad cotidiana) pero no para compradores (decisión a largo plazo) |

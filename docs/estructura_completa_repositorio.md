@@ -1,9 +1,9 @@
 # Estructura Completa del Repositorio — BezanillaSL
 
-**Versión:** 1.0
-**Fecha de generación:** 2026-03-20
-**Rama analizada:** `feat/ML` (HEAD: `d59fd06`)
-**Estado del repositorio:** limpio (sin cambios no confirmados)
+**Versión:** 1.2
+**Fecha de generación:** 2026-04-22
+**Rama analizada:** `feat/ML_terrenos` (HEAD: `e7471c2`)
+**Estado del repositorio:** con cambios no confirmados (notebooks ML terrenos y transformación scraping_processed_to_gold)
 
 > **Convención de etiquetas utilizadas en este documento:**
 > - `[Verificado]` — observado directamente en archivos, rutas o código fuente.
@@ -83,17 +83,30 @@ BezanillaSL/                          ← Raíz del proyecto
 ├── data/                             ← Jerarquía de capas de datos
 │   ├── raw/                          ← Datos originales sin transformar
 │   │   ├── idealistaAPI/
-│   │   │   ├── raw/                  ← JSON por petición API (≈200 ficheros por ejecución)
-│   │   │   │   ├── sale_homes_run_20260218_173035/   ← Ejecución venta (100 peticiones)
-│   │   │   │   ├── rent_homes_run_20260220_111903/   ← Ejecución alquiler (100 peticiones)
+│   │   │   ├── raw/                  ← JSON por petición API (≈100 ficheros por ejecución)
+│   │   │   │   ├── sale_homes_run_20260218_173035/   ← Ejecución venta 1
+│   │   │   │   ├── sale_homes_run_20260331_174125/   ← Ejecución venta 2
+│   │   │   │   ├── rent_homes_run_20260220_111903/   ← Ejecución alquiler 1
+│   │   │   │   ├── rent_homes_run_20260310_171627/   ← Ejecución alquiler 2
+│   │   │   │   ├── rent_homes_run_20260401_135939/   ← Ejecución alquiler 3
+│   │   │   │   ├── rent_homes_run_20260405_140420/   ← Ejecución alquiler 4
 │   │   │   │   └── test/            ← Fixtures de prueba (elementList.jsonl, response_page1.json)
-│   │   │   └── preprocess/          ← CSVs resultado de limpieza inicial + summary.json
+│   │   │   └── preprocess/          ← CSVs resultado de normalización JSON→CSV por ejecución
 │   │   │       ├── sale_homes_run_20260218_173035/
-│   │   │       └── rent_homes_run_20260220_111903/
-│   │   ├── scraping_manual/         ← 3 CSVs obtenidos por scraping manual de Idealista
-│   │   │   ├── alquiler_idealista.csv
-│   │   │   ├── venta_idealista.csv
-│   │   │   └── terrenos_idealista.csv
+│   │   │       ├── sale_homes_run_20260331_174125/
+│   │   │       ├── rent_homes_run_20260220_111903/
+│   │   │       ├── rent_homes_run_20260310_171627/
+│   │   │       ├── rent_homes_run_20260401_135939/
+│   │   │       └── rent_homes_run_20260405_140420/
+│   │   ├── scraping_manual/         ← CSVs obtenidos por scraping manual de Idealista
+│   │   │   ├── raw/                 ← CSVs originales sin transformar
+│   │   │   │   ├── scraping_rent_raw.csv
+│   │   │   │   ├── scraping_sale_raw.csv
+│   │   │   │   └── scraping_land_raw.csv
+│   │   │   └── preprocessed/        ← CSVs estandarizados (output de los notebooks 01_*)
+│   │   │       ├── scraping_rent_preprocessed.csv
+│   │   │       ├── scraping_sale_preprocessed.csv
+│   │   │       └── scraping_land_preprocessed.csv
 │   │   ├── MIVAU/                   ← Fuentes del Ministerio de Vivienda y Agenda Urbana
 │   │   │   ├── README.md
 │   │   │   ├── datos_alquiler/      ← SERPAVI 2011-2023 (XLSX) + PDFs metodología
@@ -105,21 +118,19 @@ BezanillaSL/                          ← Raíz del proyecto
 │   │
 │   ├── processed/                   ← Datos limpios y normalizados
 │   │   ├── idealistaAPI/
-│   │   │   ├── sale_homes_clean.csv
-│   │   │   ├── rent_homes_clean.csv
-│   │   │   ├── sale_homes_clean_outliers.csv    ← Versión con outliers eliminados
-│   │   │   ├── rent_homes_clean_outliers.csv    ← Versión con outliers eliminados
-│   │   │   └── real_estate_dataset_ml.csv       ← Dataset unificado venta+alquiler [Inferido]
+│   │   │   ├── total_sale_cantabria_outliers.csv  ← Venta unificada (todas las runs) sin outliers
+│   │   │   └── total_rent_cantabria_outliers.csv  ← Alquiler unificado (todas las runs) sin outliers
 │   │   ├── scraping_manual/
-│   │   │   ├── alquiler_idealista_clean.csv
-│   │   │   ├── venta_idealista_clean.csv
-│   │   │   └── terrenos_idealista_clean.csv
+│   │   │   └── total_land_cantabria_outliers.csv  ← Terrenos scraping sin outliers (output de scraping_land_processing_outliers)
 │   │   └── geo/
 │   │       └── pois_cantabria.csv   ← POIs descargados de OpenStreetMap
 │   │
 │   ├── gold/                        ← Datasets finales listos para ML
-│   │   ├── final_sale.csv           ← 588 observaciones, 30+ features
-│   │   └── final_rent.csv           ← 477 observaciones, 21-29 features
+│   │   ├── final_sale.csv               ← Dataset venta combinado (API + scraping) [ELIMINADO en v1.2]
+│   │   ├── final_rent.csv               ← Dataset alquiler combinado (API + scraping) [ELIMINADO en v1.2]
+│   │   ├── final_sale_idealistaAPI.csv  ← Dataset venta solo fuente API [Verificado]
+│   │   ├── final_rent_idealistaAPI.csv  ← Dataset alquiler solo fuente API [Verificado]
+│   │   └── final_land_scraping.csv      ← Dataset terrenos scraping gold (686 obs. × 9 cols) [Añadido v1.2]
 │   │
 │   └── ML/                          ← Outputs analíticos de experimentos ML
 │       ├── linear_regression/
@@ -142,11 +153,17 @@ BezanillaSL/                          ← Raíz del proyecto
 │   └── general_models/              ← [Verificado: directorio vacío — sin modelos serializados]
 │
 ├── notebooks/                       ← Cuadernos de análisis por etapa
-│   ├── 01_manual_scraping_processing/   ← EDA datos scraping manual (3 notebooks)
-│   ├── 02_idealista_API_processing/     ← Limpieza datos API (2 notebooks)
+│   ├── 01_manual_scraping_processing/   ← Procesamiento datos scraping manual (3 notebooks)
+│   ├── 02_idealista_API_processing/     ← Limpieza, outliers y preprocesado API (3 notebooks)
 │   ├── 03_macro_and_structural_analysis/← Análisis macro y estructural (4 notebooks)
-│   ├── 04_EDA/                          ← EDA unificado + outliers + feature eng. (4 notebooks)
-│   └── 05_ML/                           ← Experimentos ML (14 ficheros)
+│   ├── 04_transformations/              ← Transformación processed → gold (2 notebooks) [v1.2]
+│   │   ├── idealistaAPI_processed_to_gold.ipynb  ← Viviendas API → gold
+│   │   └── scraping_processed_to_gold.ipynb      ← Terrenos scraping → gold [Añadido v1.2]
+│   ├── 05_ML_idealistaAPI/              ← Experimentos ML sobre datos API Idealista (≥20 ficheros)
+│   └── 06_ML_scraping_land/             ← Experimentos ML sobre datos de terrenos (scraping manual) [Añadido v1.2]
+│       ├── 61_linear_regression.ipynb   ← Ridge + Lasso con GridSearchCV
+│       ├── 62_random_forest.ipynb       ← RF + Extra Trees con Optuna (40 trials)
+│       └── 63_boost.ipynb               ← XGBoost + Optuna (50 trials)
 │
 ├── src/                             ← Código de producción modularizado
 │   ├── idealistaAPI/                ← Módulo de ingesta vía API Idealista
@@ -162,7 +179,7 @@ BezanillaSL/                          ← Raíz del proyecto
 |---|---|---|
 | `data/` | Pipeline de datos por capas | raw, processed, gold, ML |
 | `src/` | Código de producción reutilizable | Módulos API e geoespacial |
-| `notebooks/` | Experimentación y análisis | 18 notebooks + 1 script .py |
+| `notebooks/` | Experimentación y análisis | ~24 notebooks + 1 script .py |
 | `docs/` | Documentación técnica | Markdowns de modelos + diagramas PNG |
 | `models/` | Artefactos de modelos entrenados | **Vacío actualmente** `[Verificado]` |
 | `cache/` | Caché de cómputo intermedio | 32 JSON con nombre hasheado |
@@ -181,19 +198,19 @@ graph LR
 
     subgraph data/raw
         F[idealistaAPI/raw — JSON]
-        G[scraping_manual — CSV]
+        G["scraping_manual/raw/ — CSV originales\nscraping_manual/preprocessed/ — CSV estandarizados"]
         H[MIVAU, INE, euribor]
     end
 
     subgraph data/processed
-        I[idealistaAPI — CSV limpio]
-        J[scraping_manual — CSV limpio]
+        I[idealistaAPI — total_sale/rent_cantabria_outliers.csv]
+        J["scraping_manual/total_land_cantabria_outliers.csv"]
         K[geo/pois_cantabria.csv]
     end
 
     subgraph data/gold
-        L[final_sale.csv]
-        M[final_rent.csv]
+        L[final_sale.csv / final_sale_idealistaAPI.csv]
+        M[final_rent.csv / final_rent_idealistaAPI.csv]
     end
 
     subgraph data/ML
@@ -242,7 +259,7 @@ graph LR
 
 **Fuente: Scraping manual de Idealista**
 - Mecanismo: extracción manual no automatizada (`[Inferido]` por ausencia de código de scraping en el repo)
-- 3 CSVs en `data/raw/scraping_manual/`: venta, alquiler, terrenos
+- 3 CSVs en `data/raw/scraping_manual/raw/`: `scraping_rent_raw.csv`, `scraping_sale_raw.csv`, `scraping_land_raw.csv`
 - Ramas remotas dedicadas: `feat/scraping_manual_venta_idealista`, `feat/scraping_manual_alquiler_idealista`, `feat/scraping_manual_terrenos_idealista` `[Verificado]`
 
 **Fuente: MIVAU**
@@ -265,11 +282,12 @@ graph LR
 
 ### 3.2 Procesamiento y limpieza
 
-- Normalización de JSON de la API a CSV mediante `pd.json_normalize()` en `src/idealistaAPI/processing/clean_idealista.py`
-- Limpieza de datos scraping en `notebooks/01_manual_scraping_processing/` (EDA + export)
-- Limpieza de datos API en `notebooks/02_idealista_API_processing/`
-- Eliminación de outliers mediante regla IQR×1.5 en `notebooks/04_EDA/43_eliminar_outliers_regla_fija.ipynb`
-- Versión alternativa 3-sigma disponible pero marcada como `_no_ejecutar` `[Verificado]`
+- Normalización de JSON de la API a CSV mediante `pd.json_normalize()` en `src/idealistaAPI/processing/clean_idealista.py`, orquestado por `notebooks/02_idealista_API_processing/idealistaAPI_raw_to_preprocess.ipynb`
+- Limpieza y validación de datos API en `notebooks/02_idealista_API_processing/idealistaAPI_data.ipynb` (venta + alquiler unificados en un único notebook)
+- Eliminación de outliers mediante regla IQR×1.5 en `notebooks/02_idealista_API_processing/idealistaAPI_processing_outliers.ipynb` (movido de la carpeta 04_EDA) `[Verificado]`
+- Los resultados de todas las ejecuciones se consolidan en `data/processed/idealistaAPI/total_sale_cantabria_outliers.csv` y `total_rent_cantabria_outliers.csv`
+- Limpieza de datos scraping en `notebooks/01_manual_scraping_processing/` (3 notebooks renombrados)
+- Tratamiento de outliers para terrenos centralizado en `notebooks/01_manual_scraping_processing/scraping_land_processing_outliers.ipynb` en cuatro etapas: (1) **Regla fija** — precio, superficie y precio/m² dentro de rangos del mercado cántabro; (2) **IQR×3.0 multivariante** sobre `precio_eur`, `superficie_m2` y `precio_m2`; (3) **Regla de negocio** — eliminación de precios > 300.000 €; (4) **IQR×1.5 sobre `precio_eur`** — ajuste estadístico final. Output: `data/processed/scraping_manual/total_land_cantabria_outliers.csv`. `[Verificado — actualizado en v1.3]`
 
 ### 3.3 Enriquecimiento geoespacial
 
@@ -277,11 +295,12 @@ graph LR
 - Variables resultantes incorporadas al gold layer: `distancia_min_playa_km`, `distancia_min_supermercado_km`, `distancia_min_colegio_km`
 - Variable compuesta: `score_cercania_servicios` `[Verificado]`
 
-### 3.4 Análisis exploratorio (EDA)
+### 3.4 Transformaciones (processed → gold)
 
-- `notebooks/04_EDA/41_*` — relación precio-superficie
-- `notebooks/04_EDA/43_*` — eliminación de outliers (IQR 1.5)
-- `notebooks/04_EDA/44_*` — feature engineering: dummies de municipio, tipología, transformación logarítmica del precio
+La carpeta `04_EDA` ha sido renombrada a `04_transformations` y simplificada. El EDA exploratorio y el tratamiento de outliers han migrado a los notebooks `02_*`. Esta capa contiene ahora un único notebook de transformación:
+
+- `notebooks/04_transformations/idealistaAPI_processed_to_gold.ipynb` — genera el gold layer a partir de los datos procesados y sin outliers: encoding de categorías, variables geoespaciales (POI distances), dummies de municipio y transformación logarítmica del target `[Verificado]`
+- `notebooks/04_transformations/scraping_processed_to_gold.ipynb` — genera el gold layer de terrenos a partir del dataset scraping procesado. Pipeline: (1) filtrado categorías de suelo con <10 registros, (2) reglas fijas de precio (≤ 0 y > 300.000 €), (3) IQR×1.5 sobre `precio_eur` en escala original, (4) exclusión de leakage (`precio_m2`, `titulo`), (5) log-transformación del target, (6) target encoding de `municipio` (35 categorías), (7) OHE de `tipo_suelo` (3 categorías), (8) conversión de booleanos a enteros. Output: `data/gold/final_land_scraping.csv`. Trabaja sobre copia del input y sobreescribe el output en cada ejecución. `[Verificado — añadido en v1.2]`
 
 ### 3.5 Análisis macro y estructural
 
@@ -293,7 +312,7 @@ graph LR
 
 ### 3.6 Feature engineering
 
-- Realizado en `notebooks/04_EDA/44_feature_engineering_gold.ipynb` `[Verificado]`
+- Realizado en `notebooks/04_transformations/idealistaAPI_processed_to_gold.ipynb` `[Verificado]`
 - Variables creadas (presentes en `final_sale.csv` y `final_rent.csv`):
   - `log_precio` — variable objetivo transformada (log natural del precio)
   - `precio_m2_municipio_media` — precio medio por m² a nivel municipal `[Inferido]`
@@ -304,7 +323,7 @@ graph LR
 
 ### 3.7 Modelado ML
 
-- 3 familias de modelos + híbridos, documentados en `notebooks/05_ML/`
+- 3 familias de modelos + híbridos, documentados en `notebooks/05_ML_idealistaAPI/`
 - Véase sección 8 para detalle completo
 
 ### 3.8 Outputs / documentación / modelos
@@ -332,30 +351,27 @@ flowchart TD
 
     subgraph RAW["data/raw/"]
         B1["idealistaAPI/raw/\nJSON por petición\n≈200 ficheros"]
-        B2["scraping_manual/\nalquiler, venta, terrenos CSV"]
+        B2["scraping_manual/raw/\nalquiler, venta, terrenos CSV\n(scraping_*_raw.csv)"]
         B3["MIVAU/\nXLS + XLSX + PDF"]
         B4["INE/CensoViviendas_2021.csv"]
         B5["euribor_raw.txt"]
     end
 
     subgraph PREPROCESS["data/raw/idealistaAPI/preprocess/"]
-        C1["sale_homes_cantabria_bezana_like_raw.csv"]
-        C2["rent_homes_cantabria_bezana_like_raw.csv"]
+        C1["sale_homes_run_*/sale_homes_cantabria_bezana_like_raw.csv\n(2 ejecuciones de venta)"]
+        C2["rent_homes_run_*/rent_homes_cantabria_bezana_like_raw.csv\n(4 ejecuciones de alquiler)"]
     end
 
     subgraph PROC["data/processed/"]
-        D1["idealistaAPI/sale_homes_clean.csv"]
-        D2["idealistaAPI/rent_homes_clean.csv"]
-        D3["idealistaAPI/sale_homes_clean_outliers.csv"]
-        D4["idealistaAPI/rent_homes_clean_outliers.csv"]
-        D5["idealistaAPI/real_estate_dataset_ml.csv"]
-        D6["scraping_manual/*_clean.csv"]
+        D3["idealistaAPI/total_sale_cantabria_outliers.csv\n(todas las runs unificadas, sin outliers)"]
+        D4["idealistaAPI/total_rent_cantabria_outliers.csv\n(todas las runs unificadas, sin outliers)"]
+        D6["scraping_manual/total_land_cantabria_outliers.csv"]
         D7["geo/pois_cantabria.csv"]
     end
 
     subgraph GOLD["data/gold/"]
-        E1["final_sale.csv\n588 filas · 30+ features"]
-        E2["final_rent.csv\n477 filas · 21-29 features"]
+        E1["final_sale.csv\nfinal_sale_idealistaAPI.csv"]
+        E2["final_rent.csv\nfinal_rent_idealistaAPI.csv"]
     end
 
     subgraph ML_OUT["data/ML/"]
@@ -368,31 +384,28 @@ flowchart TD
         G1["SERPAVI · Censo · Euribor · PESTLE"]
     end
 
-    A1 -->|"src/idealistaAPI\nrun_sale/rent_requests.py"| B1
+    A1 -->|"src/idealistaAPI/ingestion\nrun_sale/rent_requests.py"| B1
     A2 --> B2
     A3 --> B3
     A4 --> B4
     A5 --> B5
     A6 -->|"src/geospatial_expansion\nrun_descargar_pois.py"| D7
 
-    B1 -->|"src/idealistaAPI/processing\nclean_idealista.py"| C1
-    B1 -->|"src/idealistaAPI/processing\nclean_idealista.py"| C2
+    B1 -->|"nb 02: idealistaAPI_raw_to_preprocess\n→ clean_idealista.py"| C1
+    B1 -->|"nb 02: idealistaAPI_raw_to_preprocess\n→ clean_idealista.py"| C2
 
-    C1 -->|"nb 02: idealistaAPI_data_sale"| D1
-    C2 -->|"nb 02: idealistaAPI_data_rent"| D2
-    D1 -->|"nb 04_EDA/43_eliminar_outliers"| D3
-    D2 -->|"nb 04_EDA/43_eliminar_outliers"| D4
-    D3 & D4 -->|"nb 05_ML/50_unificar_dataset"| D5
+    C1 -->|"nb 02: idealistaAPI_data\n+ idealistaAPI_processing_outliers"| D3
+    C2 -->|"nb 02: idealistaAPI_data\n+ idealistaAPI_processing_outliers"| D4
     B2 -->|"nb 01_*"| D6
 
-    D3 -->|"nb 04_EDA/44_feature_engineering_gold"| E1
-    D4 -->|"nb 04_EDA/44_feature_engineering_gold"| E2
+    D3 -->|"nb 04_transformations/idealistaAPI_processed_to_gold"| E1
+    D4 -->|"nb 04_transformations/idealistaAPI_processed_to_gold"| E2
     D7 -->|"agregar_distancias_minimas_poi()"| E1
     D7 -->|"agregar_distancias_minimas_poi()"| E2
 
-    E1 & E2 -->|"nb 05_ML/51_linear_regression_def"| F1
-    E1 & E2 -->|"nb 05_ML/51_linear_regression_def"| F2
-    E1 & E2 -->|"nb 05_ML/52_random_forest_def"| F3
+    E1 & E2 -->|"nb 05_ML_idealistaAPI/51_linear_regression_def"| F1
+    E1 & E2 -->|"nb 05_ML_idealistaAPI/51_linear_regression_def"| F2
+    E1 & E2 -->|"nb 05_ML_idealistaAPI/52_random_forest_def"| F3
 
     B3 & B4 & B5 --> G1
 ```
@@ -401,11 +414,11 @@ flowchart TD
 
 | Fuente | Método de captura | Ruta de entrada | Proceso de transformación | Ruta de salida | Consumidor final | Madurez / Observaciones |
 |---|---|---|---|---|---|---|
-| API Idealista (venta) | OAuth2 + CLI `run_sale_requests.py` | `data/raw/idealistaAPI/raw/sale_homes_run_20260218_173035/` | `clean_idealista.py` → nb `02/idealistaAPI_data_sale` → nb `04_EDA/43` | `data/processed/idealistaAPI/sale_homes_clean_outliers.csv` | `data/gold/final_sale.csv` | `[Verificado]` — 1 ejecución documentada, 100 peticiones |
-| API Idealista (alquiler) | OAuth2 + CLI `run_rent_requests.py` | `data/raw/idealistaAPI/raw/rent_homes_run_20260220_111903/` | `clean_idealista.py` → nb `02/idealistaAPI_data_rent` → nb `04_EDA/43` | `data/processed/idealistaAPI/rent_homes_clean_outliers.csv` | `data/gold/final_rent.csv` | `[Verificado]` — 1 ejecución documentada |
-| Scraping manual Idealista (venta) | Manual — descarga directa de CSV | `data/raw/scraping_manual/venta_idealista.csv` | nb `01/EDA_sale.ipynb` | `data/processed/scraping_manual/venta_idealista_clean.csv` | No integrado en gold layer `[Inferido]` | `[Verificado]` — dataset alternativo; no incorporado en final_sale.csv |
-| Scraping manual Idealista (alquiler) | Manual | `data/raw/scraping_manual/alquiler_idealista.csv` | nb `01/EDA_rent.ipynb` | `data/processed/scraping_manual/alquiler_idealista_clean.csv` | No integrado en gold layer `[Inferido]` | `[Verificado]` — dataset alternativo |
-| Scraping manual Idealista (terrenos) | Manual | `data/raw/scraping_manual/terrenos_idealista.csv` | nb `01/EDA_terreno.ipynb` | `data/processed/scraping_manual/terrenos_idealista_clean.csv` | `[No verificado]` — sin consumidor identificado en gold/ML | Análisis descriptivo únicamente |
+| API Idealista (venta) | OAuth2 + CLI `ingestion/run_sale_requests.py` | `data/raw/idealistaAPI/raw/sale_homes_run_*/` (2 ejecuciones) | `idealistaAPI_raw_to_preprocess.ipynb` → `clean_idealista.py` → `idealistaAPI_data.ipynb` → `idealistaAPI_processing_outliers.ipynb` | `data/processed/idealistaAPI/total_sale_cantabria_outliers.csv` | `data/gold/final_sale.csv`, `final_sale_idealistaAPI.csv` | `[Verificado]` — 2 ejecuciones documentadas |
+| API Idealista (alquiler) | OAuth2 + CLI `ingestion/run_rent_requests.py` | `data/raw/idealistaAPI/raw/rent_homes_run_*/` (4 ejecuciones) | `idealistaAPI_raw_to_preprocess.ipynb` → `clean_idealista.py` → `idealistaAPI_data.ipynb` → `idealistaAPI_processing_outliers.ipynb` | `data/processed/idealistaAPI/total_rent_cantabria_outliers.csv` | `data/gold/final_rent.csv`, `final_rent_idealistaAPI.csv` | `[Verificado]` — 4 ejecuciones documentadas |
+| Scraping manual Idealista (venta) | Manual — descarga directa de CSV | `data/raw/scraping_manual/raw/scraping_sale_raw.csv` | nb `01/scraping_sale_processing.ipynb` | `data/raw/scraping_manual/preprocessed/scraping_sale_preprocessed.csv` | `[Inferido]` — dataset complementario | `[Verificado]` |
+| Scraping manual Idealista (alquiler) | Manual | `data/raw/scraping_manual/raw/scraping_rent_raw.csv` | nb `01/scraping_rent_processing.ipynb` | `data/raw/scraping_manual/preprocessed/scraping_rent_preprocessed.csv` | `[Inferido]` — dataset complementario | `[Verificado]` |
+| Scraping manual Idealista (terrenos) | Manual | `data/raw/scraping_manual/raw/scraping_land_raw.csv` | nb `01/scraping_land_processing.ipynb` → nb `01/scraping_land_processing_outliers.ipynb` → nb `04/scraping_processed_to_gold.ipynb` | `data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` → `data/processed/scraping_manual/total_land_cantabria_outliers.csv` → `data/gold/final_land_scraping.csv` | `notebooks/06_ML_scraping_land/` (notebooks 61, 62, 63) `[Verificado — actualizado en v1.3]` | Pipeline completo: raw → preprocessed → outliers → gold → ML |
 | OpenStreetMap (POIs) | `osmnx` via `run_descargar_pois.py` | API OSM (remota) | `osm_downloader.py` → `enricher.py` | `data/processed/geo/pois_cantabria.csv` → gold layer | `data/gold/final_sale.csv`, `final_rent.csv` | `[Verificado]` — variables de distancia presentes en gold |
 | MIVAU — SERPAVI | Descarga manual del portal MIVAU | `data/raw/MIVAU/datos_alquiler/2025-09-10_bd_SERPAVI_2011-2023.xlsx` | nb `03/analisis_SERPAVI.ipynb` | Sin output en processed `[Verificado]` | TFM MBA (análisis estructural) | `[Verificado]` — solo análisis descriptivo, no integrado en ML |
 | MIVAU — suelo urbano | Descarga manual | `data/raw/MIVAU/datos_suelo/*.XLS` | `[No verificado]` — sin notebook identificado | `[No verificado]` | `[No verificado]` | Posiblemente solo referencia informativa |
@@ -432,9 +445,12 @@ flowchart TD
 | `idealistaAPI/raw/test/elementList.jsonl`, `response_page1.json` | API Idealista (test) | JSON/JSONL | Fixtures para pruebas durante desarrollo |
 | `idealistaAPI/preprocess/sale_homes_run_20260218_173035/sale_homes_cantabria_bezana_like_raw.csv` | API Idealista | CSV | Primera normalización de JSON → CSV plano (venta) |
 | `idealistaAPI/preprocess/rent_homes_run_20260220_111903/rent_homes_cantabria_bezana_like_raw.csv` | API Idealista | CSV | Primera normalización de JSON → CSV plano (alquiler) |
-| `scraping_manual/alquiler_idealista.csv` | Scraping manual | CSV | Datos de alquiler obtenidos manualmente |
-| `scraping_manual/venta_idealista.csv` | Scraping manual | CSV | Datos de venta obtenidos manualmente |
-| `scraping_manual/terrenos_idealista.csv` | Scraping manual | CSV | Datos de terrenos obtenidos manualmente |
+| `scraping_manual/raw/scraping_rent_raw.csv` | Scraping manual | CSV | Datos de alquiler obtenidos manualmente de Idealista |
+| `scraping_manual/raw/scraping_sale_raw.csv` | Scraping manual | CSV | Datos de venta obtenidos manualmente de Idealista |
+| `scraping_manual/raw/scraping_land_raw.csv` | Scraping manual | CSV | Datos de terrenos obtenidos manualmente de Idealista |
+| `scraping_manual/preprocessed/scraping_rent_preprocessed.csv` | nb `01/scraping_rent_processing` | CSV | Alquiler scraping estandarizado y limpio |
+| `scraping_manual/preprocessed/scraping_sale_preprocessed.csv` | nb `01/scraping_sale_processing` | CSV | Venta scraping estandarizada y limpia |
+| `scraping_manual/preprocessed/scraping_land_preprocessed.csv` | nb `01/scraping_land_processing` | CSV | Terrenos scraping estandarizados y limpios (sin outliers) |
 | `MIVAU/datos_alquiler/2025-09-10_bd_SERPAVI_2011-2023.xlsx` | MIVAU | XLSX | Serie histórica de precios de alquiler de referencia (SERPAVI) 2011–2023 |
 | `MIVAU/datos_suelo/36*.XLS` (×4) | MIVAU | XLS | Estadísticas de precios de suelo urbano por trimestre |
 | `MIVAU/datos_vivienda/33*.XLS` (×2) | MIVAU | XLS | Estimaciones del parque de viviendas |
@@ -453,17 +469,12 @@ flowchart TD
 
 | Fichero | Origen | Descripción |
 |---|---|---|
-| `idealistaAPI/sale_homes_clean.csv` | `raw/idealistaAPI/preprocess/` → nb02 | Viviendas en venta limpias, con outliers |
-| `idealistaAPI/rent_homes_clean.csv` | `raw/idealistaAPI/preprocess/` → nb02 | Viviendas en alquiler limpias, con outliers |
-| `idealistaAPI/sale_homes_clean_outliers.csv` | `sale_homes_clean.csv` → nb04/43 | Versión con outliers eliminados (IQR×1.5) — nombre confuso `[Inferido]` |
-| `idealistaAPI/rent_homes_clean_outliers.csv` | `rent_homes_clean.csv` → nb04/43 | Versión con outliers eliminados (IQR×1.5) — nombre confuso `[Inferido]` |
-| `idealistaAPI/real_estate_dataset_ml.csv` | sale + rent clean | Dataset unificado venta + alquiler (uso en nb 50) `[Inferido]` |
-| `scraping_manual/alquiler_idealista_clean.csv` | `raw/scraping_manual/` → nb01 | Datos de alquiler scraping limpios |
-| `scraping_manual/venta_idealista_clean.csv` | `raw/scraping_manual/` → nb01 | Datos de venta scraping limpios |
-| `scraping_manual/terrenos_idealista_clean.csv` | `raw/scraping_manual/` → nb01 | Datos de terrenos scraping limpios |
+| `idealistaAPI/total_sale_cantabria_outliers.csv` | todas las runs de venta → nb `02/idealistaAPI_data` + `idealistaAPI_processing_outliers` | Venta consolidada (2 runs, ~200 peticiones) sin outliers (IQR×1.5) |
+| `idealistaAPI/total_rent_cantabria_outliers.csv` | todas las runs de alquiler → nb `02/idealistaAPI_data` + `idealistaAPI_processing_outliers` | Alquiler consolidado (4 runs, ~400 peticiones) sin outliers (IQR×1.5) |
+| `scraping_manual/total_land_cantabria_outliers.csv` | `raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` → nb `01/scraping_land_processing_outliers` | Terrenos scraping con outliers eliminados (pipeline 4 pasos) |
 | `geo/pois_cantabria.csv` | OpenStreetMap via osmnx | POIs geolocalizados por categoría (playa, supermercado, colegio, etc.) |
 
-**Nota sobre nomenclatura `*_outliers.csv`:** `[Inferido]` — El sufijo `_outliers` probablemente indica "con tratamiento de outliers aplicado" (es decir, sin outliers), no que el fichero *contenga* outliers. Esta convención de nombres es ambigua y constituye un riesgo de confusión.
+**Nota sobre nomenclatura `*_outliers.csv`:** el sufijo `_cantabria_outliers` indica que son los datos del área de Cantabria con outliers ya eliminados (IQR×1.5 sobre log del precio). Son los datasets de entrada directa al gold layer.
 
 ### 5.3 `data/gold/`
 
@@ -473,10 +484,12 @@ flowchart TD
 
 **Datasets concretos:**
 
-| Fichero | Filas | Features | Variable objetivo | Cobertura geográfica |
-|---|---|---|---|---|
-| `final_sale.csv` | 588 | 30+ | `log_precio` | 13–14 municipios de Cantabria |
-| `final_rent.csv` | 477 | 21–29 | `log_precio` | 9 municipios de Cantabria |
+| Fichero | Descripción | Variable objetivo | Cobertura geográfica |
+|---|---|---|---|
+| `final_sale.csv` | Venta combinada (API + scraping manual) | `log_precio` | Municipios de Cantabria |
+| `final_rent.csv` | Alquiler combinado (API + scraping manual) | `log_precio` | Municipios de Cantabria |
+| `final_sale_idealistaAPI.csv` | Venta solo de fuente API Idealista | `log_precio` | Municipios de Cantabria |
+| `final_rent_idealistaAPI.csv` | Alquiler solo de fuente API Idealista | `log_precio` | Municipios de Cantabria |
 
 **Variables clave presentes en los gold datasets** `[Verificado]`:
 - Estructurales: `superficie_construida_m2`, `numero_dormitorios`, `numero_banos`
@@ -486,6 +499,16 @@ flowchart TD
 - Mercado: `precio_m2_municipio_media`
 - Dummies de municipio: Camargo, Castro-Urdiales, Laredo, Noja, Piélagos, Polanco, Santa Cruz de Bezana, Santander, Santoña, Santurtzi, Suances, Torrelavega, Voto (y otros)
 - Target: `log_precio` (logaritmo natural del precio de venta/alquiler)
+
+> **Nota v1.2:** los datasets `final_sale.csv` y `final_rent.csv` (combinación API + scraping) han sido eliminados del repositorio. El pipeline actual utiliza exclusivamente `final_sale_idealistaAPI.csv` y `final_rent_idealistaAPI.csv` para viviendas, y `final_land_scraping.csv` para terrenos. `[Verificado]`
+
+**Datasets gold activos (v1.2)** `[Verificado]`:
+
+| Fichero | Descripción | Observaciones | Columnas | Variable objetivo | Features ML |
+|---|---|---|---|---|---|
+| `final_sale_idealistaAPI.csv` | Venta API Idealista (2 runs) — con feature engineering completo | 2.694 | 71 | `log_precio` | 61 |
+| `final_rent_idealistaAPI.csv` | Alquiler API Idealista (4 runs) — con feature engineering completo | 754 | 50 | `log_precio` | 40 |
+| `final_land_scraping.csv` | Terrenos scraping manual — con outlier removal en 2 etapas y encoding | 686 | 9 | `log_precio` | 7 |
 
 ### 5.4 `data/ML/`
 
@@ -516,16 +539,18 @@ flowchart TD
 
 | Notebook | Objetivo | Inputs | Outputs | Etapa | Tipo |
 |---|---|---|---|---|---|
-| `EDA_sale.ipynb` | Exploración y limpieza de datos de venta scraping | `data/raw/scraping_manual/venta_idealista.csv` | `data/processed/scraping_manual/venta_idealista_clean.csv` | Ingesta/EDA | Exploratorio-productivo |
-| `EDA_rent.ipynb` | Exploración y limpieza de datos de alquiler scraping | `data/raw/scraping_manual/alquiler_idealista.csv` | `data/processed/scraping_manual/alquiler_idealista_clean.csv` | Ingesta/EDA | Exploratorio-productivo |
-| `EDA_terreno.ipynb` | Exploración y limpieza de datos de terrenos | `data/raw/scraping_manual/terrenos_idealista.csv` | `data/processed/scraping_manual/terrenos_idealista_clean.csv` | Ingesta/EDA | Exploratorio |
+| `scraping_sale_processing.ipynb` | Limpieza y estandarización de datos de venta scraping | `data/raw/scraping_manual/raw/scraping_sale_raw.csv` | `data/raw/scraping_manual/preprocessed/scraping_sale_preprocessed.csv` | Procesamiento | Productivo |
+| `scraping_rent_processing.ipynb` | Limpieza y estandarización de datos de alquiler scraping | `data/raw/scraping_manual/raw/scraping_rent_raw.csv` | `data/raw/scraping_manual/preprocessed/scraping_rent_preprocessed.csv` | Procesamiento | Productivo |
+| `scraping_land_processing.ipynb` | Limpieza y estandarización de datos de terrenos | `data/raw/scraping_manual/raw/scraping_land_raw.csv` | `data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` | Procesamiento | Productivo |
+| `scraping_land_processing_outliers.ipynb` | Tratamiento unificado de outliers de terrenos (4 pasos) | `data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` | `data/processed/scraping_manual/total_land_cantabria_outliers.csv` | Procesamiento | **Productivo-crítico** `[Añadido v1.3]` |
 
 #### `notebooks/02_idealista_API_processing/` — Procesamiento de datos API
 
 | Notebook | Objetivo | Inputs | Outputs | Etapa | Tipo |
 |---|---|---|---|---|---|
-| `idealistaAPI_data_sale.ipynb` | Limpieza y validación de CSV de ventas de la API | `data/raw/idealistaAPI/preprocess/sale_homes_run_*/sale_homes_cantabria_bezana_like_raw.csv` | `data/processed/idealistaAPI/sale_homes_clean.csv` | Procesamiento | Productivo |
-| `idealistaAPI_data_rent.ipynb` | Limpieza y validación de CSV de alquileres de la API | `data/raw/idealistaAPI/preprocess/rent_homes_run_*/rent_homes_cantabria_bezana_like_raw.csv` | `data/processed/idealistaAPI/rent_homes_clean.csv` | Procesamiento | Productivo |
+| `idealistaAPI_raw_to_preprocess.ipynb` | Orquesta la conversión de JSON a CSV usando `clean_idealista.py` para todas las ejecuciones | `data/raw/idealistaAPI/raw/*/req*.json` | `data/raw/idealistaAPI/preprocess/*/` CSV por run | Ingesta | Productivo |
+| `idealistaAPI_data.ipynb` | Limpieza, validación y unificación de CSVs de todas las ejecuciones (venta + alquiler) | `data/raw/idealistaAPI/preprocess/*/` | Datasets limpios intermedios | Procesamiento | Productivo |
+| `idealistaAPI_processing_outliers.ipynb` | Eliminación de outliers (IQR×1.5 sobre log del precio) y consolidación de todas las runs | Datasets limpios intermedios | `data/processed/idealistaAPI/total_sale_cantabria_outliers.csv`, `total_rent_cantabria_outliers.csv` | Procesamiento | **Productivo-crítico** |
 
 #### `notebooks/03_macro_and_structural_analysis/` — Análisis macro y estructural
 
@@ -536,33 +561,53 @@ flowchart TD
 | `analisis_euribor_tipos.ipynb` | Análisis de tipos de interés y contexto macroeconómico | `data/raw/euribor_raw.txt` | Gráficas + insights | Análisis | Exploratorio |
 | `analisis_pestle.ipynb` | Análisis estratégico PESTLE del entorno inmobiliario | `[No verificado]` — posiblemente sin inputs de datos | Análisis cualitativo | Estrategia | Exploratorio |
 
-#### `notebooks/04_EDA/` — EDA unificado + outliers + feature engineering
+#### `notebooks/04_transformations/` — Transformación processed → gold
+
+Esta carpeta (antes llamada `04_EDA`) contiene ahora un único notebook de transformación. El EDA exploratorio y el tratamiento de outliers se realizan en los notebooks `02_*`.
 
 | Notebook | Objetivo | Inputs | Outputs | Etapa | Tipo |
 |---|---|---|---|---|---|
-| `41_eda_basico_precio_superficie.ipynb` | Análisis exploratorio de la relación precio-superficie | `data/processed/idealistaAPI/sale_homes_clean.csv`, `rent_homes_clean.csv` | Visualizaciones + estadísticas | EDA | Exploratorio |
-| `42_eliminar_outliers_3sigma_no_ejecutar.ipynb` | Tratamiento de outliers por regla 3σ (desechado) | `data/processed/idealistaAPI/*_clean.csv` | No usar — marcado como deprecado `[Verificado]` | EDA | Obsoleto |
-| `43_eliminar_outliers_regla_fija.ipynb` | Tratamiento de outliers por IQR×1.5 | `data/processed/idealistaAPI/*_clean.csv` | `data/processed/idealistaAPI/*_clean_outliers.csv` | EDA | Productivo |
-| `44_feature_engineering_gold.ipynb` | Creación del gold layer: encoding, distancias POI, dummies, log-target | `data/processed/idealistaAPI/*_clean_outliers.csv`, `data/processed/geo/pois_cantabria.csv` | `data/gold/final_sale.csv`, `data/gold/final_rent.csv` | Feature Eng. | Productivo-crítico |
+| `idealistaAPI_processed_to_gold.ipynb` | Genera el gold layer: feature engineering, encoding, distancias POI, dummies de municipio, log-target. Produce versiones API-only y combinadas (API + scraping) | `data/processed/idealistaAPI/total_sale/rent_cantabria_outliers.csv`, `data/processed/geo/pois_cantabria.csv` | `data/gold/final_sale.csv`, `final_rent.csv`, `final_sale_idealistaAPI.csv`, `final_rent_idealistaAPI.csv` | Transformación | **Productivo-crítico** |
+| `scraping_processed_to_gold.ipynb` | Genera el gold layer de terrenos: filtrado tipo_suelo (<10 obs.), exclusión de leakage (`precio_m2`, `titulo`), log-target, target-encoding municipio (35 categ.), OHE tipo_suelo (3 categ.), bool→int. Trabaja sobre copia del input; sobreescribe output en cada ejecución. | `data/processed/scraping_manual/total_land_cantabria_outliers.csv` | `data/gold/final_land_scraping.csv` | Transformación | **Productivo-crítico** `[Actualizado v1.3]` |
 
-#### `notebooks/05_ML/` — Experimentos de machine learning
+#### `notebooks/05_ML_idealistaAPI/` — Experimentos de machine learning sobre datos API Idealista
 
 | Notebook / Fichero | Objetivo | Inputs | Outputs | Etapa | Tipo |
 |---|---|---|---|---|---|
-| `50_unificar_dataset.ipynb` | Unificación de venta + alquiler en un único dataset ML | `data/processed/idealistaAPI/sale_homes_clean_outliers.csv`, `rent_homes_clean_outliers.csv` | `data/processed/idealistaAPI/real_estate_dataset_ml.csv` | Prep ML | Productivo |
-| `51_linear_regression_1.py` | Primer experimento de regresión lineal (script Python) | `data/gold/final_sale.csv`, `final_rent.csv` | `[Inferido]` — experimento temprano | ML | Obsoleto/experimental |
+| `50_unificar_dataset.ipynb` | Unificación de venta + alquiler en un único dataset ML | `data/gold/` | Dataset unificado para análisis comparativos | Prep ML | Experimental |
+| `51_linear_regression_1.py` | Primer experimento de regresión lineal (script Python) | `data/gold/` | `[Inferido]` — experimento temprano | ML | Obsoleto/experimental |
 | `51_linear_regression_2.ipynb` | Segunda iteración de regresión lineal | `data/gold/` | `data/ML/linear_regression/` (parcial) | ML | Obsoleto/experimental |
 | `51_linear_regression_ridge.ipynb` | Experimento específico de Ridge | `data/gold/` | `data/ML/linear_regression/` (parcial) | ML | Experimental |
 | `51_linear_regression_lasso.ipynb` | Experimento específico de Lasso | `data/gold/` | `data/ML/linear_regression/` (parcial) | ML | Experimental |
-| `51_linear_regression_def.ipynb` | **DEFINITIVO** — OLS, Ridge y Lasso+OLS comparados con CV | `data/gold/final_sale.csv`, `final_rent.csv` | `data/ML/linear_regression/sale+rent/M01-M24/` | ML | **Productivo-definitivo** |
-| `52_random_forest_1.ipynb` | Primer experimento Random Forest | `data/gold/` | `data/ML/random_forest/` (vacío actualmente) | ML | Obsoleto/experimental |
+| `51_linear_regression_def.ipynb` | **DEFINITIVO v1** — OLS, Ridge y Lasso+OLS comparados con CV | `data/gold/final_sale.csv`, `final_rent.csv` | `data/ML/linear_regression/sale+rent/M01-M24/` | ML | **Productivo-definitivo** |
+| `51_linear_regression_def_2.ipynb` | **DEFINITIVO v2** — versión revisada/mejorada de regresión lineal | `data/gold/` | `data/ML/linear_regression/` | ML | **Productivo-definitivo** |
+| `52_random_forest_1.ipynb` | Primer experimento Random Forest | `data/gold/` | `data/ML/random_forest/` (vacío) | ML | Obsoleto/experimental |
 | `52_random_forest_2.ipynb` | Segunda iteración Random Forest | `data/gold/` | `data/ML/random_forest/` (vacío) | ML | Experimental |
-| `52_random_forest_scraping.ipynb` | RF sobre datos de scraping manual (alternativa) | `data/processed/scraping_manual/` | `[Inferido]` — sin output identificado | ML | Experimental |
-| `52_random_forest_def.ipynb` | **DEFINITIVO** — RF, Extra Trees, RF regularizado con GridSearchCV | `data/gold/final_sale.csv`, `final_rent.csv` | `data/ML/random_forest/` (vacío — outputs no persistidos) | ML | **Productivo-definitivo** |
+| `52_random_forest_scraping.ipynb` | RF sobre datos de scraping manual de venta y alquiler | `data/raw/scraping_manual/preprocessed/scraping_rent_preprocessed.csv`, `scraping_sale_preprocessed.csv` | `[Inferido]` — sin output identificado | ML | Experimental |
+| `52_random_forest_def.ipynb` | **DEFINITIVO v1** — RF, Extra Trees, RF regularizado con GridSearchCV | `data/gold/final_sale.csv`, `final_rent.csv` | `data/ML/random_forest/` (vacío — outputs no persistidos) | ML | **Productivo-definitivo** |
+| `52_random_forest_def_2.ipynb` | **DEFINITIVO v2** — versión revisada/mejorada de Random Forest | `data/gold/` | `data/ML/random_forest/` | ML | **Productivo-definitivo** |
 | `53_boost_1.ipynb` | Primer experimento Boosting | `data/gold/` | Sin outputs persistidos | ML | Obsoleto/experimental |
 | `53_boost_reg.ipynb` | Boosting con regularización | `data/gold/` | Sin outputs persistidos | ML | Experimental |
-| `53_boost_def.ipynb` | **DEFINITIVO** — XGBoost, GBR, AdaBoost con GridSearchCV | `data/gold/final_sale.csv`, `final_rent.csv` | Sin outputs persistidos `[Verificado — no existe data/ML/boosting/]` | ML | **Productivo-definitivo** |
-| `54_hibrido.ipynb` | Ensemble híbrido combinando familias de modelos | `data/gold/` | `[No verificado]` | ML | Experimental/en desarrollo |
+| `53_boost_def.ipynb` | **DEFINITIVO v1** — XGBoost, GBR, AdaBoost con GridSearchCV | `data/gold/` | Sin outputs persistidos | ML | **Productivo-definitivo** |
+| `53_boost_def_2.ipynb` | **DEFINITIVO v2** — XGBoost optimizado con Optuna | `data/gold/` | Sin outputs persistidos | ML | **Productivo-definitivo** |
+| `53_boost_def_3.ipynb` | **DEFINITIVO v3** — XGBoost optimizado individualmente por operación | `data/gold/` | Sin outputs persistidos | ML | **Productivo-definitivo** |
+| `53_boost_sale.ipynb` | XGBoost optimizado con Optuna específicamente para venta | `data/gold/final_sale.csv` | Sin outputs persistidos | ML | **Productivo-definitivo** |
+| `53_boost_rent.ipynb` | XGBoost optimizado con Optuna específicamente para alquiler | `data/gold/final_rent.csv` | Sin outputs persistidos | ML | **Productivo-definitivo** |
+| `54_hibrido.ipynb` | Ensemble híbrido combinando familias de modelos | `data/gold/` | `[No verificado]` | ML | Experimental |
+| `54_hibrido_2.ipynb` | Ensemble híbrido v2 | `data/gold/` | `[No verificado]` | ML | Experimental |
+| `55_input_result.ipynb` | Comparación de resultados de modelos con distintos datasets de entrada (k-fold) | `data/gold/` | Tablas comparativas | ML | Análisis |
+| `55_input_result_no_k_fold.ipynb` | Comparación de resultados sin k-fold cross-validation | `data/gold/` | Tablas comparativas | ML | Análisis |
+| `55_sale_rent_models.ipynb` | Comparación final de modelos de venta y alquiler entre sí | `data/gold/` | Resumen global de modelos | ML | Análisis |
+
+#### `notebooks/06_ML_scraping_land/` — Experimentos ML sobre datos de terrenos
+
+Carpeta con los experimentos de machine learning sobre datos de terrenos obtenidos por scraping manual de Idealista. Input: `data/gold/final_land_scraping.csv` (686 obs. × 9 cols, 7 features + target). `[Verificado — poblada en v1.2]`
+
+| Notebook | Objetivo | Inputs | Outputs | Etapa | Tipo |
+|---|---|---|---|---|---|
+| `61_linear_regression.ipynb` | Ridge + Lasso con GridSearchCV (80 alphas en escala logarítmica, 5-fold CV). Alpha selection curve, coeficientes comparados, diagnósticos de residuales (scatter, histograma, Q-Q), back-transform a €. `StandardScaler` en pipeline. | `data/gold/final_land_scraping.csv` | Métricas comparativas Ridge vs Lasso; gráficas diagnóstico | ML | **Productivo-definitivo** |
+| `62_random_forest.ipynb` | RF + Extra Trees en 4 variantes: base y optimizados con Optuna (40 trials, TPESampler). KFold 5. Hiperparámetros tuneados: n_estimators, max_depth, min_samples_split, min_samples_leaf, max_features (sqrt/log2/0.5/0.7). Convergence plots RF vs ET, feature importance comparativo. Overfitting gap (R²_train - R²_test) documentado. | `data/gold/final_land_scraping.csv` | Métricas 4 variantes; gráficas convergencia e importancia | ML | **Productivo-definitivo** |
+| `63_boost.ipynb` | XGBoost baseline + optimizado con Optuna (50 trials, max_depth 2–6). Hiperparámetros: n_estimators, max_depth, learning_rate, subsample, colsample_bytree, reg_alpha, reg_lambda, min_child_weight. Convergence plot, feature importance, diagnósticos de residuales, back-transform a €. | `data/gold/final_land_scraping.csv` | Métricas XGBoost óptimo; gráficas diagnóstico | ML | **Productivo-definitivo** |
 
 ### 6.2 Riesgos identificados en notebooks
 
@@ -570,11 +615,11 @@ flowchart TD
 |---|---|---|
 | **Ejecución secuencial obligatoria** — el estado de variables y DataFrames depende del orden de ejecución de las celdas | Todos los notebooks | Alta |
 | **Rutas hardcodeadas** — rutas relativas que dependen de que el CWD sea la raíz del repo | `[Inferido]` — común en notebooks de data science | Media |
-| **Notebooks experimentales sin marcar** — ficheros como `51_linear_regression_1.py`, `52_random_forest_1.ipynb`, `53_boost_1.ipynb` coexisten con los definitivos sin indicador claro de cuáles ejecutar | `05_ML/` | Alta |
-| **Outputs no persistidos** — los notebooks definitivos de RF y boosting no guardan resultados a disco | `52_random_forest_def.ipynb`, `53_boost_def.ipynb` | Alta |
+| **Notebooks experimentales sin marcar** — ficheros como `51_linear_regression_1.py`, `52_random_forest_1.ipynb`, `53_boost_1.ipynb` coexisten con múltiples versiones `_def`, `_def_2`, `_def_3` sin indicador canónico de cuál es el definitivo final | `05_ML_idealistaAPI/` | Alta |
+| **Outputs no persistidos** — los notebooks definitivos de RF y boosting no guardan resultados a disco | `52_random_forest_def*.ipynb`, `53_boost_def*.ipynb`, `53_boost_sale/rent.ipynb` | Alta |
 | **Duplicación con `src/`** — parte de la lógica de limpieza de los notebooks 01 y 02 probablemente replica `clean_idealista.py` | `01_*`, `02_*` | Media |
 | **Reproducibilidad limitada** — aunque se usa `random_state=42`, no hay control explícito de versión de datos de entrada (sin checksums) | Todos los notebooks ML | Media |
-| **Notebook deprecado sin archivar** — `42_eliminar_outliers_3sigma_no_ejecutar.ipynb` tiene en el nombre la advertencia, pero ocupa espacio y puede confundir | `04_EDA/42_*` | Baja |
+| **Proliferación de versiones `_def_N`** — hay 3 versiones de boosting definitivo (`def`, `def_2`, `def_3`) más versiones separadas por operación (`sale`, `rent`); sin documentación de cuál es la versión canónica final | `05_ML_idealistaAPI/53_*` | Alta |
 
 ---
 
@@ -588,22 +633,23 @@ flowchart TD
 
 ```
 src/idealistaAPI/
-├── __init__.py
-├── client.py                          ← Cliente HTTP + gestión de tokens
 ├── config/
 │   ├── __init__.py
 │   └── idealista.py                   ← Configuración: rutas, límites, círculos geográficos
 ├── ingestion/
 │   ├── __init__.py
+│   ├── client.py                      ← Cliente HTTP + gestión de tokens (OAuth2)
 │   ├── api_types.py                   ← TypedDicts: PropertyItem, SearchResponse
+│   ├── run_sale_requests.py           ← Punto de entrada CLI (venta)
+│   ├── run_rent_requests.py           ← Punto de entrada CLI (alquiler)
+│   ├── run_extended_rent_requests.py  ← CLI ampliada para alquiler (más ejecuciones)
+│   ├── test_one_request.py            ← Script de prueba de una sola petición
 │   └── services/
 │       ├── __init__.py
 │       └── request_service.py         ← Lógica principal de orquestación (>500 líneas)
 ├── processing/
 │   ├── __init__.py
 │   └── clean_idealista.py             ← JSON → CSV normalizado
-├── run_sale_requests.py               ← Punto de entrada CLI (venta)
-├── run_rent_requests.py               ← Punto de entrada CLI (alquiler)
 ├── README.md
 └── idealista_API_userguide.md
 ```
@@ -612,13 +658,15 @@ src/idealistaAPI/
 
 | Fichero | Rol | Inputs | Outputs |
 |---|---|---|---|
-| `client.py` | Clase `IdealistaClient`: autenticación OAuth2, requests con retry exponencial | Variables de entorno `IDEALISTA_CLIENT_ID`, `IDEALISTA_CLIENT_SECRET` | Token Bearer cacheado, respuestas JSON |
+| `ingestion/client.py` | Clase `IdealistaClient`: autenticación OAuth2, requests con retry exponencial | Variables de entorno `IDEALISTA_CLIENT_ID`, `IDEALISTA_CLIENT_SECRET` | Token Bearer cacheado, respuestas JSON |
 | `config/idealista.py` | Constantes de configuración: rutas base, límites API, 10 círculos geográficos | — | Constantes importables por el resto del módulo |
 | `ingestion/api_types.py` | Tipado estático de respuestas de la API | — | `PropertyItem`, `SearchResponse` TypedDicts |
 | `ingestion/services/request_service.py` | Orquestador: round-robin entre círculos, detección adaptativa de páginas, gestión de cuota | Config, `IdealistaClient` | JSON por petición + `manifest.json` en `data/raw/idealistaAPI/raw/<run>/` |
 | `processing/clean_idealista.py` | Conversión de JSONs de un run completo a CSV normalizado | `data/raw/idealistaAPI/raw/<run>/` | CSV en `data/raw/idealistaAPI/preprocess/<run>/` |
-| `run_sale_requests.py` | CLI para iniciar descarga de venta | `--max-requests`, `--output-csv` | Invoca `request_service.run_new()` |
-| `run_rent_requests.py` | CLI para iniciar descarga de alquiler | `--max-requests`, `--output-csv` | Invoca `request_service.run_new()` |
+| `ingestion/run_sale_requests.py` | CLI para iniciar descarga de venta | `--max-requests`, `--output-csv` | Invoca `request_service.run_new()` |
+| `ingestion/run_rent_requests.py` | CLI para iniciar descarga de alquiler | `--max-requests`, `--output-csv` | Invoca `request_service.run_new()` |
+| `ingestion/run_extended_rent_requests.py` | CLI ampliada para ejecuciones adicionales de alquiler | `--max-requests` | Invoca `request_service.run_new()` con configuración extendida |
+| `ingestion/test_one_request.py` | Script de diagnóstico para testear una única petición | Credenciales de entorno | Respuesta JSON de una petición de prueba |
 
 **Decisiones técnicas destacables:**
 - **Round-robin geográfico justo:** las peticiones se distribuyen equitativamente entre los 10 círculos para evitar sesgo geográfico en la cobertura
@@ -669,7 +717,7 @@ src/geospatial_expansion/
 
 ### 7.3 Módulos `src/ingestion/` y `src/processing/`
 
-`[No verificado]` — La estructura del repositorio muestra que dentro de `src/idealistaAPI/` existe `ingestion/` y `processing/` como submódulos del módulo Idealista. No existe un módulo `src/ingestion/` ni `src/processing/` independiente a nivel de `src/`. El README principal menciona genéricamente "scripts de limpieza y modelado" en `src/`, pero la estructura real solo contiene los dos módulos descritos. Si se pretende crear módulos generales de ingesta y procesamiento en el futuro, no están implementados actualmente.
+`[Verificado]` — Existen dos directorios `src/ingestion/` y `src/processing/` a nivel de `src/` pero están vacíos (solo contienen `__pycache__/`). No tienen código implementado. Son marcadores de posición o artefactos de una refactorización planificada. La funcionalidad de ingesta y procesamiento reside dentro de los submódulos de `src/idealistaAPI/ingestion/` y `src/idealistaAPI/processing/` respectivamente.
 
 ---
 
@@ -677,7 +725,7 @@ src/geospatial_expansion/
 
 ### 8.1 Evidencia de experimentos de ML
 
-`[Verificado]` — El repositorio contiene evidencia extensiva de experimentación ML: 14 ficheros en `notebooks/05_ML/`, 3 documentos técnicos en `docs/` con más de 1.900 líneas de análisis, y outputs en `data/ML/linear_regression/` con 48 subdirectorios de experimentos (24 variantes × 2 operaciones).
+`[Verificado]` — El repositorio contiene evidencia extensiva de experimentación ML: 14 ficheros en `notebooks/05_ML_idealistaAPI/`, 3 documentos técnicos en `docs/` con más de 1.900 líneas de análisis, y outputs en `data/ML/linear_regression/` con 48 subdirectorios de experimentos (24 variantes × 2 operaciones).
 
 ### 8.2 Datasets de entrenamiento
 
@@ -709,15 +757,19 @@ src/geospatial_expansion/
 
 **Fenómeno notable:** Extra Trees base presenta overfitting extremo (R²_train=0.9999, R²_test≈0.70). El modelo óptimo tras GridSearchCV lo mitiga parcialmente. 4 experimentos documentados sobre este fenómeno. `[Verificado]`
 
-#### Boosting (`53_boost_def.ipynb`)
+#### Boosting (`53_boost_def.ipynb` → `53_boost_sale.ipynb` / `53_boost_rent.ipynb`)
+
+Los modelos de boosting han evolucionado significativamente: de GridSearchCV en `53_boost_def` a optimización con **Optuna** en versiones posteriores, con modelos entrenados y optimizados de forma **independiente para venta y alquiler** (notebooks `53_boost_sale.ipynb` y `53_boost_rent.ipynb`).
 
 | Modelo | Operación | R²_test | Nota |
 |---|---|---|---|
 | XGBoost base | Venta | 0.5790 | Overfitting severo (R²_train=0.9998) |
-| XGBoost óptimo | Venta | 0.6351 | lr=0.05, max_depth=3, subsample=0.7 |
+| XGBoost óptimo (GridSearch) | Venta | 0.6351 | lr=0.05, max_depth=3, subsample=0.7 |
 | GBR base | Venta | 0.6370 | Mejor que XGBoost base sin tuning |
-| AdaBoost óptimo | Venta | **0.6407** | Mejor boosting en venta |
-| XGBoost óptimo | Alquiler | 0.3880 | Boosting muy limitado en alquiler |
+| AdaBoost óptimo | Venta | **0.6407** | Mejor boosting en venta (versión _def) |
+| XGBoost + Optuna (venta) | Venta | `[Pendiente verificación]` | Optimizado individualmente vía `53_boost_sale.ipynb` |
+| XGBoost óptimo | Alquiler | 0.3880 | Boosting limitado en alquiler (versión _def) |
+| XGBoost + Optuna (alquiler) | Alquiler | `[Pendiente verificación]` | Optimizado individualmente vía `53_boost_rent.ipynb` |
 
 ### 8.4 Ranking global de modelos
 
@@ -755,6 +807,11 @@ graph LR
     NB53 --> ML3[data/ML/boosting/ ← NO EXISTE]
     NB54 --> ML4[data/ML/hibrido/ ← NO EXISTE]
 
+    G1[data/gold/final_sale_idealistaAPI.csv] --> NB51
+    G2[data/gold/final_rent_idealistaAPI.csv] --> NB51
+    G1 --> NB52
+    G2 --> NB52
+
     ML1 -.->|no serializados| M1[models/general_models/ ← VACÍO]
     NB52 -.->|no serializados| M1
     NB53 -.->|no serializados| M1
@@ -769,6 +826,98 @@ graph LR
 
 Esta es la deuda técnica más significativa del proyecto en el ámbito ML.
 
+### 8.7 Modelado ML sobre datos de terrenos — `notebooks/06_ML_scraping_land/`
+
+Los datos de terrenos siguen un pipeline ML independiente de los datos de la API de Idealista, dado que su origen, estructura y naturaleza del problema difieren sustancialmente.
+
+#### Dataset de entrenamiento (terrenos)
+
+- **Input:** `data/gold/final_land_scraping.csv` — 686 filas × 9 columnas `[Verificado]`
+- **Variable objetivo:** `log_precio`
+- **Features (7):** `superficie_m2`, `vendido_con_descuento`, `es_urbano_o_urbanizable`, `municipio_encoded` (target-encoded, 35 municipios), `tipo_suelo_No urbanizable`, `tipo_suelo_Urbanizable`, `tipo_suelo_Urbano (solar)`
+- **Columnas sanitizadas al cargar:** `df.columns.str.replace(' ', '_').str.replace('(', '').str.replace(')', '')`
+- **Partición:** 80/20 train/test, `KFold(n_splits=5)` en los loops de optimización Optuna
+
+#### Particularidades del dataset de terrenos
+
+- Correlación `superficie_m2` ↔ `precio_eur` ≈ r=0.07 — la superficie no explica el precio; el problema es **location-driven**
+- Categoría `Industrial` eliminada (4 registros, por debajo del umbral mínimo de 10)
+- Reglas fijas de precio aplicadas antes del IQR: eliminados precios `≤ 0` y `> 300.000 €`
+- Outlier removal IQR×1.5 sobre `precio_eur` en escala original — más restrictivo que sobre log(precio)
+- `municipio` con target encoding (35 categorías con distribución muy desigual: de 1 a 133 obs./municipio)
+- `precio_m2` excluido por data leakage directo (`precio_eur / superficie_m2`)
+- `titulo` excluido (texto libre; municipio ya capturado en `municipio_encoded`)
+
+#### Modelos y configuración — terrenos
+
+| Modelo | Notebook | Configuración clave | Nota |
+|---|---|---|---|
+| Ridge (óptimo) | `61_linear_regression.ipynb` | GridSearchCV, 80 alphas escala log, 5-fold CV, `StandardScaler` | Modelo lineal competitivo: problema quasi-lineal con 7 features |
+| Lasso (óptimo) | `61_linear_regression.ipynb` | GridSearchCV, 80 alphas escala log, 5-fold CV, `StandardScaler` | Puede anular features irrelevantes automáticamente |
+| Random Forest (Optuna) | `62_random_forest.ipynb` | 40 trials, KFold 5, tuned: n_estimators, max_depth, min_samples_leaf, max_features | — |
+| Extra Trees (Optuna) | `62_random_forest.ipynb` | 40 trials, mismos hiperparámetros; overfitting base esperado (R²_train≈1) | Optuna ajusta min_samples_leaf y max_features para mitigar overfitting |
+| XGBoost (Optuna) | `63_boost.ipynb` | 50 trials, max_depth 2–6, subsample, colsample_bytree, reg_alpha, reg_lambda, min_child_weight | Benchmark de boosting |
+
+> **Recomendación técnica:** Ridge como modelo primario (problema location-driven con solo 7 features; la relación precio ↔ localización es quasi-lineal tras target encoding de municipio). XGBoost como benchmark.
+
+### 8.8 Observaciones finales por dataset y conteo de features por modelo
+
+#### A. Dataset de viviendas en venta — `final_sale_idealistaAPI.csv`
+
+| Aspecto | Valor |
+|---|---|
+| Fuente | API Idealista — 2 ejecuciones (20260218 + 20260331) |
+| Observaciones raw → processed | ~3.500 → 2.694 (tras outlier removal IQR×1.5 sobre log precio) |
+| Observaciones gold | **2.694 filas** |
+| Columnas totales gold | 71 |
+| Variable objetivo | `log_precio` |
+| Columnas excluidas en ML | `log_precio` (target), `precio`, `precio_m2`, `precio_m2_raw`, `latitud`, `longitud`, `provincia`, `distrito`, `tipologia`, `subtipologia` (10 cols) |
+| **Features disponibles para ML** | **61** |
+| Grupos de features | Estructurales (superficie, dormitorios, baños), tipología (piso, unifamiliar), características (garaje, obra nueva), geoespaciales (distancias POI + distancia centro municipio + score_cercania), mercado (precio_m2_municipio_media), interacciones polinómicas (lat², lon², lat×lon, sup², baños², dorm²), dummies de municipio (30 vars) |
+| Outlier removal | IQR×1.5 sobre `log(precio)` — realizado en capa `processed` (`idealistaAPI_processing_outliers.ipynb`) |
+| Mejor modelo | **Extra Trees óptimo** — R²=0.707 |
+
+#### B. Dataset de viviendas en alquiler — `final_rent_idealistaAPI.csv`
+
+| Aspecto | Valor |
+|---|---|
+| Fuente | API Idealista — 4 ejecuciones (20260220, 20260310, 20260401, 20260405) |
+| Observaciones gold | **754 filas** |
+| Columnas totales gold | 50 |
+| Variable objetivo | `log_precio` |
+| Columnas excluidas en ML | Mismas 10 que en venta |
+| **Features disponibles para ML** | **40** |
+| Diferencia con venta | Menor cobertura municipal: 9 dummies de municipio vs 30 en venta; dataset 3.6× más pequeño |
+| Outlier removal | IQR×1.5 sobre `log(precio)` — capa `processed` |
+| Mejor modelo | **Lasso+OLS** — R²=0.576 (modelos lineales superan a ensembles en alquiler; n pequeño + relaciones más lineales) |
+
+#### C. Dataset de terrenos — `final_land_scraping.csv`
+
+| Aspecto | Valor |
+|---|---|
+| Fuente | Scraping manual de Idealista — terrenos en venta en Cantabria |
+| Observaciones raw | 828 filas |
+| Registros eliminados (pipeline gold) | 142 filas: Industrial (<10 obs.) + precios fijos (≤0, >300k) + IQR×1.5 |
+| Observaciones gold | **686 filas** |
+| Columnas totales gold | 9 |
+| Variable objetivo | `log_precio` |
+| Columnas excluidas en ML | `log_precio` (target), `precio_eur` (target original) |
+| **Features disponibles para ML** | **7** |
+| Lista de features | `superficie_m2`, `vendido_con_descuento`, `es_urbano_o_urbanizable`, `municipio_encoded`, `tipo_suelo_No urbanizable`, `tipo_suelo_Urbanizable`, `tipo_suelo_Urbano (solar)` |
+| Encoding | Target encoding para `municipio` (35 categ., media de log_precio por municipio); OHE para `tipo_suelo` (3 categ.) |
+| Outlier removal | 2 etapas: reglas fijas de negocio (>300k €, negativos) + IQR×1.5 sobre `precio_eur` en escala original |
+| Mejor modelo (estimado) | **Ridge** — naturaleza quasi-lineal del problema con 7 features y encoding por media |
+
+#### Resumen comparativo: features por modelo y dataset
+
+| Familia de modelos | Dataset venta | Dataset alquiler | Dataset terrenos |
+|---|---|---|---|
+| Regresión lineal (Ridge / Lasso) | **61 features** | **40 features** | **7 features** |
+| Bagging (RF / Extra Trees + Optuna) | **61 features** | **40 features** | **7 features** |
+| Boosting (XGBoost + Optuna) | **61 features** | **40 features** | **7 features** |
+
+> **Nota:** todos los modelos de una misma operación usan el mismo conjunto de features del gold dataset. La selección efectiva de features ocurre implícitamente: regularización L2/L1 en Ridge/Lasso, importancia de variables en árboles. No hay paso explícito de feature selection previo al entrenamiento.
+
 ---
 
 ## 9. Estrategia Git y ramas
@@ -778,12 +927,15 @@ Esta es la deuda técnica más significativa del proyecto en el ámbito ML.
 | Rama | Estado | Propósito inferido |
 |---|---|---|
 | `main` | Local + remota | Rama de integración y producción |
-| `feat/ML` | **Actual** (HEAD) | Experimentos ML, boosting, RF, modelos definitivos |
+| `feat/ML_terrenos` | **Actual** (HEAD) `[Añadido v1.2]` | Modelado ML sobre datos de terrenos scraping: `scraping_processed_to_gold.ipynb` + notebooks 61/62/63 |
+| `feat/final_data_and_md_structure` | Activa (anterior HEAD) | Datos finales, estructura de carpetas y actualización de documentación |
+| `feat/ML` | Local + remota | Experimentos ML, boosting, RF, modelos definitivos (mergeada parcialmente) |
 | `feat/EDA` | Local + remota | Análisis exploratorio, feature engineering |
 | `feat/api_idealista` | Local + remota | Desarrollo del módulo API de Idealista |
 | `feat/idealistaAPI_prepdata` | Local + remota | Preprocesamiento de datos de la API |
 | `feat/modulo_geoexpansion` | Local + remota | Desarrollo del módulo geoespacial |
 | `feat/prep_data` | Local + remota | Preparación general de datos |
+| `feat/nuevas-llamadas-api-abril` | Local + remota | Nuevas ejecuciones de la API (runs de alquiler de marzo y abril 2026) |
 | `md-de-estrutura-del-repo` | Local + remota | Rama de documentación (estructura del repo) |
 
 ### 9.2 Ramas remotas (solo en origin)
@@ -910,7 +1062,7 @@ gitGraph
 - **Documentación de modelos ML:** muy buena — 1.955 líneas de análisis técnico en 3 markdowns `[Verificado]`
 - **Documentación de datos:** básica — existe `data/raw/MIVAU/README.md` pero no READMEs en otras capas `[Verificado]`
 - **Documentación del pipeline end-to-end:** ausente — este documento cubre ese gap
-- **README principal:** desactualizado — no refleja carpetas `04_EDA/`, `05_ML/`, ni la capa `data/gold/` `[Verificado]`
+- **README principal:** desactualizado — no refleja carpetas `04_transformations/`, `05_ML_idealistaAPI/`, múltiples runs de API, ni los 4 gold datasets `[Verificado]`
 
 ### 10.7 Gestión de dependencias
 
@@ -953,9 +1105,9 @@ scikit-learn==1.5.2
 |---|---|
 | `src/idealistaAPI/` | `requests>=2.31` |
 | `src/geospatial_expansion/` | `osmnx>=1.9` |
-| `notebooks/05_ML/` (boosting) | `xgboost` |
-| `notebooks/05_ML/` (lineal) | `statsmodels` |
-| `notebooks/05_ML/` (RF) | Incluido en `scikit-learn` |
+| `notebooks/05_ML_idealistaAPI/` (boosting) | `xgboost` |
+| `notebooks/05_ML_idealistaAPI/` (lineal) | `statsmodels` |
+| `notebooks/05_ML_idealistaAPI/` (RF) | Incluido en `scikit-learn` |
 
 **Riesgo:** el `requirements.txt` global está **incompleto** — no incluye todas las dependencias necesarias para ejecutar el proyecto completo. `[Verificado]`
 
@@ -987,10 +1139,11 @@ Un nuevo colaborador que clone el repositorio encontrará las siguientes barrera
 | Inconsistencia | Descripción | Impacto |
 |---|---|---|
 | `data/raw/idealistaAPI/preprocess/` | Datos ya procesados (CSV) ubicados dentro de `data/raw/` | Confusión sobre qué es raw y qué es procesado |
-| Nomenclatura `*_clean_outliers.csv` | El nombre sugiere "archivo con outliers" cuando en realidad son los datos con outliers **eliminados** | Riesgo de usar el dataset equivocado |
-| README principal desactualizado | No menciona `data/gold/`, `notebooks/04_EDA/`, `notebooks/05_ML/`, ni `models/` | Onboarding confuso para nuevos colaboradores |
+| Nomenclatura `*_cantabria_outliers.csv` | El sufijo `_outliers` podría interpretarse como "contiene outliers" cuando son datos sin outliers | Riesgo de confusión semántica (aunque menos grave que antes) |
+| README principal desactualizado | No refleja la nueva estructura de carpetas (`04_transformations`, múltiples runs API, 4 gold datasets) | Onboarding confuso para nuevos colaboradores |
 | `data/ML/random_forest/` vacío | El directorio existe pero no tiene contenido — los outputs del notebook RF no se persisten | Pérdida de resultados entre sesiones |
-| Sin directorio `data/ML/boosting/` | El notebook de boosting no tiene carpeta de outputs, inconsistente con linear_regression | Pérdida total de outputs de boosting |
+| Sin directorio `data/ML/boosting/` | Los notebooks de boosting (incluidos los optimizados con Optuna) no tienen carpeta de outputs | Pérdida total de outputs de boosting |
+| Múltiples versiones `_def_N` sin indicador canónico | Hay 3 versiones de boosting definitivo más versiones separadas por operación, sin documentar cuál es la versión final | Riesgo de ejecutar la versión equivocada |
 
 ### 12.2 Carpetas poco documentadas o huérfanas
 
@@ -1003,14 +1156,14 @@ Un nuevo colaborador que clone el repositorio encontrará las siguientes barrera
 
 ### 12.3 Artefactos temporales o residuales
 
-- `51_linear_regression_1.py`, `52_random_forest_1.ipynb`, `53_boost_1.ipynb` — versiones tempranas que han sido superadas por los `_def` pero permanecen en el directorio
-- `42_eliminar_outliers_3sigma_no_ejecutar.ipynb` — notebook deprecado, marcado en el nombre pero no archivado
+- `51_linear_regression_1.py`, `52_random_forest_1.ipynb`, `53_boost_1.ipynb` — versiones tempranas superadas por los `_def*` pero que permanecen en el directorio
 - `52_random_forest_scraping.ipynb` — experimento sobre datos de scraping que no parece integrarse en el pipeline principal
+- `53_boost_def_2.ipynb`, `53_boost_def_3.ipynb`, `53_boost_sale.ipynb`, `53_boost_rent.ipynb` — múltiples versiones de boosting definitivo sin documentación de cuál es la canónica
 - `data/raw/idealistaAPI/raw/rent_homes_run_20260220_111903/req100__ERROR.json` — fichero de error de la API no gestionado limpiamente
 
 ### 12.4 Datos sin linaje claro
 
-- `data/processed/idealistaAPI/real_estate_dataset_ml.csv` — generado en `50_unificar_dataset.ipynb` pero no consumido de forma clara en los notebooks definitivos `[Inferido]`
+- `notebooks/05_ML_idealistaAPI/50_unificar_dataset.ipynb` — genera un dataset unificado venta+alquiler cuyo uso en los notebooks definitivos no está claramente documentado `[Inferido]`
 - Los XLS de suelo y vivienda del MIVAU no tienen un consumer notebook identificado
 - `data/raw/euribor_raw.txt` — el procesamiento en el notebook 03 no genera output en processed
 
@@ -1029,7 +1182,7 @@ Un nuevo colaborador que clone el repositorio encontrará las siguientes barrera
 ### 12.7 Oportunidades de mejora identificadas
 
 - El pipeline linear_regression es el único con outputs estructurados — random forest y boosting deberían seguir el mismo patrón
-- `44_feature_engineering_gold.ipynb` es el notebook más crítico del pipeline y tiene las consecuencias más graves de fallo — candidato prioritario a convertirse en script de producción
+- `04_transformations/idealistaAPI_processed_to_gold.ipynb` es el notebook más crítico del pipeline y tiene las consecuencias más graves de fallo — candidato prioritario a convertirse en script de producción
 - El módulo `src/` podría extenderse para cubrir el feature engineering, haciendo el pipeline completo reproducible desde CLI
 
 ---
@@ -1044,7 +1197,7 @@ Un nuevo colaborador que clone el repositorio encontrará las siguientes barrera
 | 2 | **Serializar los modelos definitivos** — usar `joblib.dump()` o `pickle` para persistir los mejores modelos en `models/general_models/` | Sin serialización no hay inferencia ni comparación reproducible de modelos |
 | 3 | **Persistir outputs de RF y boosting** — crear `data/ML/random_forest/` y `data/ML/boosting/` con la misma estructura que `linear_regression/` | Actualmente los resultados de estos experimentos se pierden entre sesiones |
 | 4 | **Crear un pipeline CLI unificado o Makefile** — documentar el orden exacto de ejecución de notebooks/scripts | Barrera #1 para cualquier nuevo colaborador o auditoría |
-| 5 | **Actualizar el README principal** — incluir capas `gold`, `ML`, notebooks `04_EDA/` y `05_ML/`, módulo geoespacial | El README está significativamente desactualizado |
+| 5 | **Actualizar el README principal** — incluir capas `gold`, `ML`, notebooks `04_transformations/` y `05_ML_idealistaAPI/`, múltiples runs API y 4 gold datasets | El README está significativamente desactualizado |
 
 ### Prioridad MEDIA
 
@@ -1052,9 +1205,9 @@ Un nuevo colaborador que clone el repositorio encontrará las siguientes barrera
 |---|---|---|
 | 6 | **Mover `data/raw/idealistaAPI/preprocess/`** a `data/processed/idealistaAPI/raw_to_csv/` o equivalente | La ubicación actual viola la semántica de `data/raw/` |
 | 7 | **Renombrar `*_clean_outliers.csv`** a `*_clean_no_outliers.csv` o `*_clean_iqr.csv` | La convención actual es ambigua e induce a confusión |
-| 8 | **Convertir `44_feature_engineering_gold.ipynb`** en un script Python de producción en `src/` | Es el paso más crítico del pipeline y debería ser reproducible sin Jupyter |
+| 8 | **Convertir `idealistaAPI_processed_to_gold.ipynb`** en un script Python de producción en `src/` | Es el paso más crítico del pipeline y debería ser reproducible sin Jupyter |
 | 9 | **Añadir READMEs** en `data/processed/`, `data/gold/`, `data/ML/` | Las capas de datos carecen de documentación in-situ |
-| 10 | **Archivar o eliminar notebooks deprecados** (`42_eliminar_outliers_3sigma_no_ejecutar.ipynb`, `51_linear_regression_1.py`, etc.) | Reducir ruido en el directorio de notebooks |
+| 10 | **Archivar o eliminar notebooks deprecados/redundantes** (`51_linear_regression_1.py`, versiones `_1`, `_2` de RF y regresión, `53_boost_reg.ipynb`) y documentar cuál es la versión canónica final de cada familia de modelos | Reducir ruido y proliferación de versiones en el directorio de notebooks |
 
 ### Prioridad BAJA
 
@@ -1082,7 +1235,8 @@ Un nuevo colaborador que clone el repositorio encontrará las siguientes barrera
 | `docs/` | Documentación técnica del proyecto: análisis de modelos y diagramas de arquitectura. |
 | `models/` | Destinado a modelos serializados. **Actualmente vacío.** |
 | `models/general_models/` | Subcarpeta para modelos de predicción general de precios. **Vacío.** |
-| `notebooks/` | Cuadernos Jupyter de exploración, análisis y experimentación. Organizados por etapa. |
+| `notebooks/` | Cuadernos Jupyter de exploración, análisis y experimentación. Organizados por etapa del pipeline. |
+| `notebooks/04_transformations/` | Transformación processed → gold. Antes llamada `04_EDA`. Contiene un único notebook productivo. |
 | `src/` | Módulos Python de producción, reutilizables y parametrizados. |
 | `src/idealistaAPI/` | Módulo completo de ingesta de datos vía API REST de Idealista. |
 | `src/geospatial_expansion/` | Módulo de descarga de POIs de OSM y enriquecimiento geoespacial de datasets. |
@@ -1092,72 +1246,120 @@ Un nuevo colaborador que clone el repositorio encontrará las siguientes barrera
 
 | Dataset | Ruta | Descripción |
 |---|---|---|
-| `final_sale.csv` | `data/gold/final_sale.csv` | 588 viviendas en venta en Cantabria con 30+ features y target log_precio |
-| `final_rent.csv` | `data/gold/final_rent.csv` | 477 viviendas en alquiler en Cantabria con 21-29 features y target log_precio |
-| `sale_homes_clean.csv` | `data/processed/idealistaAPI/` | Datos de venta de la API limpios, con outliers presentes |
-| `rent_homes_clean.csv` | `data/processed/idealistaAPI/` | Datos de alquiler de la API limpios, con outliers presentes |
-| `sale_homes_clean_outliers.csv` | `data/processed/idealistaAPI/` | Datos de venta sin outliers (IQR×1.5) — nombre confuso |
-| `rent_homes_clean_outliers.csv` | `data/processed/idealistaAPI/` | Datos de alquiler sin outliers (IQR×1.5) — nombre confuso |
-| `real_estate_dataset_ml.csv` | `data/processed/idealistaAPI/` | Dataset unificado venta+alquiler (generado en nb 50) |
+| `final_sale.csv` | `data/gold/final_sale.csv` | Viviendas en venta en Cantabria con features y target log_precio (API + scraping) |
+| `final_rent.csv` | `data/gold/final_rent.csv` | Viviendas en alquiler en Cantabria con features y target log_precio (API + scraping) |
+| `final_sale_idealistaAPI.csv` | `data/gold/final_sale_idealistaAPI.csv` | Igual que final_sale.csv pero solo con datos de la API Idealista |
+| `final_rent_idealistaAPI.csv` | `data/gold/final_rent_idealistaAPI.csv` | Igual que final_rent.csv pero solo con datos de la API Idealista |
+| `total_sale_cantabria_outliers.csv` | `data/processed/idealistaAPI/` | Datos de venta de la API (todas las runs) sin outliers (IQR×1.5 sobre log precio) |
+| `total_rent_cantabria_outliers.csv` | `data/processed/idealistaAPI/` | Datos de alquiler de la API (todas las runs) sin outliers (IQR×1.5 sobre log precio) |
 | `pois_cantabria.csv` | `data/processed/geo/` | Puntos de interés (playa, supermercado, colegio, etc.) de OpenStreetMap para Cantabria |
 | `2025-09-10_bd_SERPAVI_2011-2023.xlsx` | `data/raw/MIVAU/datos_alquiler/` | Serie histórica de precios de alquiler de referencia SERPAVI 2011-2023 (MIVAU) |
 | `CensoViviendas_2021.csv` | `data/raw/INE/` | Censo de Viviendas 2021 del INE |
 | `euribor_raw.txt` | `data/raw/` | Serie histórica del Euribor |
 | `summary_models.csv` | `data/ML/linear_regression/rent/` | Tabla comparativa de métricas para todos los modelos de regresión lineal (alquiler) |
+| `final_land_scraping.csv` | `data/gold/` | Gold dataset terrenos scraping — 686 obs., 7 features, target `log_precio` `[Añadido v1.2]` |
+| `scraping_land_preprocessed.csv` | `data/raw/scraping_manual/preprocessed/` | Terrenos scraping estandarizados y limpios — input de `scraping_land_processing_outliers.ipynb` |
+| `total_land_cantabria_outliers.csv` | `data/processed/scraping_manual/` | Terrenos scraping sin outliers — input de `scraping_processed_to_gold.ipynb` `[Actualizado v1.3]` |
 
 ### 14.3 Lista de rutas importantes
 
 | Ruta | Importancia |
 |---|---|
-| `data/gold/final_sale.csv` | Input principal de todos los modelos ML de venta |
-| `data/gold/final_rent.csv` | Input principal de todos los modelos ML de alquiler |
+| `data/gold/final_sale.csv` | Input principal de modelos ML de venta (combinado API + scraping) |
+| `data/gold/final_rent.csv` | Input principal de modelos ML de alquiler (combinado API + scraping) |
+| `data/gold/final_sale_idealistaAPI.csv` | Input alternativo de modelos ML de venta (solo fuente API) |
+| `data/gold/final_rent_idealistaAPI.csv` | Input alternativo de modelos ML de alquiler (solo fuente API) |
+| `data/processed/idealistaAPI/total_sale_cantabria_outliers.csv` | Dataset procesado de venta (todas las runs, sin outliers) |
+| `data/processed/idealistaAPI/total_rent_cantabria_outliers.csv` | Dataset procesado de alquiler (todas las runs, sin outliers) |
 | `data/processed/geo/pois_cantabria.csv` | POIs necesarios para re-generar el gold layer |
 | `src/idealistaAPI/config/idealista.py` | Configuración de círculos geográficos y parámetros API |
 | `src/idealistaAPI/ingestion/services/request_service.py` | Lógica de orquestación de la descarga API |
 | `src/geospatial_expansion/expand/enricher.py` | Enriquecimiento geoespacial — función principal |
-| `notebooks/04_EDA/44_feature_engineering_gold.ipynb` | Genera los gold datasets — notebook más crítico del pipeline |
-| `notebooks/05_ML/51_linear_regression_def.ipynb` | Modelo definitivo de regresión lineal |
-| `notebooks/05_ML/52_random_forest_def.ipynb` | Modelo definitivo de bagging/ensemble |
-| `notebooks/05_ML/53_boost_def.ipynb` | Modelo definitivo de boosting |
+| `notebooks/02_idealista_API_processing/idealistaAPI_processing_outliers.ipynb` | Elimina outliers y consolida runs — paso crítico |
+| `notebooks/04_transformations/idealistaAPI_processed_to_gold.ipynb` | Genera los gold datasets — notebook más crítico del pipeline |
+| `notebooks/05_ML_idealistaAPI/51_linear_regression_def.ipynb` | Modelo definitivo de regresión lineal |
+| `notebooks/05_ML_idealistaAPI/52_random_forest_def.ipynb` | Modelo definitivo de bagging/ensemble |
+| `notebooks/05_ML_idealistaAPI/53_boost_sale.ipynb` | Modelo XGBoost optimizado con Optuna para venta |
+| `notebooks/05_ML_idealistaAPI/53_boost_rent.ipynb` | Modelo XGBoost optimizado con Optuna para alquiler |
 | `docs/modelos_regresion_lineal.md` | Documentación técnica de modelos lineales (469 líneas) |
 | `docs/modelos_bagging_random_forest.md` | Documentación técnica de bagging (651 líneas) |
 | `docs/modelos_boosting.md` | Documentación técnica de boosting (835 líneas) |
 | `requirements.txt` | Dependencias del proyecto (incompleto — ver sección 11) |
+| `notebooks/04_transformations/scraping_processed_to_gold.ipynb` | Genera el gold dataset de terrenos — paso crítico del pipeline de terrenos `[Añadido v1.2]` |
+| `notebooks/06_ML_scraping_land/61_linear_regression.ipynb` | Modelos Ridge + Lasso para terrenos `[Añadido v1.2]` |
+| `notebooks/06_ML_scraping_land/62_random_forest.ipynb` | Modelos RF + Extra Trees con Optuna para terrenos `[Añadido v1.2]` |
+| `notebooks/06_ML_scraping_land/63_boost.ipynb` | Modelo XGBoost con Optuna para terrenos `[Añadido v1.2]` |
+| `data/gold/final_land_scraping.csv` | Gold dataset de terrenos — input directo de notebooks 61/62/63 `[Añadido v1.2]` |
 
 ### 14.4 Scripts y notebooks clave por orden de ejecución del pipeline
 
 ```
 # PASO 0: Configuración de entorno
-pip install -r requirements.txt  # + statsmodels, xgboost, osmnx, requests
+pip install -r requirements.txt  # + statsmodels, xgboost, optuna, osmnx, requests
 
 # PASO 1: Descarga de datos API Idealista
-python -m src.idealistaAPI.run_sale_requests --max-requests 100
-python -m src.idealistaAPI.run_rent_requests --max-requests 100
+python -m src.idealistaAPI.ingestion.run_sale_requests --max-requests 100
+python -m src.idealistaAPI.ingestion.run_rent_requests --max-requests 100
+# (repetir para múltiples runs si se necesita más muestra)
 
 # PASO 2: Descarga de POIs geoespaciales
 python -m src.geospatial_expansion.run_descargar_pois
 
-# PASO 3: Normalización JSON → CSV (ejecutada automáticamente por los runners)
+# PASO 3: Normalización JSON → CSV por ejecución
+notebooks/02_idealista_API_processing/idealistaAPI_raw_to_preprocess.ipynb
 # Output: data/raw/idealistaAPI/preprocess/*/
 
-# PASO 4: Limpieza de datos API (notebooks)
-notebooks/02_idealista_API_processing/idealistaAPI_data_sale.ipynb
-notebooks/02_idealista_API_processing/idealistaAPI_data_rent.ipynb
+# PASO 4: Limpieza y unificación de datos API
+notebooks/02_idealista_API_processing/idealistaAPI_data.ipynb
 
-# PASO 5: Eliminación de outliers
-notebooks/04_EDA/43_eliminar_outliers_regla_fija.ipynb
+# PASO 5: Eliminación de outliers y consolidación de runs (CRÍTICO)
+notebooks/02_idealista_API_processing/idealistaAPI_processing_outliers.ipynb
+# Output: data/processed/idealistaAPI/total_sale/rent_cantabria_outliers.csv
 
-# PASO 6: Feature engineering → gold layer (CRÍTICO)
-notebooks/04_EDA/44_feature_engineering_gold.ipynb
+# PASO 6: Transformación processed → gold layer (CRÍTICO)
+notebooks/04_transformations/idealistaAPI_processed_to_gold.ipynb
+# Output: data/gold/final_sale.csv, final_rent.csv,
+#         final_sale_idealistaAPI.csv, final_rent_idealistaAPI.csv
 
-# PASO 7: Modelado ML
-notebooks/05_ML/51_linear_regression_def.ipynb   # Regresión lineal
-notebooks/05_ML/52_random_forest_def.ipynb        # Bagging/Random Forest
-notebooks/05_ML/53_boost_def.ipynb                # Boosting
-notebooks/05_ML/54_hibrido.ipynb                  # Ensemble híbrido (en desarrollo)
+# PASO 7: Modelado ML (ejecutar con la versión definitiva canónica)
+notebooks/05_ML_idealistaAPI/51_linear_regression_def.ipynb   # Regresión lineal
+notebooks/05_ML_idealistaAPI/52_random_forest_def.ipynb        # Bagging/Random Forest
+notebooks/05_ML_idealistaAPI/53_boost_sale.ipynb               # XGBoost optimizado con Optuna (venta)
+notebooks/05_ML_idealistaAPI/53_boost_rent.ipynb               # XGBoost optimizado con Optuna (alquiler)
+notebooks/05_ML_idealistaAPI/54_hibrido.ipynb                  # Ensemble híbrido (en desarrollo)
 
+# PASO 8: Análisis de resultados y comparación
+notebooks/05_ML_idealistaAPI/55_sale_rent_models.ipynb         # Comparación final de modelos
+notebooks/05_ML_idealistaAPI/55_input_result.ipynb             # Análisis con distintos inputs
+
+# ─────────────────────────────────────────────────────────────
+# PIPELINE TERRENOS — scraping manual (independiente del pipeline API)
+# ─────────────────────────────────────────────────────────────
+
+# PASO T-1: Procesamiento datos scraping terrenos
+notebooks/01_manual_scraping_processing/scraping_land_processing.ipynb
+# Input:  data/raw/scraping_manual/raw/scraping_land_raw.csv
+# Output: data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv
+
+# PASO T-2: Tratamiento de outliers terrenos (CRÍTICO)
+notebooks/01_manual_scraping_processing/scraping_land_processing_outliers.ipynb
+# Pipeline: Regla fija → IQR×3.0 → precio>300k → IQR×1.5 sobre precio_eur
+# Output: data/processed/scraping_manual/total_land_cantabria_outliers.csv
+
+# PASO T-3: Transformación processed → gold layer terrenos (CRÍTICO)
+notebooks/04_transformations/scraping_processed_to_gold.ipynb
+# Pipeline: filtrado tipo_suelo → excl. leakage → log-target
+#           → target-encoding municipio → OHE tipo_suelo → export
+# Output: data/gold/final_land_scraping.csv  ← sobreescribe en cada ejecución
+
+# PASO T-3: Modelado ML terrenos
+notebooks/06_ML_scraping_land/61_linear_regression.ipynb  # Ridge + Lasso
+notebooks/06_ML_scraping_land/62_random_forest.ipynb      # RF + Extra Trees (Optuna, 40 trials)
+notebooks/06_ML_scraping_land/63_boost.ipynb              # XGBoost (Optuna, 50 trials)
+
+# ─────────────────────────────────────────────────────────────
 # ANÁLISIS PARALELOS (no bloquean el pipeline ML):
-notebooks/01_manual_scraping_processing/          # EDA datos scraping
+notebooks/01_manual_scraping_processing/          # Procesamiento datos scraping
 notebooks/03_macro_and_structural_analysis/       # Análisis macro (MIVAU, INE, Euribor)
 ```
 
@@ -1173,7 +1375,7 @@ notebooks/03_macro_and_structural_analysis/       # Análisis macro (MIVAU, INE,
 
 4. **Los modelos lineales superan a los ensembles en alquiler:** para el dataset de alquiler (n=477), Lasso+OLS (R²=0.576) supera a RF óptimo (R²=0.450) y XGBoost óptimo (R²=0.388). El Extra Trees domina en venta (R²=0.707). `[Verificado]`
 
-5. **El README principal está significativamente desactualizado:** no refleja las carpetas `data/gold/`, `notebooks/04_EDA/`, `notebooks/05_ML/`, `models/`, ni la arquitectura real de `data/raw/MIVAU/` (que en el README aparece como `data/mivau/`). `[Verificado]`
+5. **El README principal está significativamente desactualizado:** no refleja las carpetas `data/gold/`, `notebooks/04_transformations/`, `notebooks/05_ML_idealistaAPI/`, `models/`, las múltiples ejecuciones de la API, los 4 gold datasets, ni la nueva estructura de `src/idealistaAPI`. `[Verificado]`
 
 6. **El `requirements.txt` global está incompleto:** omite `statsmodels`, `xgboost`, `osmnx` y `requests`, que son necesarios para ejecutar el proyecto. Un nuevo colaborador no podrá reproducir el entorno únicamente con ese fichero. `[Verificado]`
 
@@ -1185,6 +1387,12 @@ notebooks/03_macro_and_structural_analysis/       # Análisis macro (MIVAU, INE,
 
 10. **Estrategia Git clara pero con trabajo activo fuera de `main`:** todo el desarrollo reciente vive en `feat/ML` y `feat/EDA`, sin evidencia de merge a `main`. El historial refleja una evolución orgánica y académica del proyecto, con iteración rápida sobre los modelos. `[Verificado]`
 
+11. **Pipeline de terrenos completo e independiente (añadido en v1.2):** los datos de terrenos (scraping manual) tienen ahora su pipeline end-to-end: `01/scraping_land_processing.ipynb` → `04/scraping_processed_to_gold.ipynb` → `06_ML_scraping_land/` (notebooks 61, 62, 63). El tratamiento de outliers es en dos etapas (reglas fijas de negocio + IQR×1.5 en escala original). El gold dataset resultante tiene **686 observaciones y 7 features**, con naturaleza location-driven que hace los modelos lineales competitivos frente a ensembles. `[Verificado]`
+
+12. **Datasets gold consolidados en tres fuentes independientes (v1.2):** `final_sale_idealistaAPI.csv` (2.694 obs., 61 features), `final_rent_idealistaAPI.csv` (754 obs., 40 features) y `final_land_scraping.csv` (686 obs., 7 features). Los datasets combinados (`final_sale.csv`, `final_rent.csv`) han sido eliminados por no aportar mejora sobre los de la API con el volumen de scraping disponible. `[Verificado]`
+
 ---
 
-*Documento generado el 2026-03-20 mediante análisis automatizado y revisión manual del repositorio en el estado del commit `d59fd06` (rama `feat/ML`).*
+*Documento actualizado el 2026-04-21. Versión 1.1 — refleja el estado del repositorio en el commit `bc0ff63` (rama `feat/final_data_and_md_structure`). Cambios respecto a v1.0: renombrado de `04_EDA` a `04_transformations`, reestructuración de notebooks `02_*` con outliers y raw-to-preprocess explícitos, múltiples ejecuciones de API (2 venta + 4 alquiler), nuevos gold datasets por fuente, nuevos notebooks de boosting con Optuna y sección `55_*` de análisis de resultados, actualización de estructura `src/idealistaAPI`.*
+
+*Documento actualizado el 2026-04-22. Versión 1.2 — refleja el estado del repositorio en la rama `feat/ML_terrenos` (HEAD: `e7471c2`). Cambios respecto a v1.1: (1) nuevo notebook `scraping_processed_to_gold.ipynb` con pipeline completo de terrenos (filtrado tipo_suelo + reglas fijas de precio + IQR×1.5 en escala original + encoding); (2) gold dataset `final_land_scraping.csv` (686 obs. × 9 cols, 7 features, target log_precio); (3) tres notebooks de ML para terrenos: `61_linear_regression.ipynb` (Ridge+Lasso), `62_random_forest.ipynb` (RF+ET con Optuna), `63_boost.ipynb` (XGBoost con Optuna); (4) eliminación de `final_sale.csv` y `final_rent.csv` del gold layer; (5) nuevas secciones 8.7 (ML terrenos) y 8.8 (observaciones finales por dataset y conteo de features); (6) actualización de árbol de directorios, catálogos de notebooks y tablas de trazabilidad.*
