@@ -132,12 +132,6 @@ BezanillaSL/                          ← Raíz del proyecto
 │   │   ├── final_rent_idealistaAPI.csv  ← Dataset alquiler solo fuente API [Verificado]
 │   │   └── final_land_scraping.csv      ← Dataset terrenos scraping gold (686 obs. × 9 cols) [Añadido v1.2]
 │   │
-│   ├── ML/                          ← Outputs analíticos de experimentos ML
-│   │   ├── linear_regression/
-│   │   │   ├── sale/                ← M01_raw … M24_log (24 variantes)
-│   │   │   └── rent/                ← M01_raw … M24_log (24 variantes)
-│   │   │       └── summary_models.csv, summary_models_full.csv, summary_models_visual.html
-│   │   └── random_forest/           ← [Verificado: directorio vacío — sin outputs persistidos]
 │   └── model_results/               ← Parámetros y métricas de modelos XGBoost definitivos [Añadido v1.3]
 │       ├── params_sale.json         ← Hiperparámetros, features, métricas y medias municipales M-SALE
 │       └── params_rent.json         ← Hiperparámetros, features, métricas y medias municipales M-RENT
@@ -152,9 +146,6 @@ BezanillaSL/                          ← Raíz del proyecto
 │   ├── modelos_bagging_random_forest.md  ← 651 líneas
 │   └── modelos_boosting.md          ← 835 líneas
 │
-├── models/
-│   └── general_models/              ← [Verificado: directorio vacío — sin modelos serializados]
-│
 ├── notebooks/                       ← Cuadernos de análisis por etapa
 │   ├── 01_manual_scraping_processing/   ← Procesamiento datos scraping manual (3 notebooks)
 │   ├── 02_idealista_API_processing/     ← Limpieza, outliers y preprocesado API (3 notebooks)
@@ -162,7 +153,7 @@ BezanillaSL/                          ← Raíz del proyecto
 │   ├── 04_transformations/              ← Transformación processed → gold (2 notebooks) [v1.2]
 │   │   ├── idealistaAPI_processed_to_gold.ipynb  ← Viviendas API → gold
 │   │   └── scraping_processed_to_gold.ipynb      ← Terrenos scraping → gold [Añadido v1.2]
-│   ├── 05_ML_idealistaAPI/              ← Experimentos ML sobre datos API Idealista (≥20 ficheros)
+│   ├── 05_ML/                           ← Experimentos ML sobre datos API Idealista (antes: 05_ML_idealistaAPI) [Renombrado v1.3]
 │   └── 06_ML_scraping_land/             ← Experimentos ML sobre datos de terrenos (scraping manual) [Añadido v1.2]
 │       ├── 61_linear_regression.ipynb   ← Ridge + Lasso con GridSearchCV
 │       ├── 62_random_forest.ipynb       ← RF + Extra Trees con Optuna (40 trials)
@@ -180,12 +171,13 @@ BezanillaSL/                          ← Raíz del proyecto
 
 | Carpeta | Rol | Contenido principal |
 |---|---|---|
-| `data/` | Pipeline de datos por capas | raw, processed, gold, ML |
+| `data/` | Pipeline de datos por capas | raw, processed, gold, model_results |
 | `src/` | Código de producción reutilizable | Módulos API e geoespacial |
 | `notebooks/` | Experimentación y análisis | ~24 notebooks + 1 script .py |
 | `docs/` | Documentación técnica | Markdowns de modelos + diagramas PNG |
-| `models/` | Artefactos de modelos entrenados | **Vacío actualmente** `[Verificado]` |
 | `cache/` | Caché de cómputo intermedio | 32 JSON con nombre hasheado |
+
+> **Eliminados en v1.3:** `data/ML/` (outputs analíticos de regresión lineal y RF — vacíos o no necesarios para el pipeline actual) y `models/general_models/` (directorio vacío — ningún modelo se serializa a disco). `[Verificado]`
 
 ### 2.3 Relación entre capas principales
 
@@ -415,14 +407,17 @@ flowchart TD
         E2["final_rent.csv\nfinal_rent_idealistaAPI.csv"]
     end
 
-    subgraph ML_OUT["data/ML/"]
-        F1["linear_regression/sale/M01-M24\ncoefficients, residuals, vif, plots"]
-        F2["linear_regression/rent/M01-M24\nsummary_models.csv"]
-        F3["random_forest/ [vacío]"]
+    subgraph ML_OUT["data/model_results/ [v1.3]"]
+        F1["params_sale.json\nhiperparámetros + métricas M-SALE"]
+        F2["params_rent.json\nhiperparámetros + métricas M-RENT"]
     end
 
     subgraph MACRO["Análisis macro (notebooks 03)"]
         G1["SERPAVI · Censo · Euribor · PESTLE"]
+    end
+
+    subgraph models_old["Eliminados v1.3"]
+        Z1["data/ML/ — eliminado\nmodels/general_models/ — eliminado"]
     end
 
     A1 -->|"src/idealistaAPI/ingestion\nrun_sale/rent_requests.py"| B1
@@ -444,9 +439,8 @@ flowchart TD
     D7 -->|"agregar_distancias_minimas_poi()"| E1
     D7 -->|"agregar_distancias_minimas_poi()"| E2
 
-    E1 & E2 -->|"nb 05_ML_idealistaAPI/51_linear_regression_def"| F1
-    E1 & E2 -->|"nb 05_ML_idealistaAPI/51_linear_regression_def"| F2
-    E1 & E2 -->|"nb 05_ML_idealistaAPI/52_random_forest_def"| F3
+    E1 & E2 -->|"nb 05_ML/53_boost_sale_optuna"| F1
+    E1 & E2 -->|"nb 05_ML/53_boost_rent"| F2
 
     B3 & B4 & B5 --> G1
 ```
@@ -553,24 +547,18 @@ flowchart TD
 
 > **Nota v1.3:** los conteos de observaciones de viviendas reflejan el estado tras el pipeline completo de outlier removal en `idealistaAPI_processing_outliers.ipynb`. Los counts anteriores (2.694 venta, 754 alquiler) eran anteriores al filtrado completo.
 
-### 5.4 `data/ML/`
+### 5.4 `data/model_results/` `[Actualizado v1.3]`
 
-**Criterio de clasificación:** outputs analíticos generados por los experimentos de machine learning. No son datos de entrada sino resultados de experimentos. `[Inferido]`
+**Criterio de clasificación:** parámetros, métricas y metadatos de los modelos XGBoost definitivos exportados por los notebooks `53_boost_*`. Son el mecanismo de persistencia y comunicación entre notebooks de entrenamiento y notebooks de predicción/evaluación.
 
-**Nivel de transformación:** no aplica — son artefactos de salida, no datos de entrada.
+**Contenido** `[Verificado]`:
 
-**Datasets y artefactos concretos** `[Verificado]`:
-
-| Ruta | Contenido | Estado |
+| Fichero | Contenido | Generado por |
 |---|---|---|
-| `linear_regression/sale/M01_raw … M24_log/` | coeficientes.csv, residuals.csv, vif.csv, residual_plots.png | Con contenido (24 variantes × 4 ficheros) |
-| `linear_regression/rent/M01_raw … M24_log/` | coeficientes.csv, residuals.csv, vif.csv, residual_plots.png | Con contenido (24 variantes × 4 ficheros) |
-| `linear_regression/rent/summary_models.csv` | Tabla comparativa de métricas de todos los modelos | Con contenido |
-| `linear_regression/rent/summary_models_full.csv` | Versión extendida del resumen | Con contenido |
-| `linear_regression/rent/summary_models_visual.html` | Resumen visual interactivo (HTML) | Con contenido |
-| `random_forest/` | — | **Vacío** — sin outputs persistidos |
+| `params_sale.json` | Hiperparámetros XGB óptimos, lista de features, CV-RMSE, test R²/RMSE, medianas precio/m² por municipio para M-SALE | `53_boost_sale_optuna.ipynb` al finalizar Optuna |
+| `params_rent.json` | Mismo esquema para M-RENT, incluyendo medianas de precio venta por municipio (usado como referencia geográfica en notebooks de predicción) | `53_boost_rent.ipynb` al finalizar Optuna |
 
-**Observación crítica:** no existe un directorio `data/ML/boosting/`. Los outputs de los notebooks de boosting (53_*) no han sido persistidos en el sistema de archivos. `[Verificado]`
+> **Nota v1.3:** `data/ML/` (que contenía outputs de regresión lineal y un directorio vacío de RF) ha sido **eliminado** del repositorio por no ser necesario para el pipeline actual basado en XGBoost. Los notebooks `55_*` ya no dependen de outputs en disco — leen directamente los params JSON y re-entrenan en memoria.
 
 ---
 
@@ -613,7 +601,7 @@ Esta carpeta (antes llamada `04_EDA`) contiene ahora un único notebook de trans
 | `idealistaAPI_processed_to_gold.ipynb` | Genera el gold layer: feature engineering, encoding, distancias POI, dummies de municipio, log-target. Produce versiones API-only y combinadas (API + scraping) | `data/processed/idealistaAPI/total_sale/rent_cantabria_outliers.csv`, `data/processed/geo/pois_cantabria.csv` | `data/gold/final_sale.csv`, `final_rent.csv`, `final_sale_idealistaAPI.csv`, `final_rent_idealistaAPI.csv` | Transformación | **Productivo-crítico** |
 | `scraping_processed_to_gold.ipynb` | Genera el gold layer de terrenos: filtrado tipo_suelo (<10 obs.), exclusión de leakage (`precio_m2`, `titulo`), log-target, target-encoding municipio (35 categ.), OHE tipo_suelo (3 categ.), bool→int. Trabaja sobre copia del input; sobreescribe output en cada ejecución. | `data/processed/scraping_manual/total_land_cantabria_outliers.csv` | `data/gold/final_land_scraping.csv` | Transformación | **Productivo-crítico** `[Actualizado v1.3]` |
 
-#### `notebooks/05_ML_idealistaAPI/` — Experimentos de machine learning sobre datos API Idealista
+#### `notebooks/05_ML/` — Experimentos de machine learning sobre datos API Idealista (antes: `05_ML_idealistaAPI/`) `[Renombrado v1.3]`
 
 | Notebook / Fichero | Objetivo | Inputs | Outputs | Etapa | Tipo |
 |---|---|---|---|---|---|
@@ -767,14 +755,14 @@ src/geospatial_expansion/
 
 ## 8. Modelado y outputs analíticos
 
-### 8.1 Evidencia de experimentos de ML
+### 8.1 Evidencia de experimentos de ML `[Actualizado v1.3]`
 
-`[Verificado]` — El repositorio contiene evidencia extensiva de experimentación ML: 14 ficheros en `notebooks/05_ML_idealistaAPI/`, 3 documentos técnicos en `docs/` con más de 1.900 líneas de análisis, y outputs en `data/ML/linear_regression/` con 48 subdirectorios de experimentos (24 variantes × 2 operaciones).
+`[Verificado]` — El repositorio contiene evidencia extensiva de experimentación ML: notebooks en `notebooks/05_ML/` (antes `05_ML_idealistaAPI/`), 3 documentos técnicos en `docs/` con más de 1.900 líneas de análisis, y parámetros/métricas de los modelos definitivos en `data/model_results/`. Los outputs de regresión lineal (`data/ML/`) han sido eliminados junto con el directorio `models/general_models/` (ambos vacíos o no necesarios para el pipeline XGBoost actual).
 
-### 8.2 Datasets de entrenamiento
+### 8.2 Datasets de entrenamiento `[Actualizado v1.3]`
 
-- **Venta:** `data/gold/final_sale.csv` — 588 filas, partición 80/20 (train/test), usando `random_state=42`
-- **Alquiler:** `data/gold/final_rent.csv` — 477 filas, misma partición
+- **Venta:** `data/gold/final_sale_idealistaAPI.csv` — **2.532 filas** (tras outlier removal upstream), partición 80/20, `random_state=42`
+- **Alquiler:** `data/gold/final_rent_idealistaAPI.csv` — **661 filas** (tras outlier removal upstream), misma partición
 - La partición se realiza **dentro de cada notebook** con `train_test_split()` — no hay splits pre-generados en disco `[Verificado]`
 
 ### 8.3 Resultados de modelos por familia
@@ -833,42 +821,40 @@ Los modelos de boosting han evolucionado de GridSearchCV en `53_boost_def` a opt
 
 **Insight clave:** el XGBoost con Optuna y espacio de búsqueda corregido supera a todos los modelos previos en ambas operaciones. En alquiler, el cambio más relevante fue la corrección del espacio de Optuna (gamma, min_child_weight, subsample) que permitía soluciones degeneradas con importancias cero en municipios. Con el espacio corregido y el tratamiento de NaN para unifamiliares, el XGBoost supera por primera vez a los modelos lineales en alquiler. `[Verificado — v1.3]`
 
-### 8.5 Relación entre capas de datos y modelos
+### 8.5 Relación entre capas de datos y modelos `[Actualizado v1.3]`
 
 ```mermaid
 graph LR
-    G1[data/gold/final_sale.csv] --> NB51[51_linear_regression_def]
-    G2[data/gold/final_rent.csv] --> NB51
+    G1[data/gold/final_sale_idealistaAPI.csv] --> NB53S[53_boost_sale_optuna]
+    G2[data/gold/final_rent_idealistaAPI.csv] --> NB53R[53_boost_rent]
+
+    NB53S --> J1[data/model_results/params_sale.json]
+    NB53R --> J2[data/model_results/params_rent.json]
+
+    J1 --> NB55A[55_sale_rent_models]
+    J2 --> NB55A
+    J1 --> NB55B[55_input_result]
+    J2 --> NB55B
+    J1 --> NB55C[55_input_result_no_k_fold]
+    J2 --> NB55C
+
+    G1 --> NB51[51_linear_regression_def]
+    G2 --> NB51
     G1 --> NB52[52_random_forest_def]
     G2 --> NB52
-    G1 --> NB53[53_boost_def]
-    G2 --> NB53
-    G1 --> NB54[54_hibrido]
-    G2 --> NB54
 
-    NB51 --> ML1[data/ML/linear_regression/ ← CON OUTPUTS]
-    NB52 --> ML2[data/ML/random_forest/ ← VACÍO]
-    NB53 --> ML3[data/ML/boosting/ ← NO EXISTE]
-    NB54 --> ML4[data/ML/hibrido/ ← NO EXISTE]
-
-    G1[data/gold/final_sale_idealistaAPI.csv] --> NB51
-    G2[data/gold/final_rent_idealistaAPI.csv] --> NB51
-    G1 --> NB52
-    G2 --> NB52
-
-    ML1 -.->|no serializados| M1[models/general_models/ ← VACÍO]
-    NB52 -.->|no serializados| M1
-    NB53 -.->|no serializados| M1
+    NB51 -.->|data/ML/ eliminado v1.3| X1[ ]
+    NB52 -.->|outputs no persistidos| X1
 ```
 
-### 8.6 Ausencia de modelos serializados
+### 8.6 Sin modelos serializados — diseño por re-entrenamiento `[Actualizado v1.3]`
 
-`[Verificado]` — La carpeta `models/general_models/` está vacía. Ningún modelo ha sido serializado con `pickle`, `joblib` o equivalentes. Esto implica que:
-- Los modelos deben re-entrenarse en cada ejecución
-- No existe capacidad de inferencia sin re-ejecutar los notebooks
-- No hay versionado de modelos
+`[Verificado]` — Los modelos XGBoost no se guardan en disco con `pickle`, `joblib` ni equivalentes. El directorio `models/general_models/` ha sido **eliminado** del repositorio (estaba vacío). El diseño actual es:
+- Los notebooks `55_*` re-entrenan el modelo en cada ejecución leyendo los params del JSON
+- El tiempo de re-entrenamiento es asumible (segundos) dado el tamaño del dataset
+- Los parámetros óptimos sí están persistidos en `data/model_results/*.json`
 
-Esta es la deuda técnica más significativa del proyecto en el ámbito ML.
+Para un sistema de producción, la serialización del modelo entrenado seguiría siendo recomendable para evitar el re-entrenamiento en cada sesión.
 
 ### 8.7 Modelado ML sobre datos de terrenos — `notebooks/06_ML_scraping_land/`
 
