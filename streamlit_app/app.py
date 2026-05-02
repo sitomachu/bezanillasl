@@ -51,6 +51,10 @@ PROJECT_ROOT = APP_DIR.parent
 GOLD_DIR     = PROJECT_ROOT / "data" / "gold"
 PARAMS_DIR   = PROJECT_ROOT / "data" / "model_results"
 PROCESSED_DIR = PROJECT_ROOT / "data" / "processed" / "idealistaAPI"
+MODEL_SALE_PATH = GOLD_DIR / "final_sale_idealistaAPI.csv"
+MODEL_RENT_PATH = GOLD_DIR / "final_rent_idealistaAPI.csv"
+STREAMLIT_SALE_PATH = GOLD_DIR / "streamlit_sale.csv"
+STREAMLIT_RENT_PATH = GOLD_DIR / "streamlit_rent.csv"
 
 
 PISO_ONLY_FEATURES = {
@@ -128,7 +132,7 @@ def build_geo_ref(df: pd.DataFrame) -> pd.DataFrame:
 
 def extend_rent_geo_ref(rent_geo_ref: pd.DataFrame, rent_cfg: dict) -> pd.DataFrame:
     proc_rent_path = PROCESSED_DIR / "total_rent_cantabria_outliers.csv"
-    rent_path = GOLD_DIR / "final_rent_idealistaAPI.csv"
+    rent_path = MODEL_RENT_PATH
     if not proc_rent_path.exists() or not rent_path.exists():
         return rent_geo_ref
 
@@ -162,8 +166,8 @@ def extend_rent_geo_ref(rent_geo_ref: pd.DataFrame, rent_cfg: dict) -> pd.DataFr
 def load_artifacts() -> dict:
     sale_params_path = PARAMS_DIR / "params_sale.json"
     rent_params_path = PARAMS_DIR / "params_rent.json"
-    sale_path = GOLD_DIR / "final_sale_idealistaAPI.csv"
-    rent_path = GOLD_DIR / "final_rent_idealistaAPI.csv"
+    sale_path = MODEL_SALE_PATH
+    rent_path = MODEL_RENT_PATH
 
     if not sale_params_path.exists() or not rent_params_path.exists() or not sale_path.exists() or not rent_path.exists():
         raise FileNotFoundError(
@@ -251,12 +255,10 @@ def load_artifacts() -> dict:
 
 @st.cache_data(show_spinner=False)
 def load_municipio_universe() -> list[str]:
-    """Fallback: lee municipios desde los gold files si faltan metadatos."""
+    """Fallback: lee municipios soportados por el modelo de venta."""
     municipios: set[str] = set()
-    for csv in (GOLD_DIR / "final_sale_idealistaAPI.csv", GOLD_DIR / "final_rent_idealistaAPI.csv"):
-        if not csv.exists():
-            continue
-        for c in pd.read_csv(csv, nrows=0).columns:
+    if MODEL_SALE_PATH.exists():
+        for c in pd.read_csv(MODEL_SALE_PATH, nrows=0).columns:
             if c.startswith("municipio_"):
                 name = c.replace("municipio_", "")
                 if name not in {"otro", "otros"}:
@@ -266,11 +268,9 @@ def load_municipio_universe() -> list[str]:
 
 def municipios_from_meta(meta: dict) -> list[str]:
     municipios: set[str] = set()
-    for key in ("sale_geo_ref", "rent_geo_ref"):
-        geo_ref = meta.get(key)
-        if geo_ref is None:
-            continue
-        municipios.update(str(m) for m in geo_ref.index if str(m) not in {"otro", "otros"})
+    sale_geo_ref = meta.get("sale_geo_ref")
+    if sale_geo_ref is not None:
+        municipios.update(str(m) for m in sale_geo_ref.index if str(m) not in {"otro", "otros"})
     if not municipios:
         return load_municipio_universe()
     return sorted(municipios) + ["Otros"]
@@ -402,6 +402,7 @@ def build_idealista_url(
     n_dormitorios: int,
     n_banos: int,
     es_exterior: bool | None,
+    tiene_ascensor: bool | None,
     tiene_garaje: bool,
     obra_nueva: bool,
 ) -> str:
@@ -426,6 +427,8 @@ def build_idealista_url(
         filters.append("garaje")
     if es_exterior:
         filters.append("exterior")
+    if tiene_ascensor:
+        filters.append("ascensor")
     if obra_nueva:
         filters.append("obra-nueva")
 
@@ -486,6 +489,7 @@ def fetch_idealista_listings(url: str, max_results: int = 6) -> list[dict]:
             "precio_eur": precio_eur,
             "img": img_url,
             "details": details,
+            "source": "idealista",
         })
     return items
 
@@ -503,16 +507,14 @@ def _parse_price(txt: str) -> float | None:
 
 
 # ─────────────────────────────────────────────────────────────────────────────
-# Idealista local — listings desde los CSV ya descargados por API
+# Idealista local — listings desde los CSV gold completos para Streamlit
 # ─────────────────────────────────────────────────────────────────────────────
 LOCAL_LISTING_PATHS = {
     "venta": [
-        PROCESSED_DIR / "total_sale_cantabria_outliers.csv",
-        PROJECT_ROOT / "data" / "raw" / "idealistaAPI" / "preprocess" / "total_sales_cantabria.csv",
+        STREAMLIT_SALE_PATH,
     ],
     "alquiler": [
-        PROCESSED_DIR / "total_rent_cantabria_outliers.csv",
-        PROJECT_ROOT / "data" / "raw" / "idealistaAPI" / "preprocess" / "total_rent_cantabria.csv",
+        STREAMLIT_RENT_PATH,
     ],
 }
 
@@ -522,6 +524,9 @@ LOCAL_LISTING_COLS = [
     "rooms", "bathrooms", "address", "municipality", "district",
     "status", "newDevelopment", "parkingSpace.hasParkingSpace", "suggestedTexts.title",
     "suggestedTexts.subtitle", "detailedType.typology", "detailedType.subTypology",
+    "municipio", "tipologia_unificada", "numero_dormitorios", "numero_banos",
+    "superficie_construida_m2", "obra_nueva", "tiene_garaje", "es_exterior",
+    "tiene_ascensor", "planta_num", "exterior", "hasLift", "floor",
 ]
 
 
@@ -538,9 +543,35 @@ def load_local_listings(modo: str) -> pd.DataFrame:
 def _truthy(value) -> bool:
     if pd.isna(value):
         return False
+    if isinstance(value, (bool, np.bool_)):
+        return bool(value)
+    if isinstance(value, (int, float, np.integer, np.floating)):
+        return bool(float(value))
     if isinstance(value, str):
-        return value.strip().lower() in {"true", "1", "yes", "si", "sí"}
+        text = value.strip().lower()
+        if text in {"true", "t", "1", "1.0", "yes", "y", "si", "sí", "s"}:
+            return True
+        if text in {"false", "f", "0", "0.0", "no", "n", "nan", "none", ""}:
+            return False
     return bool(value)
+
+
+def _first_listing_col(df: pd.DataFrame, candidates: list[str]) -> str | None:
+    return next((col for col in candidates if col in df.columns), None)
+
+
+def _strict_numeric_filter(df: pd.DataFrame, col: str | None, expected: int | float) -> pd.DataFrame:
+    if col is None:
+        return df
+    values = pd.to_numeric(df[col], errors="coerce")
+    return df[values == expected]
+
+
+def _strict_bool_filter(df: pd.DataFrame, col: str | None, expected: bool = True) -> pd.DataFrame:
+    if col is None:
+        return df
+    values = df[col].map(_truthy)
+    return df[values == bool(expected)]
 
 
 def _listing_title(row: pd.Series) -> str:
@@ -591,6 +622,9 @@ def find_local_listings(
     superficie_m2: float,
     n_dormitorios: int,
     n_banos: int,
+    planta_num: int | None,
+    es_exterior: bool | None,
+    tiene_ascensor: bool | None,
     tiene_garaje: bool,
     obra_nueva: bool,
     max_results: int | None = None,
@@ -600,38 +634,48 @@ def find_local_listings(
         return []
 
     filtered = df.copy()
-    if municipio != "Otros" and "municipality" in filtered.columns:
-        filtered = filtered[filtered["municipality"].astype(str) == municipio]
 
-    if "propertyType" in filtered.columns:
-        if tipologia == "piso":
-            type_mask = filtered["propertyType"].astype(str).str.lower().isin({"flat", "penthouse", "duplex"})
+    municipio_col = _first_listing_col(filtered, ["municipio", "municipality"])
+    if municipio != "Otros" and municipio_col is not None:
+        filtered = filtered[filtered[municipio_col].astype(str).str.strip() == municipio]
+
+    tipologia_col = _first_listing_col(filtered, ["tipologia_unificada", "propertyType", "detailedType.typology"])
+    if tipologia_col is not None:
+        values = filtered[tipologia_col].astype(str).str.lower().str.strip()
+        if tipologia_col == "tipologia_unificada":
+            type_mask = values == tipologia
+        elif tipologia == "piso":
+            type_mask = values.isin({"flat", "penthouse", "duplex"})
         else:
-            type_mask = filtered["propertyType"].astype(str).str.lower().isin({"chalet", "countryhouse"})
-        if type_mask.any():
-            filtered = filtered[type_mask]
+            type_mask = values.isin({"chalet", "countryhouse"})
+        filtered = filtered[type_mask]
 
-    if "rooms" in filtered.columns:
-        rooms = pd.to_numeric(filtered["rooms"], errors="coerce")
-        room_mask = rooms == int(n_dormitorios)
-        if room_mask.any():
-            filtered = filtered[room_mask]
+    rooms_col = _first_listing_col(filtered, ["numero_dormitorios", "rooms"])
+    filtered = _strict_numeric_filter(filtered, rooms_col, int(n_dormitorios))
 
-    if "bathrooms" in filtered.columns:
-        bathrooms = pd.to_numeric(filtered["bathrooms"], errors="coerce")
-        bathroom_mask = bathrooms == int(n_banos)
-        if bathroom_mask.any():
-            filtered = filtered[bathroom_mask]
+    bathrooms_col = _first_listing_col(filtered, ["numero_banos", "bathrooms"])
+    filtered = _strict_numeric_filter(filtered, bathrooms_col, int(n_banos))
 
-    if tiene_garaje and "parkingSpace.hasParkingSpace" in filtered.columns:
-        garage_mask = filtered["parkingSpace.hasParkingSpace"].map(_truthy)
-        if garage_mask.any():
-            filtered = filtered[garage_mask]
+    if tipologia == "piso":
+        floor_col = _first_listing_col(filtered, ["planta_num"])
+        if planta_num is not None:
+            filtered = _strict_numeric_filter(filtered, floor_col, int(planta_num))
 
-    if obra_nueva and "newDevelopment" in filtered.columns:
-        new_build_mask = filtered["newDevelopment"].map(_truthy)
-        if new_build_mask.any():
-            filtered = filtered[new_build_mask]
+        exterior_col = _first_listing_col(filtered, ["es_exterior", "exterior"])
+        if es_exterior is not None:
+            filtered = _strict_bool_filter(filtered, exterior_col, bool(es_exterior))
+
+        lift_col = _first_listing_col(filtered, ["tiene_ascensor", "hasLift"])
+        if tiene_ascensor is not None:
+            filtered = _strict_bool_filter(filtered, lift_col, bool(tiene_ascensor))
+
+    if tiene_garaje:
+        garage_col = _first_listing_col(filtered, ["tiene_garaje", "parkingSpace.hasParkingSpace"])
+        filtered = _strict_bool_filter(filtered, garage_col, True)
+
+    if obra_nueva:
+        new_build_col = _first_listing_col(filtered, ["obra_nueva", "newDevelopment"])
+        filtered = _strict_bool_filter(filtered, new_build_col, True)
 
     if filtered.empty:
         return []
@@ -747,7 +791,9 @@ def render_listings_section(
     superficie_m2: float,
     n_dormitorios: int,
     n_banos: int,
+    planta_num: int | None,
     es_exterior: bool | None,
+    tiene_ascensor: bool | None,
     tiene_garaje: bool,
     obra_nueva: bool,
 ) -> None:
@@ -758,6 +804,7 @@ def render_listings_section(
         n_dormitorios=int(n_dormitorios),
         n_banos=int(n_banos),
         es_exterior=es_exterior,
+        tiene_ascensor=tiene_ascensor,
         tiene_garaje=tiene_garaje,
         obra_nueva=obra_nueva,
     )
@@ -772,9 +819,12 @@ def render_listings_section(
         superficie_m2=superficie_m2,
         n_dormitorios=int(n_dormitorios),
         n_banos=int(n_banos),
+        planta_num=planta_num,
+        es_exterior=es_exterior,
+        tiene_ascensor=tiene_ascensor,
         tiene_garaje=tiene_garaje,
         obra_nueva=obra_nueva,
-        )
+    )
     if not listings:
         with st.spinner(f"Buscando viviendas de {titulo.lower()} en Idealista…"):
             listings = fetch_idealista_listings(idealista_url, max_results=6)
@@ -786,7 +836,8 @@ def render_listings_section(
         )
         return
 
-    st.caption(f"{len(listings)} viviendas encontradas en el dataset para esta configuración.")
+    source = "en el dataset" if all(item.get("source") == "local" for item in listings) else "en Idealista"
+    st.caption(f"{len(listings)} viviendas encontradas {source} para esta configuración.")
 
     cols = st.columns(min(3, len(listings)))
     for i, item in enumerate(listings):
@@ -1156,7 +1207,9 @@ def render_predictor_page(artifacts: dict) -> None:
             superficie_m2=superficie_m2,
             n_dormitorios=int(n_dormitorios),
             n_banos=int(n_banos),
+            planta_num=planta_num,
             es_exterior=es_exterior,
+            tiene_ascensor=tiene_ascensor,
             tiene_garaje=tiene_garaje,
             obra_nueva=obra_nueva,
         )
@@ -1175,7 +1228,9 @@ def render_predictor_page(artifacts: dict) -> None:
             superficie_m2=superficie_m2,
             n_dormitorios=int(n_dormitorios),
             n_banos=int(n_banos),
+            planta_num=planta_num,
             es_exterior=es_exterior,
+            tiene_ascensor=tiene_ascensor,
             tiene_garaje=tiene_garaje,
             obra_nueva=obra_nueva,
         )
