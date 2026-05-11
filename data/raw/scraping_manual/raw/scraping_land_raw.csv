@@ -1079,3 +1079,222 @@ id;anunciante;titulo;municipio;zona;precio_eur;precio_anterior_eur;descuento_pct
 1078;;Terreno en el cotero, Alfoz de Lloredo;Alfoz de Lloredo;;38000;;;2148;No urbanizable;;
 1079;;Terreno en Herminio Fernández Caballero, Guarnizo;Astillero;Guarnizo;180000;;;1500;Urbano (solar);;
 1080;;Terreno en Calle Rotizas, Penagos;Penagos;;99000;;;1400;Urbano (solar);;
+1081;MENA INMOBILIARIA;Terreno en Bezana;Santa Cruz de Bezana;Calle Ferrocarril;450000;;;796;Urbano;;Parcela única en su categoría, urbanizado, UE22
+1082;MENA INMOBILIARIA;Terreno en Bezana;Santa Cruz de Bezana;Bezana;180000;;;1300;Urbano;;Terreno urbano bien comunicado cerca Santander
+1083;MENA INMOBILIARIA;Terreno en Bezana;Santa Cruz de Bezana;Centro Bezana;119000;;;863;Urbano;;Ubicación céntrica, servicios cercanos
+1084;Pablo Pescador;Terreno en Calle la Gesa;Santa Cruz de Bezana;Calle la Gesa;200000;;;12925;Urbano;;Gran superficie, accesos múltiples, cerca Liencres
+1085;Northome Cantabria;Terreno en Avenida Prezanes;Santa Cruz de Bezana;Prezanes;149000;;;815;Urbano;;Edificabilidad 244 m2, acceso privado
+1086;INMODICOS;Terreno en Calle San Agustín;Santa Cruz de Bezana;San Agustín;149000;;;815;Urbano;;Tipo U1, edificabilidad 0.3
+1087;INMODICOS;Terreno en Calle Ferrocarril;Santa Cruz de Bezana;Calle Ferrocarril;450000;;;796;Urbano;;Misma parcela UE22, enfoque inversor
+1088;;Terreno en Avenida Menéndez Pelayo;Santa Cruz de Bezana;Prezanes;165000;;;8940;Urbanizable;;Lote 8 parcelas, edificabilidad 0.45
+1089;;Terreno en Avenida Menéndez Pelayo;Santa Cruz de Bezana;Prezanes;225000;;;29839;Urbanizable;;21 parcelas, uso residencial
+1090;;Terreno en CA-300;Santa Cruz de Bezana;Prezanes;165000;;;8940;Urbanizable;;Duplicado lote anterior
+1091;;Terreno en Calle El Cueto;Santa Cruz de Bezana;Prezanes;500000;;;3104;Urbano;;Capacidad estimada 5 chalets
+1092;;Terreno en Calle Monte;Santa Cruz de Bezana;Soto de la Marina;1100000;;;7369;Urbanizable;;Sectorizado, uso plurifamiliar
+1093;;Terreno en Bezana;Santa Cruz de Bezana;Prezanes;225000;;;29435;Urbanizable;;21 parcelas, posible duplicado
+1094;Grupo Inmobiliario Tribeca;Terreno en Bezana;Santa Cruz de Bezana;Bezana;130000;;;819;Urbano;;Parcela consolidada entorno natural
+1095;;Terreno en Calle San Agustín;Santa Cruz de Bezana;San Agustín;149000;;;815;Urbano;;Duplicado anuncio U1
+1096;;Terreno en Calle la Calzada;Santa Cruz de Bezana;Centro;300000;;;2173;Urbano;;Posibilidad 2 chalets
+1097;;Terreno en San Agustín;Santa Cruz de Bezana;Prezanes;100000;;;550;Urbanizable;;Plan parcial en desarrollo
+1098;;Terreno en Calle la Cotera;Santa Cruz de Bezana;Centro;850000;;;4711;Urbano;;U1, parcela mínima 350 m2
+1099;;Terreno en Peñacastillo - Nuevamontaña;Santander;Peñacastillo;169000;;;650;Urbano;;Lote de 5 parcelas urbanizadas
+1100;Exclusivas inmobiliarias mikeli;Terreno en Calle de la Arnia;Santa Cruz de Bezana;Soto de la Marina;1290000;;;3217;Urbano;;Ubicación premium Costa Quebrada
+1101;Exclusivas inmobiliarias mikeli;Terreno en Boo;Piélagos;Boo;798000;;;1840;Urbano;;Zona consolidada alta calidad
+1102;Inmobiliarias San Fernando;Terreno en Calle Joaquín Salas;Santander;Peñacastillo;295000;;;1502;Urbano;;Uso mixto industrial/comercial
+1103;Engel & Völkers Santander;Terreno en Urbanización Ría del Pas;Piélagos;Boo;310000;;;1373;Urbanizable;;Urbanización desarrollada, vistas
+1104;;Terreno en Barrio la Tejera;Piélagos;Boo;155000;;;1222;Urbano;;Vistas cordillera
+1105;Inmosantander;Terreno en Boo;Piélagos;Boo;163000;;;6559;Urbanizable;;Unifamiliar aislada posible
+1106;Inmosantander;Terreno en Barrio La Tejera;Piélagos;Boo;149000;;;1054;Urbanizable;;Vistas despejadas
+1107;FRESNO GESTION Y VENTA;Terreno en Barrio Manzanedo;Piélagos;Liencres;350000;;;702;Urbano;;A 150m playa
+1108;Espazio Inmobiliario;Terreno en Boo;Piélagos;Boo;187200;;;1253;Urbano;;Orientación sur, vistas valle
+1109;INMOBILIARIA NOJASOL;Terreno en Peñacastillo;Santander;Peñacastillo;1200000;;;7795;Urbano;;Calificación U3A y A3A
+1110;IMAZ&RUIZ;Terreno en Igollo;Camargo;Igollo;129000;;;1415;Urbano;;Proyecto y licencia incluidos
+1111;IMAZ&RUIZ;Terreno en Igollo;Camargo;Igollo;33000;;;2590;No urbanizable;;Rústico sin edificación
+1112;Inmobiliaria cobo mantecon;Terreno en Boo;Piélagos;Boo;100000;120000;17;3038;Urbanizable;;Descuento explícito
+1113;tomascasas inmobiliaria;Terreno en Barrio el Callejo;Piélagos;Liencres;295000;;;1080;Urbano;;Centro urbano, servicios cercanos
+1114;Inmobiliaria PAS-NuevoPiso;Terreno en Barrio El Tolío;Piélagos;Boo;30000;;;10000;No urbanizable;;Uso agrario
+1115;Virginia Yllera;Terreno en Barrio la Sierra;Piélagos;Liencres;165000;;;352;Urbano;;Edificabilidad 218 m2
+1116;Esparta Inmobiliaria;Terreno en Avenida Libertad;Santa Cruz de Bezana;Mompía;1435000;;;30859;Urbanizable;;Bloques en altura
+1117;;Terreno en Las Escuelas;Camargo;Igollo;90000;;;1666;Urbano;;2 parcelas, vivienda unifamiliar
+1118;Grupo Inmobiliario Tribeca;Terreno en Barrio las Canteras;Camargo;Igollo;135000;;;1435;Urbano;;Licencia y proyecto incluidos
+1119;INMOVERSE;Terreno en Calle Albert Einstein;Santander;Peñacastillo;2300000;;;9212;No urbanizable;;Ubicación estratégica PCTCAN
+1120;Fincas Indautxu;Terreno en Barrio Llatas;Piélagos;Liencres;235000;;;750;Urbano;;Vistas al mar, licencia
+1121;Tecnocasa Santander;Terreno en la Acebosa;Piélagos;Boo;134900;;;1236;Urbano;;Ubicación céntrica
+1122;;Terreno en Barrio la Sierra;Piélagos;Liencres;315000;;;357;Urbano;;Edificabilidad 259 m2
+1123;;Terreno en Maoño;Santa Cruz de Bezana;Maoño;100000;;;705;Urbano;;Buena ubicación
+1124;;Terreno en Avenida Juan de Herrera;Santa Cruz de Bezana;Maoño;120000;;;385;Urbano;;Parcelas urbanizadas desde 385 m2
+1125;;Terreno en Soto de la Marina;Santa Cruz de Bezana;Soto de la Marina;2900000;;;9338;Urbanizable;;Sector 15, junta compensación
+1126;Inmobiliaria las Dunas;Terreno en Liencres;Piélagos;Liencres;38000;;;1893;No urbanizable;;Rústico vistas mar
+1127;;Terreno en Avenida Juan de Herrera;Santa Cruz de Bezana;Maoño;39900;;;1560;No urbanizable;;Protección agropecuaria
+1128;Inmobiliaria cobo mantecon;Terreno en Boo;Piélagos;Boo;145000;;;5612;Urbanizable;;Entorno natural cercano al mar
+1129;;Terreno en Barrio Gandara;Piélagos;Boo;289000;;;2440;Urbano;;Edificabilidad 20%, chalet independiente
+1130;;Terreno en Avenida de la Libertad;Santa Cruz de Bezana;Mompía;1435000;;;53786;Urbanizable;;Edificabilidad 0.70, bloques 5 alturas
+1131;Look & Find Santander;Terreno en Calle la Jaya;Santa Cruz de Bezana;Maoño;45000;;;1000;No urbanizable;;Finca rústica, uso recreativo
+1132;Grupo Inmobiliario Tribeca;Terreno en Maoño;Santa Cruz de Bezana;Maoño;168000;;;701;Urbano;;Posibilidad 1-2 chalets
+1133;;Terreno en Avenida Eduardo Fernández;Santa Cruz de Bezana;Maoño;150000;;;352;Urbano;;Edificabilidad 240 m2
+1134;;Terreno en Barrio Somarriba;Piélagos;Liencres;347000;;;3200;Urbanizable;;Rústico con posibilidad 2 viviendas
+1135;;Terreno en Avenida Barrio Sector 102;Santa Cruz de Bezana;Maoño;168000;;;701;Urbano;;Duplicado Domañas
+1136;;Terreno en Avenida Fernando Saiz;Santa Cruz de Bezana;Sancibrián;690000;;;2935;Urbano;;Tipo U1
+1137;;Terreno en Barrio la Tejera;Piélagos;Boo;140000;;;1054;Urbanizable;;Edificabilidad 20%
+1138;Distrito inmobiliario;Terreno en Barrio la Valleja;Piélagos;Mortera;380000;;;2000;Urbano;;Licencia incluida
+1139;;Terreno en Mompia;Santa Cruz de Bezana;Mompía;1435000;;;27195;Urbano;;Gran superficie, posible inconsistencia
+1140;;Terreno en Calle Camarreal-Ojaiz;Santander;Peñacastillo;80000;;;1900;Urbano;8903611VP21890D0001YI;Referencia catastral incluida
+1141;;Terreno en Barrio la Valleja;Piélagos;Mortera;385000;;;2000;Urbano;;Duplicado con variación precio
+1142;Inmobiliaria montaña;Terreno en Barrio del Cabido;Camargo;Igollo;155000;;;2500;Urbano;;Edificabilidad 10%
+1143;Inmobiliaria cobo mantecon;Terreno en Maoño;Santa Cruz de Bezana;Maoño;495000;;;2276;Urbano;;UE27, ubicación estratégica
+1144;E&F asesores;Terreno en Peñacastillo;Santander;Peñacastillo;690000;;;2765;Urbano;9708958VP2190H0001LW;Referencia catastral incluida
+1145;;Terreno en Calle Murillo;Santa Cruz de Bezana;Soto de la Marina;260000;;;1135;Urbano;;Ordenanza U2
+1146;ALFAPLAYAS;Terreno en Boo;Piélagos;Boo;360000;;;10725;No urbanizable;;Rústico, gran superficie
+1147;;Terreno en Avenida José María de Pereda;Santa Cruz de Bezana;Sancibrián;521000;;;1359;Urbano;;Ordenanza U2
+1148;;Terreno en Avenida Juan de Herrera;Santa Cruz de Bezana;Maoño;99500;;;770;Urbano;;Edificabilidad 30%
+1149;;Terreno en Calle la Llata;Santa Cruz de Bezana;Sancibrián;270000;;;2700;Urbanizable;;Colectivo
+1150;Inmobiliaria Castelar.es;Terreno en Barrio de las Canteras;Camargo;Igollo;140000;;;1435;Urbano;;Permisos completos
+1151;Distrito inmobiliario;Terreno en Barrio la Portilla;Piélagos;Liencres;347000;;;3361;Urbanizable;;4 parcelas, 2 chalets
+1152;;Terreno en Calle de Navajeda;Santa Cruz de Bezana;Soto de la Marina;185000;;;321;Urbano;;Listo para edificar
+1153;;Terreno en Avenida 1º de Mayo;Santander;Peñacastillo;95000;;;617;Urbano;;Uso residencial posible
+1154;;Terreno en La Tejera;Piélagos;Boo;155000;;;1065;Urbanizable;;10 parcelas
+1155;;Terreno en Barrio Camarreal;Santander;Peñacastillo;395000;;;3168;Urbano;;Lote conjunto
+1156;;Terreno en Barrio Camarreal;Santander;Peñacastillo;595000;;;4627;Urbano;;Lote conjunto
+1157;;Terreno en Soto de la Marina;Santa Cruz de Bezana;Soto de la Marina;159900;;;1246;Urbano;;No consolidado
+1158;tu nave mi nave;Terreno en Peñacastillo;Santander;Peñacastillo;1350000;;;4087;Urbano;;Uso productivo
+1159;Esparta Inmobiliaria;Terreno en Maoño;Santa Cruz de Bezana;Maoño;154000;;;700;Urbano;;Solar finalista, sector 102
+1160;;Terreno en Calle Lluja;Santander;Peñacastillo;87000;;;1032;Urbano;;Edificabilidad 0.5, negociable
+1161;;Terreno en Calle Gerardo Alvear;Santander;Candina;108000;;;396;;;Suelo sin clasificar explícitamente
+1162;;Terreno en Barrio la Tejera;Piélagos;Boo;110000;;;1007;Urbano;;Núcleo rural, chalet 200 m2
+1163;;Terreno en Callejón Barrio la;Piélagos;Oruña;110000;;;1200;Urbano;;Chalet 240 m2
+1164;;Terreno en Lugar Mies del Molino;Santander;Peñacastillo;10000;;;343;No urbanizable;;Precio extremadamente bajo
+1165;;Terreno en Calle la Calzada;Santa Cruz de Bezana;Mompía;500000;;;9000;No urbanizable;;Potencial urbanizable futuro
+1166;;Terreno en Barrio las Cerreas;Piélagos;Liencres;60000;;;2500;No urbanizable;;Rústico cerca playa
+1167;;Terreno en Avenida Eduardo Fernández;Santa Cruz de Bezana;Maoño;20000;;;1611;No urbanizable;;Precio bajo, acceso carretera
+1168;;Terreno en Calle La Helguera;Piélagos;Boo;250000;;;1730;Urbanizable;;Edificable, buena conexión
+1169;;Terreno en Calle Cervantes;Santa Cruz de Bezana;Soto de la Marina;120000;;;248;Urbano;;Parcela pequeña, edificable
+1170;;Terreno en Barrio la Tejera;Piélagos;Boo;162000;;;1086;Urbano;;Licencia y proyecto
+1171;;Terreno en Calle el Arenal;Santa Cruz de Bezana;Mompía;100000;;;700;No urbanizable;;
+1172;;Terreno en Alto de San Mateo;Santa Cruz de Bezana;Maoño;1000000;;;6000;Urbanizable;;Gran superficie inversor
+1173;MENA INMOBILIARIA;Terreno en Oruña;Piélagos;Oruña;135000;139000;3;965;Urbano;;Edificabilidad 200 m2
+1174;THE SIBARIST Property & Homes;Terreno en Miengo;Miengo;Costa;1085000;;;36816;No urbanizable;;Frente al mar
+1175;Exclusivas inmobiliarias mikeli;Terreno en Barrio San Roque;Polanco;El Posadillo;80000;;;1668;Mixto;;820 m2 urbano + 848 rústico
+1176;Inmobiliarias San Fernando;Terreno en Barrio Mar;Polanco;Mar;125000;;;777;Urbano;;Edificabilidad 0.35
+1177;Bahía Home;Terreno en Barrio la Venera;Piélagos;Oruña;98000;;;4507;Urbanizable;;Licencia y proyecto
+1178;Inmobiliarias San Fernando;Terreno en Arce;Piélagos;Arce;250000;;;5160;Urbano;;Edificabilidad 0.4
+1179;RE/MAX Vértice;Terreno en Sv-4713;Miengo;Cudón;300000;;;6548;No urbanizable;;Proyecto hotel canino
+1180;RE/MAX Vértice;Terreno en Barrio el Perujo;Piélagos;Arce;485000;;;10800;Urbano;;Parte urbana + agraria
+1181;LOCALIA INMOBILIARIA;Terreno en Barrio la Canal;Piélagos;Oruña;166000;;;2436;Urbano;;Edificabilidad 1547 m2t
+1182;Distrito inmobiliario;Terreno en Barrio Mar;Polanco;Mar;132000;;;2210;Urbano;;Licencia 4 chalets
+1183;RE/MAX Vértice;Terreno en Barrio la Soledad;Piélagos;Arce;180000;;;4218;Urbanizable;;Zona alto nivel
+1184;Beyar Inmobiliaria;Terreno en Barrio San Pantaleón;Piélagos;Arce;150000;;;36842;Urbanizable;;Gran superficie rústica
+1185;altamira21.com;Terreno en Barrio la Venera;Piélagos;Oruña;200000;;;7242;Urbano;;2 viviendas posibles
+1186;altamira21.com;Terreno en Barrio Llejo;Piélagos;Oruña;125000;;;1104;Urbano;;Edificabilidad 0.2
+1187;Beyar Inmobiliaria;Terreno en Barrio la Iglesia;Polanco;Rumoroso;55000;;;1732;Urbanizable;;Rústico edificable
+1188;Beyar Inmobiliaria;Terreno en Barrio San Pedro;Polanco;Rumoroso;55000;;;1790;Urbanizable;;Similar anterior
+1189;Beyar Inmobiliaria;Terreno en Barrio Rumoroso;Polanco;Rumoroso;190000;;;3600;Urbanizable;;Varias fincas
+1190;Bahía Home;Terreno en Barrio Oruña;Piélagos;Oruña;150000;;;8325;Urbanizable;;Posibilidad edificación
+1191;Espazio Inmobiliario;Terreno en Miengo;Miengo;Costa;99000;135000;27;6014;Urbanizable;;Descuento alto
+1192;Engel & Völkers Santander;Terreno en Barrio Corceño;Santander;San Román;412000;;;972;Urbanizable;;Proyecto 2 viviendas
+1193;;Terreno en Urbanización la Mina;Piélagos;Arce;550000;;;2062;Urbanizable;;2 parcelas contiguas
+1194;Inmosantander;Terreno en Barrio Llejo;Piélagos;Oruña;220000;;;5400;Urbano;;Alta capacidad desarrollo
+1195;Espazio Inmobiliario;Terreno en Barrio Rinconeda;Polanco;Rinconeda;78000;;;2963;Urbanizable;;
+1196;LOCALIA INMOBILIARIA;Terreno en Mogro;Mogro;Costa;330000;;;3892;Urbano;;Parte urbana parcial
+1197;Inmobiliaria.green;Terreno en Barrio Llejo;Piélagos;Oruña;147500;;;1163;Urbano;;
+1198;Inmobiliaria.green;Terreno en Barrio Menocal;Polanco;Menocal;82000;;;531;Urbano;;
+1199;FRESNO GESTION Y VENTA;Terreno en Ca-321;Piélagos;Oruña;240000;;;2658;Urbano;;2 viviendas
+1200;Espazio Inmobiliario;Terreno en Polanco;Polanco;Centro;74000;;;3784;Urbano;;No consolidado
+1201;Espazio Inmobiliario;Terreno en Polanco;Polanco;Centro;79000;;;5523;Urbanizable;;
+1202;IMAZ&RUIZ;Terreno en Polanco;Polanco;Centro;58000;;;468;Urbano;;
+1203;Esparta Inmobiliaria;Terreno en Barrio la Canal, Oruña;Piélagos;Oruña;158000;;0;2437;Urbano;2957011VP2025N0001UH;Residencial unifamiliar adosada
+1204;;Terreno en Barrio Mijares;Polanco;Mijares;61000;;0;6006;Urbanizable;;Licencia para vivienda unifamiliar
+1205;;Terreno en Barrio Mijares 1;Polanco;Mijares;60000;;0;6048;Urbanizable;;Licencia para vivienda unifamiliar
+1206;;Terreno en El Montonorio;Miengo;Gornazo;115000;;0;1000;Urbano;;Posibilidad 1-2 viviendas
+1207;;Terreno en Barrio Rinconeda;Polanco;Rinconeda;516200;;0;3251;Urbano;;22 parcelas residenciales
+1208;;Terreno en Barrio el Perujo;Piélagos;Arce;142500;;0;2847;Urbano;4475006VP2047N0001MS;Servidumbre línea eléctrica
+1209;AGL HOMES;Terreno en Barrio San Pedro;Polanco;San Pedro;250000;;0;4988;Urbano;;Hasta 12 chalets
+1210;Esparta Inmobiliaria;Terreno en Calle el Castro;Santander;Alisal-Cazoña-San Román;200000;;0;1200;Urbano;;2 chalets posibles
+1211;;Terreno en Barrio Puente Arce;Piélagos;Arce;170000;;0;6125;Urbanizable;;Proyecto aprobado
+1212;Inmoreco;Terreno en Barrio las Casucas;Polanco;Requejada;495000;;0;1846;Urbano;;Ubicación céntrica
+1213;;Terreno en Alisal - Cazoña - San Román;Santander;Albericia;1054000;;0;6648;Urbanizable;;Sector AE-79
+1214;Distrito Inmobiliario;Terreno en Barrio Rumoroso;Polanco;Rumoroso;48000;;0;5380;Urbanizable;;Construcción 300m2
+1215;;Terreno en Barrio la Lastra;Piélagos;Oruña;350000;;0;4700;Urbano;;4 chalets
+1216;;Terreno en Barrio Menocal;Polanco;Menocal;65000;;0;1650;No urbanizable;;Uso residencial potencial
+1217;;Terreno en Barrio Llejo;Piélagos;Oruña;365000;;0;4185;Urbano;;Incluye edificación existente
+1218;DCS Inmuebles;Terreno en Calle Monte Noba;Miengo;Miengo;179000;;0;3421;Urbano;;Proyecto básico
+1219;;Terreno en Barrio las Veneras;Piélagos;Arce;189000;;0;2990;Urbanizable;;Dos parcelas unidas
+1220;Valliance Real Estate;Terreno en Calle el Progreso;Miengo;Gornazo;565000;;0;23741;Urbanizable;;Sector industrial
+1221;;Terreno en La Cardosa;Piélagos;Arce;179000;185000;3;2648;Urbanizable;;Oportunidad vivienda
+1222;;Terreno en Federico García Lorca;Santander;Alisal-Cazoña-San Román;775000;;0;1741;Urbano;;UA-5 pendiente desarrollo
+1223;ALFAPLAYAS;Terreno en Alisal;Santander;Alisal-Cazoña-San Román;500000;;0;1420;Urbano;;Zona expansión
+1224;ALFAPLAYAS;Terreno en Campogiro;Santander;Alisal-Cazoña-San Román;169000;;0;1210;Urbano;;Edificabilidad 602m2
+1225;;Terreno en Barrio el Molino;Polanco;Cudón;185300;;0;3138;Urbano;6731407VP1063S0001TJ;Suelo finalista
+1226;MARVALLAR;Terreno en Barrio Oruña;Piélagos;Oruña;230000;;0;2900;Urbano;;2 viviendas posibles
+1227;Esparta Inmobiliaria;Terreno en El Campo;Miengo;Miengo;198000;;0;17740;Urbanizable;;Edificabilidad 4100m2
+1228;compracasa-online;Terreno en Mogro;Miengo;Mogro;180000;;0;6065;Urbanizable;;Cerca playa
+1229;;Terreno en Urbanización Eliseo Gómez;Santander;Alisal-Cazoña-San Román;184700;323900;43;10160;Urbanizable;;Venta conjunta
+1230;;Terreno en Barrio Llejo 15;Piélagos;Oruña;80000;;0;1000;Urbanizable;;Acceso pendiente
+1231;;Terreno en Barrio Llejo 12;Piélagos;Oruña;335000;;0;6609;Urbano;;Vistas río Pas
+1232;;Terreno en Barrio Menocal;Polanco;Menocal;293000;;0;4796;Urbano;;Mixto urbano-rústico
+1233;Espazio Inmobiliario;Terreno en Oruña;Piélagos;Rumoroso;55000;;0;1733;Urbanizable;;Cerca núcleo urbano
+1234;Espazio Inmobiliario;Terreno en Polanco;Polanco;La Hilera;70000;;0;2450;Urbanizable;;Edificabilidad 10%
+1235;Espazio Inmobiliario;Terreno en Oruña;Piélagos;Oruña;180000;;0;4131;Urbanizable;;3 fincas
+1236;Espazio Inmobiliario;Terreno en Polanco;Polanco;Rumoroso;55000;;0;1948;Urbanizable;;Entorno natural
+1237;Oyambre;Terreno en Barrio la Canal;Piélagos;Oruña;158000;166000;5;2450;Urbanizable;2957011VP2025N0001UH;Inversión
+1238;;Terreno en Barrio el Palacio;Polanco;Posadillo;643900;;0;5109;Urbano;;22 fincas
+1239;Look & Find;Terreno en Barrio la Canal;Piélagos;Oruña;200000;;0;761;Urbano;;Proyecto 6 viviendas
+1240;Gestiona Consuelo;Terreno en Barrio Oruña;Piélagos;Oruña;147500;;0;1163;Urbano;;Con proyecto
+1241;;Terreno en Calle Lavapiés;Santander;Alisal-Cazoña-San Román;575000;;0;1076;Urbano;1927210VP3112F0001EZ;Uso multifamiliar
+1242;;Terreno en Barrio el Palacio;Polanco;Posadillo;80000;;0;1476;Urbanizable;;Dos parcelas
+1243;;Terreno en Barrio Llejo 1;Piélagos;Oruña;65000;;0;914;Urbano;;Vistas ría
+1244;;Terreno en Barrio el Campo;Piélagos;Arce;475000;;0;5184;Urbano;4664002VP2046S0001ME;Edificabilidad alta
+1245;Bahía Home;Terreno en Barrio La Venera;Piélagos;Oruña;170000;;0;7673;Urbanizable;;Gran superficie
+1246;;Terreno en Barrio el Perujo;Piélagos;Arce;160000;;0;1236;Urbanizable;;Uso residencial
+1247;Domus RS;Terreno en Barrio Rinconeda;Polanco;Rinconeda;516200;545200;5;5109;Urbano;;Finalista
+1248;SOTOURBAN INMOBILIARIA;Terreno en Menocal;Polanco;Menocal;293000;;0;4796;Urbano;;Mixto urbano-rústico, uso residencial
+1249;;Terreno en Miengo;Miengo;Centro;1023000;;0;1870;Urbanizable;;Ubicación céntrica
+1250;;Terreno en Barrio la Cagiga;Piélagos;Arce;130000;;0;777;Urbano;;Con proyecto y licencia
+1251;;Terreno en Barrio Rumoroso;Polanco;Rumoroso;118000;;0;12000;Urbanizable;;2 parcelas con proyecto
+1252;;Terreno en Barrio Oruña 12e;Piélagos;Oruña;230000;;0;2900;Urbano;;2 parcelas con licencia
+1253;;Terreno en Virgen del Monte;Miengo;Gornazo;81000;;0;2383;Urbanizable;;Servicios cercanos
+1254;Rentas y Capitales;Terreno en Barrio Rumoroso;Polanco;Rumoroso;99000;;0;681;Urbanizable;;Edificabilidad 300m2
+1255;;Terreno en Oruña;Piélagos;Oruña;76000;;0;1681;Urbano;;Vivienda unifamiliar
+1256;Distrito Inmobiliario;Terreno en Calle Higarino;Miengo;Mogro;75000;;0;7446;No urbanizable;;Vistas al mar
+1257;;Terreno en El Cueto;Polanco;Rinconeda;185300;;0;3138;Urbano;6731407VP1063S0001TJ;Suelo consolidado
+1258;;Terreno en Oruña;Piélagos;Oruña;166000;;0;2680;Urbanizable;;20 viviendas adosadas
+1259;;Terreno en Posadillo;Polanco;Posadillo;100000;;0;836;Urbano;;1-2 viviendas
+1260;;Terreno en Prados de Poo;Miengo;Miengo;19000;;0;285;No urbanizable;;Vistas al mar
+1261;;Terreno en Rinconeda;Polanco;Rinconeda;78000;;0;2963;Urbanizable;;Chalet individual
+1262;;Terreno en Oruña Valmoreda;Piélagos;Oruña;50000;;0;1594;Urbanizable;;Orientación sur
+1263;;Terreno en Rumoroso;Polanco;Rumoroso;45000;;0;8517;No urbanizable;;2 fincas
+1264;;Terreno en Camino Vial;Piélagos;Oruña;100000;;0;1550;Urbano;;Mixto urbano-agrario
+1265;;Terreno en Posadillo;Polanco;Posadillo;150000;;0;55000;No urbanizable;;Explotación forestal
+1266;;Terreno en Rumoroso;Polanco;Rumoroso;40000;;0;3172;No urbanizable;;2 parcelas rústicas
+1267;;Terreno en Puente Arce;Piélagos;Arce;5000000;;0;15000;Urbano;;Uso terciario
+1268;Grupo Tribeca;Terreno en Oruña;Piélagos;Oruña;450000;;0;6046;Urbano;;5 viviendas
+1269;;Terreno en Calle Corceño;Santander;Alisal-Cazoña-San Román;94000;;0;410;Urbanizable;;No consolidado
+1270;Grupo Tribeca;Terreno en Joaquín Rodrigo;Santander;Alisal-Cazoña-San Román;3000000;;0;3704;Urbano;;Uso comercial
+1271;;Terreno en Avenida España;Miengo;Miengo;40000;;0;8000;Urbanizable;;Precio negociable
+1272;;Terreno en Foramontanos;Santander;Alisal-Cazoña-San Román;240000;;0;1987;Urbanizable;;Cercano a ciudad
+1273;;Terreno en Rumoroso San Pedro;Polanco;Rumoroso;550000;;0;10000;Urbano;;Mixto urbano-rústico
+1274;;Terreno en Las Veneras;Piélagos;Arce;150000;;0;1000;Urbanizable;;Zona residencial alta calidad
+1275;;Terreno en Virgen del Monte;Miengo;Miengo;175000;;0;6435;Urbanizable;;4 fincas
+1276;;Terreno en Gornazo;Miengo;Gornazo;120000;;0;3684;Urbanizable;;Buenas vistas
+1277;;Terreno en Barrio el Palacio;Polanco;Posadillo;345000;;0;11313;Urbano;;12 parcelas posibles
+1278;Tu Nave Mi Nave;Terreno en Requejada;Polanco;Requejada;195000;;0;2502;Urbano;;Industrial
+1279;;Terreno en Calle Somonte;Santander;Alisal-Cazoña-San Román;75000;;0;208;;Reforma;Sin cédula
+1280;;Terreno en Barrio Oruña;Piélagos;Oruña;110000;;0;1790;Urbano;;Oportunidad
+1281;;Terreno en Barrio Oruña;Piélagos;Oruña;180000;;0;3587;Urbano;;Oportunidad
+1282;;Terreno en Carretera Salto;Polanco;Polanco;180000;;0;1295;Urbanizable;;Hasta 3 viviendas
+1283;;Terreno en Barrio Queserias;Piélagos;Oruña;130000;;0;784;Urbano;;Estudios técnicos
+1284;;Terreno en Puente Arce;Piélagos;Arce;325000;;0;700;Urbano;;3-4 viviendas
+1285;;Terreno en Monsenor;Piélagos;Arce;195000;;0;11854;Urbano;;Gran parcela
+1286;;Terreno en CA-330;Polanco;Polanco;10000;;0;2298;No urbanizable;;Uso agrícola
+1287;;Terreno en La Hilera;Polanco;La Hilera;78000;;0;2963;Urbanizable;;Chalet unifamiliar
+1288;;Terreno en Cuchía;Miengo;Cuchía;130000;;0;1925;Urbano;;Cerca playa
+1289;;Terreno en Rinconeda;Polanco;Rinconeda;15000;;0;965;No urbanizable;;
+1290;;Terreno en La Venera;Piélagos;Oruña;60000;;0;4500;No urbanizable;;Uso agrícola
+1291;;Terreno en La Poza del Oro;Piélagos;Arce;30000;;0;1716;No urbanizable;;Uso ganadero
+1292;;Terreno en Rinconeda;Polanco;Rinconeda;30000;;0;8200;No urbanizable;;
+1293;;Terreno en Aviador Pombo;Santander;Alisal-Cazoña-San Román;330000;;0;750;Urbano;;3 chalets
+1294;;Terreno en Arce;Piélagos;Arce;73000;;0;5565;;Construcción permitida;Sin clasificar claro
+1295;;Terreno en San Román;Santander;Alisal-Cazoña-San Román;450000;;0;2600;Urbano;;
+1296;;Terreno en Campo el Agua;Piélagos;Oruña;149000;;0;12800;No urbanizable;;Informe favorable CROTU
+1297;;Terreno en La Soledad;Piélagos;Arce;180000;;0;4128;Urbano;;
+1298;;Terreno en Joaquín Rodrigo 2;Santander;Alisal-Cazoña-San Román;3150000;;0;3700;Urbano;;Uso terciario
+1299;;Terreno en Cacicedo;Camargo;Cacicedo;195000;;0;2235;Urbanizable;;Chalet
