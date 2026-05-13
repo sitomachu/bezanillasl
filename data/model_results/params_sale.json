@@ -1,6 +1,6 @@
 {
   "notebook": "53_boost_sale_optuna",
-  "generated_at": "2026-04-25T23:07:27",
+  "generated_at": "2026-05-13T08:52:36",
   "target_col": "log_precio",
   "random_state": 42,
   "test_size": 0.2,
@@ -27,20 +27,20 @@
     "tipologia_unificada_unifamiliar"
   ],
   "xgb_params": {
-    "n_estimators": 900,
-    "max_depth": 6,
-    "learning_rate": 0.013693938318582058,
-    "subsample": 0.6250722201248828,
-    "colsample_bytree": 0.7441334899841819,
-    "min_child_weight": 1,
-    "reg_lambda": 0.8039267216172503,
-    "reg_alpha": 0.22243915579180695,
-    "gamma": 0.0010446114637011929
+    "n_estimators": 1000,
+    "max_depth": 7,
+    "learning_rate": 0.012144278135361338,
+    "subsample": 0.6586720837240191,
+    "colsample_bytree": 0.8255269184092968,
+    "min_child_weight": 4,
+    "reg_lambda": 0.559036725832902,
+    "reg_alpha": 0.554110039059858,
+    "gamma": 0.005187403899303554
   },
-  "optuna_best_trial": 68,
-  "optuna_cv_rmse": 0.23445,
-  "test_rmse": 0.23498,
-  "test_r2": 0.8313,
+  "optuna_best_trial": 76,
+  "optuna_cv_rmse": 0.23397,
+  "test_rmse": 0.23625,
+  "test_r2": 0.82947,
   "mun_means_sale": {
     "Ampuero": 1829.219773749797,
     "Barcena de Cicero": 2178.0744498854074,
