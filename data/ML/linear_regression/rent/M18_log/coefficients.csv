@@ -1,9 +1,0 @@
-variable,coef,std_error,t_value,p_value
-const,6.95944,0.01714,406.045045,0.0
-superficie_construida_m2,0.132244,0.029903,4.422414,1.3e-05
-numero_dormitorios,0.062227,0.025873,2.405061,0.016697
-numero_banos,0.005512,0.024296,0.226864,0.820664
-dummy_tipologia_unifamiliar,-0.014451,0.020488,-0.705348,0.481071
-distancia_min_playa_km,-0.087295,0.017511,-4.985128,1e-06
-distancia_min_supermercado_km,-0.02678,0.02173,-1.232358,0.218657
-distancia_min_colegio_km,0.005759,0.021006,0.274156,0.784129

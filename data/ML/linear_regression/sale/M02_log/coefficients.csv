@@ -1,5 +1,0 @@
-variable,coef,std_error,t_value,p_value
-const,12.369454,0.020641,599.279593,0.0
-superficie_construida_m2,0.113731,0.027503,4.135251,4.3e-05
-numero_dormitorios,0.036208,0.030138,1.201416,0.230244
-numero_banos,0.234936,0.027009,8.698279,0.0
