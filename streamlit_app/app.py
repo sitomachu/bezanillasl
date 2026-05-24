@@ -1146,12 +1146,14 @@ def render_predictor_page(artifacts: dict) -> None:
         if tipologia == "piso":
             st.divider()
             st.subheader("🏢 Características del piso")
-            planta_options = meta.get("planta_num_values", list(range(0, 11)))
+            planta_values = meta.get("planta_num_values", list(range(0, 11)))
+            planta_options = [None, *planta_values]
             planta_num = st.selectbox(
                 "Planta",
                 options=planta_options,
-                format_func=lambda x: "Bajo" if x == 0 else f"Planta {int(x)}",
-                index=min(2, len(planta_options) - 1),
+                format_func=lambda x: "Indiferente" if x is None else ("Bajo" if x == 0 else f"Planta {int(x)}"),
+                index=0,
+                help="'Indiferente' usa una planta típica (mediana) y no filtra los listados por planta.",
             )
             es_exterior    = st.checkbox("Exterior", value=True)
             tiene_ascensor = st.checkbox("Ascensor", value=True)
