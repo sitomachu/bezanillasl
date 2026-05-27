@@ -138,7 +138,8 @@ La función `build_X()` aplica una lógica equivalente en los notebooks analizad
 - Agrupa municipios con menos de `MIN_MUNI_OBS = 10` observaciones en `municipio_otros`.
 - Asigna `NaN` a features específicas de piso en viviendas unifamiliares:
   `planta_num`, `es_exterior_piso`, `tiene_ascensor_piso` e `interaccion_planta_sin_ascensor_piso`.
-- Imputa con mediana las features no específicas de piso mediante `SimpleImputer(strategy="median")`.
+- Imputa con mediana las features no específicas de piso mediante `SimpleImputer(strategy="median")`. Las features piso-only se dejan en `NaN` para los unifamiliares, ya que XGBoost aprende a enrutar esos `NaN` durante el entrenamiento.
+- Como las features piso-only se ponen en `NaN` para unifamiliares antes de calcular `medians`, las medianas de `planta_num`, `es_exterior_piso`, `tiene_ascensor_piso` e `interaccion_planta_sin_ascensor_piso` se calculan únicamente sobre pisos. Estas medianas se reutilizan en inferencia cuando el usuario no especifica esos atributos para un piso (ver sección 11).
 - No aplica escalado, porque XGBoost no lo requiere.
 
 Features excluidas o comentadas en los notebooks: `latitud`, `longitud`, `ratio_dormitorios_superficie`, `ratio_banos_superficie`, `precio`, `precio_m2`, `precio_m2_raw`, `log_precio_m2` y `rentabilidad_bruta_zona`.
@@ -350,6 +351,15 @@ La celda final permite introducir atributos de una vivienda y devuelve:
 - Alquiler mensual estimado.
 - Intervalo de error de alquiler.
 
+### 11.1 Entrada de atributos específicos de piso
+
+Las variables `PLANTA`, `ES_EXTERIOR` y `TIENE_ASCENSOR` admiten `None` con dos significados diferenciados, gestionados ambos por `_build_row`:
+
+- Para `TIPOLOGIA = "unifamiliar"`, `None` significa que la feature no aplica. La columna se deja en `NaN` y XGBoost la enruta usando la rama aprendida durante el entrenamiento sobre unifamiliares.
+- Para `TIPOLOGIA = "piso"`, `None` significa "indiferente". `_build_row` deja la columna en `NaN` durante el ensamblado y, en el bloque de imputación final, la rellena con la mediana de entrenamiento. Como esas medianas se calculan sobre pisos (las celdas para unifamiliares quedan en `NaN` en `build_X` antes de medianar), el resultado equivale a predecir para un piso con planta, exterior o ascensor "típico".
+
+En la práctica, en el repositorio actual la planta indiferente se traduce en `planta_num ≈ 2`. La interacción `interaccion_planta_sin_ascensor_piso` solo se calcula explícitamente si `PLANTA` y `TIENE_ASCENSOR` son no nulos; en otro caso también cae a su mediana. Si el usuario fija una planta concreta el comportamiento del modelo no cambia respecto a versiones anteriores.
+
 El notebook no compara automáticamente contra un precio real observado. Esa comparación se implementa de forma explícita en `streamlit_app/app.py`, donde los anuncios reales se muestran junto al precio teórico estimado.
 
 También construye una referencia geográfica por municipio y amplía la cobertura de alquiler mediante un join por coordenadas redondeadas entre `total_rent_cantabria_outliers.csv` y `final_rent_idealistaAPI.csv`. En la ejecución guardada, la referencia geográfica queda en 30 municipios para venta y 54 para alquiler.
@@ -452,6 +462,15 @@ La app:
 - Compara el precio observado de cada anuncio con el precio teórico estimado.
 - Facilita identificar inmuebles relativamente por encima o por debajo del precio estimado por el modelo.
 - Incluye visualización de zonas caras, medias y baratas en el mapa a partir de `priceByArea`.
+
+### 17.1 Entrada de planta en la interfaz
+
+Cuando la tipología seleccionada es "Piso", la app muestra un desplegable de planta cuya primera opción y valor por defecto es "Indiferente". Esa opción se propaga internamente como `planta_num = None` y tiene dos efectos:
+
+- En la predicción del modelo, `build_input_row` deja `planta_num` e `interaccion_planta_sin_ascensor_piso` en `NaN` y los rellena con la mediana de pisos del entrenamiento, equivalente al comportamiento descrito en la sección 11.1 del notebook `55_input_result`. La predicción corresponde a un piso con planta típica.
+- En el listado de inmuebles reales, `find_local_listings` omite el filtro por planta cuando recibe `planta_num = None`, mostrando todos los inmuebles que cumplen el resto de filtros.
+
+Si el usuario selecciona una planta concreta en el desplegable, tanto la predicción como el filtrado de listados se comportan exactamente como antes del cambio. No se introduce ningún cambio en los modelos entrenados, sólo en cómo se construye el vector de entrada y cómo se filtran los anuncios cuando la planta no se especifica.
 
 La comparación de precio observado frente a precio estimado debe interpretarse como una señal analítica, no como una recomendación automática de compra o alquiler.
 

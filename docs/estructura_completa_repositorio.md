@@ -1,9 +1,9 @@
 # Estructura Completa del Repositorio — BezanillaSL
 
-**Versión:** 1.4
-**Fecha de generación:** 2026-05-13
-**Rama analizada:** `feat/ML_mejorado_y_terrenos` (HEAD observado: `066e641`)
-**Estado del repositorio:** actualizado con carpeta `streamlit_app`, modelos XGBoost definitivos de venta y alquiler, persistencia de parámetros en `data/model_results/`, artefactos serializados en `models/`, datasets específicos para Streamlit (`streamlit_sale.csv`, `streamlit_rent.csv`) y pipeline ML consolidado entre `53_boost_sale_optuna`, `53_boost_rent`, `55_sale_rent_models` y `55_input_result`
+**Versión:** 1.5
+**Fecha de generación:** 2026-05-27
+**Rama analizada:** `feat/mejora_streamlit` (HEAD observado: `4a7f4ef`)
+**Estado del repositorio:** además del estado descrito en v1.4 (carpeta `streamlit_app`, modelos XGBoost definitivos de venta y alquiler, persistencia de parámetros en `data/model_results/`, artefactos serializados en `models/`, datasets específicos para Streamlit y pipeline ML consolidado), v1.5 incorpora: (a) nuevo notebook `notebooks/06_ML_scraping_land/64_valoracion_suelo.ipynb` que aplica los modelos de terrenos al ámbito del proyecto en Santa Cruz de Bezana, (b) nuevo `notebooks/05_ML/README.md` que cataloga los notebooks de ML, (c) fusión del antiguo `scraping_land_processing_outliers.ipynb` dentro de `04_transformations/scraping_processed_to_gold.ipynb` (con desaparición del CSV intermedio `data/processed/scraping_manual/total_land_cantabria_outliers.csv`), y (d) opción "Indiferente" en el selector de planta de `streamlit_app/app.py` que permite predicciones para piso sin fijar planta concreta
 
 > **Convención de etiquetas utilizadas en este documento:**
 > - `[Verificado]` — observado directamente en archivos, rutas o código fuente.
@@ -30,6 +30,7 @@
 14. [Apéndice](#14-apéndice)
 15. [Resumen de hallazgos clave](#resumen-de-hallazgos-clave)
 16. [Actualización v1.4: Streamlit, resultados de modelos y artefactos serializados](#16-actualización-v14-streamlit-resultados-de-modelos-y-artefactos-serializados)
+17. [Actualización v1.5: valoración de suelo, README de ML, fusión de outliers y opción "Indiferente" en la app](#17-actualización-v15-valoración-de-suelo-readme-de-ml-fusión-de-outliers-y-opción-indiferente-en-la-app)
 
 ---
 
@@ -121,10 +122,13 @@ BezanillaSL/                          ← Raíz del proyecto
 │   │   ├── idealistaAPI/
 │   │   │   ├── total_sale_cantabria_outliers.csv  ← Venta unificada (todas las runs) sin outliers
 │   │   │   └── total_rent_cantabria_outliers.csv  ← Alquiler unificado (todas las runs) sin outliers
-│   │   ├── scraping_manual/
-│   │   │   └── total_land_cantabria_outliers.csv  ← Terrenos scraping sin outliers (output de scraping_land_processing_outliers)
 │   │   └── geo/
 │   │       └── pois_cantabria.csv   ← POIs descargados de OpenStreetMap
+│   │   # NOTA v1.5: la subcarpeta scraping_manual/ y su CSV intermedio
+│   │   # total_land_cantabria_outliers.csv ya no existen — el tratamiento
+│   │   # de outliers de terrenos se realiza directamente en
+│   │   # notebooks/04_transformations/scraping_processed_to_gold.ipynb,
+│   │   # que ahora consume el preprocessed y produce el gold sin paso intermedio.
 │   │
 │   ├── gold/                        ← Datasets finales listos para ML
 │   │   ├── final_sale.csv               ← Dataset venta combinado (API + scraping) [ELIMINADO en v1.2]
@@ -157,11 +161,13 @@ BezanillaSL/                          ← Raíz del proyecto
 │   │   ├── idealistaAPI_processed_to_gold.ipynb  ← Viviendas API → gold
 │   │   ├── idealistaAPI_processed_to_gold_streamlit_full.ipynb  ← Viviendas API → datasets completos Streamlit [Añadido v1.4]
 │   │   └── scraping_processed_to_gold.ipynb      ← Terrenos scraping → gold [Añadido v1.2]
-│   ├── 05_ML/                           ← Experimentos ML sobre datos API Idealista [Actualizado v1.4]
-│   └── 06_ML_scraping_land/             ← Experimentos ML sobre datos de terrenos (scraping manual) [Añadido v1.2]
+│   ├── 05_ML/                           ← Experimentos ML sobre datos API Idealista [Actualizado v1.5]
+│   │   └── README.md                    ← Catálogo de notebooks 05_ML (objetivo de cada uno) [Añadido v1.5]
+│   └── 06_ML_scraping_land/             ← Experimentos ML sobre datos de terrenos (scraping manual) [Añadido v1.2, ampliado v1.5]
 │       ├── 61_linear_regression.ipynb   ← Ridge + Lasso con GridSearchCV
 │       ├── 62_random_forest.ipynb       ← RF + Extra Trees con Optuna (40 trials)
-│       └── 63_boost.ipynb               ← XGBoost + Optuna (50 trials)
+│       ├── 63_boost.ipynb               ← XGBoost + Optuna (50 trials)
+│       └── 64_valoracion_suelo.ipynb    ← Aplicación de los 5 modelos al ámbito del proyecto (Sector 35, Santa Cruz de Bezana) [Añadido v1.5]
 │
 ├── src/                             ← Código de producción modularizado
 │   ├── idealistaAPI/                ← Módulo de ingesta vía API Idealista
@@ -322,7 +328,7 @@ El tratamiento difiere según la familia de modelos y el mercado. En los modelos
 
 > **Nota adicional (gold notebook):** el notebook `idealistaAPI_processed_to_gold.ipynb` aplica también un filtro exacto de `precio_m2` para capturar casos límite del redondeo del campo `priceByArea` de la API de Idealista (diferencias de centésimas de €/m² en el límite del umbral).
 - Limpieza de datos scraping en `notebooks/01_manual_scraping_processing/` (3 notebooks renombrados)
-- Tratamiento de outliers para terrenos centralizado en `notebooks/01_manual_scraping_processing/scraping_land_processing_outliers.ipynb` en cuatro etapas: (1) **Regla fija** — precio, superficie y precio/m² dentro de rangos del mercado cántabro; (2) **IQR×3.0 multivariante** sobre `precio_eur`, `superficie_m2` y `precio_m2`; (3) **Regla de negocio** — eliminación de precios > 300.000 €; (4) **IQR×1.5 sobre `precio_eur`** — ajuste estadístico final. Output: `data/processed/scraping_manual/total_land_cantabria_outliers.csv`. `[Verificado — actualizado en v1.3]`
+- Tratamiento de outliers para terrenos centralizado en `notebooks/01_manual_scraping_processing/scraping_land_processing_outliers.ipynb` en cuatro etapas: (1) **Regla fija** — precio, superficie y precio/m² dentro de rangos del mercado cántabro; (2) **IQR×3.0 multivariante** sobre `precio_eur`, `superficie_m2` y `precio_m2`; (3) **Regla de negocio** — eliminación de precios > 300.000 €; (4) **IQR×1.5 sobre `precio_eur`** — ajuste estadístico final. Output: `data/processed/scraping_manual/total_land_cantabria_outliers.csv`. `[Verificado — actualizado en v1.3]`. `[Reorganizado v1.5]`: el notebook `scraping_land_processing_outliers.ipynb` y el CSV intermedio `total_land_cantabria_outliers.csv` ya no existen. El tratamiento de outliers de terrenos se ejecuta ahora dentro de `notebooks/04_transformations/scraping_processed_to_gold.ipynb` (paso 2 del pipeline), que consume directamente `data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` y produce `data/gold/final_land_scraping.csv`.
 
 ### 3.3 Enriquecimiento geoespacial
 
@@ -336,7 +342,7 @@ La carpeta `04_EDA` ha sido renombrada a `04_transformations` y simplificada. El
 
 - `notebooks/04_transformations/idealistaAPI_processed_to_gold.ipynb` — genera el gold layer a partir de los datos procesados y sin outliers: encoding de categorías, variables geoespaciales (POI distances), dummies de municipio y transformación logarítmica del target `[Verificado]`
 - `notebooks/04_transformations/idealistaAPI_processed_to_gold_streamlit_full.ipynb` — genera `data/gold/streamlit_sale.csv` y `data/gold/streamlit_rent.csv`, conservando columnas originales de Idealista necesarias para la app: identificadores, imágenes, URLs, precios reales, coordenadas y atributos descriptivos. `[Añadido v1.4]`
-- `notebooks/04_transformations/scraping_processed_to_gold.ipynb` — genera el gold layer de terrenos a partir del dataset scraping procesado. Pipeline: (1) filtrado categorías de suelo con <10 registros, (2) reglas fijas de precio (≤ 0 y > 300.000 €), (3) IQR×1.5 sobre `precio_eur` en escala original, (4) exclusión de leakage (`precio_m2`, `titulo`), (5) log-transformación del target, (6) target encoding de `municipio` (35 categorías), (7) OHE de `tipo_suelo` (3 categorías), (8) conversión de booleanos a enteros. Output: `data/gold/final_land_scraping.csv`. Trabaja sobre copia del input y sobreescribe el output en cada ejecución. `[Verificado — añadido en v1.2]`
+- `notebooks/04_transformations/scraping_processed_to_gold.ipynb` — genera el gold layer de terrenos a partir del dataset scraping procesado. `[Actualizado v1.5]` Ahora consume directamente `data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` (sin pasar por un CSV intermedio en `data/processed/`) y aplica un pipeline ampliado: (1) carga del preprocessed, (2) **deduplicación y tratamiento de outliers integrado** (sustituye al antiguo `scraping_land_processing_outliers.ipynb`), (3) filtrado de categorías `tipo_suelo` con <10 registros, (4) exclusión de leakage (`precio_m2`, `titulo`), (5) auditoría y selección de features, (6) log-transformación del target, (7) target encoding de `municipio`, (8) OHE de `tipo_suelo`, (9) conversión de booleanos a enteros. Output: `data/gold/final_land_scraping.csv`. Trabaja sobre copia del input y sobreescribe el output en cada ejecución. `[Verificado — añadido en v1.2, ampliado en v1.5]`
 
 ### 3.5 Análisis macro y estructural
 
@@ -475,7 +481,7 @@ flowchart TD
 | API Idealista (alquiler) | OAuth2 + CLI `ingestion/run_rent_requests.py` | `data/raw/idealistaAPI/raw/rent_homes_run_*/` (4 ejecuciones) | `idealistaAPI_raw_to_preprocess.ipynb` → `clean_idealista.py` → `idealistaAPI_data.ipynb` → `idealistaAPI_processing_outliers.ipynb` | `data/processed/idealistaAPI/total_rent_cantabria_outliers.csv` | `data/gold/final_rent_idealistaAPI.csv`, `streamlit_rent.csv` | `[Verificado]` — 4 ejecuciones documentadas; `final_rent.csv` queda como referencia histórica eliminada |
 | Scraping manual Idealista (venta) | Manual — descarga directa de CSV | `data/raw/scraping_manual/raw/scraping_sale_raw.csv` | nb `01/scraping_sale_processing.ipynb` | `data/raw/scraping_manual/preprocessed/scraping_sale_preprocessed.csv` | `[Inferido]` — dataset complementario | `[Verificado]` |
 | Scraping manual Idealista (alquiler) | Manual | `data/raw/scraping_manual/raw/scraping_rent_raw.csv` | nb `01/scraping_rent_processing.ipynb` | `data/raw/scraping_manual/preprocessed/scraping_rent_preprocessed.csv` | `[Inferido]` — dataset complementario | `[Verificado]` |
-| Scraping manual Idealista (terrenos) | Manual | `data/raw/scraping_manual/raw/scraping_land_raw.csv` | nb `01/scraping_land_processing.ipynb` → nb `01/scraping_land_processing_outliers.ipynb` → nb `04/scraping_processed_to_gold.ipynb` | `data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` → `data/processed/scraping_manual/total_land_cantabria_outliers.csv` → `data/gold/final_land_scraping.csv` | `notebooks/06_ML_scraping_land/` (notebooks 61, 62, 63) `[Verificado — actualizado en v1.3]` | Pipeline completo: raw → preprocessed → outliers → gold → ML |
+| Scraping manual Idealista (terrenos) | Manual | `data/raw/scraping_manual/raw/scraping_land_raw.csv` | nb `01/scraping_land_processing.ipynb` → nb `04/scraping_processed_to_gold.ipynb` (outliers integrados) | `data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` → `data/gold/final_land_scraping.csv` | `notebooks/06_ML_scraping_land/` (notebooks 61, 62, 63 entrenamiento + 64 valoración del ámbito) `[Verificado — actualizado en v1.5]` | Pipeline simplificado: raw → preprocessed → gold (outliers, leakage, encoding) → ML |
 | OpenStreetMap (POIs) | `osmnx` via `run_descargar_pois.py` | API OSM (remota) | `osm_downloader.py` → `enricher.py` | `data/processed/geo/pois_cantabria.csv` → gold layer | `data/gold/final_sale_idealistaAPI.csv`, `final_rent_idealistaAPI.csv`, `streamlit_sale.csv`, `streamlit_rent.csv` | `[Verificado]` — variables de distancia presentes en gold |
 | MIVAU — SERPAVI | Descarga manual del portal MIVAU | `data/raw/MIVAU/datos_alquiler/2025-09-10_bd_SERPAVI_2011-2023.xlsx` | nb `03/analisis_SERPAVI.ipynb` | Sin output en processed `[Verificado]` | TFM MBA (análisis estructural) | `[Verificado]` — solo análisis descriptivo, no integrado en ML |
 | MIVAU — suelo urbano | Descarga manual | `data/raw/MIVAU/datos_suelo/*.XLS` | `[No verificado]` — sin notebook identificado | `[No verificado]` | `[No verificado]` | Posiblemente solo referencia informativa |
@@ -528,8 +534,8 @@ flowchart TD
 |---|---|---|
 | `idealistaAPI/total_sale_cantabria_outliers.csv` | todas las runs de venta → nb `02/idealistaAPI_data` + `idealistaAPI_processing_outliers` | Venta consolidada (2 runs, ~200 peticiones) sin outliers (IQR×1.5) |
 | `idealistaAPI/total_rent_cantabria_outliers.csv` | todas las runs de alquiler → nb `02/idealistaAPI_data` + `idealistaAPI_processing_outliers` | Alquiler consolidado (4 runs, ~400 peticiones) sin outliers (IQR×1.5) |
-| `scraping_manual/total_land_cantabria_outliers.csv` | `raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` → nb `01/scraping_land_processing_outliers` | Terrenos scraping con outliers eliminados (pipeline 4 pasos) |
 | `geo/pois_cantabria.csv` | OpenStreetMap via osmnx | POIs geolocalizados por categoría (playa, supermercado, colegio, etc.) |
+| ~~`scraping_manual/total_land_cantabria_outliers.csv`~~ | — | **Eliminado en v1.5**. El tratamiento de outliers de terrenos se integró en `04_transformations/scraping_processed_to_gold.ipynb`, que ahora consume directamente `data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv`. |
 
 **Nota sobre nomenclatura `*_outliers.csv`:** el sufijo `_cantabria_outliers` indica que son los datos del área de Cantabria con outliers ya eliminados (IQR×1.5 sobre log del precio). Son los datasets de entrada directa al gold layer.
 
@@ -631,8 +637,8 @@ flowchart TD
 |---|---|---|---|---|---|
 | `scraping_sale_processing.ipynb` | Limpieza y estandarización de datos de venta scraping | `data/raw/scraping_manual/raw/scraping_sale_raw.csv` | `data/raw/scraping_manual/preprocessed/scraping_sale_preprocessed.csv` | Procesamiento | Productivo |
 | `scraping_rent_processing.ipynb` | Limpieza y estandarización de datos de alquiler scraping | `data/raw/scraping_manual/raw/scraping_rent_raw.csv` | `data/raw/scraping_manual/preprocessed/scraping_rent_preprocessed.csv` | Procesamiento | Productivo |
-| `scraping_land_processing.ipynb` | Limpieza y estandarización de datos de terrenos | `data/raw/scraping_manual/raw/scraping_land_raw.csv` | `data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` | Procesamiento | Productivo |
-| `scraping_land_processing_outliers.ipynb` | Tratamiento unificado de outliers de terrenos (4 pasos) | `data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` | `data/processed/scraping_manual/total_land_cantabria_outliers.csv` | Procesamiento | **Productivo-crítico** `[Añadido v1.3]` |
+| `scraping_land_processing.ipynb` | Limpieza y estandarización de datos de terrenos (nulos, tipado, normalización de `tipo_suelo`, variables derivadas, deduplicación) | `data/raw/scraping_manual/raw/scraping_land_raw.csv` | `data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` | Procesamiento | Productivo |
+| ~~`scraping_land_processing_outliers.ipynb`~~ | **Eliminado en v1.5**. El tratamiento de outliers de terrenos se integró dentro de `04_transformations/scraping_processed_to_gold.ipynb` (paso 2). | — | — | — | — |
 
 #### `notebooks/02_idealista_API_processing/` — Procesamiento de datos API
 
@@ -659,12 +665,15 @@ Esta carpeta (antes llamada `04_EDA`) contiene notebooks productivos de transfor
 |---|---|---|---|---|---|
 | `idealistaAPI_processed_to_gold.ipynb` | Genera el gold layer de viviendas: feature engineering, encoding, distancias POI, dummies de municipio y log-target. En el estado actual produce los datasets API-only usados por ML | `data/processed/idealistaAPI/total_sale/rent_cantabria_outliers.csv`, `data/processed/geo/pois_cantabria.csv` | `data/gold/final_sale_idealistaAPI.csv`, `final_rent_idealistaAPI.csv` | Transformación | **Productivo-crítico** `[Actualizado v1.4]` |
 | `idealistaAPI_processed_to_gold_streamlit_full.ipynb` | Genera datasets completos para la aplicación Streamlit, conservando columnas originales de Idealista además de features analíticas | `data/processed/idealistaAPI/total_sale/rent_cantabria_outliers.csv`, `data/processed/geo/pois_cantabria.csv` | `data/gold/streamlit_sale.csv`, `streamlit_rent.csv` | Transformación / App | **Productivo-crítico** `[Añadido v1.4]` |
-| `scraping_processed_to_gold.ipynb` | Genera el gold layer de terrenos: filtrado tipo_suelo (<10 obs.), exclusión de leakage (`precio_m2`, `titulo`), log-target, target-encoding municipio (35 categ.), OHE tipo_suelo (3 categ.), bool→int. Trabaja sobre copia del input; sobreescribe output en cada ejecución. | `data/processed/scraping_manual/total_land_cantabria_outliers.csv` | `data/gold/final_land_scraping.csv` | Transformación | **Productivo-crítico** `[Actualizado v1.3]` |
+| `scraping_processed_to_gold.ipynb` | Genera el gold layer de terrenos. `[Actualizado v1.5]` Pipeline ampliado para absorber el antiguo notebook de outliers: (1) carga del preprocessed, (2) deduplicación + outliers (regla fija + IQR×1.5 sobre `precio_eur`), (3) filtrado tipo_suelo (<10 obs.), (4) exclusión de leakage (`precio_m2`, `titulo`), (5) auditoría/selección de features, (6) log-target, (7) target-encoding municipio, (8) OHE tipo_suelo, (9) bool→int. Trabaja sobre copia del input; sobreescribe output en cada ejecución. | `data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` | `data/gold/final_land_scraping.csv` | Transformación | **Productivo-crítico** `[Actualizado v1.5]` |
 
-#### `notebooks/05_ML/` — Experimentos de machine learning sobre datos API Idealista `[Actualizado v1.4]`
+#### `notebooks/05_ML/` — Experimentos de machine learning sobre datos API Idealista `[Actualizado v1.5]`
+
+A partir de v1.5 la carpeta incluye `README.md`, un catálogo breve con el objetivo de cada notebook (baselines lineales, RF, boosting, ensembles híbridos, consolidación, inferencia). Sirve como índice de lectura rápida sin sustituir esta documentación.
 
 | Notebook / Fichero | Objetivo | Inputs | Outputs | Etapa | Tipo |
 |---|---|---|---|---|---|
+| `README.md` | Catálogo de notebooks de la carpeta con una línea por notebook describiendo objetivo (baseline, definitivo, optuna, etc.) | — | — | Documentación | **Productivo** `[Añadido v1.5]` |
 | `50_unificar_dataset.ipynb` | Unificación de venta + alquiler en un único dataset ML | `data/gold/` | Dataset unificado para análisis comparativos | Prep ML | Experimental |
 | `51_linear_regression_1.py` | Primer experimento de regresión lineal (script Python) | `data/gold/` | `[Inferido]` — experimento temprano | ML | Obsoleto/experimental |
 | `51_linear_regression_2.ipynb` | Segunda iteración de regresión lineal | `data/gold/` | `data/ML/linear_regression/` (parcial) | ML | Obsoleto/experimental |
@@ -700,6 +709,7 @@ Carpeta con los experimentos de machine learning sobre datos de terrenos obtenid
 | `61_linear_regression.ipynb` | Ridge + Lasso con GridSearchCV (80 alphas en escala logarítmica, 5-fold CV). Alpha selection curve, coeficientes comparados, diagnósticos de residuales (scatter, histograma, Q-Q), back-transform a €. `StandardScaler` en pipeline. | `data/gold/final_land_scraping.csv` | Métricas comparativas Ridge vs Lasso; gráficas diagnóstico | ML | **Productivo-definitivo** |
 | `62_random_forest.ipynb` | RF + Extra Trees en 4 variantes: base y optimizados con Optuna (40 trials, TPESampler). KFold 5. Hiperparámetros tuneados: n_estimators, max_depth, min_samples_split, min_samples_leaf, max_features (sqrt/log2/0.5/0.7). Convergence plots RF vs ET, feature importance comparativo. Overfitting gap (R²_train - R²_test) documentado. | `data/gold/final_land_scraping.csv` | Métricas 4 variantes; gráficas convergencia e importancia | ML | **Productivo-definitivo** |
 | `63_boost.ipynb` | XGBoost baseline + optimizado con Optuna (50 trials, max_depth 2–6). Hiperparámetros: n_estimators, max_depth, learning_rate, subsample, colsample_bytree, reg_alpha, reg_lambda, min_child_weight. Convergence plot, feature importance, diagnósticos de residuales, back-transform a €. | `data/gold/final_land_scraping.csv` | Métricas XGBoost óptimo; gráficas diagnóstico | ML | **Productivo-definitivo** |
+| `64_valoracion_suelo.ipynb` | **APLICACIÓN AL ÁMBITO DEL PROYECTO** — entrena los cinco modelos definitivos (Ridge, Lasso, RF Optuna, Extra Trees Optuna, XGBoost Optuna) con el mismo split 80/20 (`random_state=42`) usado en 61–63, compara métricas y los aplica al ámbito del Sector 35 de Santa Cruz de Bezana (9.290 m² brutos). Devuelve precio estimado del suelo en escenario "solar" y, si está disponible, "urbanizable", con horquilla de incertidumbre y comentario sobre R² obtenidos (≈0,30–0,40). | `data/gold/final_land_scraping.csv` | Tabla comparativa de los 5 modelos sobre test; predicciones de coste de adquisición del suelo del ámbito | ML / Aplicación | **Productivo-definitivo** `[Añadido v1.5]` |
 
 ### 6.2 Riesgos identificados en notebooks
 
@@ -952,8 +962,9 @@ Los datos de terrenos siguen un pipeline ML independiente de los datos de la API
 | Random Forest (Optuna) | `62_random_forest.ipynb` | 40 trials, KFold 5, tuned: n_estimators, max_depth, min_samples_leaf, max_features | — |
 | Extra Trees (Optuna) | `62_random_forest.ipynb` | 40 trials, mismos hiperparámetros; overfitting base esperado (R²_train≈1) | Optuna ajusta min_samples_leaf y max_features para mitigar overfitting |
 | XGBoost (Optuna) | `63_boost.ipynb` | 50 trials, max_depth 2–6, subsample, colsample_bytree, reg_alpha, reg_lambda, min_child_weight | Benchmark de boosting |
+| Valoración del ámbito (5 modelos) `[Añadido v1.5]` | `64_valoracion_suelo.ipynb` | Entrena los cinco modelos anteriores con split 80/20 (`random_state=42`) coherente con 61–63 y los aplica al input concreto del ámbito (Sector 35, Santa Cruz de Bezana, 9.290 m²) | Comparativa de R² test entre los cinco modelos + estimación de coste de adquisición del suelo en escenario solar y, si aplica, urbanizable |
 
-> **Recomendación técnica:** Ridge como modelo primario (problema location-driven con solo 7 features; la relación precio ↔ localización es quasi-lineal tras target encoding de municipio). XGBoost como benchmark.
+> **Recomendación técnica:** Ridge como modelo primario (problema location-driven con solo 7 features; la relación precio ↔ localización es quasi-lineal tras target encoding de municipio). XGBoost como benchmark. La valoración del ámbito en `64_valoracion_suelo.ipynb` toma el valor central directamente del escenario urbanizable cuando está disponible, conservando los R² obtenidos (≈0,30–0,40) como horquilla de incertidumbre explícita.
 
 ### 8.8 Observaciones finales por dataset y conteo de features por modelo
 
@@ -1440,8 +1451,8 @@ Un nuevo colaborador que clone el repositorio encontrará las siguientes barrera
 | `euribor_raw.txt` | `data/raw/` | Serie histórica del Euribor |
 | `summary_models.csv` | `data/ML/linear_regression/rent/` | Tabla comparativa de métricas para todos los modelos de regresión lineal (alquiler) |
 | `final_land_scraping.csv` | `data/gold/` | Gold dataset terrenos scraping — 686 obs., 7 features, target `log_precio` `[Añadido v1.2]` |
-| `scraping_land_preprocessed.csv` | `data/raw/scraping_manual/preprocessed/` | Terrenos scraping estandarizados y limpios — input de `scraping_land_processing_outliers.ipynb` |
-| `total_land_cantabria_outliers.csv` | `data/processed/scraping_manual/` | Terrenos scraping sin outliers — input de `scraping_processed_to_gold.ipynb` `[Actualizado v1.3]` |
+| `scraping_land_preprocessed.csv` | `data/raw/scraping_manual/preprocessed/` | Terrenos scraping estandarizados y limpios — input directo de `04_transformations/scraping_processed_to_gold.ipynb` (los outliers se gestionan dentro del propio notebook gold). `[Actualizado v1.5]` |
+| ~~`total_land_cantabria_outliers.csv`~~ | — | **Eliminado en v1.5**. Era el CSV intermedio del antiguo notebook `scraping_land_processing_outliers.ipynb`. El paso de outliers se integró en `scraping_processed_to_gold.ipynb`. |
 
 ### 14.3 Lista de rutas importantes
 
@@ -1480,7 +1491,9 @@ Un nuevo colaborador que clone el repositorio encontrará las siguientes barrera
 | `notebooks/06_ML_scraping_land/61_linear_regression.ipynb` | Modelos Ridge + Lasso para terrenos `[Añadido v1.2]` |
 | `notebooks/06_ML_scraping_land/62_random_forest.ipynb` | Modelos RF + Extra Trees con Optuna para terrenos `[Añadido v1.2]` |
 | `notebooks/06_ML_scraping_land/63_boost.ipynb` | Modelo XGBoost con Optuna para terrenos `[Añadido v1.2]` |
-| `data/gold/final_land_scraping.csv` | Gold dataset de terrenos — input directo de notebooks 61/62/63 `[Añadido v1.2]` |
+| `notebooks/06_ML_scraping_land/64_valoracion_suelo.ipynb` | Aplica los 5 modelos definitivos al ámbito del proyecto (Sector 35, Santa Cruz de Bezana) y devuelve la estimación de coste de adquisición del suelo. `[Añadido v1.5]` |
+| `notebooks/05_ML/README.md` | Catálogo de notebooks 05_ML (objetivo de cada uno). `[Añadido v1.5]` |
+| `data/gold/final_land_scraping.csv` | Gold dataset de terrenos — input directo de notebooks 61/62/63/64 `[Actualizado v1.5]` |
 
 ### 14.4 Scripts y notebooks clave por orden de ejecución del pipeline
 
@@ -1544,21 +1557,19 @@ notebooks/01_manual_scraping_processing/scraping_land_processing.ipynb
 # Input:  data/raw/scraping_manual/raw/scraping_land_raw.csv
 # Output: data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv
 
-# PASO T-2: Tratamiento de outliers terrenos (CRÍTICO)
-notebooks/01_manual_scraping_processing/scraping_land_processing_outliers.ipynb
-# Pipeline: Regla fija → IQR×3.0 → precio>300k → IQR×1.5 sobre precio_eur
-# Output: data/processed/scraping_manual/total_land_cantabria_outliers.csv
-
-# PASO T-3: Transformación processed → gold layer terrenos (CRÍTICO)
+# PASO T-2: Transformación processed → gold layer terrenos (CRÍTICO)  [Actualizado v1.5: absorbe el antiguo paso de outliers]
 notebooks/04_transformations/scraping_processed_to_gold.ipynb
-# Pipeline: filtrado tipo_suelo → excl. leakage → log-target
-#           → target-encoding municipio → OHE tipo_suelo → export
-# Output: data/gold/final_land_scraping.csv  ← sobreescribe en cada ejecución
+# Input:    data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv
+# Pipeline: dedup + outliers (regla fija → IQR×1.5 sobre precio_eur)
+#           → filtrado tipo_suelo (<10 obs.) → excl. leakage (precio_m2, titulo)
+#           → log-target → target-encoding municipio → OHE tipo_suelo → bool→int
+# Output:   data/gold/final_land_scraping.csv  ← sobreescribe en cada ejecución
 
 # PASO T-3: Modelado ML terrenos
 notebooks/06_ML_scraping_land/61_linear_regression.ipynb  # Ridge + Lasso
 notebooks/06_ML_scraping_land/62_random_forest.ipynb      # RF + Extra Trees (Optuna, 40 trials)
 notebooks/06_ML_scraping_land/63_boost.ipynb              # XGBoost (Optuna, 50 trials)
+notebooks/06_ML_scraping_land/64_valoracion_suelo.ipynb   # Aplicación al ámbito (Sector 35, S.C. de Bezana) [Añadido v1.5]
 
 # ─────────────────────────────────────────────────────────────
 # ANÁLISIS PARALELOS (no bloquean el pipeline ML):
@@ -1795,3 +1806,73 @@ params_sale.json + params_rent.json
 Esta arquitectura permite que los experimentos individuales, la consolidación, los artefactos exportados y la aplicación final estén conectados por archivos reales y trazables del repositorio.
 
 *Documento actualizado el 2026-05-13. Versión 1.4 — se conserva el contenido anterior y se añade la documentación de `streamlit_app`, `data/model_results/*`, `models/*`, datasets `streamlit_sale.csv`/`streamlit_rent.csv` y el pipeline coherente entre notebooks de Optuna, consolidación, inferencia y aplicación final.*
+
+---
+
+## 17. Actualización v1.5: valoración de suelo, README de ML, fusión de outliers y opción "Indiferente" en la app
+
+Esta sección añade los cambios incorporados al repositorio entre el 2026-05-13 (HEAD `066e641`, rama `feat/ML_mejorado_y_terrenos`) y el 2026-05-27 (HEAD `4a7f4ef`, rama `feat/mejora_streamlit`). Igual que la sección 16, mantiene intacto el contenido anterior y deja trazable la incorporación.
+
+### 17.1 Nuevo notebook `notebooks/06_ML_scraping_land/64_valoracion_suelo.ipynb`
+
+`64_valoracion_suelo.ipynb` extiende la familia de notebooks de terrenos (61, 62, 63) con la aplicación concreta de los modelos al ámbito objeto del proyecto: el Sector 35 de Santa Cruz de Bezana (9.290 m² brutos).
+
+- Reentrena los cinco modelos definitivos (Ridge, Lasso, Random Forest Optuna, Extra Trees Optuna, XGBoost Optuna) con el mismo split 80/20 y `random_state=42` usado en 61–63, de manera que las métricas comparadas son directamente comparables con las de los notebooks anteriores.
+- Construye una tabla de R² test para los cinco modelos. El rango observado se sitúa en torno a **0,30–0,40**, coherente con un problema location-driven en el que las 7 features disponibles explican una fracción limitada de la variabilidad logarítmica del precio.
+- Define el input del ámbito (municipio = Santa Cruz de Bezana, superficie bruta = 9.290 m², `es_urbano_o_urbanizable`, OHE de `tipo_suelo`) y predice `log_precio` en los escenarios "suelo urbano (solar)" y "suelo urbanizable" cuando este último está soportado por los datos del municipio.
+- Devuelve el valor central del coste de adquisición del suelo y una horquilla de incertidumbre alineada con los R² obtenidos.
+
+| Aspecto | Valor |
+|---|---|
+| Input | `data/gold/final_land_scraping.csv` |
+| Split / random_state | 80/20, `random_state=42` (coherente con 61–63) |
+| Modelos entrenados | Ridge, Lasso, Random Forest (Optuna), Extra Trees (Optuna), XGBoost (Optuna) |
+| Output | Tabla comparativa de R² test + predicción del coste del suelo para el ámbito (escenario solar y, si aplica, urbanizable) |
+| Estado | **Productivo-definitivo** |
+
+### 17.2 Pipeline de terrenos simplificado
+
+El antiguo notebook `notebooks/01_manual_scraping_processing/scraping_land_processing_outliers.ipynb` y su CSV intermedio `data/processed/scraping_manual/total_land_cantabria_outliers.csv` han sido eliminados. Su lógica (regla fija sobre precio/superficie/precio_m², IQR multivariante, regla de negocio > 300.000 €, IQR×1.5 final) se ha integrado dentro de `notebooks/04_transformations/scraping_processed_to_gold.ipynb` como paso 2 del pipeline gold.
+
+Esto deja el flujo de terrenos como:
+
+```text
+data/raw/scraping_manual/raw/scraping_land_raw.csv
+    │
+    ├── notebooks/01_manual_scraping_processing/scraping_land_processing.ipynb
+    │     └── data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv
+    │
+    └── notebooks/04_transformations/scraping_processed_to_gold.ipynb
+          ├── deduplicación + outliers (regla fija, IQR×1.5 sobre precio_eur)
+          ├── filtrado tipo_suelo (<10 obs.)
+          ├── exclusión de leakage (precio_m2, titulo)
+          ├── log-target, target encoding municipio, OHE tipo_suelo, bool→int
+          └── data/gold/final_land_scraping.csv
+                 ├── 61_linear_regression.ipynb
+                 ├── 62_random_forest.ipynb
+                 ├── 63_boost.ipynb
+                 └── 64_valoracion_suelo.ipynb  (aplicación al ámbito)
+```
+
+Impacto sobre la documentación anterior: las referencias en las secciones 3.2, 4.2, 5.2, 6.1, 8.7 y 14.2 a `scraping_land_processing_outliers.ipynb` y a `data/processed/scraping_manual/total_land_cantabria_outliers.csv` han sido actualizadas o marcadas como históricas en línea, sin eliminar el contenido original para preservar la trazabilidad.
+
+### 17.3 Nuevo `notebooks/05_ML/README.md`
+
+Se incorpora un `README.md` dentro de `notebooks/05_ML/` que cataloga los notebooks de la carpeta con una línea de objetivo por notebook (baselines, definitivos, optuna, ensembles híbridos, consolidación, inferencia). No sustituye esta documentación: actúa como índice de lectura rápida dentro de la carpeta de modelado.
+
+### 17.4 Opción "Indiferente" en el selector de planta de `streamlit_app/app.py`
+
+`streamlit_app/app.py` añade `None` como primera opción y valor por defecto del desplegable de Planta cuando la tipología es "Piso". El cambio es estrictamente de comportamiento: no introduce nuevos archivos ni modifica la estructura del repositorio.
+
+- **En la predicción del modelo:** `build_input_row` propaga `planta_num = None` como `NaN` y la imputación final lo sustituye por la mediana de pisos del entrenamiento (planta típica). La interacción `interaccion_planta_sin_ascensor_piso` se mantiene en su mediana cuando `planta_num` o `tiene_ascensor` son `None`. No hay ningún cambio en los modelos entrenados ni en `data/model_results/params_*.json`.
+- **En el listado de inmuebles reales:** `find_local_listings` omite el filtro por planta cuando recibe `planta_num = None`, mostrando todos los inmuebles que cumplen el resto de filtros.
+
+Si el usuario selecciona una planta concreta, tanto la predicción como el filtrado se comportan exactamente como en versiones anteriores. La misma semántica de `PLANTA = None` para piso "indiferente" está disponible en `notebooks/05_ML/55_input_result.ipynb`, donde el bloque de imputación final aplica la mediana de pisos en lugar de la rama NaN-routing aprendida sobre unifamiliares.
+
+### 17.5 Otros cambios sin impacto estructural
+
+- Los artefactos `models/modelo_venta.pkl`, `models/modelo_alquiler.pkl`, `models/modelo_venta.json`, `models/modelo_alquiler.json` y `models/encoders.pkl` han sido regenerados (cambian los pesos/binarios, no las rutas).
+- Múltiples notebooks de `notebooks/05_ML/` (51_*, 52_*, 53_*, 54_*, 55_*) se han reejecutado para refrescar outputs guardados; la lógica y los inputs/outputs documentados no varían.
+- Los datasets `data/processed/idealistaAPI/total_sale_cantabria_outliers.csv` y `total_rent_cantabria_outliers.csv` permanecen como antes.
+
+*Documento actualizado el 2026-05-27. Versión 1.5 — se conserva el contenido de v1.4 y se añade la documentación del notebook `64_valoracion_suelo.ipynb`, el `notebooks/05_ML/README.md`, la fusión del paso de outliers de terrenos en `04_transformations/scraping_processed_to_gold.ipynb` y la nueva opción "Indiferente" del selector de planta en `streamlit_app/app.py`.*
