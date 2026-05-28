@@ -3,7 +3,7 @@
 **Versión:** 1.5
 **Fecha de generación:** 2026-05-27
 **Rama analizada:** `feat/mejora_streamlit` (HEAD observado: `4a7f4ef`)
-**Estado del repositorio:** además del estado descrito en v1.4 (carpeta `streamlit_app`, modelos XGBoost definitivos de venta y alquiler, persistencia de parámetros en `data/model_results/`, artefactos serializados en `models/`, datasets específicos para Streamlit y pipeline ML consolidado), v1.5 incorpora: (a) nuevo notebook `notebooks/06_ML_scraping_land/64_valoracion_suelo.ipynb` que aplica los modelos de terrenos al ámbito del proyecto en Santa Cruz de Bezana, (b) nuevo `notebooks/05_ML/README.md` que cataloga los notebooks de ML, (c) fusión del antiguo `scraping_land_processing_outliers.ipynb` dentro de `04_transformations/scraping_processed_to_gold.ipynb` (con desaparición del CSV intermedio `data/processed/scraping_manual/total_land_cantabria_outliers.csv`), y (d) opción "Indiferente" en el selector de planta de `streamlit_app/app.py` que permite predicciones para piso sin fijar planta concreta
+**Estado del repositorio:** además del estado descrito en v1.4 (carpeta `streamlit_app`, modelos XGBoost definitivos de venta y alquiler, persistencia de parámetros en `data/model_results/`, artefactos serializados en `models/`, datasets específicos para Streamlit y pipeline ML consolidado), v1.5 incorpora: (a) nuevo notebook `notebooks/06_ML_scraping_land/64_valoracion_suelo.ipynb` que aplica los modelos de terrenos al ámbito del proyecto en Santa Cruz de Bezana, (b) nuevo `notebooks/05_ML/README.md` que cataloga los notebooks de ML, (c) fusión del antiguo `scraping_land_processing_outliers.ipynb` dentro de `04_transformations/scraping_processed_to_gold.ipynb` (con desaparición del CSV intermedio `data/processed/scraping_manual/total_land_cantabria_outliers.csv`), (d) opción "Indiferente" en el selector de planta de `streamlit_app/app.py` que permite predicciones para piso sin fijar planta concreta, y (e) **embudo de depuración cuantificado etapa por etapa para M-SALE y M-RENT con cifras medidas empíricamente sobre los CSV reales del repositorio** (§4.3), que sustituye a la descripción aproximada por variable de versiones anteriores y explica el salto 674 → 661 en alquiler
 
 > **Convención de etiquetas utilizadas en este documento:**
 > - `[Verificado]` — observado directamente en archivos, rutas o código fuente.
@@ -18,6 +18,7 @@
 2. [Estructura general del repositorio](#2-estructura-general-del-repositorio)
 3. [Arquitectura funcional por dominios](#3-arquitectura-funcional-por-dominios)
 4. [Flujo completo del dato](#4-flujo-completo-del-dato)
+   - [4.3 Embudo de depuración cuantificado (datasets de viviendas) — añadido v1.5](#43-embudo-de-depuración-cuantificado-datasets-de-viviendas-añadido-v15)
 5. [Capas de datos y semántica de carpetas](#5-capas-de-datos-y-semántica-de-carpetas)
 6. [Notebooks: catálogo y propósito](#6-notebooks-catálogo-y-propósito)
 7. [Código fuente en `src`](#7-código-fuente-en-src)
@@ -307,11 +308,13 @@ graph LR
 - Eliminación de outliers en `notebooks/02_idealista_API_processing/idealistaAPI_processing_outliers.ipynb` — pipeline completo de filtrado (ver detalle abajo) `[Verificado]`
 - Los resultados de todas las ejecuciones se consolidan en `data/processed/idealistaAPI/total_sale_cantabria_outliers.csv` y `total_rent_cantabria_outliers.csv`
 
-**Pipeline de tratamiento de outliers — detalle por mercado** `[Verificado — actualizado v1.3]`
+**Pipeline de tratamiento de outliers — detalle por mercado** `[Superado en v1.5 — ver §4.3]`
+
+> **Nota v1.5 [Verificado midiendo el código fuente y los CSV reales]:** las tablas que siguen describen el filtrado en términos *por variable* (vacacional, suelo, IQR sobre log) y con porcentajes aproximados, lo que no se corresponde con lo que el notebook `idealistaAPI_processing_outliers.ipynb` ejecuta realmente. El notebook aplica **tres etapas secuenciales** (regla fija multi-criterio → IQR×3,0 sobre `price/size/priceByArea` → IQR×1,5 sobre `log(price)`) y, posteriormente, `idealistaAPI_processed_to_gold.ipynb` añade un filtro exacto sobre el `precio_m2` recalculado. Los porcentajes correctos, medidos sobre la cascada real, están en la nueva **§4.3 Embudo de depuración cuantificado**. Se conservan a continuación las tablas anteriores con fines de trazabilidad histórica.
 
 El tratamiento difiere según la familia de modelos y el mercado. En los modelos lineales explorados, el ajuste por mínimos cuadrados es sensible a observaciones extremas, por lo que se aplicó un filtro IQR×1.5 sobre `log_precio` antes de la partición. En los modelos XGBoost definitivos, los árboles son inherentemente robustos a outliers (las particiones dependen del orden relativo, no de la magnitud absoluta), pero se combinan igualmente dos criterios de filtrado para garantizar coherencia con el dominio inmobiliario:
 
-**Alquiler** — tres pasos aplicados en secuencia:
+**Alquiler** — tres pasos aplicados en secuencia: `[Histórico — sustituido por §4.3]`
 
 | Paso | Filtro | Criterio | Filas eliminadas |
 |------|--------|----------|-----------------|
@@ -319,14 +322,14 @@ El tratamiento difiere según la familia de modelos y el mercado. En los modelos
 | 2 | Filtro suelo | `precio_m2 < 6 €/m²/mes` | ~1.7% — garajes, locales mal clasificados o propiedades con precio no de mercado |
 | 3 | IQR×1.5 sobre `log_precio` | Extremos de precio absoluto | ~2.8% — red de seguridad estadística |
 
-**Venta** — dos pasos:
+**Venta** — dos pasos: `[Histórico — sustituido por §4.3]`
 
 | Paso | Filtro | Criterio | Filas eliminadas |
 |------|--------|----------|-----------------|
 | 1 | IQR×1.5 sobre `log_precio` | Extremos de precio absoluto | 0% — la distribución de venta no tiene outliers en precio absoluto |
 | 2 | Suelo coherencia económica | `precio_m2 >= 1000 €/m²` | ~5.6% — ruinas, no residencial, errores de registro; estas propiedades generaban residuos extremos (hasta −1.25) en el Q-Q plot |
 
-> **Nota adicional (gold notebook):** el notebook `idealistaAPI_processed_to_gold.ipynb` aplica también un filtro exacto de `precio_m2` para capturar casos límite del redondeo del campo `priceByArea` de la API de Idealista (diferencias de centésimas de €/m² en el límite del umbral).
+> **Nota adicional (gold notebook):** el notebook `idealistaAPI_processed_to_gold.ipynb` aplica también un filtro exacto de `precio_m2` para capturar casos límite del redondeo del campo `priceByArea` de la API de Idealista (diferencias de centésimas de €/m² en el límite del umbral). **`[Cuantificado en v1.5]`** este filtro elimina exactamente **13 anuncios en alquiler** (precio_m2 ∈ [6, 18] excluye los registros con priceByArea entero al borde del umbral cuyo `price/size` recalculado cae a 5,51–5,99 o 18,06–18,46) y **0 anuncios en venta** (la regla fija del paso 4 del embudo ya bloquea `priceByArea ≥ 1000`). Ver §4.3 para la cascada completa.
 - Limpieza de datos scraping en `notebooks/01_manual_scraping_processing/` (3 notebooks renombrados)
 - Tratamiento de outliers para terrenos centralizado en `notebooks/01_manual_scraping_processing/scraping_land_processing_outliers.ipynb` en cuatro etapas: (1) **Regla fija** — precio, superficie y precio/m² dentro de rangos del mercado cántabro; (2) **IQR×3.0 multivariante** sobre `precio_eur`, `superficie_m2` y `precio_m2`; (3) **Regla de negocio** — eliminación de precios > 300.000 €; (4) **IQR×1.5 sobre `precio_eur`** — ajuste estadístico final. Output: `data/processed/scraping_manual/total_land_cantabria_outliers.csv`. `[Verificado — actualizado en v1.3]`. `[Reorganizado v1.5]`: el notebook `scraping_land_processing_outliers.ipynb` y el CSV intermedio `total_land_cantabria_outliers.csv` ya no existen. El tratamiento de outliers de terrenos se ejecuta ahora dentro de `notebooks/04_transformations/scraping_processed_to_gold.ipynb` (paso 2 del pipeline), que consume directamente `data/raw/scraping_manual/preprocessed/scraping_land_preprocessed.csv` y produce `data/gold/final_land_scraping.csv`.
 
@@ -489,6 +492,95 @@ flowchart TD
 | INE — Censo Viviendas 2021 | Descarga manual del INE | `data/raw/INE/CensoViviendas_2021.csv` | nb `03/analisis_censoviviendas.ipynb` | Sin output en processed `[Verificado]` | TFM MBA (análisis estructural) | `[Verificado]` — análisis descriptivo únicamente |
 | Euribor / tipos | Fichero texto descargado manualmente | `data/raw/euribor_raw.txt` | nb `03/analisis_euribor_tipos.ipynb` | Sin output en processed `[Verificado]` | TFM MBA (contexto macro) | `[Verificado]` — análisis contextual, no integrado en ML |
 
+### 4.3 Embudo de depuración cuantificado (datasets de viviendas) `[Añadido v1.5]`
+
+Esta subsección reconstruye, **etapa por etapa y con cifras medidas empíricamente** sobre el código fuente y los CSV reales del repositorio, el embudo de depuración que va desde la respuesta cruda de la API de Idealista hasta los datasets gold consumidos por los modelos M-SALE y M-RENT. Todas las cifras de las tablas están marcadas como `[Verificado]` porque proceden de conteos en memoria de:
+
+- los JSON crudos en `data/raw/idealistaAPI/raw/<run>/req*.json` (excluyendo `manifest.json` y cualquier `*ERROR*.json`),
+- los CSV intermedios en `data/raw/idealistaAPI/preprocess/`,
+- los CSV procesados en `data/processed/idealistaAPI/`,
+- los CSV gold en `data/gold/`,
+- el código real de los notebooks `idealistaAPI_raw_to_preprocess.ipynb`, `idealistaAPI_processing_outliers.ipynb` y `idealistaAPI_processed_to_gold.ipynb` y del módulo `src/idealistaAPI/processing/clean_idealista.py`.
+
+La medición se realizó **sin modificar ningún dato ni notebook**: el conteo se reprodujo en memoria sobre copias.
+
+#### 4.3.1 Resumen del pipeline
+
+```text
+Bruto API (JSON elementList)
+  → [1] Normalización JSON → CSV por run (1:1 elementList)
+  → [2] Únicos por run (propertyCode)
+  → [3] Consolidación inter-run (dedup por propertyCode + fallback price|size|lat|lon|address)
+        ───────────────────────────────────────────────────────────
+        Resultado: data/raw/idealistaAPI/preprocess/total_{sale,rent}_cantabria.csv
+  → [4] Outliers — regla fija multi-criterio
+  → [5] Outliers — IQR ×3,0 sobre {price, size, priceByArea}
+  → [6] Outliers — IQR ×1,5 sobre log(price)
+        ───────────────────────────────────────────────────────────
+        Resultado: data/processed/idealistaAPI/total_{sale,rent}_cantabria_outliers.csv
+  → [7] Gold — filtro exacto sobre precio_m2 recalculado (= price/size)
+        ───────────────────────────────────────────────────────────
+        Resultado: data/gold/final_{sale,rent}_idealistaAPI.csv
+```
+
+> El notebook `idealistaAPI_data.ipynb` selecciona columnas, renombra y enriquece con POIs, pero **no participa en el pipeline crítico de M-SALE/M-RENT**: produce `*_clean.csv` que no es consumido por `idealistaAPI_processed_to_gold.ipynb` ni por los notebooks de modelado. Se trata como auxiliar (ver §6.1). El enriquecimiento POI real para gold ocurre dentro del propio `idealistaAPI_processed_to_gold.ipynb`.
+
+#### 4.3.2 Embudo M-SALE (compra-venta) `[Verificado]`
+
+| # | Etapa | Filas | Δ | % sobre etapa previa | Localización en el repo |
+|---|---|---:|---:|---:|---|
+| 0 | Bruto API (`elementList` en JSON, sin `manifest.json` ni `*ERROR*`) | **9.497** | — | — | `data/raw/idealistaAPI/raw/sale_homes_run_20260218_173035/` (4.950) + `sale_homes_run_20260331_174125/` (4.547) |
+| 1 | CSV por run tras normalización JSON → CSV | 9.497 | 0 | 0,00 % | `data/raw/idealistaAPI/preprocess/sale_homes_run_*/sale_homes_cantabria_bezana_like_raw.csv` (1:1 con `elementList`) |
+| 2 | Únicos por run (por `propertyCode`) | 3.073 | −6.424 | −67,64 % | 604 únicos (run 1) + 2.469 únicos (run 2). Las repeticiones intra-run vienen del solapamiento de tiles geográficos en las búsquedas paginadas |
+| 3 | **Consolidación inter-run** — dedup por `propertyCode` con fallback `price\|size\|lat\|lon\|address` priorizando los runs más recientes | **2.851** | −222 | −7,22 % | `notebooks/02_idealista_API_processing/idealistaAPI_raw_to_preprocess.ipynb` (celda 13) + `src/idealistaAPI/processing/clean_idealista.py::_build_dedupe_key`. Salida: `total_sales_cantabria.csv` |
+| 4 | Outliers — **Paso 1: regla fija** (`price ∈ [30 000, 2 000 000]` · `size ∈ [15, 600]` · `priceByArea ∈ [1 000, 10 000]` o `NaN`) | 2.607 | −244 | −8,56 % sobre 2.851 | `idealistaAPI_processing_outliers.ipynb` celda 31, paso 1 |
+| 5 | Outliers — **Paso 2: IQR ×3,0** sobre `{price, size, priceByArea}` (univariante, unión de máscaras) | 2.536 | −71 | −2,72 % sobre 2.607 | mismo notebook, celda 31, paso 2 |
+| 6 | Outliers — **Paso 3: IQR ×1,5 sobre `log(price)`** | **2.532** | −4 | −0,16 % sobre 2.536 | mismo notebook, celda 31, paso 3. Salida: `total_sale_cantabria_outliers.csv` |
+| 7 | Gold — filtro exacto `precio_m2 = price / size ≥ 1 000 €/m²` | **2.532** | 0 | 0,00 % | `notebooks/04_transformations/idealistaAPI_processed_to_gold.ipynb` (celda 10). No elimina ningún registro porque el paso 4 ya filtra `priceByArea ≥ 1 000`; queda como red de seguridad frente al redondeo entero del campo `priceByArea` de la API. Salida: `final_sale_idealistaAPI.csv` |
+
+**Cuadre M-SALE:** 2.851 (consolidado) → 2.532 (gold) = **−319 registros, −11,19 % acumulado**. ✓
+
+#### 4.3.3 Embudo M-RENT (alquiler) `[Verificado]`
+
+| # | Etapa | Filas | Δ | % sobre etapa previa | Localización en el repo |
+|---|---|---:|---:|---:|---|
+| 0 | Bruto API (`elementList` en JSON, sin `manifest.json` ni `*ERROR*`) | **8.394** | — | — | `data/raw/idealistaAPI/raw/rent_homes_run_20260220_111903/` (2.365) + `rent_homes_run_20260310_171627/` (3.598) + `rent_homes_run_20260401_135939/` (431) + `rent_homes_run_20260405_140420/` (2.000) |
+| 1 | CSV por run tras normalización JSON → CSV | 3.863 | −4.531 | −53,98 % | Solo el primer run (2.365) conserva la relación 1:1 con `elementList`; en los tres posteriores el normalizador ya consolida internamente, produciendo CSV con 524, 488 y 486 filas |
+| 2 | Únicos por run (por `propertyCode`) | 1.991 | −1.872 | −48,46 % | 493 (run 1) + 524 (run 2) + 488 (run 3) + 486 (run 4) |
+| 3 | **Consolidación inter-run** — dedup por `propertyCode` con fallback `price\|size\|lat\|lon\|address` | **875** | −1.116 | −56,05 % | mismo notebook y módulo que en venta. Salida: `total_rent_cantabria.csv` |
+| 4 | Outliers — **Paso 1: regla fija** (`price ∈ [200, 5 000]` · `size ∈ [15, 400]` · `priceByArea ∈ [6, 18]` o `NaN`) | 729 | −146 | −16,69 % sobre 875 | `idealistaAPI_processing_outliers.ipynb` celda 31, paso 1 |
+| 5 | Outliers — **Paso 2: IQR ×3,0** sobre `{price, size, priceByArea}` | 698 | −31 | −4,25 % sobre 729 | mismo notebook, celda 31, paso 2 |
+| 6 | Outliers — **Paso 3: IQR ×1,5 sobre `log(price)`** | **674** | −24 | −3,44 % sobre 698 | mismo notebook, celda 31, paso 3. Salida: `total_rent_cantabria_outliers.csv` |
+| 7 | Gold — filtro exacto `precio_m2 = price / size ∈ [6, 18] €/m²/mes` | **661** | −13 | −1,93 % sobre 674 | `idealistaAPI_processed_to_gold.ipynb` (celda 10). Los 13 anuncios eliminados tienen `priceByArea` exactamente 6 o 18 (entero redondeado por la API) y un `precio_m2` recalculado de 5,51–5,99 o 18,06–18,46. Salida: `final_rent_idealistaAPI.csv` |
+
+**Cuadre M-RENT:** 875 (consolidado) → 661 (gold) = **−214 registros, −24,46 % acumulado**. ✓
+
+> Los 13 registros caídos en el paso 7 se reparten entre Santander (5), Castro-Urdiales (2), Piélagos (2), Castañeda (1), Torrelavega (1), Cabezón de la Sal (1) y Santurtzi (1).
+
+#### 4.3.4 Cifras finales consolidadas
+
+| Cifra | Valor real `[Verificado]` | Comentario |
+|---|---:|---|
+| Inmuebles únicos consolidados — venta | **2.851** | Coincide con la cifra reportada en la memoria. Origen: `total_sales_cantabria.csv`. |
+| Inmuebles únicos consolidados — alquiler | **875** | Coincide con la cifra reportada en la memoria. Origen: `total_rent_cantabria.csv`. |
+| Observaciones gold — venta (M-SALE) | **2.532** | `data/gold/final_sale_idealistaAPI.csv` |
+| Observaciones gold — alquiler (M-RENT) | **661** | `data/gold/final_rent_idealistaAPI.csv` |
+| Columnas en gold — venta | **70** | `final_sale_idealistaAPI.csv` |
+| Columnas en gold — alquiler | **47** | `final_rent_idealistaAPI.csv` |
+| Features de modelo — M-SALE | **47** = 17 base + 30 dummies de municipio (incluido `municipio_otro`) | `params_sale.json::base_features` (17) + 30 columnas `municipio_*` en gold, todas con ≥10 obs. y por tanto ninguna colapsada adicionalmente por `min_muni_obs = 10` |
+| Features de modelo — M-RENT | **23** = 16 base + 7 dummies de municipio (incluido `municipio_otro`) | `params_rent.json::base_features` (16) + 7 columnas `municipio_*` en gold, todas con ≥10 obs. |
+
+#### 4.3.5 Diferencias respecto a la documentación previa
+
+La documentación anterior (§3.2) describía el filtrado de outliers en términos *por variable* con porcentajes aproximados:
+
+- Alquiler: "vacacional `precio_m2 > 18` ≈ 8,1 % + suelo `precio_m2 < 6` ≈ 1,7 % + IQR×1,5 sobre `log_precio` ≈ 2,8 %".
+- Venta: "IQR×1,5 sobre `log_precio` = 0 % + suelo `precio_m2 < 1.000 €` ≈ 5,6 %".
+
+Esa descripción **no se corresponde con el código real**: el notebook `idealistaAPI_processing_outliers.ipynb` aplica una cascada **secuencial** de tres etapas (regla fija multi-criterio → IQR×3,0 → IQR×1,5 sobre `log(price)`), y el filtro sobre `precio_m2` está en el notebook **siguiente** (`idealistaAPI_processed_to_gold.ipynb`), no en el de outliers. Los porcentajes correctos están en §4.3.2 y §4.3.3 y se calculan **siempre sobre la etapa inmediatamente anterior**, no sobre el consolidado de partida.
+
+Además, la diferencia 674 → 661 en alquiler (no documentada hasta ahora) queda explicada: el paso 7 elimina 13 anuncios cuyo `priceByArea` entero (6 o 18) sobreviviría a la regla fija pero cuyo `precio_m2 = price/size` recalculado cae fuera del intervalo exacto `[6, 18]`. En venta el filtro equivalente (`precio_m2 ≥ 1 000`) elimina 0 registros porque la regla fija del paso 4 ya bloquea `priceByArea ≥ 1 000`.
+
 ---
 
 ## 5. Capas de datos y semántica de carpetas
@@ -645,7 +737,7 @@ flowchart TD
 | Notebook | Objetivo | Inputs | Outputs | Etapa | Tipo |
 |---|---|---|---|---|---|
 | `idealistaAPI_raw_to_preprocess.ipynb` | Orquesta la conversión de JSON a CSV usando `clean_idealista.py` para todas las ejecuciones | `data/raw/idealistaAPI/raw/*/req*.json` | `data/raw/idealistaAPI/preprocess/*/` CSV por run | Ingesta | Productivo |
-| `idealistaAPI_data.ipynb` | Limpieza, validación y unificación de CSVs de todas las ejecuciones (venta + alquiler) | `data/raw/idealistaAPI/preprocess/*/` | Datasets limpios intermedios | Procesamiento | Productivo |
+| `idealistaAPI_data.ipynb` | Selección de columnas útiles, renombrado a español y enriquecimiento con POIs sobre el CSV consolidado de la operación seleccionada (`OPERATION = "rent"` o `"sale"`). Produce `data/processed/idealistaAPI/{rent,sale}_homes_clean.csv`. `[Recategorizado v1.5: AUXILIAR — no participa en el pipeline crítico de M-SALE/M-RENT]` Sus salidas `*_clean.csv` NO son consumidas por `idealistaAPI_processed_to_gold.ipynb`, que opera directamente sobre los CSV producidos por `idealistaAPI_processing_outliers.ipynb` y vuelve a aplicar selección/renombrado y enriquecimiento POI internamente. Ver §4.3.1. | `data/raw/idealistaAPI/preprocess/total_{rent,sales}_cantabria.csv` | `data/processed/idealistaAPI/{rent,sale}_homes_clean.csv` (auxiliar, no consumido por gold) | Procesamiento | **Auxiliar / fuera de ruta crítica** `[Actualizado v1.5]` |
 | `idealistaAPI_processing_outliers.ipynb` | Eliminación de outliers (IQR×1.5 sobre log del precio) y consolidación de todas las runs | Datasets limpios intermedios | `data/processed/idealistaAPI/total_sale_cantabria_outliers.csv`, `total_rent_cantabria_outliers.csv` | Procesamiento | **Productivo-crítico** |
 
 #### `notebooks/03_macro_and_structural_analysis/` — Análisis macro y estructural
@@ -1875,4 +1967,23 @@ Si el usuario selecciona una planta concreta, tanto la predicción como el filtr
 - Múltiples notebooks de `notebooks/05_ML/` (51_*, 52_*, 53_*, 54_*, 55_*) se han reejecutado para refrescar outputs guardados; la lógica y los inputs/outputs documentados no varían.
 - Los datasets `data/processed/idealistaAPI/total_sale_cantabria_outliers.csv` y `total_rent_cantabria_outliers.csv` permanecen como antes.
 
-*Documento actualizado el 2026-05-27. Versión 1.5 — se conserva el contenido de v1.4 y se añade la documentación del notebook `64_valoracion_suelo.ipynb`, el `notebooks/05_ML/README.md`, la fusión del paso de outliers de terrenos en `04_transformations/scraping_processed_to_gold.ipynb` y la nueva opción "Indiferente" del selector de planta en `streamlit_app/app.py`.*
+### 17.6 Embudo de depuración cuantificado para M-SALE y M-RENT
+
+Se incorpora la nueva subsección **§4.3 Embudo de depuración cuantificado** que reconstruye, **etapa por etapa y con cifras medidas empíricamente** sobre los CSV y el código fuente del repositorio, todo el pipeline que va desde los JSON crudos de la API de Idealista hasta los datasets gold de M-SALE y M-RENT. Esta sección sustituye, para uso de la memoria del TFM, a la descripción aproximada por variable de §3.2 (que se mantiene como histórico) y aporta cifras directamente citables.
+
+**Cifras clave verificadas** `[Verificado midiendo CSV reales en memoria]`:
+
+- Inmuebles únicos consolidados (tras dedup inter-run por `propertyCode` con fallback `price|size|lat|lon|address`): **2.851** en venta y **875** en alquiler. Ambas coinciden con las cifras reportadas en la memoria.
+- Datasets gold finales: **2.532** observaciones para M-SALE y **661** para M-RENT.
+- Pipeline real de outliers (`idealistaAPI_processing_outliers.ipynb`): cascada **secuencial** de tres etapas — regla fija multi-criterio (`price`/`size`/`priceByArea` con umbrales de dominio) → IQR ×3,0 univariante sobre `{price, size, priceByArea}` → IQR ×1,5 sobre `log(price)`. NO son filtros por variable independientes como sugería §3.2.
+- Filtro adicional gold-level (`idealistaAPI_processed_to_gold.ipynb` celda 10) sobre el `precio_m2` recalculado: en alquiler elimina **exactamente 13 registros** (los que tienen `priceByArea` entero al borde del umbral cuyo `price/size` recalculado cae fuera del intervalo exacto `[6, 18]`), en venta elimina **0** (la regla fija ya bloquea `priceByArea ≥ 1 000`). Esto explica el salto 674 → 661 en alquiler que hasta v1.4 no estaba documentado.
+- Conteo de features de modelo confirmado: **47 features** en M-SALE (17 base + 30 dummies de municipio, incluido `municipio_otro`) y **23 features** en M-RENT (16 base + 7 dummies de municipio, incluido `municipio_otro`).
+
+**Cambios derivados en otras secciones**:
+
+- §3.2: las dos tablas previas ("Alquiler — tres pasos en secuencia" y "Venta — dos pasos") quedan marcadas como `[Histórico — sustituido por §4.3]` con una nota que advierte explícitamente que no se corresponden con lo que ejecuta el código real. Se conservan para preservar la trazabilidad.
+- §6.1: el notebook `idealistaAPI_data.ipynb` queda **recategorizado como auxiliar / fuera de ruta crítica**, porque produce `*_clean.csv` que no son consumidos por `idealistaAPI_processed_to_gold.ipynb`. La selección de columnas y el enriquecimiento POI usados realmente para gold ocurren dentro del propio notebook gold.
+
+**Cómo citar en la memoria del TFM**: la tabla 4.3.2 (M-SALE) y la tabla 4.3.3 (M-RENT) son autocontenidas y pueden incluirse directamente; cada fila indica entrada, salida, criterio aplicado, fichero/celda del repositorio que la implementa, y porcentaje calculado siempre sobre la etapa inmediatamente anterior. La tabla 4.3.4 condensa las cifras finales (inmuebles únicos, gold, columnas, features de modelo). El bloque 4.3.5 documenta las diferencias respecto a la descripción anterior y deja constancia de por qué las cifras citadas en versiones tempranas de la memoria no cuadraban con la suma de los filtros antiguos.
+
+*Documento actualizado el 2026-05-27. Versión 1.5 — se conserva el contenido de v1.4 y se añade la documentación del notebook `64_valoracion_suelo.ipynb`, el `notebooks/05_ML/README.md`, la fusión del paso de outliers de terrenos en `04_transformations/scraping_processed_to_gold.ipynb`, la nueva opción "Indiferente" del selector de planta en `streamlit_app/app.py`, la nueva §4.3 con el embudo de depuración cuantificado de M-SALE y M-RENT, la recategorización de `idealistaAPI_data.ipynb` como auxiliar y la marca de §3.2 como descripción histórica superada por §4.3.*
