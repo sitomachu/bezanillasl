@@ -1,4 +1,4 @@
-﻿# BezanillaSL: Real Estate Analytics & Business Feasibility
+# BezanillaSL: Real Estate Analytics & Business Feasibility
 
 Este repositorio contiene el desarrollo técnico y estratégico derivado del estudio conjunto de dos Trabajos de Fin de Máster (TFM) para los programas de **MBA Tech** y **Master en Business Analytics**. El proyecto integra el análisis de viabilidad económica de un desarrollo inmobiliario en Cantabria, España, con modelos de analítica de datos para la predicción de precios de suelo y rentas.
 
@@ -10,104 +10,135 @@ El objetivo central es validar la factibilidad de una empresa patrimonial famili
 **Pablo (Technical Collaborator & Theoretical Lead)**: Responsable de la fundamentación teórica, elaboración del plan de negocio, proyecciones financieras de viabilidad y análisis estratégico de mercado.
 
 ## 3. Estructura del Repositorio
-La arquitectura del proyecto organiza la información desde la ingesta de fuentes oficiales hasta el modelado predictivo:
 
 ```text
+BezanillaSL/
 ├── data/
-│   ├── raw/                    # Datos originales sin procesar (incluye idealistaAPI).
-│   └── processed/              # Datos procesados (incluye idealistaAPI y geo).
-│   └── mivau/                  # Datasets del Ministerio de Vivienda y Agenda Urbana.
-│       ├── datos_alquiler/     # Sistema de Referencia del Precio del Alquiler (SERPAVI).
-│       ├── datos_suelo/        # Estadísticas de precios de suelo urbano.
-│       └── datos_vivienda/     # Estimación del parque de viviendas.
-├── notebooks/                  # Cuadernos de exploración/procesamiento (ver notebooks/README.md).
+│   ├── raw/                    # Datos originales sin procesar
+│   │   ├── idealistaAPI/       # JSON por run de API + CSVs preprocesados por run
+│   │   ├── scraping_manual/    # CSVs obtenidos por scraping manual (venta, alquiler, terrenos)
+│   │   ├── MIVAU/              # Ministerio de Vivienda: SERPAVI, suelo, parque de viviendas
+│   │   ├── INE/                # Censo de Viviendas 2021
+│   │   └── euribor_raw.txt     # Serie histórica del Euribor
+│   ├── processed/              # Datos limpios y normalizados
+│   │   ├── idealistaAPI/       # Totales unificados de todas las runs, sin outliers
+│   │   ├── scraping_manual/    # Terrenos scraping sin outliers
+│   │   └── geo/                # POIs descargados de OpenStreetMap
+│   ├── gold/                   # Datasets finales listos para ML y para la app Streamlit
+│   └── model_results/          # Parámetros, hiperparámetros y métricas de los modelos XGBoost
+├── notebooks/                  # Cuadernos de análisis por fase (ver notebooks/README.md)
 │   ├── 01_manual_scraping_processing/
 │   ├── 02_idealista_API_processing/
-│   └── 03_macro_and_structural_analysis/
-├── src/                        # Código fuente del proyecto (scripts de limpieza y modelado).
-│   ├── idealistaAPI/           # Módulo de ingesta y procesamiento vía API Idealista.
-│   └── geospatial_expansion/   # Módulo de distancias a POIs (playa, colegio, supermercado, etc.).
-├── requirements.txt            # Instalacion completa para trabajo local.
-└── README.md                   # Documentación principal del proyecto.
+│   ├── 03_macro_and_structural_analysis/
+│   ├── 04_transformations/
+│   ├── 05_ML/
+│   └── 06_ML_scraping_land/
+├── src/                        # Código fuente de producción
+│   ├── idealistaAPI/           # Módulo de ingesta y procesamiento vía API Idealista
+│   └── geospatial_expansion/   # Módulo de distancias a POIs (playa, colegio, supermercado, etc.)
+├── models/                     # Modelos XGBoost serializados (.pkl y .json) + encoders
+├── streamlit_app/              # Aplicación web de predicción y comparación de precios
+├── docs/                       # Documentación técnica: estructura del repo, modelos ML, diagramas
+├── excel/                      # Modelos económicos de viabilidad (Excel)
+├── requirements.txt
+└── README.md
 ```
 
-## 4. Módulo Idealista API
-El repositorio incluye un módulo específico para descargar y preparar datos de Idealista, ubicado en `src/idealistaAPI`.
+## 4. Pipeline de datos
+
+El flujo de datos sigue una arquitectura de capas:
+
+```
+raw → processed → gold → ML (modelos) → streamlit_app
+```
+
+1. **Ingesta** — API Idealista (`src/idealistaAPI`) o scraping manual → `data/raw/`
+2. **Normalización y outliers** — notebooks `01_*` y `02_*` → `data/processed/`
+3. **Feature engineering** — notebooks `04_transformations/` → `data/gold/`
+4. **Modelado** — notebooks `05_ML/` y `06_ML_scraping_land/` → `models/` + `data/model_results/`
+5. **Explotación** — `streamlit_app/app.py` sirve predicciones desde los modelos serializados
+
+## 5. Módulo Idealista API
+
+Módulo en `src/idealistaAPI` para descargar y preparar datos de Idealista con autenticación OAuth2.
 
 Flujos principales:
 1. Descarga de datos de venta o alquiler con autenticación OAuth.
-2. Almacenamiento de respuestas crudas en `data/raw/idealistaAPI/...`.
-3. Limpieza manual desde notebook de `data/raw/idealistaAPI/raw/...` a `data/raw/idealistaAPI/preprocess/...`.
-4. Procesamiento analítico posterior en `data/processed/idealistaAPI/...`.
+2. Almacenamiento de respuestas crudas en `data/raw/idealistaAPI/raw/<run>/`.
+3. Conversión JSON → CSV desde el notebook `idealistaAPI_raw_to_preprocess.ipynb`.
+4. Procesamiento analítico posterior en `data/processed/idealistaAPI/`.
 
 Guías y uso:
 - Documentación del módulo: `src/idealistaAPI/README.md`
 - Guía operativa: `src/idealistaAPI/idealista_API_userguide.md`
 
-## Entorno Python recomendado
+## 6. Módulo de Expansión Geoespacial
 
-La forma mas estandarizada de trabajar este repositorio es con un entorno virtual local en `.venv` creado desde la raiz del proyecto.
+Módulo en `src/geospatial_expansion` para enriquecer datasets con distancia mínima al POI más cercano por categoría (playa, supermercado, colegio, etc.) usando OpenStreetMap (`osmnx`).
 
-Crear el entorno si no existe:
+Paso 1: descargar POIs (una sola vez)
+```bash
+python -m src.geospatial_expansion.run_descargar_pois
+```
+
+Paso 2: enriquecer dataset desde notebook/Python:
+```python
+from src.geospatial_expansion import agregar_distancias_minimas_poi
+df_out = agregar_distancias_minimas_poi(df, ["playa", "supermercado"])
+```
+
+Guías y uso:
+- Documentación del módulo: `src/geospatial_expansion/README.md`
+- Guía operativa: `src/geospatial_expansion/geospatial_expansion_userguide.md`
+
+## 7. Aplicación Streamlit
+
+Aplicación web de estimación interactiva de precios de venta y alquiler, visualización de propiedades reales en mapa y comparación con el precio estimado.
 
 ```bash
+streamlit run streamlit_app/app.py
+```
+
+Usa los modelos serializados en `models/` y los datasets gold en `data/gold/streamlit_sale.csv` y `data/gold/streamlit_rent.csv`.
+
+## 8. Documentación técnica
+
+- `docs/estructura_completa_repositorio.md` — arquitectura completa del repositorio, catálogo de notebooks, flujo de datos y deuda técnica
+- `docs/ML_MODELS_DOCUMENTATION.md` — especificación de modelos: targets, features, datasets y métricas
+- `docs/modelos_regresion_lineal.md` — análisis de modelos OLS, Ridge y Lasso
+- `docs/modelos_bagging_random_forest.md` — análisis de Random Forest y Extra Trees
+- `docs/modelos_boosting.md` — análisis de XGBoost, GBR y AdaBoost
+
+## 9. Entorno Python recomendado
+
+Crear y activar el entorno virtual desde la raíz del proyecto:
+
+```bash
+# Crear (si no existe)
 python3 -m venv .venv
-```
 
-Activarlo en macOS / Linux:
-
-```bash
+# Activar en macOS / Linux
 source .venv/bin/activate
-```
 
-Activarlo en Windows PowerShell:
-
-```powershell
+# Activar en Windows PowerShell
 .venv\Scripts\Activate.ps1
 ```
 
-Actualizar herramientas base de `pip` dentro del entorno:
+Actualizar herramientas base:
 
 ```bash
 python -m pip install --upgrade pip setuptools wheel
 ```
 
-Instalacion completa para desarrollo local y notebooks:
+Instalar todas las dependencias:
 
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-Instalaciones mas acotadas:
-
-- Instalar todo desde la raiz: `python -m pip install -r requirements.txt`
-
-Comprobar si el entorno virtual esta activo:
+Verificar que el entorno está activo:
 
 ```bash
-which python
+which python   # macOS/Linux
 python -V
-```
-
-Si el entorno ya existe, solo hay que reactivarlo con el comando de activacion correspondiente.
-
-## 5. Módulo de Expansión Geoespacial
-El repositorio incluye `src/geospatial_expansion` para enriquecer datasets de venta/alquiler con distancia mínima al punto de interés más cercano por categoría (playa, supermercado, colegio, etc.) usando OpenStreetMap (`osmnx`).
-
-Entradas:
-- CSV objetivo con coordenadas (`latitude`/`longitude` o columnas equivalentes).
-
-Salida:
-- DataFrame enriquecido con columnas como `distancia_min_playa_km`.
-
-Paso 1: descargar POIs (config en `run_descargar_pois.py`)
-```bash
-python -m src.geospatial_expansion.run_descargar_pois
-```
-La descarga usa circulos geograficos fijos definidos en `DEFAULT_CIRCLES`.
-
-Paso 2: expandir dataset desde notebook/Python:
-```python
-from src.geospatial_expansion import agregar_distancias_minimas_poi
-df_out = agregar_distancias_minimas_poi(df, ["playa", "supermercado"])
 ```

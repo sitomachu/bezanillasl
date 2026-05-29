@@ -9,11 +9,12 @@ ehthumbs.db
 Desktop.ini
 ~$*
 
-# --- Visual Studio Code ---
+# --- IDE & AI Tooling ---
 .vscode/
 .history/
 *.code-workspace
 .codex
+.claude/
 
 # --- Python Cache & Bytecode ---
 __pycache__/
