@@ -673,9 +673,8 @@ def find_local_listings(
         garage_col = _first_listing_col(filtered, ["tiene_garaje", "parkingSpace.hasParkingSpace"])
         filtered = _strict_bool_filter(filtered, garage_col, True)
 
-    if obra_nueva:
-        new_build_col = _first_listing_col(filtered, ["obra_nueva", "newDevelopment"])
-        filtered = _strict_bool_filter(filtered, new_build_col, True)
+    new_build_col = _first_listing_col(filtered, ["obra_nueva", "newDevelopment"])
+    filtered = _strict_bool_filter(filtered, new_build_col, obra_nueva)
 
     if filtered.empty:
         return []
